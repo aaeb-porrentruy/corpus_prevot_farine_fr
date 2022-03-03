@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-03-03T16:39:28.487+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3743" WIDTH="2754">
+         <TopMargin HEIGHT="0" WIDTH="2754" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3743" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3743" WIDTH="0" VPOS="0" HPOS="2754"/>
+         <BottomMargin HEIGHT="0" WIDTH="2754" VPOS="3743" HPOS="0"/>
+         <PrintSpace HEIGHT="3743" WIDTH="2754" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="150" WIDTH="15" VPOS="3557" HPOS="48">
+               <Shape>
+                  <Polygon POINTS="48,3557 48,3707 63,3707 63,3557"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="r2" HEIGHT="187" WIDTH="249" VPOS="361" HPOS="432">
+               <Shape>
+                  <Polygon POINTS="432,361 432,548 681,548 681,361"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="432,498 459,493 487,489 515,484 542,480 570,475 598,471 625,468 653,464 681,461"
+                         HEIGHT="187"
+                         WIDTH="249"
+                         VPOS="361"
+                         HPOS="432">
+                  <String ID="string_r2l1"
+                          HEIGHT="187"
+                          WIDTH="249"
+                          VPOS="361"
+                          HPOS="432"
+                          CONTENT="p droit "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r3" HEIGHT="2948" WIDTH="1794" VPOS="245" HPOS="699">
+               <Shape>
+                  <Polygon POINTS="699,245 699,3193 2493,3193 2493,245"/>
+               </Shape>
+               <TextLine ID="r3l1"
+                         BASELINE="726,285 808,287 891,290 973,291 1056,294 1139,295 1221,297 1304,298 1387,299 1469,300 1552,302 1635,303 1717,303 1800,305 1883,306 1965,308 2048,310 2131,312 2213,315 2296,318 2379,320"
+                         HEIGHT="95"
+                         WIDTH="1653"
+                         VPOS="245"
+                         HPOS="726">
+                  <String ID="string_r3l1"
+                          HEIGHT="95"
+                          WIDTH="1653"
+                          VPOS="245"
+                          HPOS="726"
+                          CONTENT="Agatte lavoit engenauche. Dont de telles "/>
+               </TextLine>
+               <TextLine ID="r3l2"
+                         BASELINE="777,372 862,375 948,379 1034,381 1120,383 1206,384 1291,386 1377,387 1463,387 1549,389 1635,389 1720,389 1806,390 1892,390 1978,390 2064,392 2149,393 2235,395 2321,396 2407,399 2493,401"
+                         HEIGHT="89"
+                         WIDTH="1716"
+                         VPOS="332"
+                         HPOS="777">
+                  <String ID="string_r3l2"
+                          HEIGHT="89"
+                          WIDTH="1716"
+                          VPOS="332"
+                          HPOS="777"
+                          CONTENT="Injures elle ne sen est jamais volsus venger "/>
+               </TextLine>
+               <TextLine ID="r3l3"
+                         BASELINE="746,462 829,459 912,459 995,458 1078,458 1161,459 1244,460 1327,461 1410,464 1493,465 1577,468 1660,470 1743,473 1826,476 1909,477 1992,480 2075,483 2158,485 2241,486 2325,488"
+                         HEIGHT="90"
+                         WIDTH="1579"
+                         VPOS="418"
+                         HPOS="746">
+                  <String ID="string_r3l3"
+                          HEIGHT="90"
+                          WIDTH="1579"
+                          VPOS="418"
+                          HPOS="746"
+                          CONTENT="Et a bien tousjour ouys depuis reputer lad "/>
+               </TextLine>
+               <TextLine ID="r3l4"
+                         BASELINE="740,548 783,548 826,548 869,548 913,548 956,548 999,548 1042,548 1086,548 1129,548 1172,548 1215,548 1259,548 1302,548 1345,548 1388,548 1432,549 1475,549 1518,549 1561,549 1605,551"
+                         HEIGHT="63"
+                         WIDTH="865"
+                         VPOS="508"
+                         HPOS="740">
+                  <String ID="string_r3l4"
+                          HEIGHT="63"
+                          WIDTH="865"
+                          VPOS="508"
+                          HPOS="740"
+                          CONTENT="Agatte estre genauche. "/>
+               </TextLine>
+               <TextLine ID="r3l5"
+                         BASELINE="774,680 857,678 940,678 1023,677 1106,675 1189,675 1272,674 1355,673 1438,672 1521,671 1605,671 1688,671 1771,669 1854,669 1937,669 2020,669 2103,669 2186,669 2269,671 2352,671 2436,672"
+                         HEIGHT="71"
+                         WIDTH="1662"
+                         VPOS="629"
+                         HPOS="774">
+                  <String ID="string_r3l5"
+                          HEIGHT="71"
+                          WIDTH="1662"
+                          VPOS="629"
+                          HPOS="774"
+                          CONTENT="Dit que hier pour le jour estant au moulin dud "/>
+               </TextLine>
+               <TextLine ID="r3l6"
+                         BASELINE="767,776 845,771 924,768 1002,767 1081,765 1160,764 1238,764 1317,764 1395,764 1474,764 1553,765 1631,765 1710,767 1788,767 1867,767 1946,767 2024,767 2103,767 2181,765 2260,764 2339,762"
+                         HEIGHT="72"
+                         WIDTH="1572"
+                         VPOS="723"
+                         HPOS="767">
+                  <String ID="string_r3l6"
+                          HEIGHT="72"
+                          WIDTH="1572"
+                          VPOS="723"
+                          HPOS="767"
+                          CONTENT="Beurnevesain, icellui henri vouelin dit en "/>
+               </TextLine>
+               <TextLine ID="r3l7"
+                         BASELINE="777,855 859,857 941,857 1023,858 1105,858 1188,860 1270,860 1352,860 1434,861 1516,861 1599,861 1681,861 1763,861 1845,861 1927,861 2010,861 2092,863 2174,863 2256,863 2338,863 2421,863"
+                         HEIGHT="68"
+                         WIDTH="1644"
+                         VPOS="815"
+                         HPOS="777">
+                  <String ID="string_r3l7"
+                          HEIGHT="68"
+                          WIDTH="1644"
+                          VPOS="815"
+                          HPOS="777"
+                          CONTENT="pntce de plusrs quil en feroit a repentir ses"/>
+               </TextLine>
+               <TextLine ID="r3l8"
+                         BASELINE="786,953 840,954 894,954 949,956 1003,956 1058,957 1112,957 1167,957 1221,959 1276,959 1330,959 1384,959 1439,960 1493,960 1548,960 1602,960 1657,960 1711,960 1766,960 1820,960 1875,960"
+                         HEIGHT="67"
+                         WIDTH="1089"
+                         VPOS="913"
+                         HPOS="786">
+                  <String ID="string_r3l8"
+                          HEIGHT="67"
+                          WIDTH="1089"
+                          VPOS="913"
+                          HPOS="786"
+                          CONTENT="freres et quil les tueroit. "/>
+               </TextLine>
+               <TextLine ID="r3l9"
+                         BASELINE="800,1179 886,1182 972,1185 1058,1185 1145,1187 1231,1187 1317,1187 1403,1185 1490,1185 1576,1184 1662,1184 1748,1182 1835,1182 1921,1184 2007,1185 2093,1188 2180,1191 2266,1195 2352,1201 2439,1209"
+                         HEIGHT="84"
+                         WIDTH="1639"
+                         VPOS="1143"
+                         HPOS="800">
+                  <String ID="string_r3l9"
+                          HEIGHT="84"
+                          WIDTH="1639"
+                          VPOS="1143"
+                          HPOS="800"
+                          CONTENT="Petremand mahon par serement depose Que "/>
+               </TextLine>
+               <TextLine ID="r3l10"
+                         BASELINE="792,1251 876,1254 961,1256 1046,1257 1130,1259 1215,1259 1300,1260 1384,1260 1469,1260 1554,1260 1639,1260 1723,1259 1808,1260 1893,1260 1977,1260 2062,1262 2147,1263 2231,1265 2316,1267 2401,1271 2486,1274"
+                         HEIGHT="77"
+                         WIDTH="1694"
+                         VPOS="1215"
+                         HPOS="792">
+                  <String ID="string_r3l10"
+                          HEIGHT="77"
+                          WIDTH="1694"
+                          VPOS="1215"
+                          HPOS="792"
+                          CONTENT="par devant le une grande ptie de la Comunaulte "/>
+               </TextLine>
+               <TextLine ID="r3l11"
+                         BASELINE="783,1335 867,1340 952,1344 1036,1346 1121,1349 1205,1350 1290,1350 1374,1350 1459,1352 1543,1351 1628,1350 1713,1350 1797,1350 1882,1350 1966,1350 2051,1350 2135,1352 2220,1353 2304,1355 2389,1359 2474,1362"
+                         HEIGHT="87"
+                         WIDTH="1691"
+                         VPOS="1295"
+                         HPOS="783">
+                  <String ID="string_r3l11"
+                          HEIGHT="87"
+                          WIDTH="1691"
+                          VPOS="1295"
+                          HPOS="783"
+                          CONTENT="Que hue led henri dit et se declaira quil "/>
+               </TextLine>
+               <TextLine ID="r3l12"
+                         BASELINE="789,1428 870,1430 951,1432 1032,1434 1113,1435 1194,1436 1275,1437 1356,1438 1437,1439 1518,1439 1599,1440 1680,1440 1761,1440 1842,1440 1923,1440 2004,1440 2085,1440 2166,1440 2247,1440 2328,1442 2409,1442"
+                         HEIGHT="74"
+                         WIDTH="1620"
+                         VPOS="1388"
+                         HPOS="789">
+                  <String ID="string_r3l12"
+                          HEIGHT="74"
+                          WIDTH="1620"
+                          VPOS="1388"
+                          HPOS="789"
+                          CONTENT="se vouloit descharger de ce que sa femme "/>
+               </TextLine>
+               <TextLine ID="r3l13"
+                         BASELINE="798,1515 879,1517 960,1520 1042,1520 1123,1521 1205,1523 1286,1523 1368,1523 1449,1523 1531,1523 1612,1523 1693,1523 1775,1523 1856,1523 1938,1523 2019,1524 2101,1524 2182,1524 2264,1526 2345,1527 2427,1529"
+                         HEIGHT="74"
+                         WIDTH="1629"
+                         VPOS="1475"
+                         HPOS="798">
+                  <String ID="string_r3l13"
+                          HEIGHT="74"
+                          WIDTH="1629"
+                          VPOS="1475"
+                          HPOS="798"
+                          CONTENT="se declairoit quelle vouloit mectre le feu "/>
+               </TextLine>
+               <TextLine ID="r3l14"
+                         BASELINE="786,1598 870,1601 954,1602 1038,1604 1123,1605 1207,1605 1291,1605 1376,1605 1460,1605 1544,1605 1629,1605 1713,1605 1797,1605 1881,1605 1966,1605 2050,1607 2134,1608 2219,1610 2303,1611 2387,1614 2472,1619"
+                         HEIGHT="81"
+                         WIDTH="1686"
+                         VPOS="1558"
+                         HPOS="786">
+                  <String ID="string_r3l14"
+                          HEIGHT="81"
+                          WIDTH="1686"
+                          VPOS="1558"
+                          HPOS="786"
+                          CONTENT="en la maison des ses freres Et q elle sestoit "/>
+               </TextLine>
+               <TextLine ID="r3l15"
+                         BASELINE="771,1689 852,1692 933,1694 1014,1697 1096,1698 1177,1700 1258,1700 1340,1701 1421,1701 1502,1701 1584,1701 1665,1701 1746,1701 1827,1701 1909,1701 1990,1703 2071,1703 2153,1704 2234,1706 2315,1707 2397,1710"
+                         HEIGHT="55"
+                         WIDTH="1626"
+                         VPOS="1666"
+                         HPOS="771">
+                  <String ID="string_r3l15"
+                          HEIGHT="55"
+                          WIDTH="1626"
+                          VPOS="1666"
+                          HPOS="771"
+                          CONTENT="volsus relever pour mectre en execution tel "/>
+               </TextLine>
+               <TextLine ID="r3l16"
+                         BASELINE="1458,1745 1502,1749"
+                         HEIGHT="37"
+                         WIDTH="149"
+                         VPOS="1712"
+                         HPOS="1399">
+                  <String ID="string_r3l16"
+                          HEIGHT="37"
+                          WIDTH="149"
+                          VPOS="1712"
+                          HPOS="1399"
+                          CONTENT="luy "/>
+               </TextLine>
+               <TextLine ID="r3l17"
+                         BASELINE="807,1790 888,1790 969,1790 1051,1788 1132,1788 1214,1788 1295,1788 1377,1788 1458,1788 1540,1788 1621,1790 1702,1790 1784,1791 1865,1793 1947,1794 2028,1797 2110,1800 2191,1803 2273,1806 2354,1809 2436,1814"
+                         HEIGHT="57"
+                         WIDTH="1629"
+                         VPOS="1767"
+                         HPOS="807">
+                  <String ID="string_r3l17"
+                          HEIGHT="57"
+                          WIDTH="1629"
+                          VPOS="1767"
+                          HPOS="807"
+                          CONTENT="fait mais q lavoit lavoit empeiche Et "/>
+               </TextLine>
+               <TextLine ID="r3l18"
+                         BASELINE="749,1890 827,1887 905,1886 983,1884 1061,1883 1139,1883 1217,1883 1295,1883 1373,1883 1451,1884 1529,1886 1607,1887 1685,1890 1763,1892 1841,1895 1919,1896 1997,1899 2075,1902 2153,1906 2231,1908 2309,1911"
+                         HEIGHT="88"
+                         WIDTH="1560"
+                         VPOS="1843"
+                         HPOS="749">
+                  <String ID="string_r3l18"
+                          HEIGHT="88"
+                          WIDTH="1560"
+                          VPOS="1843"
+                          HPOS="749"
+                          CONTENT="que surce elle avoit dit que ce "/>
+               </TextLine>
+               <TextLine ID="r3l19"
+                         BASELINE="774,1971 856,1968 939,1967 1021,1967 1104,1967 1187,1967 1269,1968 1352,1970 1434,1971 1517,1974 1600,1976 1682,1979 1765,1982 1847,1984 1930,1986 2013,1989 2095,1992 2178,1994 2260,1997 2343,1998 2426,2000"
+                         HEIGHT="93"
+                         WIDTH="1652"
+                         VPOS="1927"
+                         HPOS="774">
+                  <String ID="string_r3l19"
+                          HEIGHT="93"
+                          WIDTH="1652"
+                          VPOS="1927"
+                          HPOS="774"
+                          CONTENT="sy cela ne se faisoit pour lors quelle "/>
+               </TextLine>
+               <TextLine ID="r3l21"
+                         BASELINE="779,2079 856,2077 933,2075 1011,2075 1088,2073 1166,2073 1243,2073 1320,2073 1398,2075 1475,2075 1553,2076 1630,2078 1707,2079 1785,2081 1862,2082 1940,2084 2017,2085 2094,2087 2172,2088 2249,2088 2327,2090"
+                         HEIGHT="77"
+                         WIDTH="1548"
+                         VPOS="2033"
+                         HPOS="779">
+                  <String ID="string_r3l21"
+                          HEIGHT="77"
+                          WIDTH="1548"
+                          VPOS="2033"
+                          HPOS="779"
+                          CONTENT="le feroit une aultre fois dont de ce "/>
+               </TextLine>
+               <TextLine ID="r3l22"
+                         BASELINE="765,2168 819,2168 874,2169 929,2169 984,2169 1039,2169 1094,2171 1148,2171 1203,2171 1258,2172 1313,2173 1368,2174 1423,2175 1478,2177 1532,2178 1587,2180 1642,2181 1697,2183 1752,2186 1807,2187 1862,2190"
+                         HEIGHT="82"
+                         WIDTH="1097"
+                         VPOS="2128"
+                         HPOS="765">
+                  <String ID="string_r3l22"
+                          HEIGHT="82"
+                          WIDTH="1097"
+                          VPOS="2128"
+                          HPOS="765"
+                          CONTENT="se vouloit avoir descharge. "/>
+               </TextLine>
+               <TextLine ID="r3l23"
+                         BASELINE="743,2301 825,2303 908,2304 991,2306 1074,2310 1157,2315 1240,2320 1322,2326 1405,2332 1488,2338 1571,2344 1654,2350 1737,2356 1820,2361 1902,2366 1985,2370 2068,2372 2151,2374 2234,2375 2317,2373 2400,2372"
+                         HEIGHT="132"
+                         WIDTH="1657"
+                         VPOS="2262"
+                         HPOS="743">
+                  <String ID="string_r3l23"
+                          HEIGHT="132"
+                          WIDTH="1657"
+                          VPOS="2262"
+                          HPOS="743"
+                          CONTENT="Depose en oultre que sont bien vingt ans q la "/>
+               </TextLine>
+               <TextLine ID="r3l24"
+                         BASELINE="789,2393 866,2391 943,2393 1020,2394 1098,2397 1175,2400 1252,2403 1329,2408 1407,2412 1484,2418 1561,2423 1638,2428 1716,2433 1793,2439 1870,2443 1947,2448 2025,2452 2102,2455 2179,2458 2256,2460 2334,2460"
+                         HEIGHT="127"
+                         WIDTH="1545"
+                         VPOS="2352"
+                         HPOS="789">
+                  <String ID="string_r3l24"
+                          HEIGHT="127"
+                          WIDTH="1545"
+                          VPOS="2352"
+                          HPOS="789"
+                          CONTENT="Comunaulte de Beurnevesain avoyent "/>
+               </TextLine>
+               <TextLine ID="r3l25"
+                         BASELINE="797,2484 880,2481 963,2481 1046,2483 1129,2484 1212,2487 1295,2490 1378,2495 1461,2499 1544,2504 1628,2508 1711,2513 1794,2518 1877,2522 1960,2526 2043,2530 2126,2532 2209,2535 2292,2535 2376,2535"
+                         HEIGHT="112"
+                         WIDTH="1579"
+                         VPOS="2442"
+                         HPOS="797">
+                  <String ID="string_r3l25"
+                          HEIGHT="112"
+                          WIDTH="1579"
+                          VPOS="2442"
+                          HPOS="797"
+                          CONTENT="ung bergier de Faverois que les servit "/>
+               </TextLine>
+               <TextLine ID="r3l26"
+                         BASELINE="764,2585 843,2585 923,2586 1002,2587 1082,2588 1161,2590 1241,2592 1320,2594 1400,2597 1479,2600 1559,2601 1638,2604 1718,2607 1797,2610 1877,2613 1956,2616 2036,2618 2115,2621 2195,2622 2274,2625 2354,2627"
+                         HEIGHT="102"
+                         WIDTH="1590"
+                         VPOS="2545"
+                         HPOS="764">
+                  <String ID="string_r3l26"
+                          HEIGHT="102"
+                          WIDTH="1590"
+                          VPOS="2545"
+                          HPOS="764"
+                          CONTENT="trois ans lequel nest disoit que lad "/>
+               </TextLine>
+               <TextLine ID="r3l27"
+                         BASELINE="791,2676 867,2678 944,2681 1021,2682 1098,2685 1175,2687 1252,2689 1328,2691 1405,2694 1482,2697 1559,2699 1636,2701 1713,2703 1790,2706 1866,2708 1943,2710 2020,2712 2097,2715 2174,2717 2251,2720 2328,2721"
+                         HEIGHT="102"
+                         WIDTH="1537"
+                         VPOS="2638"
+                         HPOS="791">
+                  <String ID="string_r3l27"
+                          HEIGHT="102"
+                          WIDTH="1537"
+                          VPOS="2638"
+                          HPOS="791"
+                          CONTENT="Agatte estoit une genauche, et disoit les "/>
+               </TextLine>
+               <TextLine ID="r3l28"
+                         BASELINE="791,2768 871,2766 952,2768 1033,2769 1114,2771 1195,2774 1276,2777 1357,2780 1438,2783 1519,2787 1600,2791 1680,2793 1761,2796 1842,2799 1923,2802 2004,2802 2085,2804 2166,2802 2247,2801 2328,2798 2409,2793"
+                         HEIGHT="95"
+                         WIDTH="1618"
+                         VPOS="2728"
+                         HPOS="791">
+                  <String ID="string_r3l28"
+                          HEIGHT="95"
+                          WIDTH="1618"
+                          VPOS="2728"
+                          HPOS="791"
+                          CONTENT="raisons lesquelles deposant a oublier depuis "/>
+               </TextLine>
+               <TextLine ID="r3l29"
+                         BASELINE="699,2873 778,2871 858,2873 937,2874 1017,2876 1096,2880 1176,2884 1255,2888 1335,2893 1414,2897 1494,2903 1573,2907 1653,2912 1732,2917 1812,2921 1891,2924 1971,2927 2050,2928 2130,2930 2209,2930 2289,2928"
+                         HEIGHT="119"
+                         WIDTH="1590"
+                         VPOS="2831"
+                         HPOS="699">
+                  <String ID="string_r3l29"
+                          HEIGHT="119"
+                          WIDTH="1590"
+                          VPOS="2831"
+                          HPOS="699"
+                          CONTENT="Dit que Jehan du prai oncle de lad Agatte "/>
+               </TextLine>
+               <TextLine ID="r3l30"
+                         BASELINE="780,2964 858,2964 936,2966 1014,2967 1092,2969 1170,2972 1248,2976 1326,2980 1404,2984 1482,2989 1560,2994 1638,2998 1716,3002 1794,3006 1872,3010 1950,3012 2028,3015 2106,3017 2184,3018 2262,3018 2340,3017"
+                         HEIGHT="112"
+                         WIDTH="1560"
+                         VPOS="2925"
+                         HPOS="780">
+                  <String ID="string_r3l30"
+                          HEIGHT="112"
+                          WIDTH="1560"
+                          VPOS="2925"
+                          HPOS="780"
+                          CONTENT="sestoit nagueres declaire que les sorcieres "/>
+               </TextLine>
+               <TextLine ID="r3l31"
+                         BASELINE="801,3056 882,3059 964,3062 1046,3066 1128,3069 1209,3072 1291,3076 1373,3080 1455,3083 1536,3086 1618,3089 1700,3092 1782,3094 1863,3095 1945,3096 2027,3098 2109,3098 2190,3098 2272,3096 2354,3095 2436,3092"
+                         HEIGHT="100"
+                         WIDTH="1635"
+                         VPOS="3017"
+                         HPOS="801">
+                  <String ID="string_r3l31"
+                          HEIGHT="100"
+                          WIDTH="1635"
+                          VPOS="3017"
+                          HPOS="801"
+                          CONTENT="quon avoit Brusle a dele lavoit accuse "/>
+               </TextLine>
+               <TextLine ID="r3l32"
+                         BASELINE="776,3162 809,3161 843,3159 877,3158 911,3158 945,3158 978,3159 1012,3159 1046,3161 1080,3162 1114,3165 1147,3166 1181,3168 1215,3169 1249,3170 1282,3171 1316,3173 1350,3173 1384,3173 1418,3171 1452,3170"
+                         HEIGHT="75"
+                         WIDTH="676"
+                         VPOS="3118"
+                         HPOS="776">
+                  <String ID="string_r3l32"
+                          HEIGHT="75"
+                          WIDTH="676"
+                          VPOS="3118"
+                          HPOS="776"
+                          CONTENT="pour estre telle "/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r4" HEIGHT="150" WIDTH="15" VPOS="418" HPOS="2589">
+               <Shape>
+                  <Polygon POINTS="2589,418 2589,568 2604,568 2604,418"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="r5" HEIGHT="161" WIDTH="36" VPOS="623" HPOS="2595">
+               <Shape>
+                  <Polygon POINTS="2595,623 2595,784 2631,784 2631,623"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

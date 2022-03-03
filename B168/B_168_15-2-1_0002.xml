@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-03-03T16:33:39.733+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3993" WIDTH="2623">
+         <TopMargin HEIGHT="0" WIDTH="2623" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3993" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3993" WIDTH="0" VPOS="0" HPOS="2623"/>
+         <BottomMargin HEIGHT="0" WIDTH="2623" VPOS="3993" HPOS="0"/>
+         <PrintSpace HEIGHT="3993" WIDTH="2623" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="1980" WIDTH="1875" VPOS="245" HPOS="669">
+               <Shape>
+                  <Polygon POINTS="669,245 669,2225 2544,2225 2544,245"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="693,305 783,300 873,297 964,295 1054,294 1145,293 1235,293 1326,293 1416,294 1507,296 1597,297 1687,299 1778,302 1868,303 1959,306 2049,309 2140,312 2230,314 2321,317 2411,318 2502,320"
+                         HEIGHT="143"
+                         WIDTH="1809"
+                         VPOS="201"
+                         HPOS="693">
+                  <String ID="string_r1l1"
+                          HEIGHT="143"
+                          WIDTH="1809"
+                          VPOS="201"
+                          HPOS="693"
+                          CONTENT="Anne vefve henri Villain dud Courthedoubs, depose "/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="713,392 803,389 894,387 985,386 1076,384 1167,384 1257,383 1348,384 1439,384 1530,386 1621,386 1711,388 1802,390 1893,392 1984,395 2075,398 2165,401 2256,404 2347,407 2438,411 2529,414"
+                         HEIGHT="103"
+                         WIDTH="1816"
+                         VPOS="335"
+                         HPOS="713">
+                  <String ID="string_r1l2"
+                          HEIGHT="103"
+                          WIDTH="1816"
+                          VPOS="335"
+                          HPOS="713"
+                          CONTENT="questant une fois aux Louvres Lad, Annelin frapit"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="701,485 789,480 878,475 966,472 1055,470 1143,468 1232,467 1320,465 1409,467 1497,467 1586,468 1675,470 1763,471 1852,474 1940,477 2029,480 2117,484 2206,488 2294,491 2383,496 2472,500"
+                         HEIGHT="98"
+                         WIDTH="1771"
+                         VPOS="423"
+                         HPOS="701">
+                  <String ID="string_r1l3"
+                          HEIGHT="98"
+                          WIDTH="1771"
+                          VPOS="423"
+                          HPOS="701"
+                          CONTENT="Lad deposante de la main sur la droite espaule"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="695,579 778,573 861,567 944,563 1028,561 1111,558 1194,557 1278,557 1361,557 1444,557 1528,557 1611,558 1694,560 1777,561 1861,563 1944,566 2027,567 2111,569 2194,570 2277,572 2361,572"
+                         HEIGHT="85"
+                         WIDTH="1666"
+                         VPOS="515"
+                         HPOS="695">
+                  <String ID="string_r1l4"
+                          HEIGHT="85"
+                          WIDTH="1666"
+                          VPOS="515"
+                          HPOS="695"
+                          CONTENT="En sorte q le Lendemain elle deposante fust"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="707,666 793,663 879,660 965,657 1052,656 1138,654 1224,653 1310,653 1397,653 1483,653 1569,653 1655,654 1742,654 1828,656 1914,657 2000,659 2087,660 2173,662 2259,663 2346,665"
+                         HEIGHT="80"
+                         WIDTH="1639"
+                         VPOS="608"
+                         HPOS="707">
+                  <String ID="string_r1l5"
+                          HEIGHT="80"
+                          WIDTH="1639"
+                          VPOS="608"
+                          HPOS="707"
+                          CONTENT="Impotante de la droite ptie de son corps."/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="699,756 787,755 875,753 963,752 1051,750 1139,749 1227,749 1316,749 1404,749 1492,749 1580,750 1668,752 1756,753 1844,755 1933,758 2021,761 2109,765 2197,770 2285,774 2373,779 2462,785"
+                         HEIGHT="103"
+                         WIDTH="1763"
+                         VPOS="704"
+                         HPOS="699">
+                  <String ID="string_r1l6"
+                          HEIGHT="103"
+                          WIDTH="1763"
+                          VPOS="704"
+                          HPOS="699"
+                          CONTENT="Ce quayant deposante aperceu et sestant mescrus"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="686,846 773,845 861,845 948,845 1036,845 1123,845 1211,845 1298,845 1386,845 1473,845 1561,846 1648,848 1736,849 1823,851 1911,852 1998,855 2086,858 2173,861 2261,865 2348,870 2436,875"
+                         HEIGHT="90"
+                         WIDTH="1750"
+                         VPOS="805"
+                         HPOS="686">
+                  <String ID="string_r1l7"
+                          HEIGHT="90"
+                          WIDTH="1750"
+                          VPOS="805"
+                          HPOS="686"
+                          CONTENT="quelle Lui auroit donne tel mal. Surce q"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="717,945 807,945 897,944 988,944 1078,944 1169,944 1259,944 1349,945 1440,945 1530,947 1621,947 1711,948 1801,950 1892,951 1982,951 2073,953 2163,953 2253,954 2344,955 2434,956 2525,956"
+                         HEIGHT="72"
+                         WIDTH="1808"
+                         VPOS="904"
+                         HPOS="717">
+                  <String ID="string_r1l8"
+                          HEIGHT="72"
+                          WIDTH="1808"
+                          VPOS="904"
+                          HPOS="717"
+                          CONTENT="deposante avoit ouys dire que quant on estoit"/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="725,1043 817,1040 910,1040 1002,1038 1095,1038 1187,1038 1280,1038 1373,1040 1465,1041 1558,1043 1650,1044 1743,1046 1835,1047 1928,1049 2021,1052 2113,1053 2206,1055 2298,1056 2391,1058 2484,1058"
+                         HEIGHT="90"
+                         WIDTH="1759"
+                         VPOS="991"
+                         HPOS="725">
+                  <String ID="string_r1l9"
+                          HEIGHT="90"
+                          WIDTH="1759"
+                          VPOS="991"
+                          HPOS="725"
+                          CONTENT="greve quon debvoit prendre de neufz sortes derbes"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="695,1140 776,1137 857,1136 938,1134 1019,1133 1100,1133 1181,1134 1262,1134 1343,1136 1424,1137 1505,1139 1586,1140 1667,1142 1748,1144 1829,1146 1910,1146 1991,1148 2072,1148 2153,1148 2234,1148 2316,1146"
+                         HEIGHT="84"
+                         WIDTH="1621"
+                         VPOS="1087"
+                         HPOS="695">
+                  <String ID="string_r1l10"
+                          HEIGHT="84"
+                          WIDTH="1621"
+                          VPOS="1087"
+                          HPOS="695"
+                          CONTENT="du curtil de ceulx quon se mescroit. Elle"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="681,1235 768,1232 855,1229 942,1227 1029,1227 1116,1227 1203,1227 1290,1228 1377,1229 1464,1230 1552,1232 1639,1234 1726,1236 1813,1238 1900,1241 1987,1242 2074,1245 2161,1247 2248,1248 2335,1250 2423,1251"
+                         HEIGHT="93"
+                         WIDTH="1742"
+                         VPOS="1181"
+                         HPOS="681">
+                  <String ID="string_r1l11"
+                          HEIGHT="93"
+                          WIDTH="1742"
+                          VPOS="1181"
+                          HPOS="681"
+                          CONTENT="deposante alla prendre de neufz sortes derbes"/>
+               </TextLine>
+               <TextLine ID="r1l12"
+                         BASELINE="723,1337 810,1334 898,1332 986,1331 1074,1331 1161,1329 1249,1329 1337,1331 1425,1331 1512,1332 1600,1334 1688,1335 1776,1337 1863,1338 1951,1340 2039,1343 2127,1344 2214,1347 2302,1349 2390,1350 2478,1352"
+                         HEIGHT="95"
+                         WIDTH="1755"
+                         VPOS="1281"
+                         HPOS="723">
+                  <String ID="string_r1l12"
+                          HEIGHT="95"
+                          WIDTH="1755"
+                          VPOS="1281"
+                          HPOS="723"
+                          CONTENT="au curtil dicelle, quelle cuyt en faist une"/>
+               </TextLine>
+               <TextLine ID="r1l13"
+                         BASELINE="740,1448 824,1445 908,1442 992,1439 1076,1437 1160,1436 1244,1436 1329,1436 1413,1436 1497,1437 1581,1437 1665,1439 1749,1441 1834,1443 1918,1445 2002,1448 2086,1450 2170,1452 2254,1455 2339,1458"
+                         HEIGHT="88"
+                         WIDTH="1599"
+                         VPOS="1392"
+                         HPOS="740">
+                  <String ID="string_r1l13"
+                          HEIGHT="88"
+                          WIDTH="1599"
+                          VPOS="1392"
+                          HPOS="740"
+                          CONTENT="soppe et la mangea dont deans huit Jours"/>
+               </TextLine>
+               <TextLine ID="r1l14"
+                         BASELINE="701,1544 793,1541 885,1538 977,1535 1069,1533 1161,1530 1253,1529 1346,1527 1438,1527 1530,1526 1622,1526 1714,1527 1806,1529 1898,1531 1991,1535 2083,1538 2175,1543 2267,1549 2359,1556 2451,1565 2544,1574"
+                         HEIGHT="112"
+                         WIDTH="1843"
+                         VPOS="1483"
+                         HPOS="701">
+                  <String ID="string_r1l14"
+                          HEIGHT="112"
+                          WIDTH="1843"
+                          VPOS="1483"
+                          HPOS="701"
+                          CONTENT="ensuiguant elle fust guarie. Et croit fermement"/>
+               </TextLine>
+               <TextLine ID="r1l15"
+                         BASELINE="726,1632 811,1632 896,1632 981,1632 1066,1632 1152,1631 1237,1629 1322,1629 1407,1628 1492,1626 1578,1626 1663,1626 1748,1626 1833,1628 1918,1629 2004,1632 2089,1635 2174,1640 2259,1646 2344,1653 2430,1661"
+                         HEIGHT="104"
+                         WIDTH="1704"
+                         VPOS="1580"
+                         HPOS="726">
+                  <String ID="string_r1l15"
+                          HEIGHT="104"
+                          WIDTH="1704"
+                          VPOS="1580"
+                          HPOS="726"
+                          CONTENT="que plattouchement pred telle maladie Lui"/>
+               </TextLine>
+               <TextLine ID="r1l16"
+                         BASELINE="698,1739 723,1736 748,1734 774,1733 799,1733 824,1731 850,1731 875,1730 900,1730 926,1730 951,1730 976,1730 1002,1730 1027,1729 1052,1728 1078,1728 1103,1727 1128,1725 1154,1724 1179,1722 1205,1719"
+                         HEIGHT="89"
+                         WIDTH="507"
+                         VPOS="1673"
+                         HPOS="698">
+                  <String ID="string_r1l16"
+                          HEIGHT="89"
+                          WIDTH="507"
+                          VPOS="1673"
+                          HPOS="698"
+                          CONTENT="estoit advenue."/>
+               </TextLine>
+               <TextLine ID="r1l17"
+                         BASELINE="669,1925 749,1921 830,1919 911,1916 991,1914 1072,1913 1153,1913 1233,1913 1314,1913 1395,1914 1476,1916 1556,1917 1637,1920 1718,1923 1798,1926 1879,1929 1960,1932 2040,1936 2121,1940 2202,1943 2283,1947"
+                         HEIGHT="98"
+                         WIDTH="1614"
+                         VPOS="1870"
+                         HPOS="669">
+                  <String ID="string_r1l17"
+                          HEIGHT="98"
+                          WIDTH="1614"
+                          VPOS="1870"
+                          HPOS="669"
+                          CONTENT="Esibel, femme henry Vellain dud Courthedoubs"/>
+               </TextLine>
+               <TextLine ID="r1l18"
+                         BASELINE="687,2021 773,2016 859,2012 946,2009 1032,2006 1119,2004 1205,2003 1291,2003 1378,2003 1464,2004 1551,2006 1637,2009 1723,2011 1810,2014 1896,2019 1983,2023 2069,2027 2155,2032 2242,2037 2328,2043 2415,2049"
+                         HEIGHT="110"
+                         WIDTH="1728"
+                         VPOS="1960"
+                         HPOS="687">
+                  <String ID="string_r1l18"
+                          HEIGHT="110"
+                          WIDTH="1728"
+                          VPOS="1960"
+                          HPOS="687"
+                          CONTENT="depose quelle este ester malade en ung genoil"/>
+               </TextLine>
+               <TextLine ID="r1l19"
+                         BASELINE="710,2118 792,2112 875,2107 957,2103 1040,2101 1122,2099 1205,2097 1287,2097 1370,2097 1452,2097 1535,2099 1618,2099 1700,2102 1783,2103 1865,2106 1948,2108 2030,2111 2113,2114 2195,2117 2278,2119 2361,2121"
+                         HEIGHT="87"
+                         WIDTH="1651"
+                         VPOS="2055"
+                         HPOS="710">
+                  <String ID="string_r1l19"
+                          HEIGHT="87"
+                          WIDTH="1651"
+                          VPOS="2055"
+                          HPOS="710"
+                          CONTENT="mais ne scait dou procede telle maladie."/>
+               </TextLine>
+               <TextLine ID="r1l20"
+                         BASELINE="713,2204 751,2202 789,2201 827,2199 866,2198 904,2196 942,2195 981,2195 1019,2193 1057,2193 1096,2192 1134,2192 1172,2191 1210,2190 1249,2190 1287,2190 1325,2190 1364,2190 1402,2190 1440,2191 1479,2192"
+                         HEIGHT="78"
+                         WIDTH="766"
+                         VPOS="2147"
+                         HPOS="713">
+                  <String ID="string_r1l20"
+                          HEIGHT="78"
+                          WIDTH="766"
+                          VPOS="2147"
+                          HPOS="713"
+                          CONTENT="Ne scait aultre chose."/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-03-03T16:34:43.088+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3746" WIDTH="2512">
+         <TopMargin HEIGHT="0" WIDTH="2512" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3746" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3746" WIDTH="0" VPOS="0" HPOS="2512"/>
+         <BottomMargin HEIGHT="0" WIDTH="2512" VPOS="3746" HPOS="0"/>
+         <PrintSpace HEIGHT="3746" WIDTH="2512" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="371" WIDTH="960" VPOS="2088" HPOS="1451">
+               <Shape>
+                  <Polygon POINTS="1451,2088 1451,2459 2411,2459 2411,2088"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1682,2174 1711,2171 1741,2169 1770,2168 1800,2166 1829,2165 1859,2164 1888,2163 1918,2163 1947,2163 1977,2162 2007,2162 2036,2161 2066,2160 2095,2159 2125,2158 2154,2156 2184,2154 2213,2151 2243,2149 2273,2145"
+                         HEIGHT="294"
+                         WIDTH="778"
+                         VPOS="1981"
+                         HPOS="1582">
+                  <String ID="string_r1l1"
+                          HEIGHT="294"
+                          WIDTH="778"
+                          VPOS="1981"
+                          HPOS="1582"
+                          CONTENT="Informats "/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="1451,2331 1488,2331 1526,2331 1563,2331 1601,2331 1638,2331 1676,2330 1713,2330 1751,2330 1788,2328 1826,2328 1863,2327 1901,2327 1938,2326 1976,2325 2013,2324 2051,2324 2088,2323 2126,2322 2163,2322 2201,2321"
+                         HEIGHT="111"
+                         WIDTH="813"
+                         VPOS="2243"
+                         HPOS="1388">
+                  <String ID="string_r1l2"
+                          HEIGHT="111"
+                          WIDTH="813"
+                          VPOS="2243"
+                          HPOS="1388"
+                          CONTENT="Contre Annelin vefve"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="1467,2423 1514,2423 1561,2424 1608,2424 1655,2426 1703,2426 1750,2426 1797,2426 1844,2426 1891,2426 1939,2426 1986,2426 2033,2426 2080,2427 2127,2427 2175,2427 2222,2429 2269,2430 2316,2432 2363,2433 2411,2436"
+                         HEIGHT="112"
+                         WIDTH="962"
+                         VPOS="2353"
+                         HPOS="1455">
+                  <String ID="string_r1l3"
+                          HEIGHT="112"
+                          WIDTH="962"
+                          VPOS="2353"
+                          HPOS="1455"
+                          CONTENT="Pierrat vauthier de Courthedoubs"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r2" HEIGHT="153" WIDTH="51" VPOS="3514" HPOS="2297">
+               <Shape>
+                  <Polygon POINTS="2297,3514 2297,3667 2348,3667 2348,3514"/>
+               </Shape>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-03-03T16:36:58.505+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3923" WIDTH="2604">
+         <TopMargin HEIGHT="0" WIDTH="2604" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3923" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3923" WIDTH="0" VPOS="0" HPOS="2604"/>
+         <BottomMargin HEIGHT="0" WIDTH="2604" VPOS="3923" HPOS="0"/>
+         <PrintSpace HEIGHT="3923" WIDTH="2604" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="0" WIDTH="41" VPOS="2934" HPOS="1246">
+               <Shape>
+                  <Polygon POINTS="1287,2934 1287,2934 1246,2934 1246,2934"/>
+               </Shape>
+            </TextBlock>
+            <TextBlock ID="r2" HEIGHT="373" WIDTH="1054" VPOS="2129" HPOS="1415">
+               <Shape>
+                  <Polygon POINTS="1415,2129 1415,2502 2469,2502 2469,2129"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="1646,2174 1672,2175 1698,2177 1724,2178 1750,2180 1776,2180 1802,2181 1828,2181 1854,2181 1880,2181 1906,2181 1932,2181 1958,2181 1984,2180 2010,2180 2036,2180 2062,2180 2088,2180"
+                         HEIGHT="74"
+                         WIDTH="442"
+                         VPOS="2129"
+                         HPOS="1646">
+                  <String ID="string_r2l1"
+                          HEIGHT="74"
+                          WIDTH="442"
+                          VPOS="2129"
+                          HPOS="1646"
+                          CONTENT=" Reconfessions"/>
+               </TextLine>
+               <TextLine ID="r2l2"
+                         BASELINE="1427,2315 1476,2310 1525,2307 1574,2305 1623,2303 1672,2301 1721,2300 1770,2298 1819,2297 1868,2297 1918,2295 1967,2295 2016,2295 2065,2295 2114,2294 2163,2294 2212,2294 2261,2294 2310,2294 2359,2292 2409,2292"
+                         HEIGHT="81"
+                         WIDTH="982"
+                         VPOS="2253"
+                         HPOS="1427">
+                  <String ID="string_r2l2"
+                          HEIGHT="81"
+                          WIDTH="982"
+                          VPOS="2253"
+                          HPOS="1427"
+                          CONTENT="Des actes crimes et delictz de "/>
+               </TextLine>
+               <TextLine ID="r2l3"
+                         BASELINE="1431,2403 1482,2396 1534,2391 1586,2388 1638,2383 1690,2380 1742,2378 1794,2376 1846,2375 1898,2373 1950,2373 2001,2373 2053,2373 2105,2373 2157,2373 2209,2373 2261,2373 2313,2373 2365,2372 2417,2372 2469,2372"
+                         HEIGHT="89"
+                         WIDTH="1038"
+                         VPOS="2333"
+                         HPOS="1431">
+                  <String ID="string_r2l3"
+                          HEIGHT="89"
+                          WIDTH="1038"
+                          VPOS="2333"
+                          HPOS="1431"
+                          CONTENT="Sortilege de Adelheit vefve "/>
+               </TextLine>
+               <TextLine ID="r2l4"
+                         BASELINE="1415,2475 1464,2478 1514,2478 1563,2480 1613,2480 1663,2478 1712,2478 1762,2477 1812,2475 1861,2473 1911,2471 1961,2469 2010,2468 2060,2466 2110,2465 2159,2463 2209,2463 2259,2462 2308,2463 2358,2463 2408,2465"
+                         HEIGHT="84"
+                         WIDTH="993"
+                         VPOS="2418"
+                         HPOS="1415">
+                  <String ID="string_r2l4"
+                          HEIGHT="84"
+                          WIDTH="993"
+                          VPOS="2418"
+                          HPOS="1415"
+                          CONTENT="Borquin Betteny de Boncourt "/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

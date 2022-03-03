@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-03-03T16:36:58.013+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3801" WIDTH="2596">
+         <TopMargin HEIGHT="0" WIDTH="2596" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3801" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3801" WIDTH="0" VPOS="0" HPOS="2596"/>
+         <BottomMargin HEIGHT="0" WIDTH="2596" VPOS="3801" HPOS="0"/>
+         <PrintSpace HEIGHT="3801" WIDTH="2596" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="869" WIDTH="1824" VPOS="116" HPOS="692">
+               <Shape>
+                  <Polygon POINTS="692,116 692,985 2516,985 2516,116"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1155,156 1200,158 1246,161 1292,162 1338,164 1383,165 1429,167 1475,169 1521,170 1566,171 1612,173 1658,174 1704,175 1749,176 1795,177 1841,179 1887,182 1932,183 1978,186 2024,188 2070,191"
+                         HEIGHT="95"
+                         WIDTH="915"
+                         VPOS="116"
+                         HPOS="1155">
+                  <String ID="string_r1l1"
+                          HEIGHT="95"
+                          WIDTH="915"
+                          VPOS="116"
+                          HPOS="1155"
+                          CONTENT="Le 25 dud mois 1610 "/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="692,297 781,294 870,291 960,290 1049,290 1139,290 1228,290 1317,291 1407,294 1496,296 1586,299 1675,302 1764,305 1854,308 1943,311 2033,314 2122,317 2211,318 2301,320 2390,321 2480,321"
+                         HEIGHT="91"
+                         WIDTH="1788"
+                         VPOS="250"
+                         HPOS="692">
+                  <String ID="string_r1l2"
+                          HEIGHT="91"
+                          WIDTH="1788"
+                          VPOS="250"
+                          HPOS="692"
+                          CONTENT="Lad Adelheit librement recognut les faictz pred "/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="749,377 833,375 917,374 1002,372 1086,372 1170,372 1255,374 1339,374 1423,377 1508,378 1592,381 1676,383 1761,386 1845,389 1929,392 2014,395 2098,399 2182,402 2267,404 2351,408 2436,411"
+                         HEIGHT="99"
+                         WIDTH="1687"
+                         VPOS="332"
+                         HPOS="749">
+                  <String ID="string_r1l3"
+                          HEIGHT="99"
+                          WIDTH="1687"
+                          VPOS="332"
+                          HPOS="749"
+                          CONTENT="les avoir Commis et perpetres Priant quon lui "/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="728,468 817,464 906,462 996,459 1085,458 1175,458 1264,458 1353,458 1443,459 1532,462 1622,464 1711,466 1800,468 1890,472 1979,475 2069,479 2158,482 2247,485 2337,489 2426,492 2516,495"
+                         HEIGHT="86"
+                         WIDTH="1788"
+                         VPOS="425"
+                         HPOS="728">
+                  <String ID="string_r1l4"
+                          HEIGHT="86"
+                          WIDTH="1788"
+                          VPOS="425"
+                          HPOS="728"
+                          CONTENT="heust a faire bonne et brieve justice, Criant "/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="729,558 814,551 899,546 984,543 1069,540 1155,539 1240,539 1325,540 1410,542 1495,544 1581,547 1666,550 1751,552 1836,555 1921,558 2007,560 2092,561 2177,563 2262,563 2347,561 2433,560"
+                         HEIGHT="73"
+                         WIDTH="1704"
+                         VPOS="506"
+                         HPOS="729">
+                  <String ID="string_r1l5"
+                          HEIGHT="73"
+                          WIDTH="1704"
+                          VPOS="506"
+                          HPOS="729"
+                          CONTENT="merci a Dieu a mon Seigneur et a la Justice. "/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="1187,674 1218,674 1249,675 1280,675 1311,675 1343,675 1374,675 1405,674 1436,674 1467,672 1499,671 1530,671 1561,669 1592,668 1623,668 1655,666 1686,666 1717,666 1748,665 1779,665 1811,666"
+                         HEIGHT="70"
+                         WIDTH="624"
+                         VPOS="625"
+                         HPOS="1187">
+                  <String ID="string_r1l6"
+                          HEIGHT="70"
+                          WIDTH="624"
+                          VPOS="625"
+                          HPOS="1187"
+                          CONTENT="Le 26. dud mois "/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="734,762 815,761 897,759 979,758 1061,758 1142,756 1224,756 1306,756 1388,756 1469,756 1551,756 1633,758 1715,758 1796,759 1878,761 1960,761 2042,762 2123,764 2205,765 2287,767 2369,768"
+                         HEIGHT="72"
+                         WIDTH="1635"
+                         VPOS="716"
+                         HPOS="734">
+                  <String ID="string_r1l7"
+                          HEIGHT="72"
+                          WIDTH="1635"
+                          VPOS="716"
+                          HPOS="734"
+                          CONTENT="Elle cougnut derechieff avoir commis lesd actes. "/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="1208,860 1240,863 1273,863 1306,864 1339,866 1372,866 1405,865 1438,864 1471,864 1504,863 1537,861 1569,860 1602,858 1635,858 1668,857 1701,855 1734,854 1767,854 1800,852 1833,852 1866,852"
+                         HEIGHT="74"
+                         WIDTH="658"
+                         VPOS="812"
+                         HPOS="1208">
+                  <String ID="string_r1l8"
+                          HEIGHT="74"
+                          WIDTH="658"
+                          VPOS="812"
+                          HPOS="1208"
+                          CONTENT="Le 27 dud mois "/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="737,965 824,965 911,965 998,963 1085,962 1172,960 1259,957 1347,955 1434,952 1521,950 1608,947 1695,945 1782,942 1869,941 1957,941 2044,941 2131,941 2218,942 2305,945 2392,948 2480,953"
+                         HEIGHT="84"
+                         WIDTH="1743"
+                         VPOS="901"
+                         HPOS="737">
+                  <String ID="string_r1l9"
+                          HEIGHT="84"
+                          WIDTH="1743"
+                          VPOS="901"
+                          HPOS="737"
+                          CONTENT="En pntce des .7. hommes elle feist le semblable "/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

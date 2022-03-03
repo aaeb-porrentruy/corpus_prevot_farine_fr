@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-03-03T16:36:39.828+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3968" WIDTH="2637">
+         <TopMargin HEIGHT="0" WIDTH="2637" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3968" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3968" WIDTH="0" VPOS="0" HPOS="2637"/>
+         <BottomMargin HEIGHT="0" WIDTH="2637" VPOS="3968" HPOS="0"/>
+         <PrintSpace HEIGHT="3968" WIDTH="2637" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="760" WIDTH="1660" VPOS="155" HPOS="758">
+               <Shape>
+                  <Polygon POINTS="758,155 758,915 2418,915 2418,155"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1982,180 2008,182 2035,184 2062,187 2089,191 2115,193 2142,196 2169,200 2196,202 2223,206"
+                         HEIGHT="63"
+                         WIDTH="241"
+                         VPOS="155"
+                         HPOS="1982">
+                  <String ID="string_r1l1"
+                          HEIGHT="63"
+                          WIDTH="241"
+                          VPOS="155"
+                          HPOS="1982"
+                          CONTENT="leur"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="758,266 841,264 924,263 1007,262 1090,260 1173,258 1256,255 1339,254 1422,251 1505,249 1588,248 1671,246 1754,246 1837,246 1920,246 2003,248 2086,249 2169,252 2252,255 2335,260 2418,266"
+                         HEIGHT="57"
+                         WIDTH="1660"
+                         VPOS="221"
+                         HPOS="758">
+                  <String ID="string_r1l2"
+                          HEIGHT="57"
+                          WIDTH="1660"
+                          VPOS="221"
+                          HPOS="758"
+                          CONTENT="et requeste sans le prejudice de lui  ni des"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="782,314 808,315 834,317 860,315 886,314 912,312 939,309"
+                         HEIGHT="47"
+                         WIDTH="157"
+                         VPOS="283"
+                         HPOS="782">
+                  <String ID="string_r1l3"
+                          HEIGHT="47"
+                          WIDTH="157"
+                          VPOS="283"
+                          HPOS="782"
+                          CONTENT="leurs"/>
+               </TextLine>
+               <TextLine ID="r1l4"
+                         BASELINE="777,372 851,364 926,357 1000,351 1075,348 1150,345 1224,344 1299,342 1374,342 1448,344 1523,345 1598,346 1672,348 1747,350 1822,351 1896,353 1971,353 2046,353 2120,353 2195,351 2270,348"
+                         HEIGHT="66"
+                         WIDTH="1493"
+                         VPOS="318"
+                         HPOS="777">
+                  <String ID="string_r1l4"
+                          HEIGHT="66"
+                          WIDTH="1493"
+                          VPOS="318"
+                          HPOS="777"
+                          CONTENT=" aud Pourrent Le Cinquieme"/>
+               </TextLine>
+               <TextLine ID="r1l5"
+                         BASELINE="770,456 848,452 926,449 1004,444 1082,442 1161,440 1239,437 1317,436 1395,435 1473,434 1552,432 1630,432 1708,432 1786,432 1864,431 1943,431 2021,431 2099,431 2177,431 2255,431 2334,431"
+                         HEIGHT="83"
+                         WIDTH="1564"
+                         VPOS="392"
+                         HPOS="770">
+                  <String ID="string_r1l5"
+                          HEIGHT="83"
+                          WIDTH="1564"
+                          VPOS="392"
+                          HPOS="770"
+                          CONTENT="jour du mois de decembre mil six cens"/>
+               </TextLine>
+               <TextLine ID="r1l6"
+                         BASELINE="792,552 866,548 941,543 1015,539 1090,534 1164,531 1239,529 1313,525 1388,524 1462,521 1537,519 1612,518 1686,516 1761,515 1835,513 1910,512 1984,512 2059,510 2133,510 2208,510 2283,509"
+                         HEIGHT="101"
+                         WIDTH="1491"
+                         VPOS="470"
+                         HPOS="792">
+                  <String ID="string_r1l6"
+                          HEIGHT="101"
+                          WIDTH="1491"
+                          VPOS="470"
+                          HPOS="792"
+                          CONTENT="et huict Pts Petit jehan henselin de"/>
+               </TextLine>
+               <TextLine ID="r1l7"
+                         BASELINE="801,633 874,632 947,630 1020,629 1093,627 1166,625 1239,623 1312,621 1385,618 1458,615 1531,614 1604,611 1677,607 1750,605 1823,602 1896,598 1969,596 2042,593 2115,588 2188,585 2262,582"
+                         HEIGHT="109"
+                         WIDTH="1461"
+                         VPOS="543"
+                         HPOS="801">
+                  <String ID="string_r1l7"
+                          HEIGHT="109"
+                          WIDTH="1461"
+                          VPOS="543"
+                          HPOS="801"
+                          CONTENT=" miecort et petit Jehan le mercier de"/>
+               </TextLine>
+               <TextLine ID="r1l8"
+                         BASELINE="788,728 851,725 915,722 978,719 1042,716 1105,714 1169,711 1232,708 1296,706 1359,703 1423,700 1486,698 1550,695 1613,691 1677,688 1740,684 1804,680 1867,675 1931,671 1994,666 2058,660"
+                         HEIGHT="126"
+                         WIDTH="1270"
+                         VPOS="621"
+                         HPOS="788">
+                  <String ID="string_r1l8"
+                          HEIGHT="126"
+                          WIDTH="1270"
+                          VPOS="621"
+                          HPOS="788"
+                          CONTENT="Chermoille tesmoings ad ce requis."/>
+               </TextLine>
+               <TextLine ID="r1l9"
+                         BASELINE="1592,785 1630,778 1669,773 1708,768 1747,765 1786,761 1825,758 1864,756 1903,753 1942,752 1980,750 2019,747 2058,746 2097,744 2136,743 2175,741 2214,739 2253,737 2292,734 2331,732"
+                         HEIGHT="126"
+                         WIDTH="768"
+                         VPOS="693"
+                         HPOS="1563">
+                  <String ID="string_r1l9"
+                          HEIGHT="126"
+                          WIDTH="768"
+                          VPOS="693"
+                          HPOS="1563"
+                          CONTENT="Richard Thomas [paraphe]"/>
+               </TextLine>
+               <TextLine ID="r1l10"
+                         BASELINE="939,810 967,812 995,811 1023,801"
+                         HEIGHT="69"
+                         WIDTH="84"
+                         VPOS="762"
+                         HPOS="939">
+                  <String ID="string_r1l10"
+                          HEIGHT="69"
+                          WIDTH="84"
+                          VPOS="762"
+                          HPOS="939"
+                          CONTENT="S ?"/>
+               </TextLine>
+               <TextLine ID="r1l11"
+                         BASELINE="813,888 841,892 869,894 897,894 925,896 953,896 981,894 1009,894 1037,893 1065,892 1093,891 1121,890 1149,888 1177,887 1205,887 1233,887 1261,887 1289,888 1317,891 1345,893 1374,896"
+                         HEIGHT="159"
+                         WIDTH="595"
+                         VPOS="756"
+                         HPOS="779">
+                  <String ID="string_r1l11"
+                          HEIGHT="159"
+                          WIDTH="595"
+                          VPOS="756"
+                          HPOS="779"
+                          CONTENT="JGigendet [paraphe]"/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:page="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingDateTime>2022-03-03T16:36:39.933+01:00</processingDateTime>
+            <processingSoftware>
+               <softwareCreator>READ COOP</softwareCreator>
+               <softwareName>Transkribus</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3988" WIDTH="2654">
+         <TopMargin HEIGHT="0" WIDTH="2654" VPOS="0" HPOS="0"/>
+         <LeftMargin HEIGHT="3988" WIDTH="0" VPOS="0" HPOS="0"/>
+         <RightMargin HEIGHT="3988" WIDTH="0" VPOS="0" HPOS="2654"/>
+         <BottomMargin HEIGHT="0" WIDTH="2654" VPOS="3988" HPOS="0"/>
+         <PrintSpace HEIGHT="3988" WIDTH="2654" VPOS="0" HPOS="0">
+            <TextBlock ID="r1" HEIGHT="237" WIDTH="770" VPOS="2249" HPOS="1632">
+               <Shape>
+                  <Polygon POINTS="1632,2249 1632,2486 2402,2486 2402,2249"/>
+               </Shape>
+               <TextLine ID="r1l1"
+                         BASELINE="1632,2303 1670,2303 1708,2303 1747,2301 1785,2301 1823,2301 1862,2300 1900,2300 1938,2299 1977,2298 2015,2297 2053,2296 2092,2295 2130,2294 2168,2292 2207,2292 2245,2291 2283,2289 2322,2288 2360,2288 2399,2286"
+                         HEIGHT="72"
+                         WIDTH="767"
+                         VPOS="2249"
+                         HPOS="1632">
+                  <String ID="string_r1l1"
+                          HEIGHT="72"
+                          WIDTH="767"
+                          VPOS="2249"
+                          HPOS="1632"
+                          CONTENT="Urphed de Annelin"/>
+               </TextLine>
+               <TextLine ID="r1l2"
+                         BASELINE="1641,2388 1679,2385 1717,2382 1755,2381 1793,2378 1831,2377 1869,2376 1907,2375 1945,2373 1983,2373 2021,2373 2059,2373 2097,2373 2135,2373 2173,2373 2211,2373 2249,2373 2287,2373 2325,2373 2363,2373 2402,2373"
+                         HEIGHT="70"
+                         WIDTH="761"
+                         VPOS="2336"
+                         HPOS="1641">
+                  <String ID="string_r1l2"
+                          HEIGHT="70"
+                          WIDTH="761"
+                          VPOS="2336"
+                          HPOS="1641"
+                          CONTENT=" vefve Pierrat vauthier"/>
+               </TextLine>
+               <TextLine ID="r1l3"
+                         BASELINE="1641,2468 1671,2466 1701,2465 1731,2463 1761,2462 1791,2461 1821,2460 1852,2459 1882,2458 1912,2457 1942,2456 1972,2455 2002,2454 2032,2454 2063,2453 2093,2453 2123,2453 2153,2451 2183,2451 2213,2451 2244,2451"
+                         HEIGHT="72"
+                         WIDTH="603"
+                         VPOS="2414"
+                         HPOS="1641">
+                  <String ID="string_r1l3"
+                          HEIGHT="72"
+                          WIDTH="603"
+                          VPOS="2414"
+                          HPOS="1641"
+                          CONTENT=" de Courthedoubs"/>
+               </TextLine>
+            </TextBlock>
+            <TextBlock ID="r2" HEIGHT="167" WIDTH="174" VPOS="452" HPOS="2282">
+               <Shape>
+                  <Polygon POINTS="2282,452 2282,619 2456,619 2456,452"/>
+               </Shape>
+               <TextLine ID="r2l1"
+                         BASELINE="2282,552 2311,560 2340,565 2369,567 2398,569 2427,569 2456,567"
+                         HEIGHT="167"
+                         WIDTH="174"
+                         VPOS="452"
+                         HPOS="2282">
+                  <String ID="string_r2l1"
+                          HEIGHT="167"
+                          WIDTH="174"
+                          VPOS="452"
+                          HPOS="2282"
+                          CONTENT=" "/>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>
