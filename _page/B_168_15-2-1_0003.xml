@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-09T11:17:46.566+01:00</Created>
+        <LastChange>2021-12-10T12:22:23.720+01:00</LastChange>
+        <TranskribusMetadata docId="858528" pageId="32292758" pageNr="3" tsid="70263763" status="DONE" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=SYPTFCWTYGBEAOLWOQMFEWBM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWFNSBTVPHAGCKPQYNEQCHFY" imageId="25645017"/>
+    </Metadata>
+    <Page imageFilename="B_168-15-2-1_0003.jpg" imageWidth="2628" imageHeight="4046">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646323940830" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1458,2189 1458,2509 2442,2509 2442,2189"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} abbrev {offset:0; length:9;expansion:Informations;}">
+                <Coords points="1704,2350 1730,2350 1758,2263 1784,2265 1811,2267 1837,2270 1863,2272 1890,2276 1916,2277 1942,2281 1968,2283 1995,2286 2021,2288 2047,2289 2074,2291 2100,2291 2126,2291 2153,2289 2145,2187 2118,2189 2100,2218 2074,2218 2047,2216 2021,2215 1995,2213 1968,2210 1942,2208 1916,2204 1890,2203 1863,2199 1837,2197 1811,2194 1784,2192 1758,2190 1719,2137 1676,2153"/>
+                <Baseline points="1706,2238 1732,2238 1758,2239 1784,2241 1811,2243 1837,2246 1863,2248 1890,2252 1916,2253 1942,2257 1968,2259 1995,2262 2021,2264 2047,2265 2074,2267 2100,2267 2126,2267 2153,2265"/>
+                <TextEquiv>
+                    <Unicode>Informats</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1443,2422 1507,2413 1556,2413 1605,2413 1654,2413 1704,2413 1753,2413 1802,2413 1851,2413 1900,2414 1950,2414 1999,2416 2048,2416 2097,2417 2146,2419 2196,2420 2245,2422 2294,2425 2343,2427 2392,2429 2442,2432 2442,2371 2392,2368 2368,2337 2319,2335 2263,2333 2214,2331 2152,2332 2103,2330 2053,2329 1999,2355 1950,2353 1900,2353 1851,2352 1802,2352 1753,2352 1704,2352 1654,2352 1605,2352 1556,2352 1487,2313 1423,2322"/>
+                <Baseline points="1458,2393 1507,2393 1556,2393 1605,2393 1654,2393 1704,2393 1753,2393 1802,2393 1851,2393 1900,2394 1950,2394 1999,2396 2048,2396 2097,2397 2146,2399 2196,2400 2245,2402 2294,2405 2343,2407 2392,2409 2442,2412"/>
+                <TextEquiv>
+                    <Unicode>Contre Annelin fille henrisat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1482,2494 1516,2495 1551,2495 1586,2497 1621,2498 1656,2498 1690,2500 1725,2501 1760,2501 1795,2503 1830,2503 1864,2504 1899,2506 1934,2506 1971,2523 2004,2507 2038,2507 2073,2509 2108,2509 2143,2509 2178,2509 2178,2448 2150,2422 2108,2448 2073,2448 2065,2422 2036,2411 1974,2435 1934,2445 1899,2445 1864,2443 1830,2442 1795,2442 1760,2440 1725,2440 1702,2418 1668,2416 1621,2437 1586,2436 1551,2434 1521,2407 1482,2433"/>
+                <Baseline points="1482,2474 1516,2475 1551,2475 1586,2477 1621,2478 1656,2478 1690,2480 1725,2481 1760,2481 1795,2483 1830,2483 1864,2484 1899,2486 1934,2486 1969,2487 2004,2487 2038,2487 2073,2489 2108,2489 2143,2489 2178,2489"/>
+                <TextEquiv>
+                    <Unicode>Boulet de Courthedoubs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Informats
+Contre Annelin fille henrisat
+Boulet de Courthedoubs</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

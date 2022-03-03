@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-14T09:09:23.074+01:00</Created>
+        <LastChange>2021-12-16T09:37:39.473+01:00</LastChange>
+        <TranskribusMetadata docId="863318" pageId="32959487" pageNr="16" tsid="71072700" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=ICBRHHDQNBCDCDISDFPBLHZK&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=GSYASXPXBPJODHKGVIJHHSBX" imageId="26287871"/>
+    </Metadata>
+    <Page imageFilename="B_168-15-23_0016.jpg" imageWidth="2581" imageHeight="3823">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646324005488" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1479,2062 1479,2399 2477,2399 2477,2062"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1659,2125 1684,2126 1710,2126 1736,2128 1762,2128 1788,2128 1813,2128 1839,2128 1865,2126 1891,2126 1917,2125 1942,2125 1968,2123 1994,2123 2020,2122 2046,2122 2071,2122 2097,2122 2123,2122 2149,2123 2175,2123 2175,2063 2149,2063 2123,2062 2097,2062 2071,2062 2046,2062 2020,2062 1994,2063 1968,2063 1942,2065 1917,2065 1891,2066 1865,2066 1839,2068 1813,2068 1788,2068 1762,2068 1736,2068 1710,2066 1684,2066 1659,2065"/>
+                <Baseline points="1659,2105 1684,2106 1710,2106 1736,2108 1762,2108 1788,2108 1813,2108 1839,2108 1865,2106 1891,2106 1917,2105 1942,2105 1968,2103 1994,2103 2020,2102 2046,2102 2071,2102 2097,2102 2123,2102 2149,2103 2175,2103"/>
+                <TextEquiv>
+                    <Unicode> Reconfessions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1479,2242 1524,2242 1569,2242 1615,2242 1660,2240 1706,2240 1751,2239 1797,2237 1842,2236 1888,2236 1933,2234 1978,2233 2024,2231 2069,2230 2115,2230 2160,2228 2206,2228 2251,2227 2297,2227 2342,2227 2388,2227 2388,2175 2342,2175 2297,2175 2251,2175 2206,2176 2160,2176 2115,2178 2069,2178 2024,2179 1978,2181 1933,2182 1888,2184 1842,2184 1797,2185 1751,2187 1706,2188 1660,2188 1615,2190 1569,2190 1524,2190 1479,2190"/>
+                <Baseline points="1479,2225 1524,2225 1569,2225 1615,2225 1660,2223 1706,2223 1751,2222 1797,2220 1842,2219 1888,2219 1933,2217 1978,2216 2024,2214 2069,2213 2115,2213 2160,2211 2206,2211 2251,2210 2297,2210 2342,2210 2388,2210"/>
+                <TextEquiv>
+                    <Unicode>Des actes crimes et delictz de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1551,2327 1593,2326 1635,2324 1677,2322 1719,2320 1761,2320 1803,2318 1845,2315 1887,2314 1929,2312 1971,2311 2013,2308 2055,2307 2097,2305 2139,2304 2181,2302 2223,2301 2265,2300 2307,2299 2349,2297 2391,2297 2391,2245 2349,2245 2307,2247 2265,2248 2223,2249 2181,2250 2139,2252 2097,2253 2055,2255 2013,2256 1971,2259 1929,2260 1887,2262 1845,2263 1803,2266 1761,2268 1719,2268 1677,2270 1635,2272 1593,2274 1551,2275"/>
+                <Baseline points="1551,2310 1593,2309 1635,2307 1677,2305 1719,2303 1761,2303 1803,2301 1845,2298 1887,2297 1929,2295 1971,2294 2013,2291 2055,2290 2097,2288 2139,2287 2181,2285 2223,2284 2265,2283 2307,2282 2349,2280 2391,2280"/>
+                <TextEquiv>
+                    <Unicode>Sortilege de Alix vefve </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1551,2399 1597,2398 1643,2398 1689,2396 1736,2395 1782,2393 1828,2392 1875,2390 1921,2389 1967,2387 2014,2386 2060,2384 2106,2383 2152,2383 2199,2381 2245,2381 2291,2381 2338,2383 2384,2383 2430,2385 2477,2387 2477,2335 2430,2333 2384,2331 2338,2331 2291,2329 2245,2329 2199,2329 2152,2331 2106,2331 2060,2332 2014,2334 1967,2335 1921,2337 1875,2338 1828,2340 1782,2341 1736,2343 1689,2344 1643,2346 1597,2346 1551,2347"/>
+                <Baseline points="1551,2382 1597,2381 1643,2381 1689,2379 1736,2378 1782,2376 1828,2375 1875,2373 1921,2372 1967,2370 2014,2369 2060,2367 2106,2366 2152,2366 2199,2364 2245,2364 2291,2364 2338,2366 2384,2366 2430,2368 2477,2370"/>
+                <TextEquiv>
+                    <Unicode>George Rossel de Boncourt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

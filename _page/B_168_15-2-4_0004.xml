@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-09T11:25:53.319+01:00</Created>
+        <LastChange>2021-12-10T15:03:03.276+01:00</LastChange>
+        <TranskribusMetadata docId="858542" pageId="32293607" pageNr="4" tsid="70307388" status="IN_PROGRESS" userId="48895" imgUrl="https://files.transkribus.eu/Get?id=GAFKZWIWKEVUWGSPJHARLKUI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VQCVCNFFEUTTZUSFMFOFSJQW" imageId="25645589"/>
+    </Metadata>
+    <Page imageFilename="B_168-15-2-4_0004.jpg" imageWidth="2654" imageHeight="3988">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646323987532" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1632,2249 1632,2486 2402,2486 2402,2249"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1632,2321 1670,2321 1708,2321 1747,2319 1785,2319 1823,2319 1862,2318 1900,2318 1938,2317 1977,2316 2015,2315 2053,2314 2092,2313 2130,2312 2168,2310 2207,2310 2245,2309 2283,2307 2322,2306 2360,2306 2399,2304 2399,2249 2360,2251 2322,2251 2283,2252 2245,2254 2207,2255 2168,2255 2130,2257 2092,2258 2053,2259 2015,2260 1977,2261 1938,2262 1900,2263 1862,2263 1823,2264 1785,2264 1747,2264 1708,2266 1670,2266 1632,2266"/>
+                <Baseline points="1632,2303 1670,2303 1708,2303 1747,2301 1785,2301 1823,2301 1862,2300 1900,2300 1938,2299 1977,2298 2015,2297 2053,2296 2092,2295 2130,2294 2168,2292 2207,2292 2245,2291 2283,2289 2322,2288 2360,2288 2399,2286"/>
+                <TextEquiv>
+                    <Unicode>Urphed de Annelin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1641,2406 1679,2403 1717,2400 1755,2399 1793,2396 1831,2395 1869,2394 1907,2393 1945,2391 1983,2391 2021,2391 2059,2391 2097,2391 2135,2391 2173,2391 2211,2391 2249,2391 2287,2391 2325,2391 2363,2391 2402,2391 2402,2336 2363,2336 2325,2336 2287,2336 2249,2336 2211,2336 2173,2336 2135,2336 2097,2336 2059,2336 2021,2336 1983,2336 1945,2336 1907,2338 1869,2339 1831,2340 1793,2341 1755,2344 1717,2345 1679,2348 1641,2351"/>
+                <Baseline points="1641,2388 1679,2385 1717,2382 1755,2381 1793,2378 1831,2377 1869,2376 1907,2375 1945,2373 1983,2373 2021,2373 2059,2373 2097,2373 2135,2373 2173,2373 2211,2373 2249,2373 2287,2373 2325,2373 2363,2373 2402,2373"/>
+                <TextEquiv>
+                    <Unicode> vefve Pierrat vauthier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1641,2486 1671,2484 1701,2483 1731,2481 1761,2480 1791,2479 1821,2478 1852,2477 1882,2476 1912,2475 1942,2474 1972,2473 2002,2472 2032,2472 2063,2471 2093,2471 2123,2471 2153,2469 2183,2469 2213,2469 2244,2469 2244,2414 2213,2414 2183,2414 2153,2414 2123,2416 2093,2416 2063,2416 2032,2417 2002,2417 1972,2418 1942,2419 1912,2420 1882,2421 1852,2422 1821,2423 1791,2424 1761,2425 1731,2426 1701,2428 1671,2429 1641,2431"/>
+                <Baseline points="1641,2468 1671,2466 1701,2465 1731,2463 1761,2462 1791,2461 1821,2460 1852,2459 1882,2458 1912,2457 1942,2456 1972,2455 2002,2454 2032,2454 2063,2453 2093,2453 2123,2453 2153,2451 2183,2451 2213,2451 2244,2451"/>
+                <TextEquiv>
+                    <Unicode> de Courthedoubs</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="2282,452 2282,619 2456,619 2456,452"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="2282,602 2311,610 2340,615 2369,617 2398,619 2427,619 2456,617 2456,467 2427,469 2398,469 2369,467 2340,465 2311,460 2282,452"/>
+                <Baseline points="2282,552 2311,560 2340,565 2369,567 2398,569 2427,569 2456,567"/>
+                <TextEquiv>
+                    <Unicode> </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

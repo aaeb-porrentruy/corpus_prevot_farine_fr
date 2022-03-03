@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-14T09:09:07.265+01:00</Created>
+        <LastChange>2021-12-16T09:35:05.649+01:00</LastChange>
+        <TranskribusMetadata docId="863318" pageId="32959465" pageNr="5" tsid="71072552" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=FNPKFPIMOPBAJLFRODRZIJGR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DRVJOGFCKAGUZWKEZJODZUOG" imageId="26287849"/>
+    </Metadata>
+    <Page imageFilename="B_168-15-23_0005.jpg" imageWidth="2572" imageHeight="3813">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646324005283" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1137,2015 1137,2224 2172,2224 2172,2015"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1137,2061 1186,2061 1235,2061 1285,2061 1334,2063 1384,2064 1433,2067 1483,2069 1532,2072 1582,2075 1631,2078 1680,2081 1730,2085 1779,2088 1829,2091 1878,2094 1928,2097 1977,2099 2027,2102 2076,2103 2126,2103 2126,2057 2076,2057 2027,2056 1977,2053 1928,2051 1878,2048 1829,2045 1779,2042 1730,2039 1680,2035 1631,2032 1582,2029 1532,2026 1483,2023 1433,2021 1384,2018 1334,2017 1285,2015 1235,2015 1186,2015 1137,2015"/>
+                <Baseline points="1137,2046 1186,2046 1235,2046 1285,2046 1334,2048 1384,2049 1433,2052 1483,2054 1532,2057 1582,2060 1631,2063 1680,2066 1730,2070 1779,2073 1829,2076 1878,2079 1928,2082 1977,2084 2027,2087 2076,2088 2126,2088"/>
+                <TextEquiv>
+                    <Unicode>Proces Criminel de Adelheit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1173,2129 1225,2129 1278,2131 1330,2133 1383,2135 1435,2138 1488,2141 1541,2144 1593,2147 1646,2151 1698,2154 1751,2157 1803,2161 1856,2163 1909,2165 1961,2166 2014,2168 2066,2168 2119,2166 2172,2165 2172,2119 2119,2120 2066,2122 2014,2122 1961,2120 1909,2119 1856,2117 1803,2115 1751,2111 1698,2108 1646,2105 1593,2101 1541,2098 1488,2095 1435,2092 1383,2089 1330,2087 1278,2085 1225,2083 1173,2083"/>
+                <Baseline points="1173,2114 1225,2114 1278,2116 1330,2118 1383,2120 1435,2123 1488,2126 1541,2129 1593,2132 1646,2136 1698,2139 1751,2142 1803,2146 1856,2148 1909,2150 1961,2151 2014,2153 2066,2153 2119,2151 2172,2150"/>
+                <TextEquiv>
+                    <Unicode>vefve Borquin Betteny de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1163,2210 1188,2210 1214,2212 1240,2212 1266,2212 1291,2212 1317,2212 1343,2212 1369,2212 1395,2213 1420,2213 1446,2216 1472,2218 1498,2220 1524,2224 1524,2173 1498,2169 1472,2167 1446,2165 1420,2162 1395,2162 1369,2161 1343,2161 1317,2161 1291,2161 1266,2161 1240,2161 1214,2161 1188,2159 1163,2159"/>
+                <Baseline points="1163,2193 1188,2193 1214,2195 1240,2195 1266,2195 1291,2195 1317,2195 1343,2195 1369,2195 1395,2196 1420,2196 1446,2199 1472,2201 1498,2203 1524,2207"/>
+                <TextEquiv>
+                    <Unicode>Boncourt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

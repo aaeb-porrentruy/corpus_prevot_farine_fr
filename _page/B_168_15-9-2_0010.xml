@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-10T08:19:57.588+01:00</Created>
+        <LastChange>2021-12-13T21:48:16.052+01:00</LastChange>
+        <TranskribusMetadata docId="859968" pageId="32403036" pageNr="10" tsid="70804818" status="DONE" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=EBPXZXRJGRXYHLEAKCTPXWTC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWKVOMPWFYQZBJGQSLKYXCNI" imageId="25748356"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-9_2_10.jpg" imageWidth="2754" imageHeight="3743">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646324049190" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="84,2932 84,3107 122,3107 122,2932"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="764,247 764,1133 2459,1133 2459,247"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} abbrev {offset:15; length:3;expansion:ladite;} abbrev {offset:34; length:1;expansion:par;}">
+                <Coords points="765,320 842,320 919,319 996,317 1074,316 1151,314 1228,313 1305,311 1383,310 1460,308 1537,308 1614,307 1692,307 1769,307 1846,308 1923,310 2001,313 2078,316 2155,320 2232,325 2310,331 2310,271 2232,265 2155,260 2078,256 2001,253 1923,250 1846,248 1769,247 1692,247 1614,247 1537,248 1460,248 1383,250 1305,251 1228,253 1151,254 1074,256 996,257 919,259 842,260 765,260"/>
+                <Baseline points="765,300 842,300 919,299 996,297 1074,296 1151,294 1228,293 1305,291 1383,290 1460,288 1537,288 1614,287 1692,287 1769,287 1846,288 1923,290 2001,293 2078,296 2155,300 2232,305 2310,311"/>
+                <TextEquiv>
+                    <Unicode>Dit quen apres lad Agatte passant p </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} textStyle {offset:20; length:3;strikethrough:true;}">
+                <Coords points="764,406 840,404 916,403 992,401 1069,400 1145,398 1221,396 1297,394 1374,392 1450,392 1526,391 1602,391 1679,389 1755,391 1831,391 1907,394 1984,395 2060,399 2136,403 2212,409 2289,415 2289,355 2212,349 2136,343 2060,339 1984,335 1907,334 1831,331 1755,331 1679,329 1602,331 1526,331 1450,332 1374,332 1297,334 1221,336 1145,338 1069,340 992,341 916,343 840,344 764,346"/>
+                <Baseline points="764,386 840,384 916,383 992,381 1069,380 1145,378 1221,376 1297,374 1374,372 1450,372 1526,371 1602,371 1679,369 1755,371 1831,371 1907,374 1984,375 2060,379 2136,383 2212,389 2289,395"/>
+                <TextEquiv>
+                    <Unicode>devant le moulin ou dep la fille de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;} abbrev {offset:34; length:1;expansion:qui;}">
+                <Coords points="771,488 847,487 924,487 1001,485 1078,485 1155,484 1231,484 1308,482 1385,482 1462,482 1539,482 1615,482 1692,482 1769,484 1846,485 1923,487 1999,490 2076,492 2153,497 2230,500 2307,506 2307,446 2230,440 2153,437 2076,432 1999,430 1923,427 1846,425 1769,424 1692,422 1615,422 1539,422 1462,422 1385,422 1308,422 1231,424 1155,424 1078,425 1001,425 924,427 847,427 771,428"/>
+                <Baseline points="771,468 847,467 924,467 1001,465 1078,465 1155,464 1231,464 1308,462 1385,462 1462,462 1539,462 1615,462 1692,462 1769,464 1846,465 1923,467 1999,470 2076,472 2153,477 2230,480 2307,486"/>
+                <TextEquiv>
+                    <Unicode>deposante questoyt eagee de 3 ans q </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="789,575 871,578 953,580 1035,581 1117,581 1199,581 1281,581 1363,580 1445,578 1527,577 1609,576 1691,575 1773,574 1855,574 1937,575 2019,577 2101,579 2183,583 2265,589 2348,595 2348,535 2265,529 2183,523 2101,519 2019,517 1937,515 1855,514 1773,514 1691,515 1609,516 1527,517 1445,518 1363,520 1281,521 1199,521 1117,521 1035,521 953,520 871,518 789,515"/>
+                <Baseline points="789,555 871,558 953,560 1035,561 1117,561 1199,561 1281,561 1363,560 1445,558 1527,557 1609,556 1691,555 1773,554 1855,554 1937,555 2019,557 2101,559 2183,563 2265,569 2348,575"/>
+                <TextEquiv>
+                    <Unicode>mangeoit du pain Que estoit et lui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;} unclear {offset:36; length:5;}">
+                <Coords points="803,676 885,674 968,673 1051,673 1134,670 1217,668 1299,667 1382,665 1465,663 1548,661 1631,661 1713,659 1796,659 1879,659 1962,661 2045,662 2127,665 2210,670 2293,674 2376,681 2459,689 2459,629 2376,621 2293,614 2210,610 2127,605 2045,602 1962,601 1879,599 1796,599 1713,599 1631,601 1548,601 1465,603 1382,605 1299,607 1217,608 1134,610 1051,613 968,613 885,614 803,616"/>
+                <Baseline points="803,656 885,654 968,653 1051,653 1134,650 1217,648 1299,647 1382,645 1465,643 1548,641 1631,641 1713,639 1796,639 1879,639 1962,641 2045,642 2127,645 2210,650 2293,654 2376,661 2459,669"/>
+                <TextEquiv>
+                    <Unicode>ayant dit quelle mangeoit bien a la certe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;} abbrev {offset:0; length:3;expansion:sadite;}">
+                <Coords points="800,763 877,762 954,760 1031,759 1108,757 1185,756 1262,754 1340,753 1417,751 1494,751 1571,751 1648,751 1725,751 1802,751 1880,753 1957,753 2034,754 2111,757 2188,760 2265,763 2343,766 2343,709 2265,706 2188,703 2111,700 2034,697 1957,696 1880,696 1802,694 1725,694 1648,694 1571,694 1494,694 1417,694 1340,696 1262,697 1185,699 1108,700 1031,702 954,703 877,705 800,706"/>
+                <Baseline points="800,744 877,743 954,741 1031,740 1108,738 1185,737 1262,735 1340,734 1417,732 1494,732 1571,732 1648,732 1725,732 1802,732 1880,734 1957,734 2034,735 2111,738 2188,741 2265,744 2343,747"/>
+                <TextEquiv>
+                    <Unicode>sad fille devint fort malade et debille </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="791,841 867,838 943,836 1019,835 1096,834 1172,834 1248,834 1324,835 1401,837 1477,838 1553,840 1629,841 1706,843 1782,846 1858,847 1934,850 2011,852 2087,853 2163,855 2239,856 2316,856 2316,799 2239,799 2163,798 2087,796 2011,795 1934,793 1858,790 1782,789 1706,786 1629,784 1553,783 1477,781 1401,780 1324,778 1248,777 1172,777 1096,777 1019,778 943,779 867,781 791,784"/>
+                <Baseline points="791,822 867,819 943,817 1019,816 1096,815 1172,815 1248,815 1324,816 1401,818 1477,819 1553,821 1629,822 1706,824 1782,827 1858,828 1934,831 2011,833 2087,834 2163,836 2239,837 2316,837"/>
+                <TextEquiv>
+                    <Unicode>et mourut deans huict jours en apres. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;} textStyle {offset:9; length:2;strikethrough:true;}">
+                <Coords points="783,930 859,931 935,933 1011,934 1087,936 1163,937 1239,939 1316,939 1392,940 1468,942 1544,943 1620,945 1696,946 1772,948 1849,949 1925,951 2001,952 2077,954 2153,955 2229,957 2306,960 2306,902 2229,899 2153,897 2077,896 2001,894 1925,893 1849,891 1772,890 1696,888 1620,887 1544,885 1468,884 1392,882 1316,881 1239,881 1163,879 1087,878 1011,876 935,875 859,873 783,872"/>
+                <Baseline points="783,911 859,912 935,914 1011,915 1087,917 1163,918 1239,920 1316,920 1392,921 1468,923 1544,924 1620,926 1696,927 1772,929 1849,930 1925,932 2001,933 2077,935 2153,936 2229,938 2306,941"/>
+                <TextEquiv>
+                    <Unicode>Et tient et deposante telle Inimitie </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;} abbrev {offset:24; length:1;expansion:que;}">
+                <Coords points="804,1018 882,1020 961,1023 1040,1024 1119,1027 1198,1029 1277,1032 1356,1033 1435,1035 1514,1036 1592,1038 1671,1039 1750,1039 1829,1041 1908,1041 1987,1041 2066,1041 2145,1041 2224,1039 2303,1038 2303,980 2224,981 2145,983 2066,983 1987,983 1908,983 1829,983 1750,981 1671,981 1592,980 1514,978 1435,977 1356,975 1277,974 1198,971 1119,969 1040,966 961,965 882,962 804,960"/>
+                <Baseline points="804,999 882,1001 961,1004 1040,1005 1119,1008 1198,1010 1277,1013 1356,1014 1435,1016 1514,1017 1592,1019 1671,1020 1750,1020 1829,1022 1908,1022 1987,1022 2066,1022 2145,1022 2224,1020 2303,1019"/>
+                <TextEquiv>
+                    <Unicode>provenir a raison de ce q elle deposante </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;} abbrev {offset:17; length:3;expansion:ledit;}">
+                <Coords points="804,1103 860,1106 917,1108 974,1109 1030,1112 1087,1114 1144,1117 1200,1118 1257,1121 1314,1123 1371,1125 1427,1127 1484,1129 1541,1130 1597,1132 1654,1132 1711,1133 1767,1133 1824,1133 1881,1133 1938,1133 1938,1073 1881,1073 1824,1073 1767,1073 1711,1073 1654,1072 1597,1072 1541,1070 1484,1069 1427,1067 1371,1065 1314,1063 1257,1061 1200,1058 1144,1057 1087,1054 1030,1052 974,1049 917,1048 860,1046 804,1043"/>
+                <Baseline points="804,1083 860,1086 917,1088 974,1089 1030,1092 1087,1094 1144,1097 1200,1098 1257,1101 1314,1103 1371,1105 1427,1107 1484,1109 1541,1110 1597,1112 1654,1112 1711,1113 1767,1113 1824,1113 1881,1113 1938,1113"/>
+                <TextEquiv>
+                    <Unicode>lui avoit refuse led laict </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="2387,3514 2387,3667 2453,3667 2453,3514"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2387,3667 2420,3665 2453,3664 2453,3514 2420,3515 2387,3517"/>
+                <Baseline points="2387,3617 2420,3615 2453,3614"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

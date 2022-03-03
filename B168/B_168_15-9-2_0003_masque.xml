@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-10T08:20:05.021+01:00</Created>
+        <LastChange>2021-12-13T23:29:20.103+01:00</LastChange>
+        <TranskribusMetadata docId="859968" pageId="32403065" pageNr="3" tsid="70812011" status="DONE" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=UXGCWPWYTVUDMPXHIPKPLIQY&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=NZXHBPAZLQBUQDIPNWMGPOZN" imageId="25748385"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-9_2_03.jpg" imageWidth="2754" imageHeight="3743">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646324049006" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="910,1192 910,1192 910,1192 910,1192"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r2" custom="readingOrder {index:1;}">
+            <Coords points="807,1222 807,1226 807,1226 807,1222"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="218,216 218,647 782,647 782,216"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="231,274 696,256 696,216 231,234 231,274"/>
+                <Baseline points="231,261 515,257 696,243"/>
+                <TextEquiv>
+                    <Unicode>Marguerite fille </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="246,337 722,312 722,272 246,297 246,337"/>
+                <Baseline points="246,324 722,299"/>
+                <TextEquiv>
+                    <Unicode>Anthoine musat de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="240,400 624,379 624,339 240,360 240,400"/>
+                <Baseline points="240,387 624,366"/>
+                <TextEquiv>
+                    <Unicode>La Rouge terre </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="224,466 750,453 750,413 224,426 224,466"/>
+                <Baseline points="231,453 750,440"/>
+                <TextEquiv>
+                    <Unicode>La chambeliere velt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;}">
+                <Coords points="246,526 366,520 366,480 246,486 246,526"/>
+                <Baseline points="246,513 366,507"/>
+                <TextEquiv>
+                    <Unicode>Riter </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;}">
+                <Coords points="218,588 782,569 782,532 218,551 218,588"/>
+                <Baseline points="218,576 641,554 782,557"/>
+                <TextEquiv>
+                    <Unicode>Claudine de Froide- </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="248,639 417,647 417,610 248,602 248,639"/>
+                <Baseline points="248,627 417,635"/>
+                <TextEquiv>
+                    <Unicode>vaulx </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="761,199 761,3249 2448,3249 2448,199"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="1103,256 1899,276 1899,219 1103,199 1103,256"/>
+                <Baseline points="1103,237 1540,254 1899,257"/>
+                <TextEquiv>
+                    <Unicode>Du 12 daougst 1609 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;} abbrev {offset:0; length:9;expansion:Informations;} abbrev {offset:25; length:4;expansion:Contre;} textStyle {offset:30; length:6;underlined:true;}">
+                <Coords points="993,375 1975,396 2325,391 2396,388 2396,331 1975,339 993,318 993,375"/>
+                <Baseline points="993,356 1975,377 2396,369"/>
+                <TextEquiv>
+                    <Unicode>Informats prinse doffice Cont Agatte </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;} textStyle {offset:15; length:7;underlined:true;} textStyle {offset:26; length:12;underlined:true;}">
+                <Coords points="1004,447 2118,473 2397,476 2397,430 1004,401 1004,447"/>
+                <Baseline points="1004,432 2397,461"/>
+                <TextEquiv>
+                    <Unicode>femme de henri vouelin de Beurnevesain </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;} textStyle {offset:20; length:2;strikethrough:true;}">
+                <Coords points="1020,516 2190,542 2397,539 2397,493 1364,472 1020,470 1020,516"/>
+                <Baseline points="1020,501 2190,527 2397,524"/>
+                <TextEquiv>
+                    <Unicode>Sur les faiclz dont Il est accusee de vouloir </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:4;}">
+                <Coords points="1026,588 2351,606 2421,604 2421,555 1026,539 1026,588"/>
+                <Baseline points="1026,572 2142,593 2421,588"/>
+                <TextEquiv>
+                    <Unicode>mectre le feu es maisons des freres de son </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:5;}">
+                <Coords points="1029,658 1199,657 1199,608 1029,609 1029,658"/>
+                <Baseline points="1029,642 1199,641"/>
+                <TextEquiv>
+                    <Unicode>‸ mari </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:6;}">
+                <Coords points="1353,826 1583,828 1596,852 1635,826 1635,769 1481,772 1470,753 1353,769 1353,826"/>
+                <Baseline points="1353,807 1635,807"/>
+                <TextEquiv>
+                    <Unicode>‸ son mari </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:7;} abbrev {offset:0; length:3;expansion:Ledit;} abbrev {offset:56; length:5;expansion:presentce;}">
+                <Coords points="761,924 2294,922 2294,865 914,862 831,819 755,822 761,924"/>
+                <Baseline points="761,905 1220,896 2294,903"/>
+                <TextEquiv>
+                    <Unicode>Led henri vouelin [même signe ut supra!] a librement en pntce des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:8;} abbrev {offset:28; length:1;expansion:que;} abbrev {offset:30; length:3;expansion:sadite;}">
+                <Coords points="812,999 2339,996 2339,939 812,942 812,999"/>
+                <Baseline points="812,980 2339,977"/>
+                <TextEquiv>
+                    <Unicode>tesmoings suigvans declaire q sad femme </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:9;} abbrev {offset:6; length:1;expansion:par;} abbrev {offset:8; length:6;expansion:plusieurs;}">
+                <Coords points="800,1078 2276,1072 2276,1015 800,1021 800,1078"/>
+                <Baseline points="800,1059 2276,1053"/>
+                <TextEquiv>
+                    <Unicode>avoit p plusrs et reyterees fois dit quelle </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:10;}">
+                <Coords points="2324,1111 2396,1111 2396,1081 2324,1081 2324,1111"/>
+                <Baseline points="2324,1101 2396,1101"/>
+                <TextEquiv>
+                    <Unicode>lui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:11;} textStyle {offset:41; length:4;strikethrough:true;} abbrev {offset:41; length:4;expansion:sondit;}">
+                <Coords points="788,1164 2399,1150 2399,1120 949,1129 788,1134 788,1164"/>
+                <Baseline points="788,1154 1432,1140 2399,1140"/>
+                <TextEquiv>
+                    <Unicode>mectroit le feu es maisons des freres de sond </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:12;} textStyle {offset:0; length:4;strikethrough:true;} abbrev {offset:24; length:1;expansion:par;}">
+                <Coords points="817,1244 2430,1250 2430,1195 817,1189 817,1244"/>
+                <Baseline points="840,1223 2430,1232"/>
+                <TextEquiv>
+                    <Unicode>mari. Et quelle sestoit p deux ou trois Nuit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:13;}">
+                <Coords points="794,1323 1710,1338 2322,1359 2322,1302 1710,1281 794,1266 794,1323"/>
+                <Baseline points="794,1304 1710,1319 2322,1340"/>
+                <TextEquiv>
+                    <Unicode>voulsus relever pour mectre en execution </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:14;} abbrev {offset:31; length:1;expansion:que;}">
+                <Coords points="815,1413 1726,1424 2217,1444 2217,1387 1726,1367 815,1356 815,1413"/>
+                <Baseline points="815,1394 1726,1405 2217,1425"/>
+                <TextEquiv>
+                    <Unicode>telle entreprinse ne fust este q lui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:15;} abbrev {offset:31; length:1;expansion:que;} abbrev {offset:33; length:4;expansion:lesdits;}">
+                <Coords points="806,1509 1494,1516 2337,1546 2337,1489 1494,1459 806,1452 806,1509"/>
+                <Baseline points="806,1490 1494,1497 2337,1527"/>
+                <TextEquiv>
+                    <Unicode>lempescha Et ce a raison de ce q lesd </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:16;} abbrev {offset:12; length:3;expansion:comme;}">
+                <Coords points="816,1606 1280,1601 2364,1635 2364,1578 1280,1544 816,1549 816,1606"/>
+                <Baseline points="816,1587 1280,1582 2364,1616"/>
+                <TextEquiv>
+                    <Unicode>ses freres (coe elle disoit) la chargeoyent </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:17;}">
+                <Coords points="821,1711 1145,1707 1145,1650 821,1654 821,1711"/>
+                <Baseline points="821,1692 1145,1688"/>
+                <TextEquiv>
+                    <Unicode>dinjure. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:18;}">
+                <Coords points="815,1914 2304,1932 2304,1875 963,1857 879,1819 805,1819 815,1914"/>
+                <Baseline points="815,1895 1485,1896 2304,1913"/>
+                <TextEquiv>
+                    <Unicode>Jehan perrin Girard voueble de Beurnevesain </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l20" custom="readingOrder {index:19;}">
+                <Coords points="825,1984 1513,1978 2355,2001 2355,1952 1513,1929 825,1935 825,1984"/>
+                <Baseline points="825,1968 1513,1962 2355,1985"/>
+                <TextEquiv>
+                    <Unicode>depose Quil y a environ quinze ans Que </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l21" custom="readingOrder {index:20;} abbrev {offset:0; length:3;expansion:ladite;} textStyle {offset:23; length:4;strikethrough:true;}">
+                <Coords points="825,2058 2286,2064 2286,2015 825,2009 825,2058"/>
+                <Baseline points="825,2042 2286,2048"/>
+                <TextEquiv>
+                    <Unicode>lad Agatte est chargee dune destre une </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l22" custom="readingOrder {index:21;}">
+                <Coords points="762,2195 841,2197 992,2145 2415,2176 2415,2119 834,2086 762,2195"/>
+                <Baseline points="834,2124 1703,2136 2415,2157"/>
+                <TextEquiv>
+                    <Unicode>sorciere. Et dit que ayant ung serviteur </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l23" custom="readingOrder {index:22;} abbrev {offset:25; length:1;expansion:par;}">
+                <Coords points="851,2232 1330,2226 2370,2248 2370,2191 1010,2170 851,2175 851,2232"/>
+                <Baseline points="851,2213 1330,2207 2370,2229"/>
+                <TextEquiv>
+                    <Unicode>que chassoit des chevaux p decoste Le Curtil </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l24" custom="readingOrder {index:23;}">
+                <Coords points="845,2317 1215,2308 2251,2328 2325,2323 2325,2266 2029,2274 993,2254 845,2260 845,2317"/>
+                <Baseline points="845,2298 1215,2289 2029,2312 2325,2304"/>
+                <TextEquiv>
+                    <Unicode>dicelle, quicelle champat quelque chose </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l25" custom="readingOrder {index:24;}">
+                <Coords points="824,2401 1179,2388 1464,2395 1820,2415 1883,2446 1962,2422 2104,2427 2159,2452 2231,2453 2247,2401 1464,2365 966,2362 879,2341 808,2345 824,2401"/>
+                <Baseline points="824,2391 1250,2379 2247,2421"/>
+                <TextEquiv>
+                    <Unicode>dont lung de ses plus beaulx chevaulx </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l26" custom="readingOrder {index:25;}">
+                <Coords points="1924,2463 2121,2466 2121,2436 1924,2433 1924,2463"/>
+                <Baseline points="1965,2453 2121,2456"/>
+                <TextEquiv>
+                    <Unicode>jument</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l28" custom="readingOrder {index:26;}">
+                <Coords points="797,2488 1536,2490 1852,2503 2014,2528 2089,2515 2406,2536 2406,2506 2351,2459 2272,2454 2168,2491 1536,2460 983,2455 904,2428 797,2429 797,2488"/>
+                <Baseline points="825,2478 1536,2480 2406,2526"/>
+                <TextEquiv>
+                    <Unicode>devint a contreti. Laquelle ^ depuis fust </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l29" custom="readingOrder {index:27;} abbrev {offset:9; length:1;expansion:par;} abbrev {offset:24; length:1;expansion:qui;} abbrev {offset:35; length:1;expansion:que;}">
+                <Coords points="825,2575 1798,2600 2322,2647 2322,2590 1798,2543 825,2518 825,2575"/>
+                <Baseline points="825,2556 1798,2581 2322,2628"/>
+                <TextEquiv>
+                    <Unicode>medicine p ung vacheron q declaira q </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l30" custom="readingOrder {index:28;} abbrev {offset:0; length:3;expansion:ladite;} textStyle {offset:18; length:2;strikethrough:true;}">
+                <Coords points="843,2670 1485,2687 2448,2722 2448,2665 1485,2630 843,2613 843,2670"/>
+                <Baseline points="843,2651 2448,2703"/>
+                <TextEquiv>
+                    <Unicode>lad jument estoit ?? grevee et laquelle mourut </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l31" custom="readingOrder {index:29;} abbrev {offset:12; length:1;expansion:que;}">
+                <Coords points="741,2769 911,2760 2331,2821 2331,2773 911,2712 741,2721 741,2769"/>
+                <Baseline points="837,2739 2331,2805"/>
+                <TextEquiv>
+                    <Unicode>Dit de plus q la femme Jehan muat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l32" custom="readingOrder {index:30;} abbrev {offset:8; length:3;expansion:audit;}">
+                <Coords points="828,2857 1491,2869 1878,2897 2347,2885 2349,2822 1823,2834 1325,2806 828,2800 828,2857"/>
+                <Baseline points="828,2838 1325,2844 1839,2870 2284,2874 2324,2881"/>
+                <TextEquiv>
+                    <Unicode>monstra aud Henri voelin un veau</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l34" custom="readingOrder {index:31;}">
+                <Coords points="1888,2924 2088,2925 2088,2894 1888,2893 1888,2924"/>
+                <Baseline points="1910,2910 2088,2915"/>
+                <TextEquiv>
+                    <Unicode>celle </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l35" custom="readingOrder {index:32;} abbrev {offset:12; length:3;expansion:ladite;} textStyle {offset:23; length:8;strikethrough:true;}">
+                <Coords points="819,2934 1287,2938 2379,2968 2379,2938 1287,2908 819,2904 819,2934"/>
+                <Baseline points="819,2924 1287,2928 1989,2955 2379,2958"/>
+                <TextEquiv>
+                    <Unicode>ou y estant lad Agatte laquelle frappa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l36" custom="readingOrder {index:33;} abbrev {offset:0; length:3;expansion:ledit;} abbrev {offset:23; length:1;expansion:que;} abbrev {offset:37; length:3;expansion:ledit;}">
+                <Coords points="831,3042 1201,3037 2238,3066 2313,3064 2313,3007 979,2980 831,2985 831,3042"/>
+                <Baseline points="831,3023 1201,3018 1942,3044 2313,3045"/>
+                <TextEquiv>
+                    <Unicode>led veau dune vergette q incontinent led </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l37" custom="readingOrder {index:34;}">
+                <Coords points="760,3126 1310,3126 2388,3160 2388,3103 1310,3069 760,3069 760,3126"/>
+                <Baseline points="848,3105 1310,3107 2388,3141"/>
+                <TextEquiv>
+                    <Unicode>veau vint accoutrety et morut Et disoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l38" custom="readingOrder {index:35;} abbrev {offset:0; length:3;expansion:Ladite;} abbrev {offset:10; length:3;expansion:dudit;} abbrev {offset:31; length:1;expansion:que;} abbrev {offset:33; length:3;expansion:ladite;}">
+                <Coords points="771,3243 1319,3220 2339,3249 2339,3192 1084,3166 771,3186 771,3243"/>
+                <Baseline points="771,3224 927,3210 1319,3201 2339,3230"/>
+                <TextEquiv>
+                    <Unicode>Lad femme dud muat ouvertement q lad </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Du 12 daougst 1609 
+Informats prinse doffice Cont Agatte 
+femme de henri vouelin de Beurnevesain 
+Sur les faiclz dont Il est accusee de vouloir 
+mectre le feu es maisons des freres de son 
+‸ mari 
+‸ son mari 
+Led henri vouelin [même signe ut supra!] a librement en pntce des
+tesmoings suigvans declaire q sad femme 
+avoit p plusrs et reyterees fois dit quelle 
+lui 
+mectroit le feu es maisons des freres de sond 
+mari. Et quelle sestoit p deux ou trois Nuit 
+voulsus relever pour mectre en execution 
+telle entreprinse ne fust este q lui 
+lempescha Et ce a raison de ce q lesd 
+ses freres (coe elle disoit) la chargeoyent 
+dinjure. 
+Jehan perrin Girard voueble de Beurnevesain 
+depose Quil y a environ quinze ans Que 
+lad Agatte est chargee dune destre une 
+sorciere. Et dit que ayant ung serviteur 
+que chassoit des chevaux p decoste Le Curtil 
+dicelle, quicelle champat quelque chose 
+dont lung de ses plus beaulx chevaulx 
+jument
+devint a contreti. Laquelle ^ depuis fust 
+medicine p ung vacheron q declaira q 
+lad jument estoit ?? grevee et laquelle mourut 
+Dit de plus q la femme Jehan muat 
+monstra aud Henri voelin un veau
+celle 
+ou y estant lad Agatte laquelle frappa 
+led veau dune vergette q incontinent led 
+veau vint accoutrety et morut Et disoit 
+Lad femme dud muat ouvertement q lad </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
