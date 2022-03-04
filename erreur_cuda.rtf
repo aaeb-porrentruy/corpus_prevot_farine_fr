@@ -1,0 +1,263 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Menlo-Bold;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red180\green36\blue25;\red60\green95\blue255;
+\red41\green255\blue255;\red252\green33\blue24;\red225\green167\blue163;\red217\green217\blue164;\red159\green160\blue28;
+\red74\green0\blue255;\red47\green231\blue26;\red153\green153\blue153;\red44\green238\blue235;\red200\green20\blue201;
+\red46\green174\blue187;\red47\green180\blue29;}
+{\*\expandedcolortbl;;\csgray\c0;\cssrgb\c76411\c21697\c12527;\cssrgb\c29815\c47883\c100000;
+\cssrgb\c11659\c100000\c100000;\cssrgb\c100000\c23177\c11603;\csgenericrgb\c88173\c65632\c63927;\csgenericrgb\c84938\c85152\c64444;\cssrgb\c68469\c68012\c14211;
+\cssrgb\c36733\c20484\c100000;\cssrgb\c17866\c90514\c12813;\csgenericrgb\c60000\c60000\c60000;\cssrgb\c15687\c93977\c93914;\cssrgb\c83397\c23074\c82666;
+\cssrgb\c20199\c73241\c78251;\cssrgb\c20241\c73898\c14950;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww13500\viewh11100\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \CocoaLigature0 (base) MacBook-Air-4:~ elodiepaupe$ ssh paupeel1@login1.yggdrasil.hpc.unige.ch\
+(paupeel1@login1.yggdrasil.hpc.unige.ch) Password: \
+Last login: Fri Mar  4 09:30:11 2022 from xdsl-188-155-117-164.adslplus.ch\
+ \\ \\   / /            | |             (_) |\
+  \\ \\_/ /_ _  __ _  __| |_ __ __ _ ___ _| |\
+   \\   / _` |/ _` |/ _` | '__/ _` / __| | |\
+    | | (_| | (_| | (_| | | | (_| \\__ \\ | |\
+    |_|\\__, |\\__, |\\__,_|_|  \\__,_|___/_|_|\
+        __/ | __/ |                        \
+       |___/ |___/                         \
+\
+  _             _      __ \
+ | |           (_)    /_ |\
+ | | ___   __ _ _ _ __ | |\
+ | |/ _ \\ / _` | | '_ \\| |\
+ | | (_) | (_| | | | | | |\
+ |_|\\___/ \\__, |_|_| |_|_|\
+           __/ |          \
+          |___/           \
+\
+\
+ monitoring and documentation: http://baobab.unige.ch\
+ support: hpc@unige.ch\
+[paupeel1@login1.yggdrasil ~]$ nano ~/.bashrc\
+[paupeel1@login1.yggdrasil ~]$ module Python/3.8.6\
+\
+Modules based on Lua: Version 8.2.7  2019-11-30 09:41 -06:00\
+    by Robert McLay mclay@tacc.utexas.edu\
+\
+module [options] sub-command [args ...]\
+\
+Sous-commandes d'aide :\
+-----------------------\
+  help                              affiche ce message\
+  help                module [...]  affiche le message d'aide du module\
+                                    correspondant\
+\
+Sous-commandes de chargement/d\'e9chargement :\
+-------------------------------------------\
+  load | add          module [...]  charge un ou des modules\
+  try-load | try-add  module [...]  Ajoute un ou des modules, n'affiche pas\
+                                    d'erreur si le module n'est pas trouv\'e9\
+  del | unload        module [...]  Enl\'e8ve un ou des modules, n'affiche pas\
+                                    d'erreur si le module n'est pas trouv\'e9\
+  swap | sw | switch  m1 m2         enl\'e8ve m1 et charge m2\
+  purge                             enl\'e8ve tous les modules\
+  refresh                           rafra\'eechi les alias de la liste\
+                                    courante de modules.\
+  update                            rafra\'eechi tous les modules\
+                                    pr\'e9sentement charg\'e9s.\
+\
+Sous-commandes pour lister / chercher :\
+---------------------------------------\
+  list                              Liste les modules charg\'e9s\
+  list                s1 s2 ...     Liste les modules charg\'e9s qui\
+                                    correspondent \'e0 la recherche\
+  avail | av                        Liste les modules disponibles\
+  avail | av          string        Liste les modules disponibles qui\
+                                    contiennent "string".\
+  spider                            Liste tous les modules existants\
+  spider              module        Liste toutes les versions d'un module\
+  spider              string        Liste tous les modules qui contiennent\
+                                    "string".\
+  spider              name/version  Information d\'e9taill\'e9e \'e0 propos de\
+                                    cette version du module.\
+  whatis              module        Affiche l'information "whatis" \'e0 propos\
+                                    de ce module\
+  keyword | key       string        Cherche tous les noms et descriptions\
+                                    ("whatis") qui contiennent "string".\
+\
+Chercher avec Lmod:\
+-------------------\
+  Toutes les sous-commandes de recherche (spider, list, avail, keyword) supportent les expressions r\'e9guli\'e8res :\
+  \
+\
+  -r spider           '^p'          Trouve tous les modules qui d\'e9butent\
+                                    par `p' or `P'\
+  -r spider           mpi           Trouve tous les modules qui ont "mpi"\
+                                    dans leur nom.\
+  -r spider           'mpi$         Trouve tous les modules dont le nom se\
+                                    termine par "mpi".\
+\
+G\'e9rer une collection de modules :\
+---------------------------------\
+  save | s                          Sauvegarde la liste actuelle de modules\
+                                    vers une collection "default" d\'e9finie\
+                                    par l'usage.\
+  save | s            name          Sauvegarde la liste actuelle de modules\
+                                    vers une collection nomm\'e9e "name".\
+  reset                             Identique \'e0 "restore system"\
+  restore | r                       Restaure les modules de la collection\
+                                    par d\'e9faut de l'usager si elle existe,\
+                                    ou du syst\'e8me sinon.\
+  restore | r         name          Restaure les modules de la collection\
+                                    nomm\'e9e "name".\
+  restore             system        Restaure les modules \'e0 l'\'e9tat par\
+                                    d\'e9faut du syst\'e8me.\
+  savelist                          Affiche la liste des collections\
+                                    sauvegard\'e9es.\
+  describe | mcc      name          D\'e9crit le contenu d'une collection.\
+  disable             name          Disable (i.e. remove) a collection.\
+\
+Sous-commandes d\'e9su\'e8tes :\
+-------------------------\
+  getdefault          [name]        charge la collection nomm\'e9e "name" de\
+                                    l'usager, ou la collection par d\'e9faut\
+                                    si aucun nom n'est fourni.\
+                                    ===> Utilisez plut\'f4t "restore" <====\
+  setdefault          [name]        sauvegarde liste actuelle de modules\
+                                    dans la collection "name" si un nom est\
+                                    donn\'e9. Si aucun nom n'est donn\'e9,\
+                                    sauvegarde la liste en tant que liste\
+                                    par d\'e9faut pour l'usager.\
+                                    ===> Utilisez plut\'f4t "save". <====\
+\
+Sous-commandes diverses:\
+---------------------------\
+  is-loaded           modulefile    return a true status if module is loaded\
+  is-avail            modulefile    return a true status if module can be\
+                                    loaded\
+  show                modulefile    affiche les commandes contenues dans le\
+                                    fichier de module.\
+  use [-a]            path          Ajoute un chemin au d\'e9but (prepend) ou\
+                                    \'e0 la fin (append) de la variable\
+                                    d'environnement MODULEPATH.\
+  unuse               path          Enl\'e8ve le chemin de la variable\
+                                    d'environnement MODULEPATH.\
+  tablelist                         Affiche la liste des modules actifs sous\
+                                    la forme d'une table lua.\
+\
+Variables d'environnement importantes :\
+---------------------------------------\
+  LMOD_COLORIZE                     Si la valeur est "YES" alors Lmod\
+                                    affichera les propri\'e9t\'e9s et\
+                                    avertissements en couleur.\
+\
+    --------------------------------------------------------------------------\
+\
+Sites web de Lmod\
+\
+  Documentation:    http://lmod.readthedocs.org\
+  Github:           https://github.com/TACC/Lmod\
+  Sourceforge:      https://lmod.sf.net\
+  TACC Homepage:    https://www.tacc.utexas.edu/research-development/tacc-projects/lmod\
+\
+  Pour rapporter un bogue, veuillez lire 
+\f1\b \cf3 http://lmod.readthedocs.io/en/latest/075_bug_reporting.html
+\f0\b0 \cf2 \
+    --------------------------------------------------------------------------\
+\
+\
+[paupeel1@login1.yggdrasil ~]$ python3 -m venv kraken-env\
+Error: Command '['/home/users/p/paupeel1/kraken-env/bin/python3', '-Im', 'ensurepip', '--upgrade', '--default-pip']' returned non-zero exit status 127.\
+[paupeel1@login1.yggdrasil ~]$ module load fosscuda/2020b Python/3.8.6\
+[paupeel1@login1.yggdrasil ~]$ python3 -m venv kraken-env\
+[paupeel1@login1.yggdrasil ~]$ source ~/kraken-env/bin/activate\
+(kraken-env) [paupeel1@login1.yggdrasil ~]$ kraken --version\
+kraken, version 4.0.0\
+(kraken-env) [paupeel1@login1.yggdrasil ~]$ git clone https://github.com/aaeb-porrentruy/corpus_prevot_farine_fr/\
+fatal: destination path 'corpus_prevot_farine_fr' already exists and is not an empty directory.\
+(kraken-env) [paupeel1@login1.yggdrasil ~]$ ls\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf4 corpus_prevot_farine_fr\cf2   \cf4 kraken-env\cf2   \cf5 scratch\cf2 \
+(kraken-env) [paupeel1@login1.yggdrasil ~]$ cd corpus_prevot_farine_fr/\
+(kraken-env) [paupeel1@login1.yggdrasil corpus_prevot_farine_fr]$ ls\
+\cf4 _alto\cf2   \cf4 B168\cf2   \cf4 _page\cf2   README.md  \cf4 Transcriptions\cf2   \cf6 Transcriptions.zip\cf2 \
+(kraken-env) [paupeel1@login1.yggdrasil corpus_prevot_farine_fr]$ git pull\
+(kraken-env) [paupeel1@login1.yggdrasil corpus_prevot_farine_fr]$ ls\
+\cf4 _alto\cf2                                     \cf4 _page\cf2 \
+\cf4 B168\cf2                                      README.md\
+\cf4 B168_abrev\cf2                                test.txt\
+\cf4 corpus_abr\'e9v_transcription \'e0 normaliser\cf2   train.txt\
+\cf4 corpus_abr\'e9v_transcriptions normalis\'e9es\cf2   \cf6 Transcriptions_abr\'e9v.zip\cf2 \
+eval.txt                                 \cf6 Transcriptions.zip\cf2 \
+(kraken-env) [paupeel1@login1.yggdrasil B168]$ module load fosscuda/2020b Python/3.8.6\
+(kraken-env) [paupeel1@login1.yggdrasil B168]$ salloc --partition=shared-gpu --time=01:00:00 --gpus=1\
+salloc: Granted job allocation 8690095\
+salloc: Waiting for resource configuration\
+salloc: Nodes gpu007 are ready for job\
+[paupeel1@gpu007.yggdrasil B168]$ source ~/kraken-env/bin/activate\
+(kraken-env) [paupeel1@gpu007.yggdrasil corpus_prevot_farine_fr]$ ketos train -t train.txt -e eval.txt -f page -d cuda -r 0.0001 --normalization NFD B168/*xml\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+\cf3 \uc0\u9581 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472  
+\f1\b Traceback \cf7 (most recent call last)
+\f0\b0 \cf3  \uc0\u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9582 \cf2 \
+\cf3 \uc0\u9474 \cf2                                                                               \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf8 /home/users/p/paupeel1/kraken-env/bin/
+\f1\b \cf9 ketos
+\f0\b0 \cf2 :\cf10 8\cf2  in \cf11 <module>\cf2                     \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2                                                                               \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2    \cf12 5 \cf10 from\cf2  \cf13 \ul \ulc13 kraken.ketos\cf2 \ulnone  \cf10 import\cf2  cli                                             \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2    \cf12 6 \cf10 if\cf2  \cf6 __name__\cf2  == \cf9 '__main__'\cf2 :                                               \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2    \cf12 7 \uc0\u9474    \cf2 sys.argv[\cf10 0\cf2 ] = re.sub(\cf9 r'(-script\\.pyw|\\.exe)?$'\cf2 , \cf9 ''\cf2 , sys.argv[\cf10 0\cf2 ])     \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf3 \uc0\u10097  \cf2 8 \cf12 \uc0\u9474    \cf2 sys.exit(cli())                                                      \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2    \cf12 9 \cf2                                                                          \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf8 /home/users/p/paupeel1/kraken-env/lib/python3.8/site-packages/click/
+\f1\b \cf9 core.py
+\f0\b0 \cf2 : \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf10 1128\cf2  in \cf11 __call__\cf2                                                              \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2                                                                               \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf8 /home/users/p/paupeel1/kraken-env/lib/python3.8/site-packages/click/
+\f1\b \cf9 core.py
+\f0\b0 \cf2 : \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf10 1053\cf2  in \cf11 main\cf2                                                                  \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2                                                                               \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf8 /home/users/p/paupeel1/kraken-env/lib/python3.8/site-packages/click/
+\f1\b \cf9 core.py
+\f0\b0 \cf2 : \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf10 1659\cf2  in \cf11 invoke\cf2                                                                \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2                                                                               \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf8 /home/users/p/paupeel1/kraken-env/lib/python3.8/site-packages/click/
+\f1\b \cf9 core.py
+\f0\b0 \cf2 : \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf10 1395\cf2  in \cf11 invoke\cf2                                                                \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2                                                                               \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf8 /home/users/p/paupeel1/kraken-env/lib/python3.8/site-packages/click/
+\f1\b \cf9 core.py
+\f0\b0 \cf2 : \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf10 754\cf2  in \cf11 invoke\cf2                                                                 \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2                                                                               \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf8 /home/users/p/paupeel1/kraken-env/lib/python3.8/site-packages/click/
+\f1\b \cf9 decorato
+\f0\b0 \cf2  \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  
+\f1\b \cf9 rs.py
+\f0\b0 \cf2 :\cf10 26\cf2  in \cf11 new_func\cf2                                                          \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2                                                                               \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf8 /home/users/p/paupeel1/kraken-env/lib/python3.8/site-packages/kraken/
+\f1\b \cf9 ketos.p
+\f0\b0 \cf2  \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  
+\f1\b \cf9 y
+\f0\b0 \cf2 :\cf10 573\cf2  in \cf11 train\cf2                                                                \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2                                                                               \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2    \cf12  570 \uc0\u9474    \cf10 if\cf2  device == \cf9 'cpu'\cf2 :                                               \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2    \cf12  571 \uc0\u9474    \u9474    \cf2 device = \cf10 None\cf2                                                  \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2    \cf12  572 \uc0\u9474    \cf10 elif\cf2  device.startswith(\cf9 'cuda'\cf2 ):                                   \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2  \cf3 \uc0\u10097  \cf2  573 \cf12 \uc0\u9474    \u9474    \cf2 device = [\cf13 int\cf2 (device.split(\cf9 ':'\cf2 )[-\cf10 1\cf2 ])]                         \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2    \cf12  574 \uc0\u9474    \cf2                                                                   \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2    \cf12  575 \uc0\u9474    \cf10 if\cf2  hyper_params[\cf9 'freq'\cf2 ] > \cf10 1\cf2 :                                      \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9474 \cf2    \cf12  576 \uc0\u9474    \u9474    \cf2 val_check_interval = \{\cf9 'check_val_every_n_epoch'\cf2 : \cf13 int\cf2 (hyper_pa \cf3 \uc0\u9474 \cf2 \
+\cf3 \uc0\u9584 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9472 \u9583 \cf2 \
+
+\f1\b \cf6 ValueError: 
+\f0\b0 \cf2 invalid literal for 
+\f1\b \cf14 int\cf2 ()
+\f0\b0  with base 
+\f1\b \cf15 10
+\f0\b0 \cf2 : \cf16 'cuda'\cf2 \
+(kraken-env) [paupeel1@gpu007.yggdrasil corpus_prevot_farine_fr]$ }
