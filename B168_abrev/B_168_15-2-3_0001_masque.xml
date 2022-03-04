@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-09T11:25:35.164+01:00</Created>
+        <LastChange>2022-03-04T14:24:11.407+01:00</LastChange>
+        <TranskribusMetadata docId="935441" pageId="35622893" pageNr="1" tsid="76977528" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=GIGHVFECQTHGQLCFBSXGPPTB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=EVMEWTPNHCTDTZDCJDDHXPCA" imageId="25645485"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-2-3_0001.jpg" imageWidth="2633" imageHeight="3956">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646403562293" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="519,1025 519,1178 582,1178 582,1025"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="519,1178 582,1175 582,1025 519,1028 519,1178"/>
+                <Baseline points="519,1128 582,1125"/>
+                <TextEquiv>
+                    <Unicode>3</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="495,189 495,3617 2556,3617 2556,189"/>
+            <TextLine id="line_1639135431232_874" custom="readingOrder {index:0;}">
+                <Coords points="588,513 652,513 652,563 588,563 588,513"/>
+                <Baseline points="588,558 652,558"/>
+                <TextEquiv>
+                    <Unicode>1</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l1" custom="readingOrder {index:1;}">
+                <Coords points="1286,255 2199,285 2199,219 1286,189 1286,255"/>
+                <Baseline points="1286,233 2199,263"/>
+                <TextEquiv>
+                    <Unicode>Du 24 de Novembre 1608</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:2;} textStyle {offset:21; length:13;underlined:true;}">
+                <Coords points="1196,350 2218,378 2474,399 2474,345 2218,324 1196,296 1196,350"/>
+                <Baseline points="1196,332 2474,381"/>
+                <TextEquiv>
+                    <Unicode>Interrogaulx faict a Annelin vefve de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:3;} textStyle {offset:8; length:9;underlined:true;} textStyle {offset:21; length:12;underlined:true;}">
+                <Coords points="1235,444 2393,459 2393,404 1235,389 1235,444"/>
+                <Baseline points="1235,426 2393,441"/>
+                <TextEquiv>
+                    <Unicode>Pierrat vauthier, de Courthedoubs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:4;}">
+                <Coords points="800,604 2327,633 2327,567 800,538 800,604"/>
+                <Baseline points="800,582 2327,611"/>
+                <TextEquiv>
+                    <Unicode>A quelle raison elle est estee tiree en prison.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:5;}">
+                <Coords points="578,824 1464,800 2351,831 2351,776 1021,749 578,769 578,824"/>
+                <Baseline points="578,806 1464,782 2351,813"/>
+                <TextEquiv>
+                    <Unicode>2 Sy point elle a frappe au Louvre lucie fille</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:6;}">
+                <Coords points="846,890 1389,872 1389,830 846,848 846,890"/>
+                <Baseline points="846,876 1389,858"/>
+                <TextEquiv>
+                    <Unicode>Pierre Broingne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:7;}">
+                <Coords points="620,943 854,954 854,888 620,877 620,943"/>
+                <Baseline points="620,921 854,932"/>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:8;}">
+                <Coords points="767,1108 1551,1101 2511,1165 2511,1113 1551,1049 767,1056 767,1108"/>
+                <Baseline points="767,1091 1551,1084 2511,1148"/>
+                <TextEquiv>
+                    <Unicode>Sy point elle a heu frappe lenfant henri Coinson</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:9;}">
+                <Coords points="701,1183 923,1174 923,1108 701,1117 701,1183"/>
+                <Baseline points="701,1161 923,1152"/>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:10;}">
+                <Coords points="765,1394 1304,1371 2307,1436 2307,1372 1304,1307 765,1330 765,1394"/>
+                <Baseline points="765,1373 1304,1350 2307,1415"/>
+                <TextEquiv>
+                    <Unicode>Sy point elle a heu greve a la femme dudit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:11;}">
+                <Coords points="579,1455 654,1458 654,1392 579,1389 579,1455"/>
+                <Baseline points="579,1433 654,1436"/>
+                <TextEquiv>
+                    <Unicode>4 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:12;}">
+                <Coords points="792,1474 1283,1467 1283,1410 792,1417 792,1474"/>
+                <Baseline points="792,1455 1283,1448"/>
+                <TextEquiv>
+                    <Unicode>henri Coinson</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:13;}">
+                <Coords points="657,1543 954,1549 954,1492 657,1486 657,1543"/>
+                <Baseline points="657,1524 954,1530"/>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:14;}">
+                <Coords points="788,1711 1369,1730 2367,1777 2367,1716 1452,1673 1372,1634 1203,1663 835,1620 788,1650 788,1711"/>
+                <Baseline points="788,1691 2367,1757"/>
+                <TextEquiv>
+                    <Unicode>Quel passes de vache se retreuvyent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:15;}">
+                <Coords points="785,1793 1883,1839 2475,1882 2475,1822 1883,1779 785,1733 785,1793"/>
+                <Baseline points="785,1773 2475,1862"/>
+                <TextEquiv>
+                    <Unicode>derrier sa maison et dessus son toict en temps</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:16;}">
+                <Coords points="542,1839 625,1833 625,1757 542,1763 542,1839"/>
+                <Baseline points="564,1815 600,1811"/>
+                <TextEquiv>
+                    <Unicode>5 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:17;}">
+                <Coords points="776,1871 998,1880 998,1837 776,1828 776,1871"/>
+                <Baseline points="776,1857 998,1866"/>
+                <TextEquiv>
+                    <Unicode>dhivers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:18;}">
+                <Coords points="692,1936 1717,1939 2556,1976 2556,1933 1717,1896 692,1893 692,1936"/>
+                <Baseline points="692,1922 1717,1925 2556,1962"/>
+                <TextEquiv>
+                    <Unicode>Respond que ce nest seulement derrier chies elle mais partout le vilage</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:19;}">
+                <Coords points="779,2086 2080,2128 2514,2151 2514,2085 2080,2062 779,2020 779,2086"/>
+                <Baseline points="779,2064 2514,2129"/>
+                <TextEquiv>
+                    <Unicode>Qui estoit ce Noir homme que se retreuvoit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:20;}">
+                <Coords points="525,2203 629,2190 629,2124 525,2137 525,2203"/>
+                <Baseline points="525,2181 629,2168"/>
+                <TextEquiv>
+                    <Unicode>6 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:21;}">
+                <Coords points="812,2182 1655,2211 2499,2259 2499,2193 1655,2145 812,2116 812,2182"/>
+                <Baseline points="812,2160 2499,2237"/>
+                <TextEquiv>
+                    <Unicode>en son poille et en sa maison que son fils aveu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:22;}">
+                <Coords points="809,2282 1310,2306 1310,2246 809,2222 809,2282"/>
+                <Baseline points="809,2262 1310,2286"/>
+                <TextEquiv>
+                    <Unicode>souventesfois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:23;}">
+                <Coords points="599,2348 834,2365 834,2305 599,2288 599,2348"/>
+                <Baseline points="599,2328 834,2345"/>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:24;}">
+                <Coords points="792,2493 1186,2504 2370,2564 2370,2501 1186,2441 792,2430 792,2493"/>
+                <Baseline points="792,2472 2370,2543"/>
+                <TextEquiv>
+                    <Unicode>Pourquoi elle a baptuz son fils que lavoit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:25;}">
+                <Coords points="795,2576 1082,2583 1082,2538 795,2531 795,2576"/>
+                <Baseline points="795,2561 1082,2568"/>
+                <TextEquiv>
+                    <Unicode>divulgue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:26;}">
+                <Coords points="678,2651 920,2639 920,2593 678,2605 678,2651"/>
+                <Baseline points="678,2636 920,2624"/>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:27;}">
+                <Coords points="756,2804 1306,2824 2330,2842 2330,2782 2172,2777 756,2744 756,2804"/>
+                <Baseline points="756,2784 2330,2822"/>
+                <TextEquiv>
+                    <Unicode>Quell estoit cest homme que fust avec elle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:28;}">
+                <Coords points="786,2905 2006,2915 2529,2941 2529,2881 2006,2855 786,2845 786,2905"/>
+                <Baseline points="786,2885 2529,2921"/>
+                <TextEquiv>
+                    <Unicode>devant les fenestres de Vernier thorel que vouloit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:29;}">
+                <Coords points="558,2985 636,2982 636,2916 558,2919 558,2985"/>
+                <Baseline points="558,2963 636,2960"/>
+                <TextEquiv>
+                    <Unicode>8</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:30;}">
+                <Coords points="777,2998 2448,3030 2448,2964 777,2932 777,2998"/>
+                <Baseline points="777,2976 2448,3008"/>
+                <TextEquiv>
+                    <Unicode>donner de largent a la femme dudit Vernier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:31;}">
+                <Coords points="762,3090 2547,3121 2547,3055 762,3024 762,3090"/>
+                <Baseline points="762,3068 2547,3099"/>
+                <TextEquiv>
+                    <Unicode>pour payer les emendes Que ladite femme debvoit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:32;}">
+                <Coords points="495,3172 746,3174 746,3108 495,3106 495,3172"/>
+                <Baseline points="495,3150 746,3152"/>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l33" custom="readingOrder {index:33;}">
+                <Coords points="732,3298 1074,3301 2445,3336 2445,3270 903,3234 842,3173 757,3173 732,3298"/>
+                <Baseline points="732,3276 2445,3314"/>
+                <TextEquiv>
+                    <Unicode>Qui a cause la maladie de ladite femme dudit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l34" custom="readingOrder {index:34;}">
+                <Coords points="558,3328 609,3328 609,3262 558,3262 558,3328"/>
+                <Baseline points="558,3306 609,3306"/>
+                <TextEquiv>
+                    <Unicode>9</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l35" custom="readingOrder {index:35;}">
+                <Coords points="714,3391 1059,3388 2442,3422 2442,3371 2269,3374 2185,3337 2010,3371 714,3340 714,3391"/>
+                <Baseline points="714,3374 2442,3405"/>
+                <TextEquiv>
+                    <Unicode>vernier quelle avoit les mains closes Et par apres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l36" custom="readingOrder {index:36;}">
+                <Coords points="801,3463 757,3464 1439,3466 1439,3415 1152,3418 901,3413 865,3413 829,3413 793,3413 757,3413 801,3412 801,3463"/>
+                <Baseline points="796,3452 1439,3449"/>
+                <TextEquiv>
+                    <Unicode>perdit La parolle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l37" custom="readingOrder {index:37;}">
+                <Coords points="558,3565 825,3565 825,3526 558,3526 558,3565"/>
+                <Baseline points="558,3552 825,3552"/>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>1
+Du 24 de Novembre 1608
+Interrogaulx faict a Annelin vefve de
+Pierrat vauthier, de Courthedoubs
+A quelle raison elle est estee tiree en prison.
+2 Sy point elle a frappe au Louvre lucie fille
+Pierre Broingne
+Negat
+Sy point elle a heu frappe lenfant henri Coinson
+Negat
+Sy point elle a heu greve a la femme dudit
+4 
+henri Coinson
+Negat
+Quel passes de vache se retreuvyent
+derrier sa maison et dessus son toict en temps
+5 
+dhivers
+Respond que ce nest seulement derrier chies elle mais partout le vilage
+Qui estoit ce Noir homme que se retreuvoit
+6 
+en son poille et en sa maison que son fils aveu
+souventesfois
+Negat
+Pourquoi elle a baptuz son fils que lavoit
+divulgue
+Negat
+Quell estoit cest homme que fust avec elle
+devant les fenestres de Vernier thorel que vouloit
+8
+donner de largent a la femme dudit Vernier
+pour payer les emendes Que ladite femme debvoit
+Negat
+Qui a cause la maladie de ladite femme dudit
+9
+vernier quelle avoit les mains closes Et par apres
+perdit La parolle
+Negat</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

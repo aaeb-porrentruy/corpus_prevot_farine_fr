@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="TEI%3Etxt_dev_abr.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">B_168-15-2-2_duplicated</title><principal>elodie.paupe@unine.ch</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>AAEB_Farine_abréviations</title></seriesStmt><sourceDesc><p>TRP document creator: elodie.paupe@unine.ch</p></sourceDesc></fileDesc></teiHeader><facsimile><surface lrx="2523" lry="3728" ulx="0" uly="0" xml:id="facs_1"><graphic height="3728px" url="B_168-15-2-2_0001.jpg" width="2523px"/></surface><surface lrx="2544" lry="3751" ulx="0" uly="0" xml:id="facs_2"><graphic height="3751px" url="B_168-15-2-2_0002.jpg" width="2544px"/></surface><surface lrx="2527" lry="3717" ulx="0" uly="0" xml:id="facs_3"><graphic height="3717px" url="B_168-15-2-2_0003.jpg" width="2527px"/></surface><surface lrx="2549" lry="3736" ulx="0" uly="0" xml:id="facs_4"><graphic height="3736px" url="B_168-15-2-2_0004.jpg" width="2549px"/></surface><surface lrx="2506" lry="3738" ulx="0" uly="0" xml:id="facs_5"><graphic height="3738px" url="B_168-15-2-2_0005.jpg" width="2506px"/></surface><surface lrx="2560" lry="3735" ulx="0" uly="0" xml:id="facs_6"><graphic height="3735px" url="B_168-15-2-2_0006.jpg" width="2560px"/></surface><surface lrx="2501" lry="3744" ulx="0" uly="0" xml:id="facs_7"><graphic height="3744px" url="B_168-15-2-2_0007.jpg" width="2501px"/></surface><surface lrx="2565" lry="3746" ulx="0" uly="0" xml:id="facs_8"><graphic height="3746px" url="B_168-15-2-2_0008.jpg" width="2565px"/></surface><surface lrx="2475" lry="3739" ulx="0" uly="0" xml:id="facs_9"><graphic height="3739px" url="B_168-15-2-2_0009.jpg" width="2475px"/></surface><surface lrx="2565" lry="3756" ulx="0" uly="0" xml:id="facs_10"><graphic height="3756px" url="B_168-15-2-2_0010.jpg" width="2565px"/></surface><surface lrx="2512" lry="3746" ulx="0" uly="0" xml:id="facs_11"><graphic height="3746px" url="B_168-15-2-2_0011.jpg" width="2512px"/></surface></facsimile><text><body><div>
+ 
+ Page 1
+
+Annelin 
+Quil a une fille nomme lucie laquelle estant
+Du 24 de Septembre 1608.
+par une fois au louvre sont environ six ans
+Informations prinse et levees
+Que ladite <hi rend="strikethrough:true;">lucie</hi> Annelin la frappa entre
+doffice par nous henri farine
+les deux espalles dont depuis elle vint grievement
+Prevost de Pourrentruy et Claudat
+malade et est Impotente <hi rend="strikethrough:true;">dire</hi> du droit costel
+Briot mayre de Courthedoubs
+Et tient deposant comme aussi ladite Lucie q par
+Sur les diffamations et accusations,
+ledi frappement la rendu en telle maladie
+faictes contre <hi rend="underlined:true;">Annelin</hi> <hi rend="underlined:true;">vefve</hi> de Perrat
+Et combien que deposant aye faict tout debvoir
+Vauthier de <hi rend="underlined:true;">Courthedoubs</hi> destre
+dela faire a guerir sy est ce quil na treuve
+accusee pour sorciere
+aulcung remede Sinon que tous les medicins qui
+Pierre Broingne dudit Courthedoubs par serement depose
+lont veu ont tousjour juge quelle estoit
+encorsele.
+Dit que sont quatre ans questant deposant Banvert
+Il trouva ladite Lucie dessus ung poirie avec sa
+fille que eschossotoyent des poires Et les ayant
+deposant rescrie quilz seroyent gaigei Icelles
+furent perdues sans quil peult scavoir ny
+veoir quelles devindrent et ny heust une
+seulle poire desoubs larbre.
+ 
+ Page 2
+
+Vernier perrial dudit Courthedoubs par serment
+a depose Que deposant avoit la fille de
+Pierre Broingne pour servande Laquelle
+estant alle au Louvre, fust frappee p ladite
+Annelin
+<hi rend="strikethrough:true;">Lucie</hi> laquelle servande depuis vint inpotente
+et disoit ladite servande que telle maladie
+Lui estoit derivee du coup quelle avoit receu
+de ladite <hi rend="strikethrough:true;">Luc</hi> Annelin. Et dit encore
+tousjour ouys dire que ladite Annelin estoit une
+sorciere
+Henri Coinson dudi Courthedoubs depose que
+Lui deposant avoit ung enffant que devint
+malade et layant interrogue dou venoit ceste
+maladie respondit que sestoit Annelin que
+Lavoit frappe, et depuis s<hi rend="strikethrough:true;">estant</hi> estoit
+revenue en quelque peu de convalescence
+morut tos apres.
+de lui
+Dit que de plus que la femme du deposant par
+une fois estant en son curtil travaillant
+ladite Annelin la rescria quelle travaillioit
+bien a la <unclear>certer</unclear>  Et le soir dudit jour venu
+ladite femme dudit deposant vint malade Et
+ayant deposant Interrogue sadite femme
+dou procedoit telle maladie, elle respondit
+quelle avoit opinion que ladite Annelin lui
+avoit donne ladite maladie, de laquelle
+environ quinze jours apres elle morut.
+Dit de plus que la maison, et vergier de ladite Annelin
+est proche de celle du deposant. Et avoir veu
+en hiver lors des neiges des passees comme
+ 
+ Page 3
+
+de passees de vaches par son vergier, mesme que
+passoyent entre deux paulx. Et lesquelles
+passees alloyent par dessus les murs du Cymetiere
+mais nentroyent audit Cymitiere ains alloyent
+a lentour de la maison de ladite Annelin
+Dit de plus que ladite Annelin a ung petit
+fils de leaige de dix ans lequel compta
+en la grange dudit deposant, que Il y avoit
+ung noir homme questoit entre en leur poille
+et se y pourmenoit mais que sa mere nestoit
+en la maison, Et que Il avoit heu sy grand peur
+de lui que Il sestoit cache desoubs la couverte
+du lict. Et que ayant ladite Annelin sceu
+que sondit fils avoit desclaire tel faict elle
+Lavoit baptus.
+Dit avoir tousjour ouys dire quelle ladite
+Annelin estoit une sorciere
+Vernier Torel dudit Courthedoubs, par serement,
+Que la femme de lui deposant heust ung proces
+contre ladite Annelin en la Justice de Courthedoubs
+desorte que la femme dudit deposant, fust
+<hi rend="strikethrough:true; fontSize:0.0; kerning:0;">contre</hi> condempnee a lemende de quatre
+channes de vin, dont le <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">lieu</hi> mesme jour,
+estant deposant es champs nuictanment ladite
+Annelin (Comme la femme dudit deposant le
+mantient.) avec ung noir homme vindrent
+nuitanment devant la maison dudit deposant
+Et rescria ladite femme Disant Alison, vienca
+vientend avec nous, voici ung homme qui
+ 
+ Page 4
+
++ ladite Annelon et 
+ledit homme
+te donnera de largent pour payer lemende
+des quatre channes de vin que tu as faut.
+Surquoi elle respondit quelle ny voulut
+aller. Que son mari nestoit en la maison,
+et quil ne vouloit rien faire que par lui
+Et sestant departis  <hi rend="superscript:true;">+</hi> . Ledit deposant arriva
+bien tost apres en la maison, auquel sadite
+femme lui compta ce que dessus Et en,
+lui racomptant elle devint Impotente
+des bras et des Jambes, de mode qu'il lui
+vindrent tout tord et avoit les mains
+closes quon ne lui pouvoit ouvrir.
+Et estant conseillee de <hi rend="strikethrough:true;">s</hi> prendre des
+herbes au curtil de ladite Annelon et den
+menger, elle en fust prendre dequoi
+en ayant mange les mains se ouvrirent
+Mais surce elle perdit la parolle, estant
+derechieff conseillee daller prendre de la
+terre desoubs le seuille de la maison de
+Ladite Annelin et den menger ; elle Layant
+faict La parolle Lui revint. Mais non
+pourtant ladite femme dudit deposant est
+tousjour malade. Laquelle mantient que ladite
+Annelin lui a donne telle maladie et plus
+nen dit.
+ 
+ Page 5
+
+Jehan perrin guenin de Courthedoubs Par
+serement depose, Quil na aulcune mescreance
+sur ladite Annelin. Mais dit quil a bien ouys
+dire et encrier Ladite Annelin pour estre
+sorciere
+Guilliame perriat, Par serement depose, Que
+Ladite Annelin et sa mere <hi rend="strikethrough:true;">ont</hi> quest morte quont
+heu demeure proche de la maison dudit deposant
+ans
+Et sont plus de quinze quicelles se faschoyent
+contre deposant et ses gens de sorte que tost
+Incontinent Il devint deux chevaulx malades
+audit deposant Et estant este deposant
+prendre des herbes au Curtil delles
+Lung diceulx guerit et laultre mourut
+dit quil a perdus beaulxcoup de chevaulx
+et avoit deposant opininion que ladite Annelin
+et sa mere Lui faisoyent a mourir
+Dit de plus Les avoir par plusieurs fois,
+appelle sorciere, sans quicelles sen
+soyent venge par droit.
+Mory vauthier, dudit chevene Par serement depose
+que ladite Annelin a heu espose, le frere de
+Lui deposant ; Et quon a tousjour reputee
+Icelle Annelin estre une sorciere. Mesme
+que lui et sa femme apres quilz avoyent heu
+des querelles de propos avec ladite Annelin, quilz
+sont estes fort malades devenus debilles et
+heu des bestiaulx beaulxcoup malades les 
+ 
+ Page 6
+
+ungs qui alloyent de travers les aultres qui sont
+mortz. Mais ne scait dou procedoyent telles
+Inconveniens et maladies
+Semon villain dudit Courthedoubs depose, que sont,
+environ, quatre ans quilz avoyent deux Juvencelx
+que vindrent malades Et estant estes conseilles
+de baptre les lings diceulx, deposant print
+Lesdits Lings les baptirent avec des <unclear>fleu</unclear> dont
+Ladite Annelin se trouvat tout blessee par le
+visaige. Non pourtant lesdits Juvencelx morurent
+Et a opinion deposant que ladite Annelin les
+Leur feist mourir
+Vaulbert Jordain dudit lieu Par serement depose
+Que la premiere femme de Estienne doland
+devint malade sont plus de huit ans de sorte
+quil La failloit tenir dont deposant y estant
+et laidant a tenir, Icelle femme dudit Doland
+present plusieurs aultres personnes dit qui la Baillie
+entendant et nommant
+quest Ladite Annelin lui avoit donne la maladie.
+de laquelle ayant quelquement trayne ladite
+de telle maladie finablement en est morte
+<unclear>Theunat</unclear> guenin par serement depose, Que
+Lannée passee, Ladite Annelin fust interpeller
+deposant de lui aller querir une charree de
+feuille ce que nayant, peu faire pource que
+Lui convenoit aller querir de lavenne lui refusa
+Et le lendemain ayant deposant mene une
+charree de boihin pour son frere Caspar,
+ 
+ Page 7
+
+NB
+lequel a son <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">lieu</hi> domicille desoubs ung mesme
+toict avec Ladite Annelin. Icelle estant proche
+de leurs chevaulx, le soir dudit Jour Lung diceulx
+devint malade de sorte quil mourut. Et a opinion
+deposant que pour avoir refuse de charrier pour elle
+quelle avoit donne le mal audit cheval.
+Germain torel par serement ; depose que lannee
+passee deposant avoit une vache que ne vouloit
+donner son laict, et que ayant fait a prendre
+des herbes au curtil de ladite Annelin (laquelle
+avoit heu quelque dificulte avec la femme
+dudit deposant pour huit deniers) et les ayant
+fait a manger a ladite vache, elle rendit
+tost apres son laict
+Thennat maillat de Courthedoubs par serement,
+depose, que lan passe, ladite Catherine
+Annelin fust interpeller deposant de lui aller
+querir une charree de gerbes, ce que ayant
+deposant refuse, Incontinenti lui devindrent
+deux de ses chevaulx malades de sorte que
+environ huit jours apres ses deux chevaulx
+morurent Et a opinion que ladite Annelin
+Lui a fait mourir ses chevaulx.
+Dit que de plus que lui deposant, avoit une seure
+sont passe six ans Laquelle estant au Lovre
+Le soir et assis entre ladite Annelin et sa fille
+et en Riant, sa coiffe Lui tomba, laquelle
+fust perdue Et surce quon disoit que la fille de
+Ladite Annelin avoit ladite coiffe ladite Annelin en fust  
+ 
+ Page 8
+
+22
+faschee de sorte que tout Instamment ladite
+seure dudit deposant devint malade, et disoit
+que ladite Annelin lui avoit donne le mal
+dequoi elle morut quelque temps apres.
+Dit quil a tousjours ouys appeller sorciere
+Jehan Jordain dudit Courthedoubs Pas serement depose
+quil a de long temps ouys suspitionner ladite
+Annelin estre une sorciere aultre chose nen
+scait.
+Nicolas torel dudit Courthedoubs depose que lui
+deposant a heu des chievres que ne vouloyent
+donner leur laict, et questant este advertis
+de leur voisins de prendre des herbes au
+curtil de ceulx quil se mefioyent et en
+leur en donner, a manger quelles guairiroyent
+Ce que la femme dudit deposant a heu
+execute Que tousjour lesdites chievres rendoyent
+Leur laict Et dit avoir fait cela a reyterrees fois.
+Dedie villain par serement depose, que par une fois
+la mere de deposant ayant apporte au marche
+vendre du beurre Ladite Annelin le tint et
+mania. Et estant retour, les vaches dudit
+deposant donnoyent du laict quon heust
+bien <unclear>trayne</unclear> partout le villaige. Sur quoi estant
+La mere dudit deposant estee conseillee elle
+fust prendre des herbes au curtil delle
+ladite Annelin, et en donna a manger aux vaches 
+ 
+ Page 9
+
+24
+lesquelles Instanment rendirent leur laict
+comme au paravant.
+Dit de plus que par une fois, ayant refuse aladite
+Annelin de lui aller querir une charre de bois
+Le millieur de leur chevaulx vint malade
+de sorte quil en morut et a opinion, qu'elle
+avoit donne le mal audit cheval.
+Dit quil a tousjour ouys suspitionner ladite
+Annelin estre une sorciere
+Perrin coinson, dudit Courthedoubs Par serement depose
+que sont environ quinze Jours quil fust requis
+daller de mener du bouement pour ladite
+Annelin ; ce que lui ayant refuse, par ce quil
+a asse a faire pour lui. Que ladite
+Annelin les a menace et dit quil nen,
+gaigneroyent rien. Surce lui est venu ung
+cheval malade lequel, est mort et tient
+deposant que Ladite Annelin lui a donne ladite
+maladie.
+Dit que divers lors quil a des neiges, quon,
+voit, tant sur <add>le</add> toidt que au vergier derrier la
+maison, deladite Annelin, des passees estranges
+comme passees de vaches.
+Dit quil a tousjour ouys dire aux enffans delle
+quil y avoit ung gros noir <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">chamatt</hi> <add>chatt</add> qualloit par leur
+maisons, quil en avoyent bien peur
+ 
+ Page 10
+
+Le 22 de Novembre 1608.
+Les presentes Informations sont estees leutes Par
+devant Le conseil de son Excellence Reverendissime
+Lequel ayant le tout veu et pese Ont declaire
+ladite Annelin debvoir estre tiree en cause et en
+prison. Et estant Illec tost sur les faictz predits
+debvoir estre gehennee et examinee a la torture. 
+ 
+ Page 11
+
+Informations 
+Contre Annelin vefve
+Pierrat vauthier de Courthedoubs</div></body></text></TEI>

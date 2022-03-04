@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-14T09:09:14.305+01:00</Created>
+        <LastChange>2022-03-04T14:38:59.313+01:00</LastChange>
+        <TranskribusMetadata docId="935442" pageId="35622931" pageNr="10" tsid="76978310" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=LVGCYAZNYMOUJVFHWAUVZLJG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KITNFXOCLBIHZPDSDYRLOOIL" imageId="26287858"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-23-4_0001.jpg" imageWidth="2596" imageHeight="3832">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646403562904" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="590,126 590,3158 2493,3158 2493,126"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1163,180 1921,192 2330,207 2330,153 1921,138 1163,126 1163,180"/>
+                <Baseline points="1163,162 2330,189"/>
+                <TextEquiv>
+                    <Unicode> Proces Criminel de Alix vefve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="1208,265 2465,286 2465,237 1333,212 1208,216 1208,265"/>
+                <Baseline points="1208,249 1647,245 2465,270"/>
+                <TextEquiv>
+                    <Unicode>George Rossel de Boncourt accusee </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="1182,349 2142,345 2142,296 1182,300 1182,349"/>
+                <Baseline points="1182,333 2142,329"/>
+                <TextEquiv>
+                    <Unicode>et saisie pour sortilege </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="1055,500 1865,490 1865,430 1055,440 1055,500"/>
+                <Baseline points="1055,480 1865,470"/>
+                <TextEquiv>
+                    <Unicode>Le 17 de may 1610 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="683,611 1961,623 2387,641 2387,581 1961,563 683,551 683,611"/>
+                <Baseline points="683,591 1961,603 2387,621"/>
+                <TextEquiv>
+                    <Unicode>Ladite Alix estant Interrogue Sur les faictz dont elle </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;} textStyle {offset:40; length:4;strikethrough:true;}">
+                <Coords points="719,692 2420,719 2420,664 719,637 719,692"/>
+                <Baseline points="719,674 2420,701"/>
+                <TextEquiv>
+                    <Unicode>estoit accusee et sur les Informations  prin levees </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="692,774 1551,774 2255,801 2255,746 1551,719 692,719 692,774"/>
+                <Baseline points="692,756 1551,756 2255,783"/>
+                <TextEquiv>
+                    <Unicode>doffice le matin na rien volsus confesser. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="683,880 1619,866 2462,910 2462,850 1619,806 683,820 683,880"/>
+                <Baseline points="683,860 1244,843 1619,846 2462,890"/>
+                <TextEquiv>
+                    <Unicode>Surquoy luy fust donne terme jusques apres disne. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1325,980 1998,1003 1998,943 1325,920 1325,980"/>
+                <Baseline points="1325,960 1998,983"/>
+                <TextEquiv>
+                    <Unicode>Apres disne dudit jour </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="719,1081 1491,1091 2435,1151 2435,1091 1491,1031 719,1021 719,1081"/>
+                <Baseline points="719,1061 1491,1071 2435,1131"/>
+                <TextEquiv>
+                    <Unicode>Na rien volsus confesser. Dont elle fust condempnee </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="729,1166 1397,1168 1397,1108 729,1106 729,1166"/>
+                <Baseline points="729,1146 1397,1148"/>
+                <TextEquiv>
+                    <Unicode>a la tourture. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="735,1245 1651,1257 2402,1295 2402,1240 1651,1202 735,1190 735,1245"/>
+                <Baseline points="735,1227 1651,1239 2402,1277"/>
+                <TextEquiv>
+                    <Unicode>Ou estant simplement solevee de terre confessa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="732,1319 1310,1326 2385,1361 2385,1307 1310,1272 732,1265 732,1319"/>
+                <Baseline points="732,1301 2385,1343"/>
+                <TextEquiv>
+                    <Unicode>Quil y a environ dix ans, Qung homme entre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="729,1398 1426,1404 2280,1436 2280,1382 1426,1350 729,1344 729,1398"/>
+                <Baseline points="729,1380 1426,1386 2280,1418"/>
+                <TextEquiv>
+                    <Unicode>nuit et jour sadressa a elle. Luy donna du </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="740,1487 1208,1479 2301,1523 2301,1463 1208,1419 740,1427 740,1487"/>
+                <Baseline points="740,1467 1208,1459 2301,1503"/>
+                <TextEquiv>
+                    <Unicode>poulsat pour nuire a gens et a bestes. Et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="714,1579 1383,1574 2388,1616 2388,1556 1383,1514 714,1519 714,1579"/>
+                <Baseline points="714,1559 1383,1554 2388,1596"/>
+                <TextEquiv>
+                    <Unicode>Lui donna de lor et de largent mais ce ne fust </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="722,1665 1285,1653 2333,1695 2333,1640 1285,1598 722,1610 722,1665"/>
+                <Baseline points="722,1647 1285,1635 2333,1677"/>
+                <TextEquiv>
+                    <Unicode>que des feuilles de chasnes Et la sollicita de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="738,1747 1336,1736 2447,1769 2447,1718 994,1686 738,1696 738,1747"/>
+                <Baseline points="738,1730 1336,1719 2447,1752"/>
+                <TextEquiv>
+                    <Unicode>Renuncer dieu Cresme et baptesme ce quelle </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="732,1816 984,1825 2412,1850 2412,1799 2076,1790 732,1765 732,1816"/>
+                <Baseline points="732,1799 2412,1833"/>
+                <TextEquiv>
+                    <Unicode>feist. Et heust alors sa compagnie questoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="728,1922 2360,1949 2360,1889 728,1862 728,1922"/>
+                <Baseline points="728,1902 1380,1902 2360,1929"/>
+                <TextEquiv>
+                    <Unicode>merveleusement froide Et dit quil sappelloit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="726,2021 959,2011 959,1951 726,1961 726,2021"/>
+                <Baseline points="726,2001 959,1991"/>
+                <TextEquiv>
+                    <Unicode>charbon. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="705,2146 1454,2141 2484,2179 2484,2119 1454,2081 705,2086 705,2146"/>
+                <Baseline points="705,2126 1454,2121 2484,2159"/>
+                <TextEquiv>
+                    <Unicode>Dit que dudit Poulsat elle en avoit jecte sur une </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="731,2228 1326,2222 2220,2245 2220,2185 805,2165 731,2168 731,2228"/>
+                <Baseline points="731,2208 1326,2202 2220,2225"/>
+                <TextEquiv>
+                    <Unicode>vache de Nicolas guyon Laquelle en morut </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="735,2362 1776,2371 2471,2396 2471,2336 1776,2311 735,2302 735,2362"/>
+                <Baseline points="735,2342 1776,2351 2471,2376"/>
+                <TextEquiv>
+                    <Unicode>Plus en jecta sur ung cheval de Pierrat Borquenei </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="725,2452 1934,2450 2453,2473 2453,2421 1934,2398 811,2398 725,2400 725,2452"/>
+                <Baseline points="725,2435 1934,2433 2453,2456"/>
+                <TextEquiv>
+                    <Unicode>questoit devant sa maison lequel en mourut Et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="729,2544 2357,2532 2357,2484 891,2490 729,2496 729,2544"/>
+                <Baseline points="729,2528 1217,2514 2357,2516"/>
+                <TextEquiv>
+                    <Unicode>ce a raison de ce que ledit Bourquenei ne lui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="689,2635 2493,2627 2493,2567 689,2575 689,2635"/>
+                <Baseline points="689,2615 1681,2600 2493,2607"/>
+                <TextEquiv>
+                    <Unicode>poyoit point sa chievre que ses chiens lui avoient </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="701,2725 932,2713 932,2653 701,2665 701,2725"/>
+                <Baseline points="701,2705 932,2693"/>
+                <TextEquiv>
+                    <Unicode>gaste </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="720,2841 1858,2821 2472,2842 2472,2784 1858,2763 807,2780 720,2783 720,2841"/>
+                <Baseline points="720,2822 1858,2802 2472,2823"/>
+                <TextEquiv>
+                    <Unicode>Plus dit quelle en avoit aussi jecte ung cheval </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;} unclear {offset:8; length:1;}">
+                <Coords points="743,2926 1721,2905 2373,2916 2373,2858 1721,2847 743,2868 743,2926"/>
+                <Baseline points="743,2907 1721,2886 2373,2897"/>
+                <TextEquiv>
+                    <Unicode>chastrels de poil gris questoit a mori guyon, </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="720,2999 2399,2995 2399,2943 720,2947 720,2999"/>
+                <Baseline points="720,2982 1957,2970 2399,2978"/>
+                <TextEquiv>
+                    <Unicode>sont 6 ans a Raison de ce que ledit Mori ne lui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="729,3074 1774,3061 2471,3073 2471,3021 1774,3009 729,3022 729,3074"/>
+                <Baseline points="729,3057 1774,3044 2471,3056"/>
+                <TextEquiv>
+                    <Unicode>vouloit donner aulcune recompense de sa maison </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="720,3140 1278,3129 1338,3121 1334,3091 895,3102 719,3110 720,3140"/>
+                <Baseline points="720,3140 1338,3121"/>
+                <TextEquiv>
+                    <Unicode>quil avoit heu. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> Proces Criminel de Alix vefve
+George Rossel de Boncourt accusee 
+et saisie pour sortilege 
+Le 17 de may 1610 
+Ladite Alix estant Interrogue Sur les faictz dont elle 
+estoit accusee et sur les Informations  prin levees 
+doffice le matin na rien volsus confesser. 
+Surquoy luy fust donne terme jusques apres disne. 
+Apres disne dudit jour 
+Na rien volsus confesser. Dont elle fust condempnee 
+a la tourture. 
+Ou estant simplement solevee de terre confessa 
+Quil y a environ dix ans, Qung homme entre
+nuit et jour sadressa a elle. Luy donna du 
+poulsat pour nuire a gens et a bestes. Et 
+Lui donna de lor et de largent mais ce ne fust 
+que des feuilles de chasnes Et la sollicita de 
+Renuncer dieu Cresme et baptesme ce quelle 
+feist. Et heust alors sa compagnie questoit 
+merveleusement froide Et dit quil sappelloit 
+charbon. 
+Dit que dudit Poulsat elle en avoit jecte sur une 
+vache de Nicolas guyon Laquelle en morut 
+Plus en jecta sur ung cheval de Pierrat Borquenei 
+questoit devant sa maison lequel en mourut Et 
+ce a raison de ce que ledit Bourquenei ne lui 
+poyoit point sa chievre que ses chiens lui avoient 
+gaste 
+Plus dit quelle en avoit aussi jecte ung cheval 
+chastrels de poil gris questoit a mori guyon, 
+sont 6 ans a Raison de ce que ledit Mori ne lui 
+vouloit donner aulcune recompense de sa maison 
+quil avoit heu. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

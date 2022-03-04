@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="TEI%3Etxt_dev_abr.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">B_168-15-10.3_duplicated</title><principal>elodie.paupe@unine.ch</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>AAEB_Farine_abréviations</title></seriesStmt><sourceDesc><p>TRP document creator: elodie.paupe@unine.ch</p></sourceDesc></fileDesc></teiHeader><facsimile><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_1"><graphic height="3743px" url="B_168_15-10-3_1.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_2"><graphic height="3743px" url="B_168_15-10-3_2.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_3"><graphic height="3743px" url="B_168_15-10-3_3.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_4"><graphic height="3743px" url="B_168_15-10-3_4.jpg" width="2754px"/></surface></facsimile><text><body><div>
+ 
+ Page 1
+
+Reconfessions des Actes Crimes et
+delictz Commis et perpetrez par 
+Aignelatte vefve de feu Thiebault 
+Fouvent de Bonfolz. Par elle 
+Librement recognuz les 18 20 26 
+et dernier jour daogst de lan present 
+1609 
+Premierement confesse que sont environ quinze 
+ans Questant en la ville de Pourrentruy 
+et ayant heu quelque parolles avec sondit 
+mary A raison quilz estoyent poursuit de 
+feu Thiebault machanguey pour des dixmes 
+quil avoyt <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">Rec</hi> heu de luy Quiceluy sond 
+mary estant remply de vin monsta sur sa 
+charrette et sen alla, la laissant aller
+seule a pied, et estant venue jusques 
+au bois de Morteveille, Ung beau Jeusne 
+homme vestu de verd (comme luy sembloit) 
+la surparla de se donner a luy et 
+quil ne la laisseroit jamais et lui 
+donneroit de largent. Ce quelle feist 
+Et Renuncea allors dieu et la vierge 
+marie Cresme et baptesme, et print 
+led vestu de verd pour son mre. Lequel 
+disoit sappeller Robine Et heust allors 
+Comme depuis beaulxcoup de fois sa 
+compagnie. Lequel luy donna de largent 
+comme lui sembloit Mais quant Il fust 
+dispartis ce ne fut que des feuilles de 
+chasne. Comme aussi lui donna du 
+poulsat pour faire a mourir bestes et gens 
+et de la graisse pour se frotter pour aller
+au Sabath.
+ 
+ Page 2
+
+Item confesse quicelle avec Agathe femme 
+de Henry vouelin de Beurnevesain elle 
+a este au Sabath tant sur les planches 
+de Rechesir que au Bois de morteveille avec 
+daultres 
+Item confesse que avec la susdite Agatte et 
+daultres femmes elle a <hi rend="strikethrough:true;">aide</hi> asista a faire 
+de la grelle. 
+Item confesse quelle estoit par une fois en 
+volonte de Jecter dudit poulsat sur la 
+proye des vaches affin de les faire a 
+mourir [signe d’insertion] et que un rain luy attaingnit 
+Le bras, de sorte que sondit poulsat 
+tomba par terre sans rien effectuer 
+De plus confesse que avec ledit poulsat 
+en ayant jecte sur les bestes suigvantes 
+les en a faict a mourir Et ce par le 
+commandement de sondit maitre Robine 
+A scavoir a eulx mesme en leur propre 
+maison Trois chievres et deux chevaulx 
+A Jehan Corbat ung cheval 
+Au Petit castrolz ung cheval 
+A Estaise du haulst ung cheval 
+A Gaidance ung cheval que fut le 
+premier surquoy elle essaya Ledit poulsat 
+A Mory des chaisnes dit Guenin Corbat 
+une vache et ung vel 
+A Mory gaiberois une vache 
+ 
+ Page 3
+
+Item que sont passe trois sepmaines elle
+Jecta dudit poulsat sur lung des chevaulx 
+de Moriqua hennin et aussi le lundi 
+avant quelle fut prisonniere en avoit 
+jecte sur une vache estant a Jaicque 
+maillat mais ne scait sy lesdits cheval 
+et vache en son mort 
+Item confesse avoir jecte dudit poulsat 
+sur lenfant de Jaicque maillat de sorte 
+quil en est devenu tout debille et malade 
+Lequel mal elle ne lui seroit oster 
+Pour lavoir trop porte
+[signe d'insertion] ung peu
+Item confesse quelle meit [signes d’insertion] dudit poulsat 
+en une soppe quelle feist a la femme 
+de son filz, et que layant mange 
+Icelle devint fort malade. Et que la 
+Dame de Gallfingen lui a depuis 
+oste le mal. 
+Item de plus confesse que avec dudit 
+poulsat elle a faict mourir Borquin 
+filz de Perrin hennin et Richarde sa 
+femme parce quilz avoyent mal parle 
+delle et dit quelle Leur avoit derobe 
+ung fleurie 
+Ladite Aignelatte fust le premier de 
+Septembre 1609 condempnee destre 
+Bruslee toute vive mais par grace 
+fust decapitee et desla son corps
+jecte au feug 
+ 
+ Page 4
+
+Reconfession 
+Des Actes Crimes et delitz de Aignelate 
+vefve de feu Thiebault fouvent de 
+Bonfols Que fust condempne destre 
+executee par le feug. Mais par grace fust 
+decapitee et dela son corps jecte 
+au feug</div></body></text></TEI>

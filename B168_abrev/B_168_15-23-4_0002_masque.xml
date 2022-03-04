@@ -1,0 +1,390 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-14T09:09:15.742+01:00</Created>
+        <LastChange>2022-03-04T14:40:18.158+01:00</LastChange>
+        <TranskribusMetadata docId="935442" pageId="35622934" pageNr="11" tsid="76978361" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=ZXBFCYEZEDUMJFUSUFLDCSED&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CCIKXLEVGCEMFLEXEGQZLOQQ" imageId="26287860"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-23-4_0002.jpg" imageWidth="2642" imageHeight="3818">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646403562914" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="129,108 129,3370 2517,3370 2517,108"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} textStyle {offset:3; length:2;strikethrough:true;}">
+                <Coords points="1158,172 1869,165 1869,108 1158,115 1158,172"/>
+                <Baseline points="1158,153 1869,146"/>
+                <TextEquiv>
+                    <Unicode>Le 19 19 dudit mois </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="668,296 2381,272 2381,217 668,241 668,296"/>
+                <Baseline points="668,278 2381,254"/>
+                <TextEquiv>
+                    <Unicode>Ladite Alix estant interrogué dit que sont deux </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="146,352 423,346 423,306 146,312 146,352"/>
+                <Baseline points="146,339 423,333"/>
+                <TextEquiv>
+                    <Unicode>A depuis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="756,369 1844,351 2430,359 2430,304 1844,296 756,314 756,369"/>
+                <Baseline points="756,351 1844,333 2430,341"/>
+                <TextEquiv>
+                    <Unicode>ans Que Caspar vallat la vint solliciter daller </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="170,415 539,394 539,354 170,375 170,415"/>
+                <Baseline points="170,402 539,381"/>
+                <TextEquiv>
+                    <Unicode>deculpe ledit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="728,463 1383,436 2366,436 2366,379 973,392 728,406 728,463"/>
+                <Baseline points="728,444 1383,417 2366,417"/>
+                <TextEquiv>
+                    <Unicode>par ensemble entre nuit et jour derrier chastillion </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="158,490 590,463 590,421 158,448 158,490"/>
+                <Baseline points="158,476 590,449"/>
+                <TextEquiv>
+                    <Unicode>Caspar et dit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="747,550 1055,529 1982,510 1982,453 808,487 747,493 747,550"/>
+                <Baseline points="747,531 1055,510 1982,491"/>
+                <TextEquiv>
+                    <Unicode>ou estant ne treuvarent personne </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="155,547 615,521 615,479 155,505 155,547"/>
+                <Baseline points="155,533 615,507"/>
+                <TextEquiv>
+                    <Unicode>Lui faire tord </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="180,618 620,590 620,545 180,573 180,618"/>
+                <Baseline points="180,603 620,575"/>
+                <TextEquiv>
+                    <Unicode>a raison de ce </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="170,676 714,645 714,606 170,637 170,676"/>
+                <Baseline points="170,663 714,632"/>
+                <TextEquiv>
+                    <Unicode>que ledit Caspar lavoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="755,713 1253,690 2417,692 2417,637 1004,643 755,658 755,713"/>
+                <Baseline points="755,695 1253,672 2417,674"/>
+                <TextEquiv>
+                    <Unicode>Dit navoir treuver son maitre charbon sinon deux </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="179,729 671,714 671,675 179,690 179,729"/>
+                <Baseline points="179,716 671,701"/>
+                <TextEquiv>
+                    <Unicode>accuse de lavoir </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="743,788 1246,768 2420,774 2420,719 994,718 743,733 743,788"/>
+                <Baseline points="743,770 1246,750 2084,761 2420,756"/>
+                <TextEquiv>
+                    <Unicode>fois lune des fois sont 10 ans passes derrier </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="168,789 569,776 569,740 168,753 168,789"/>
+                <Baseline points="168,777 569,764"/>
+                <TextEquiv>
+                    <Unicode>treuve en son </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="174,843 371,833 371,797 174,807 174,843"/>
+                <Baseline points="174,831 371,821"/>
+                <TextEquiv>
+                    <Unicode>curtil </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="731,883 1160,856 2447,855 2447,798 1074,802 731,826 731,883"/>
+                <Baseline points="731,864 1160,837 2103,845 2447,836"/>
+                <TextEquiv>
+                    <Unicode>ches elle et lors quelle se donna a lui et quelle </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;} textStyle {offset:37; length:4;strikethrough:true;}">
+                <Coords points="740,966 1347,939 2475,964 2475,907 1260,883 740,909 740,966"/>
+                <Baseline points="740,947 1347,920 1867,924 2475,945"/>
+                <TextEquiv>
+                    <Unicode>Renuncea dieu, Cresme et baptesme et leur heust </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="761,1042 1592,1023 2424,1050 2424,993 1758,967 1093,973 761,985 761,1042"/>
+                <Baseline points="761,1023 1592,1004 2091,1013 2424,1031"/>
+                <TextEquiv>
+                    <Unicode>sa compagnie Et quatre ans apres lors quil </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;} textStyle {offset:28; length:3;strikethrough:true;} textStyle {offset:43; length:5;strikethrough:true;}">
+                <Coords points="734,1128 1699,1111 2490,1126 2490,1069 1787,1054 821,1068 734,1071 734,1128"/>
+                <Baseline points="734,1109 1699,1092 2490,1107"/>
+                <TextEquiv>
+                    <Unicode>Lalla treuver quelle alloit aux au bois es combe </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="758,1210 1893,1200 2417,1215 2417,1158 1893,1143 758,1153 758,1210"/>
+                <Baseline points="758,1191 1893,1181 2417,1196"/>
+                <TextEquiv>
+                    <Unicode>combes de vaulx genai Et que pour lors Il estoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="771,1287 2400,1306 2400,1249 771,1230 771,1287"/>
+                <Baseline points="771,1268 1096,1280 1992,1275 2400,1287"/>
+                <TextEquiv>
+                    <Unicode>vestus de gris Et heust sa compagnie et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="752,1384 1977,1392 1977,1335 752,1327 752,1384"/>
+                <Baseline points="752,1365 1242,1359 1977,1373"/>
+                <TextEquiv>
+                    <Unicode>lui donna derechieff du poulsat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="723,1510 1318,1513 2424,1539 2424,1482 1318,1456 723,1453 723,1510"/>
+                <Baseline points="723,1491 1318,1494 2424,1520"/>
+                <TextEquiv>
+                    <Unicode>Dit nestre este que deux fois derrier chastillion </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="756,1599 1440,1600 2466,1629 2466,1572 1611,1546 756,1542 756,1599"/>
+                <Baseline points="756,1580 1440,1581 2466,1610"/>
+                <TextEquiv>
+                    <Unicode>ou estoient la vefve Guenin verne et Adelheit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="137,1651 533,1647 533,1599 137,1603 137,1651"/>
+                <Baseline points="137,1635 533,1631"/>
+                <TextEquiv>
+                    <Unicode>les a depuis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="729,1702 1424,1686 1424,1629 729,1645 729,1702"/>
+                <Baseline points="729,1683 1250,1664 1424,1667"/>
+                <TextEquiv>
+                    <Unicode>quest prisonniere </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="135,1723 443,1713 443,1665 135,1675 135,1723"/>
+                <Baseline points="135,1707 314,1694 443,1697"/>
+                <TextEquiv>
+                    <Unicode>deculpe </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="720,1795 1658,1783 2426,1797 2426,1740 1658,1726 805,1735 720,1738 720,1795"/>
+                <Baseline points="720,1776 1658,1764 2426,1778"/>
+                <TextEquiv>
+                    <Unicode>Lune des fois y alloyent a pied et laultre des fois </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="750,1872 1299,1881 1299,1824 750,1815 750,1872"/>
+                <Baseline points="750,1853 887,1863 1299,1862"/>
+                <TextEquiv>
+                    <Unicode>sur ung baston </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l31" custom="readingOrder {index:30;}">
+                <Coords points="735,1977 2403,1998 2403,1941 818,1918 735,1920 735,1977"/>
+                <Baseline points="735,1958 1152,1956 2403,1979"/>
+                <TextEquiv>
+                    <Unicode>Ouquel lieu Il y avoit du feug Et y en avoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l32" custom="readingOrder {index:31;}">
+                <Coords points="767,2065 1263,2059 1871,2074 1871,2017 1263,2002 767,2008 767,2065"/>
+                <Baseline points="767,2046 1263,2040 1871,2055"/>
+                <TextEquiv>
+                    <Unicode>plusieurs quavoyent des chaperons. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:32;}">
+                <Coords points="728,2196 2375,2184 2375,2127 728,2139 728,2196"/>
+                <Baseline points="728,2177 2375,2165"/>
+                <TextEquiv>
+                    <Unicode>Dit que au mesme lieu dudit Sabath derrier </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l34" custom="readingOrder {index:33;}">
+                <Coords points="765,2274 2400,2277 2487,2274 2487,2217 765,2217 765,2274"/>
+                <Baseline points="765,2255 2487,2255"/>
+                <TextEquiv>
+                    <Unicode>chastillion estoyent la vefve Pierrat girardat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l35" custom="readingOrder {index:34;}">
+                <Coords points="771,2352 2517,2365 2517,2308 771,2295 771,2352"/>
+                <Baseline points="771,2333 2517,2346"/>
+                <TextEquiv>
+                    <Unicode>et la femme Nicolas quain questoyent accopagnees </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l36" custom="readingOrder {index:35;}">
+                <Coords points="129,2430 554,2414 554,2368 129,2384 129,2430"/>
+                <Baseline points="129,2415 554,2399"/>
+                <TextEquiv>
+                    <Unicode>les a depuis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l37" custom="readingOrder {index:36;}">
+                <Coords points="743,2446 1406,2434 1406,2377 743,2389 743,2446"/>
+                <Baseline points="743,2427 1406,2415"/>
+                <TextEquiv>
+                    <Unicode>de chacun leur maitre </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:37;}">
+                <Coords points="149,2507 479,2480 479,2434 149,2461 149,2507"/>
+                <Baseline points="149,2492 326,2469 479,2465"/>
+                <TextEquiv>
+                    <Unicode>deculpe. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l39" custom="readingOrder {index:38;}">
+                <Coords points="671,2589 1266,2554 2372,2563 2372,2506 1351,2496 926,2509 671,2532 671,2589"/>
+                <Baseline points="671,2570 926,2547 1266,2535 2372,2544"/>
+                <TextEquiv>
+                    <Unicode>Et que audit lieu estoyent aussi la vouille la </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:39;}">
+                <Coords points="756,2656 2466,2646 2466,2589 756,2599 756,2656"/>
+                <Baseline points="756,2637 1098,2628 2466,2627"/>
+                <TextEquiv>
+                    <Unicode>bonne femme de Boix et la Phillippe dudit lieu </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l41" custom="readingOrder {index:40;}">
+                <Coords points="1106,2874 2192,2868 2192,2838 1106,2844 1106,2874"/>
+                <Baseline points="1106,2874 2192,2868"/>
+                <TextEquiv>
+                    <Unicode>Le 21 dudit mois estant </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l42" custom="readingOrder {index:41;}">
+                <Coords points="744,2977 1780,2992 2472,3013 2472,2956 1780,2935 744,2920 744,2977"/>
+                <Baseline points="744,2958 1780,2973 2472,2994"/>
+                <TextEquiv>
+                    <Unicode>derechieff simplement Intterroguee a dit tout </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:42;} unclear {offset:12; length:8;}">
+                <Coords points="756,3061 2265,3085 2265,3028 756,3004 756,3061"/>
+                <Baseline points="756,3042 2265,3066"/>
+                <TextEquiv>
+                    <Unicode>entierement mis duny les faictz par elle </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:43;}">
+                <Coords points="786,3147 2119,3171 2355,3157 2355,3100 1884,3117 786,3090 786,3147"/>
+                <Baseline points="786,3128 1884,3155 2355,3138"/>
+                <TextEquiv>
+                    <Unicode>cy devant escriptz et declaires quelle se </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:44;}">
+                <Coords points="774,3258 1575,3243 1575,3186 774,3201 774,3258"/>
+                <Baseline points="774,3239 1575,3224"/>
+                <TextEquiv>
+                    <Unicode>faisoit grand tord. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:45;}">
+                <Coords points="750,3366 2414,3360 2414,3303 750,3309 750,3366"/>
+                <Baseline points="750,3347 1166,3341 1998,3351 2414,3341"/>
+                <TextEquiv>
+                    <Unicode>Surquoi veu lesdites preuves et informations levees </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Le 19 19 dudit mois 
+Ladite Alix estant interrogué dit que sont deux 
+A depuis 
+ans Que Caspar vallat la vint solliciter daller 
+deculpe ledit 
+par ensemble entre nuit et jour derrier chastillion 
+Caspar et dit 
+ou estant ne treuvarent personne 
+Lui faire tord 
+a raison de ce 
+que ledit Caspar lavoit 
+Dit navoir treuver son maitre charbon sinon deux 
+accuse de lavoir 
+fois lune des fois sont 10 ans passes derrier 
+treuve en son 
+curtil 
+ches elle et lors quelle se donna a lui et quelle 
+Renuncea dieu, Cresme et baptesme et leur heust 
+sa compagnie Et quatre ans apres lors quil 
+Lalla treuver quelle alloit aux au bois es combe 
+combes de vaulx genai Et que pour lors Il estoit 
+vestus de gris Et heust sa compagnie et 
+lui donna derechieff du poulsat 
+Dit nestre este que deux fois derrier chastillion 
+ou estoient la vefve Guenin verne et Adelheit 
+les a depuis 
+quest prisonniere 
+deculpe 
+Lune des fois y alloyent a pied et laultre des fois 
+sur ung baston 
+Ouquel lieu Il y avoit du feug Et y en avoit 
+plusieurs quavoyent des chaperons. 
+Dit que au mesme lieu dudit Sabath derrier 
+chastillion estoyent la vefve Pierrat girardat 
+et la femme Nicolas quain questoyent accopagnees 
+les a depuis 
+de chacun leur maitre 
+deculpe. 
+Et que audit lieu estoyent aussi la vouille la 
+bonne femme de Boix et la Phillippe dudit lieu 
+Le 21 dudit mois estant 
+derechieff simplement Intterroguee a dit tout 
+entierement mis duny les faictz par elle 
+cy devant escriptz et declaires quelle se 
+faisoit grand tord. 
+Surquoi veu lesdites preuves et informations levees </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

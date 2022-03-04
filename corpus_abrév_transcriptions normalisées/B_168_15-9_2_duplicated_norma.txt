@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="TEI%3Etxt_dev_abr.xsl"?><?xml-stylesheet type="text/xsl" href="TEI%3Etxt_dev_abr.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">B_168_15-9_2_duplicated</title><principal>elodie.paupe@unine.ch</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>AAEB_Farine_abréviations</title></seriesStmt><sourceDesc><p>TRP document creator: elodie.paupe@unine.ch</p></sourceDesc></fileDesc></teiHeader><facsimile><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_1"><graphic height="3743px" url="B_168_15-9_2_01.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_2"><graphic height="3743px" url="B_168_15-9_2_02.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_3"><graphic height="3743px" url="B_168_15-9_2_03.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_4"><graphic height="3743px" url="B_168_15-9_2_04.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_5"><graphic height="3743px" url="B_168_15-9_2_05.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_6"><graphic height="3743px" url="B_168_15-9_2_06.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_7"><graphic height="3743px" url="B_168_15-9_2_07.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_8"><graphic height="3743px" url="B_168_15-9_2_08.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_9"><graphic height="3743px" url="B_168_15-9_2_09.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_10"><graphic height="3743px" url="B_168_15-9_2_10.jpg" width="2754px"/></surface><surface lrx="2754" lry="3743" ulx="0" uly="0" xml:id="facs_11"><graphic height="3743px" url="B_168_15-9_2_12.jpg" width="2754px"/></surface></facsimile><text><body><div>
+ 
+ Page 1
+
+Informations levees contre
+Agatte femme de henri
+<hi rend="underlined:true;">Vouelin</hi> de <hi rend="underlined:true;">Beurnevesain</hi> 
+Du 15 daougst 1609
+Henneman Lacovatte de Beurnevesain 
+par serement depose Que sont environ 
+Seize ans quil servoit aupres du voueble 
+dudit lieu Et estant alle requerir les chevaulx 
+de son maitre ainsy quil les chassoit par aupres 
+du vergier de <hi rend="strikethrough:true;">Aug</hi> henri vouelin. Agatte 
+femme dicelui <hi rend="strikethrough:true;">dit</hi> estant au dessus dudit 
+vergier ainsy que ledits chevaulx passoyent 
+se baissat puis jeta de la main [<unclear> <hi rend="strikethrough:true;">illisibl</hi></unclear><hi rend="strikethrough:true;">e</hi> ] 
+contre lesdits chevaux mais deposant ne 
+veit point ce que sestoit. Et tout Instanment 
+Lung des chevaulx de sondit maitre tombat 
+par terre tout accoutreti. Lequel Ilz 
+Laissarent par quelque temps devant la 
+maison dudit vouelin. Et desla le 
+pourtarent en la maison de sondit maitre. 
+Dit en oultre que dimenche passe du soir 
+ledit henri vouelin estant alle en la maison 
+de lui deposant. Icelui dit quil ne 
+scavoit ce quil vouloit faire de sa femme 
+quelle sestoit volsus relever deux ou trois 
+fois pour aller mectre le feug en la maison 
+des freres de lui Neust este quil lavoit 
+empeiche Et que <hi rend="strikethrough:true;">sen</hi> elle sen estoit alle 
+nesachant ou elle alloit Et quicelle sestoit 
+declaire quelle ne rentreroit dedans Beur- 
+nevesain quelle neust faict du mal, quest 
+tout ce quil en scait 
+2 
+1
+ 
+ Page 2
+
+Frene vefve de feu Jehan muat et au present 
+femme de Jehan Dieu le fils. Par serement 
+depose Que par une fois sont bien douze 
+ans que deposante avoir ung veau questoit 
+de Sept sepmaines quelle vouloit desallayter 
+Et estant en son estable Ladite Agatte y <hi rend="strikethrough:true;">advint</hi> 
+advint que dit voycy ung bel veau dieu 
+Le garde et en apres sen alla. Et tout 
+Incontinent quelle fust sortie ledit 
+veau se print a gruller et dejecter par terre 
+puis saultoit en haulst. Ce que voyant 
+deposante envoya querir de ses voisinnes 
+pour veoir ledit veau, lesquelles dirent 
+ toutes que ledit veau estoit engenauche et
+quon lavoit greve, lequel mourut ce 
+mesme jour environ une heure et 
+demye apres ce que ladite Agatte en fust sortie 
+Et a deposante opinion que ladite Agatte 
+Lavoit engenauche quest tout ce quelle 
+en scait 
+2
+ 
+ Page 3
+
+Marguerite fille 
+Anthoine musat de 
+La Rouge terre 
+La chambeliere velt 
+Riter 
+Claudine de Froide- 
+vaulx 
+Du 12 daougst 1609 
+Informations prinse doffice Contre <hi rend="underlined:true;">Agatte</hi> 
+femme de henri <hi rend="underlined:true;">vouelin</hi> de <hi rend="underlined:true;">Beurnevesain</hi> 
+Sur les faiclz dont <hi rend="strikethrough:true;">Il</hi> est accusee de vouloir 
+mectre le feu es maisons des freres de son 
+‸ mari 
+‸ son mari 
+Ledit henri vouelin [même signe ut supra!] a librement en presentce des
+tesmoings suigvans declaire que sadite femme 
+avoit par plusieurs et reyterees fois dit quelle 
+lui 
+mectroit le feu es maisons des freres de sondit 
+<hi rend="strikethrough:true;">mari</hi>. Et quelle sestoit par deux ou trois Nuit 
+voulsus relever pour mectre en execution 
+telle entreprinse ne fust este que lui 
+lempescha Et ce a raison de ce que lesdits 
+ses freres (comme elle disoit) la chargeoyent 
+dinjure. 
+Jehan perrin Girard voueble de Beurnevesain 
+depose Quil y a environ quinze ans Que 
+ladite Agatte est chargee <hi rend="strikethrough:true;">dune</hi> destre une 
+sorciere. Et dit que ayant ung serviteur 
+que chassoit des chevaux par decoste Le Curtil 
+dicelle, quicelle champat quelque chose 
+dont lung de ses plus beaulx chevaulx 
+jument
+devint a contreti. Laquelle ^ depuis fust 
+medicine par ung vacheron qui declaira que 
+ladite jument estoit <hi rend="strikethrough:true;">??</hi> grevee et laquelle mourut 
+Dit de plus que la femme Jehan muat 
+monstra audit Henri voelin un veau
+celle 
+ou y estant ladite Agatte <hi rend="strikethrough:true;">laquelle</hi> frappa 
+ledit veau dune vergette que incontinent ledit 
+veau vint accoutrety et morut Et disoit 
+Ladite femme dudit muat ouvertement que ladite 
+ 
+ Page 4
+
+par droit 
+Agatte lavoit engenauche. Dont de telles 
+Injures elle ne sen est jamais volsus venger 
+Et a bien tousjour ouys depuis reputer ladite 
+Agatte estre genauche. 
+Dit que hier pour le jour estant au moulin dudit 
+Beurnevesain, icellui henri vouelin dit en 
+presentce de plusieurs quil en feroit a repentir ses
+freres et quil les tueroit. 
+Petremand mahon par serement depose Que 
+par devant <hi rend="strikethrough:true;">le</hi> une grande partie de la Comunaulte 
+Que <hi rend="strikethrough:true;">hue</hi> ledit henri dit et se declaira quil 
+se vouloit descharger de ce que sa femme 
+se declairoit quelle vouloit mectre le feu 
+en la maison des ses freres Et que elle sestoit 
+volsus relever pour mectre en execution tel 
+luy 
+fait mais que <hi rend="strikethrough:true;">lavoit</hi> lavoit empeiche Et 
+que surce elle avoit dit que <hi rend="strikethrough:true;">ce</hi> 
+sy cela ne se faisoit pour lors quelle 
+le feroit une aultre fois dont de ce 
+se vouloit avoir descharge. 
+Depose en oultre que sont bien vingt ans que la 
+Comunaulte de Beurnevesain avoyent 
+ung bergier de Faverois que les servit 
+trois ans lequel nestoit disoit que ladite 
+Agatte estoit une genauche, et disoit les 
+raisons lesquelles deposant a oublier depuis 
+Dit que Jehan du prai oncle de ladite Agatte 
+sestoit nagueres declaire que les sorcieres 
+quon avoit Brusle a dele lavoit accuse 
+pour estre telle 
+ 
+ Page 5
+
+ + de Cueve
+3 
+par sorcelerie 
+4. 
+Dit de plus Quelle mesme ne se donne 
+point de peine encour quon lapelle <hi rend="strikethrough:true;">telle</hi> genauche 
+dit quon la suspitionne davoir greve a Richard 
+chavanne + que demeuroit lors a Beurnevesain 
+Estienne girard dudit Beurnevesain depose 
+que ledit henri se declaira que Il avoit empeche 
+par deux fois sa femme questoit en volonte 
+daller mectre le feug en la maison de ses
+freres 
+Depose en oultre Avoir ouys dire souventesfois 
+que lon chargeoit et suspicionoit ladite Agatte 
+destre une genauche et sorciere, Et quelle 
+avoit faict mourir ung veau a Jehan 
+muat. Plus avoit grevé une jument 
+au voueble Et donne le mal a Richard 
+chavanne de Cueve Et qune femme de 
+galfinguen laccusoit de ce fait Et de 
+mesme quelle et une nomme morise vefve 
+de henri <hi rend="strikethrough:true;">Jehan</hi> guenat avoyent traict et tirez 
+Les <hi rend="strikethrough:true;">e</hi> yeulx a lenfant de henri Jehan 
+guenat Et estre reputee pour genauche 
+comunement. 
+Jehan perrin mahon depose du feug nen rien 
+scavoir sinon que par ouys dire 
+De laultre faict de genaucherie dit avoir 
+ouys apppeller genauche comunement a ladite 
+Agatte Et quelle estoit accusee davoir 
+greve <hi rend="strikethrough:true;">les</hi> lenffant de henri guenat lui 
+avoit tire les yeulx, avoit fait mourir 
+ung veau au clavier et une jument 
+au voueble ; Et avoit donne le mal a ung 
+nomme Richard chavanne de Cueve duquel Il estoit 
+encour presentement malade 
+Dit que ledit henri la menace de le faire a 
+repentir de ce que sa femme estoit en prison 
+5 
+ 
+ Page 6
+
+ Jehan mahon de Beurnevesain depose Que
+par ung soir en presentce de plusieurs Que ledit 
+Henri se declaira que Il avoit empeiche par 
+deux ou trois nuct sa femme que se vouloit 
+relever pour aller mectre le feug en la 
+maison de ses freres Et quil sen deschargeoit 
+de tel faict 
+Dit quil a ouys dire Que lon chargeoit et 
+suspitionoit sont plus de quinze ans que ladite 
+Agatte estoit une genauche Et quelle avoit 
+fait a mourir des enffans a Bastien simon 
+et quon lui reprochoit ouvertement Comme aussi 
+fait mourir ung veau a Jehan muat et <hi rend="strikethrough:true;">dune</hi> 
+une jument au voueble mesme quelle 
+avoit greve et tire les yeulx a lenfant de 
+henri guenat Et de plus greve et donne 
+La maladie a Richard chavanne de Cueve 
+questoit pour lors son serviteur. Et de 
+plus a opinion quelle lui a fait a mourir 
+une jument. 
+Jehan <hi rend="strikethrough:true;">pbtre</hi> Prestre de Beurnevesain 
+depose que dimenche devant le mostier 
+<hi rend="strikethrough:true;">que led</hi> en presentce de Jaicque chevrolet 
+Que ledit henri dit Que Il se vouloit 
+descharger par devant eulx Que sadite femme 
+sestoit voulu relever pour mectre le feu 
+en la maison de ses freres. Ce que ledit henri 
+raconta derechieff sur le soir devant 
+plusieurs 
+Dit avoir ouys dire a plusieurs quelle estoit 
+genauche et quon lui avoit plusieurs fois reproche
+sans quelle sen soit purgee 
+dit quon la charge davoir creve les yeulx <hi rend="strikethrough:true;">au</hi> a
+lenfant henri guenat, fait mourir les 
+ 
+ Page 7
+
+6 
+7 
+enffans bastien Simon, une jument au voueble 
+et ung veau au claivier et donne le mal 
+a Richard chavanne de Cueve. 
+fils 
+Bernard <hi rend="strikethrough:true;">gui</hi> Jehan Noel mahon depose avoir 
+ouys dire en presentce de plusieurs <hi rend="strikethrough:true;">Quil avoit oys</hi> 
+audit henri que il se vouloir descharger Que 
+sa femme estoit resolue et en volonte de 
+mectre le feu en la maison de ses freres et 
+que si cela ne se faisoit ceste fois la 
+quelle se feroit une aultre fois. Et quon 
+debvoit faire bon guaict quil sen deschargeoit 
+Et lavoit empeiche par deux ou trois nuit de 
+mectre en execution tel fait et quil navoit 
+point dormis parce quil ne la pouvoit 
+empeicher. 
+Dit quelle est chargee et suspitionnee destre une 
+genauche Et avoir fait a mourir ung veau 
+au tixerain Mesme avoir fait a mourir le 
+fils de Jaicque chevrolet son frere Et avoir 
+greve et fait borne le fils Henri guenat 
+<hi rend="strikethrough:true;">Groz Jehan vouelin frere dud(it) henri vouelin</hi> 
+Richard chavanne de Cueve Par serement depose 
+que trois sepmaines apres Pasques passes que deposant 
+sortit de son service de Beurnevesain A raison 
+questant audit Beurnevesain Il devint malade 
+dune Jambe laquelle sest ouverte Et est 
+encore presentement toute noire Et fust 
+remene sur ung cheval dillec en la maison 
+de son frere Estienne A Cueve Ou Il est 
+encore par lui entretenu honestement. Dit 
+que a raison de telle maladie que sondit frere 
+7 
+ 
+ Page 8
+
++ par ses voisins 
+ Estienne sen alla a galfinguen vers une femme
+pour treuver garison. Laquelle feist responce 
+a icellui que deposant estoit greve par une femme 
+dudit Beurnevesain quelle ne nomma point 
+Et na deposant aultre opinion sinon que 
+ladite Agatte lui a donne le mal par la 
+vertuz de la deposition de ladite femme de galfinguen 
+henri guenat de Beurnevesain depose que le 
+serviteur de lui deposant et le fils de ladite Agatte 
+estoient es champs lesquelx trouvarent ung 
+meschant manteau lequel <hi rend="strikethrough:true;">Il pourta</hi> le 
+filz de ladite Agatte pourta en <hi rend="strikethrough:true;">sa mais</hi> leur 
+maison dont deposant en nom de son fils 
+en repeta la moitie pour sondit fils : Ce que 
+Le mari de ladite Agatte avec Rigoreuses parolles 
+refusa Et estant estes admonestes + de lui 
+payer la moitie icelui en fust comptant 
+porveu que lui gaingneroit <unclear>jus</unclear> <unclear>aestoure</unclear>
+Ce questant advenu et estant ledit henri 
+vouelin en la maison dudit deposant leur 
+enffant devint malade et ne veit 
+aulcunement de quoi deposant estant 
+conseille <hi rend="strikethrough:true;">daller</hi> de pourter ledit enfant 
+a galfinguen vers une femme pour le 
+faire a guerir Aussy tost quicelle 
+le veit elle dit que ledit enffant 
+estoit engenauche par des mauvaises gens 
+Et que feroit tant quelles yroyent 
+en leur maisons Et surce sen 
+retourna. Et tost apres ladite 
+8
+ 
+ Page 9
+
+Agatte et une aultre femme appellee
+morise laquelle sest depuis retiree
+vindrent en sa maison visiter ledit
+enffant Et a opinion ledit deposant que pour
+lavoir <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">offence</hi> moleste pour ledit manteau
+que ladite femme lui a heu donne le mal
+a <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">sesdits</hi> <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">enffa</hi> sondit enfant.
+leurdite
+Dit de plus que lors quelle entra en ladite
+maison quil ny avoit personne.
+Dit de plus quicelle agatte sont passe
+ung an quicelle fust demander a vendre
+a deposant deux penaux froment Ce que
+Lui estant refusa tout instanment
+leur deux vaches furent tayries instanment
+Et ayant surce use de ladvis de gens
+la femme dudit deposant print des <hi rend="strikethrough:true; fontSize:0.0; kerning:0;">cendres</hi>
+cendres de la maison de ladite Agatte et
+en ayant donne a leur vaches elles
+rendirent incontinenti leur laict.
+Dit quil ny a personne en la Comunaulte
+que ne fut absente sa compagnie
+Jehannette femme dudit henri dit le mesme
+Annatte femme de Bastien Simon par serement
+depose Que ladite Agatte fust par une fois
+querir du laict en sa maison et lui en ayant
+refuse par ce quelle nen avoit point leur
+deux vaches furent tairies bien 20 sepmaines
+<hi rend="strikethrough:true; fontSize:0.0; kerning:0;">jusques a ce</hi> Et ne mangeoyent choses
+aulcunes sinon jusques a ce quelle fust
+prendre des herbes de son curtil et en donna
+audsdites vaches et desla reprindrent le manger 
+ 
+ Page 10
+
+Dit quen apres ladite Agatte passant par 
+devant le moulin ou <hi rend="strikethrough:true;">dep</hi> la fille de 
+deposante questoyt eagee de 3 ans qui 
+mangeoit du pain Que estoit et lui 
+ayant dit quelle mangeoit bien a la <unclear>certe</unclear>
+sadite fille devint fort malade et debille 
+et mourut deans huict jours en apres. 
+Et tient <hi rend="strikethrough:true;">et</hi> deposante telle Inimitie 
+provenir a raison de ce que elle deposante 
+lui avoit refuse ledit laict 
+10
+ 
+ Page 11
+
+Criminalia
+de Beurnevai-
+sain
+Information
+Contre Agatte femme de henry vouelin
+de Beurnevesain</div></body></text></TEI>

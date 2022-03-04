@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="TEI%3Etxt_dev_abr.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title type="main">B_168-15-2-4_duplicated</title><principal>elodie.paupe@unine.ch</principal></titleStmt><publicationStmt><publisher>tranScriptorium</publisher></publicationStmt><seriesStmt><title>AAEB_Farine_abréviations</title></seriesStmt><sourceDesc><p>TRP document creator: elodie.paupe@unine.ch</p></sourceDesc></fileDesc></teiHeader><facsimile><surface lrx="2643" lry="3968" ulx="0" uly="0" xml:id="facs_1"><graphic height="3968px" url="B_168-15-2-4_0001.jpg" width="2643px"/></surface><surface lrx="2655" lry="3972" ulx="0" uly="0" xml:id="facs_2"><graphic height="3972px" url="B_168-15-2-4_0002.jpg" width="2655px"/></surface><surface lrx="2637" lry="3968" ulx="0" uly="0" xml:id="facs_3"><graphic height="3968px" url="B_168-15-2-4_0003.jpg" width="2637px"/></surface><surface lrx="2654" lry="3988" ulx="0" uly="0" xml:id="facs_4"><graphic height="3988px" url="B_168-15-2-4_0004.jpg" width="2654px"/></surface></facsimile><text><body><div>
+ 
+ Page 1
+
+Anne
+vauthier
+Je, Annelin vefve de Pierrat vauthier de
+Courthedoubz, Cougnois librement et sans
+controincte, Comment que dez longue main
+Je sois este diffame par bruict comung destre
+une sorciere et genauche, et pour ce regard
+plusieurs plainctes et doleances soyent estees faictes
+contre de moy, Quont donne occasion a Messieurs
+les hault Officiers doffice de faire inquisition
+contre de moy Et retreuve par icelle des indices
+et conjectures pregnantes et concluantes, Le tout
+comme est au long pourte par lesdites informations
+Pour raison dequoi je seroye este saisie au
+corps conduite et menee au chasteau et forteresse
+de Pourrentruy et jusques au present y Detenue
+durant lequel terme Messieurs les Officiers
+ ont procede avec moy suivant ordre de droit et
+au contenu des ordonnances penibles du Sainct Empire
+voyre jusques a avoir sostenu la question et
+torture moderement. Sy est ce que persistant
+et perseverant a linficiatx, et negative de tous
+Les faictz pourtez auxdites informations. Combien
+Que les preuves soyent revestues de toutes
+circonstances conluantes , Et que nonobstant
+ma <unclear>pertace </unclear>inficiation Mesdits seigneurs les Officiers
+ayent preuves suffisante pour maccuser devant
+La justice criminelle, Et me convaincre desdits
+fai<unclear>ctz</unclear> par tesmoing suffisans pourte ausdites
+informations ; Sy est ce que a ma humble
+priere et requeste faicte a Moin Seigneur et
+Prince, ayant heu pitie de mes pouvres enffans
+Il a pleu a Son Excellence Reverendissime me
+ 
+ Page 2
+
+faire a relascher de prison, Moyenant les
+ conditions et reserves suigvantes Premierement
+ que jassisterai tous Les dimenches et festes
+ solempnelles devotement a leglise, et vivrai
+en femme de bien selon les ordonnance dicelle
+Secondement que je ne hanterai les assemblees
+comme Nopces beniesons comairaige, louvres
+et costelz, Ains procurerai ladvancement de
+mon menaige sans divaguer de courir ca
+et la, en sorte que personne naura occasion
+de soi complaindre de moi. Tiercement que
+ si aulcune ulterieure plaincte se faisoit contre
+ de moi que Je me rendrai entre les mains de la
+Justice sans mabsenter Et finablement que
+ de ce mien emprisonement je ne me vengerai
+par moi ou par aultres ny entreprendrai ny ferai
+entreprendre de men venger, soit contre Sondit
+Excellence Reverendissime, Messieurs ses officiers
+ leurs serviteurs, les tesmoings produis contre
+de moi Leurs femmes familles biens et chevances.
+ Lesquelx pointz et articles jai promis et jure par
+serement de <hi rend="strikethrough:true;">tout</hi> en tout de par tout fidelement
+garder et observer de mon millieur pouvoir
+Que sil advient que en lung ou en laultre
+je contreviengne, alors je me submectz destre
+ chastie au contenu des ordonnances penible
+du sainct Empire, Ce que jai par serement
+solennel, jure de garder et inviolablement
+accomplir Et pour plus grande solempnite
+et assurance jai prie le<unclear>?</unclear> Notaire soubsigne,
+de soubsigner le present acte en mon nom
+Ce quil at faict a ma tres grande priere
+ 
+ Page 3
+
+leur
+et requeste sans le prejudice de <hi rend="strikethrough:true;">lui</hi>  ni des
+leurs
+ audit Pourrentruy Le Cinquieme
+jour du mois de decembre mil six cens
+et huict Presents Petit jehan henselin de
+ miecort et petit Jehan le mercier de
+Chermoille tesmoings ad ce requis.
+Richard Thomas [paraphe]
+S ?
+JGigendet [paraphe]
+ 
+ Page 4
+
+Urphed de Annelin
+ vefve Pierrat vauthier
+ de Courthedoubs</div></body></text></TEI>

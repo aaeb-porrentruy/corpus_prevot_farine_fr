@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-15T11:15:16.052+01:00</Created>
+        <LastChange>2022-03-04T12:37:33.672+01:00</LastChange>
+        <TranskribusMetadata docId="935437" pageId="35622906" pageNr="3" tsid="76974073" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=NORGKDUJYVDCCBXOJNMIFJDV&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XNHBAGYCNUTQHQFTRLLEVQII" imageId="26392043"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-10-3_0003.jpg" imageWidth="2754" imageHeight="3743">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646403561620" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="726,225 726,3280 2391,3280 2391,225"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="761,306 1227,297 2315,336 2315,264 838,230 761,234 761,306"/>
+                <Baseline points="761,282 1227,273 2315,312"/>
+                <TextEquiv>
+                    <Unicode>Item que sont passe trois sepmaines elle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="804,393 1495,390 2340,425 2340,361 1495,326 804,329 804,393"/>
+                <Baseline points="804,372 1495,369 2340,404"/>
+                <TextEquiv>
+                    <Unicode>Jecta dudit poulsat sur lung des chevaulx </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="801,482 2244,503 2244,439 801,418 801,482"/>
+                <Baseline points="801,461 2244,482"/>
+                <TextEquiv>
+                    <Unicode>de Moriqua hennin et aussi le lundi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="803,570 2319,594 2319,530 803,506 803,570"/>
+                <Baseline points="803,549 2319,573"/>
+                <TextEquiv>
+                    <Unicode>avant quelle fut prisonniere en avoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="794,674 2310,688 2310,619 945,599 794,605 794,674"/>
+                <Baseline points="794,651 1248,642 2310,665"/>
+                <TextEquiv>
+                    <Unicode>jecte sur une vache estant a Jaicque </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="810,759 1284,751 2391,795 2391,728 1284,684 810,692 810,759"/>
+                <Baseline points="810,737 1284,729 2391,773"/>
+                <TextEquiv>
+                    <Unicode>maillat mais ne scait sy lesdits cheval </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="801,856 1658,859 1658,792 801,789 801,856"/>
+                <Baseline points="801,834 1272,824 1658,837"/>
+                <TextEquiv>
+                    <Unicode>et vache en son mort </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="779,1037 2325,1061 2325,989 779,965 779,1037"/>
+                <Baseline points="779,1013 2325,1037"/>
+                <TextEquiv>
+                    <Unicode>Item confesse avoir jecte dudit poulsat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="807,1135 2355,1153 2355,1084 807,1066 807,1135"/>
+                <Baseline points="807,1112 2355,1130"/>
+                <TextEquiv>
+                    <Unicode>sur lenfant de Jaicque maillat de sorte </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="803,1240 2376,1264 2376,1198 960,1168 803,1174 803,1240"/>
+                <Baseline points="803,1218 1432,1212 2376,1242"/>
+                <TextEquiv>
+                    <Unicode>quil en est devenu tout debille et malade </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="800,1329 2229,1356 2229,1290 871,1261 800,1263 800,1329"/>
+                <Baseline points="800,1307 1514,1305 2229,1334"/>
+                <TextEquiv>
+                    <Unicode>Lequel mal elle ne lui seroit oster </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="822,1425 1800,1429 1800,1362 822,1358 822,1425"/>
+                <Baseline points="822,1403 1800,1407"/>
+                <TextEquiv>
+                    <Unicode>Pour lavoir trop porte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="1737,1537 2018,1524 2018,1458 1737,1471 1737,1537"/>
+                <Baseline points="1737,1515 2018,1502"/>
+                <TextEquiv>
+                    <Unicode>ung peu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="726,1607 2265,1628 2265,1565 726,1544 726,1607"/>
+                <Baseline points="726,1586 2265,1607"/>
+                <TextEquiv>
+                    <Unicode>Item confesse quelle meit dudit poulsat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="794,1692 1875,1708 2339,1734 2339,1667 1875,1641 794,1625 794,1692"/>
+                <Baseline points="794,1670 1875,1686 2339,1712"/>
+                <TextEquiv>
+                    <Unicode>en une soppe quelle feist a la femme </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="740,1793 2214,1802 2214,1732 740,1723 740,1793"/>
+                <Baseline points="740,1770 2214,1779"/>
+                <TextEquiv>
+                    <Unicode>de son filz, et que layant mange </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="786,1888 2340,1909 2340,1839 786,1818 786,1888"/>
+                <Baseline points="786,1865 2340,1886"/>
+                <TextEquiv>
+                    <Unicode>Icelle devint fort malade. Et que la </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="810,1989 2268,2012 2268,1940 810,1917 810,1989"/>
+                <Baseline points="810,1965 2268,1988"/>
+                <TextEquiv>
+                    <Unicode>Dame de Gallfingen lui a depuis </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="795,2097 1488,2096 1488,2024 795,2025 795,2097"/>
+                <Baseline points="795,2073 1488,2072"/>
+                <TextEquiv>
+                    <Unicode>oste le mal. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="765,2273 2157,2280 2157,2217 765,2210 765,2273"/>
+                <Baseline points="765,2252 1391,2241 2157,2259"/>
+                <TextEquiv>
+                    <Unicode>Item de plus confesse que avec dudit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="819,2354 1653,2353 2336,2387 2336,2324 1653,2290 819,2291 819,2354"/>
+                <Baseline points="819,2333 1653,2332 2336,2366"/>
+                <TextEquiv>
+                    <Unicode>poulsat elle a faict mourir Borquin </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="797,2456 2213,2480 2213,2408 797,2384 797,2456"/>
+                <Baseline points="797,2432 1646,2430 2213,2456"/>
+                <TextEquiv>
+                    <Unicode>filz de Perrin hennin et Richarde sa </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="822,2548 1426,2549 2333,2585 2333,2515 1426,2479 822,2478 822,2548"/>
+                <Baseline points="822,2525 1426,2526 2333,2562"/>
+                <TextEquiv>
+                    <Unicode>femme parce quilz avoyent mal parle </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="792,2653 1669,2646 2387,2687 2387,2618 1669,2577 871,2582 792,2584 792,2653"/>
+                <Baseline points="792,2630 1669,2623 2387,2664"/>
+                <TextEquiv>
+                    <Unicode>delle et dit quelle Leur avoit derobe </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="825,2751 1382,2750 1382,2678 825,2679 825,2751"/>
+                <Baseline points="825,2727 1382,2726"/>
+                <TextEquiv>
+                    <Unicode>ung fleurie </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="983,2938 1612,2927 2241,2953 2241,2902 1108,2882 983,2887 983,2938"/>
+                <Baseline points="983,2921 1612,2910 2241,2936"/>
+                <TextEquiv>
+                    <Unicode>Ladite Aignelatte fust le premier de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="981,3016 2303,3025 2303,2974 981,2965 981,3016"/>
+                <Baseline points="981,2999 1708,2988 2303,3008"/>
+                <TextEquiv>
+                    <Unicode>Septembre 1609 condempnee destre </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="989,3098 2307,3098 2307,3044 1186,3035 989,3044 989,3098"/>
+                <Baseline points="989,3080 1384,3066 2307,3080"/>
+                <TextEquiv>
+                    <Unicode>Bruslee toute vive mais par grace </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="1017,3186 1587,3166 2285,3193 2285,3135 1334,3110 1017,3128 1017,3186"/>
+                <Baseline points="1017,3167 1587,3147 2285,3174"/>
+                <TextEquiv>
+                    <Unicode>fust decapitee et desla son corps</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:29;}">
+                <Coords points="1032,3280 1604,3251 1604,3190 1032,3219 1032,3280"/>
+                <Baseline points="1032,3260 1604,3231"/>
+                <TextEquiv>
+                    <Unicode>jecte au feug </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Item que sont passe trois sepmaines elle
+Jecta dudit poulsat sur lung des chevaulx 
+de Moriqua hennin et aussi le lundi 
+avant quelle fut prisonniere en avoit 
+jecte sur une vache estant a Jaicque 
+maillat mais ne scait sy lesdits cheval 
+et vache en son mort 
+Item confesse avoir jecte dudit poulsat 
+sur lenfant de Jaicque maillat de sorte 
+quil en est devenu tout debille et malade 
+Lequel mal elle ne lui seroit oster 
+Pour lavoir trop porte
+ung peu
+Item confesse quelle meit dudit poulsat 
+en une soppe quelle feist a la femme 
+de son filz, et que layant mange 
+Icelle devint fort malade. Et que la 
+Dame de Gallfingen lui a depuis 
+oste le mal. 
+Item de plus confesse que avec dudit 
+poulsat elle a faict mourir Borquin 
+filz de Perrin hennin et Richarde sa 
+femme parce quilz avoyent mal parle 
+delle et dit quelle Leur avoit derobe 
+ung fleurie 
+Ladite Aignelatte fust le premier de 
+Septembre 1609 condempnee destre 
+Bruslee toute vive mais par grace 
+fust decapitee et desla son corps
+jecte au feug </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,292 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-09T11:25:53.073+01:00</Created>
+        <LastChange>2022-03-04T14:27:50.517+01:00</LastChange>
+        <TranskribusMetadata docId="935440" pageId="35622892" pageNr="1" tsid="76977738" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=ROJPJYJQCIUJZHEKLIIPTJYU&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZCOHSOOBRIMVFLGOKQYLXWPZ" imageId="25645555"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-2-4_0001.jpg" imageWidth="2643" imageHeight="3968">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646403562057" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="270,251 270,884 702,884 702,251"/>
+            <TextLine id="r1l2" custom="readingOrder {index:0;}">
+                <Coords points="302,732 614,746 614,656 302,642 302,732"/>
+                <Baseline points="302,702 614,716"/>
+                <TextEquiv>
+                    <Unicode>Anne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:1;}">
+                <Coords points="270,884 702,861 702,770 270,793 270,884"/>
+                <Baseline points="270,854 702,831"/>
+                <TextEquiv>
+                    <Unicode>vauthier</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anne
+vauthier</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="756,155 756,3272 2544,3272 2544,155"/>
+            <TextLine id="r2l2" custom="readingOrder {index:0;}">
+                <Coords points="800,340 2340,361 2340,294 800,273 800,340"/>
+                <Baseline points="800,318 2340,339"/>
+                <TextEquiv>
+                    <Unicode>Je, Annelin vefve de Pierrat vauthier de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:1;}">
+                <Coords points="806,427 2280,436 2280,385 806,376 806,427"/>
+                <Baseline points="806,410 1764,402 2280,419"/>
+                <TextEquiv>
+                    <Unicode>Courthedoubz, Cougnois librement et sans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:2;}">
+                <Coords points="828,515 2351,505 2351,454 828,464 828,515"/>
+                <Baseline points="828,498 2351,488"/>
+                <TextEquiv>
+                    <Unicode>controincte, Comment que dez longue main</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:3;}">
+                <Coords points="797,602 2406,599 2406,536 797,539 797,602"/>
+                <Baseline points="797,581 2406,578"/>
+                <TextEquiv>
+                    <Unicode>Je sois este diffame par bruict comung destre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:4;}">
+                <Coords points="797,700 2391,688 2391,622 797,634 797,700"/>
+                <Baseline points="797,678 2391,666"/>
+                <TextEquiv>
+                    <Unicode>une sorciere et genauche, et pour ce regard</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:5;}">
+                <Coords points="789,799 2480,797 2480,736 789,738 789,799"/>
+                <Baseline points="789,779 1549,765 2480,777"/>
+                <TextEquiv>
+                    <Unicode>plusieurs plainctes et doleances soyent estees faictes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:6;}">
+                <Coords points="789,898 1463,875 2475,881 2475,820 1041,824 789,837 789,898"/>
+                <Baseline points="789,878 1463,855 2475,861"/>
+                <TextEquiv>
+                    <Unicode>contre de moy, Quont donne occasion a Messieurs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:7;}">
+                <Coords points="800,993 1399,973 2513,985 2513,919 1056,914 800,927 800,993"/>
+                <Baseline points="800,971 1399,951 2513,963"/>
+                <TextEquiv>
+                    <Unicode>les hault Officiers doffice de faire inquisition</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:8;}">
+                <Coords points="804,1080 2486,1076 2486,1012 888,1012 804,1016 804,1080"/>
+                <Baseline points="804,1059 1308,1046 2486,1055"/>
+                <TextEquiv>
+                    <Unicode>contre de moy Et retreuve par icelle des indices</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:9;}">
+                <Coords points="791,1174 2395,1175 2480,1171 2480,1102 791,1105 791,1174"/>
+                <Baseline points="791,1151 1888,1161 2480,1148"/>
+                <TextEquiv>
+                    <Unicode>et conjectures pregnantes et concluantes, Le tout</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:10;}">
+                <Coords points="795,1282 2505,1315 2505,1246 795,1213 795,1282"/>
+                <Baseline points="795,1259 2505,1292"/>
+                <TextEquiv>
+                    <Unicode>comme est au long pourte par lesdites informations</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:11;}">
+                <Coords points="798,1395 2445,1413 2445,1349 880,1328 798,1331 798,1395"/>
+                <Baseline points="798,1374 1209,1368 2445,1392"/>
+                <TextEquiv>
+                    <Unicode>Pour raison dequoi je seroye este saisie au</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:12;}">
+                <Coords points="795,1482 1144,1484 2544,1520 2544,1456 1144,1420 795,1418 795,1482"/>
+                <Baseline points="795,1461 2544,1499"/>
+                <TextEquiv>
+                    <Unicode>corps conduite et menee au chasteau et forteresse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:13;}">
+                <Coords points="767,1589 2388,1612 2388,1543 767,1520 767,1589"/>
+                <Baseline points="767,1566 2388,1589"/>
+                <TextEquiv>
+                    <Unicode>de Pourrentruy et jusques au present y Detenue</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:14;}">
+                <Coords points="786,1687 2155,1711 2397,1700 2397,1631 1913,1643 786,1618 786,1687"/>
+                <Baseline points="786,1664 1913,1689 2397,1677"/>
+                <TextEquiv>
+                    <Unicode>durant lequel terme Messieurs les Officiers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:15;}">
+                <Coords points="783,1801 2412,1808 2412,1739 783,1732 783,1801"/>
+                <Baseline points="783,1778 2412,1785"/>
+                <TextEquiv>
+                    <Unicode> ont procede avec moy suivant ordre de droit et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:16;}">
+                <Coords points="786,1900 2487,1906 2487,1837 786,1831 786,1900"/>
+                <Baseline points="786,1877 2487,1883"/>
+                <TextEquiv>
+                    <Unicode>au contenu des ordonnances penibles du Sainct Empire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:17;}">
+                <Coords points="795,1991 2370,2018 2370,1949 795,1922 795,1991"/>
+                <Baseline points="795,1968 2370,1995"/>
+                <TextEquiv>
+                    <Unicode>voyre jusques a avoir sostenu la question et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:18;}">
+                <Coords points="792,2095 2382,2105 2382,2036 871,2023 792,2026 792,2095"/>
+                <Baseline points="792,2072 1269,2064 2382,2082"/>
+                <TextEquiv>
+                    <Unicode>torture moderement. Sy est ce que persistant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:19;}">
+                <Coords points="791,2194 2484,2207 2484,2138 960,2119 791,2125 791,2194"/>
+                <Baseline points="791,2171 1298,2163 2484,2184"/>
+                <TextEquiv>
+                    <Unicode>et perseverant a linficiatx, et negative de tous</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:20;}">
+                <Coords points="776,2283 1279,2271 2454,2296 2454,2230 1027,2206 776,2217 776,2283"/>
+                <Baseline points="776,2261 1279,2249 2454,2274"/>
+                <TextEquiv>
+                    <Unicode>Les faictz pourtez auxdites informations. Combien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:21;}">
+                <Coords points="791,2371 2340,2380 2340,2323 791,2314 791,2371"/>
+                <Baseline points="791,2352 2340,2361"/>
+                <TextEquiv>
+                    <Unicode>Que les preuves soyent revestues de toutes</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:22;}">
+                <Coords points="795,2471 2348,2459 2430,2455 2430,2395 795,2411 795,2471"/>
+                <Baseline points="795,2451 2430,2435"/>
+                <TextEquiv>
+                    <Unicode>circonstances conluantes , Et que nonobstant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:23;} unclear {offset:3; length:8;}">
+                <Coords points="774,2573 2486,2558 2486,2489 774,2504 774,2573"/>
+                <Baseline points="774,2550 2486,2535"/>
+                <TextEquiv>
+                    <Unicode>ma pertace inficiation Mesdits seigneurs les Officiers</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l26" custom="readingOrder {index:24;}">
+                <Coords points="791,2668 2501,2645 2501,2576 791,2599 791,2668"/>
+                <Baseline points="791,2645 2501,2622"/>
+                <TextEquiv>
+                    <Unicode>ayent preuves suffisante pour maccuser devant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l27" custom="readingOrder {index:25;}">
+                <Coords points="756,2769 2459,2748 2459,2681 756,2702 756,2769"/>
+                <Baseline points="756,2747 2459,2726"/>
+                <TextEquiv>
+                    <Unicode>La justice criminelle, Et me convaincre desdits</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l28" custom="readingOrder {index:26;} unclear {offset:3; length:3;}">
+                <Coords points="774,2871 1322,2841 2340,2845 2340,2779 930,2791 774,2805 774,2871"/>
+                <Baseline points="774,2849 1322,2819 2340,2823"/>
+                <TextEquiv>
+                    <Unicode>faictz par tesmoing suffisans pourte ausdites</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l29" custom="readingOrder {index:27;}">
+                <Coords points="762,2958 2337,2940 2337,2874 762,2892 762,2958"/>
+                <Baseline points="762,2936 1864,2912 2337,2918"/>
+                <TextEquiv>
+                    <Unicode>informations ; Sy est ce que a ma humble</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l30" custom="readingOrder {index:28;}">
+                <Coords points="762,3059 2373,3029 2373,2960 762,2990 762,3059"/>
+                <Baseline points="762,3036 2050,2997 2373,3006"/>
+                <TextEquiv>
+                    <Unicode>priere et requeste faicte a Moin Seigneur et</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l31" custom="readingOrder {index:29;}">
+                <Coords points="765,3164 1888,3119 2493,3148 2493,3079 1888,3050 765,3095 765,3164"/>
+                <Baseline points="765,3141 1888,3096 2493,3125"/>
+                <TextEquiv>
+                    <Unicode>Prince, ayant heu pitie de mes pouvres enffans</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l32" custom="readingOrder {index:30;}">
+                <Coords points="759,3272 1536,3235 2486,3242 2486,3173 1018,3185 759,3203 759,3272"/>
+                <Baseline points="759,3249 1536,3212 2486,3219"/>
+                <TextEquiv>
+                    <Unicode>Il a pleu a Son Excellence Reverendissime me</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Je, Annelin vefve de Pierrat vauthier de
+Courthedoubz, Cougnois librement et sans
+controincte, Comment que dez longue main
+Je sois este diffame par bruict comung destre
+une sorciere et genauche, et pour ce regard
+plusieurs plainctes et doleances soyent estees faictes
+contre de moy, Quont donne occasion a Messieurs
+les hault Officiers doffice de faire inquisition
+contre de moy Et retreuve par icelle des indices
+et conjectures pregnantes et concluantes, Le tout
+comme est au long pourte par lesdites informations
+Pour raison dequoi je seroye este saisie au
+corps conduite et menee au chasteau et forteresse
+de Pourrentruy et jusques au present y Detenue
+durant lequel terme Messieurs les Officiers
+ ont procede avec moy suivant ordre de droit et
+au contenu des ordonnances penibles du Sainct Empire
+voyre jusques a avoir sostenu la question et
+torture moderement. Sy est ce que persistant
+et perseverant a linficiatx, et negative de tous
+Les faictz pourtez auxdites informations. Combien
+Que les preuves soyent revestues de toutes
+circonstances conluantes , Et que nonobstant
+ma pertace inficiation Mesdits seigneurs les Officiers
+ayent preuves suffisante pour maccuser devant
+La justice criminelle, Et me convaincre desdits
+faictz par tesmoing suffisans pourte ausdites
+informations ; Sy est ce que a ma humble
+priere et requeste faicte a Moin Seigneur et
+Prince, ayant heu pitie de mes pouvres enffans
+Il a pleu a Son Excellence Reverendissime me</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

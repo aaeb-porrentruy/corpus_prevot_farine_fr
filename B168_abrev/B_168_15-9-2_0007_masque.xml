@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-10T08:19:52.086+01:00</Created>
+        <LastChange>2022-03-04T14:56:08.188+01:00</LastChange>
+        <TranskribusMetadata docId="935443" pageId="35622936" pageNr="7" tsid="76979266" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=XFDSPNXVPUCURIPGYSVFWJVM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=CYDMZTOEPVLDAJUQPMFEGPSZ" imageId="25748332"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-9-2_0007.jpg" imageWidth="2754" imageHeight="3743">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646403560965" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="48,3515 48,3668 78,3668 78,3515"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="48,3668 78,3665 78,3515 48,3518 48,3668"/>
+                <Baseline points="48,3618 78,3615"/>
+                <TextEquiv>
+                    <Unicode>6 </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="270,572 270,722 336,722 336,572"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="270,722 336,722 336,572 270,572 270,722"/>
+                <Baseline points="270,672 336,672"/>
+                <TextEquiv>
+                    <Unicode>7 </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="722,179 722,3261 2496,3261 2496,179"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="786,242 1683,272 2418,278 2418,215 786,179 786,242"/>
+                <Baseline points="786,221 2418,257"/>
+                <TextEquiv>
+                    <Unicode>enffans bastien Simon, une jument au voueble </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="797,338 2328,358 2328,307 797,287 797,338"/>
+                <Baseline points="797,321 2328,341"/>
+                <TextEquiv>
+                    <Unicode>et ung veau au claivier et donne le mal </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l3" custom="readingOrder {index:2;}">
+                <Coords points="795,425 1893,428 1893,377 849,371 795,374 795,425"/>
+                <Baseline points="795,408 1893,411"/>
+                <TextEquiv>
+                    <Unicode>a Richard chavanne de Cueve. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l4" custom="readingOrder {index:3;}">
+                <Coords points="1188,521 1296,524 1296,487 1188,484 1188,521"/>
+                <Baseline points="1188,509 1296,512"/>
+                <TextEquiv>
+                    <Unicode>fils </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l5" custom="readingOrder {index:4;} textStyle {offset:8; length:3;strikethrough:true;}">
+                <Coords points="758,585 2439,587 2439,550 1094,536 758,548 758,585"/>
+                <Baseline points="758,573 1430,558 2439,575"/>
+                <TextEquiv>
+                    <Unicode>Bernard gui Jehan Noel mahon depose avoir </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l6" custom="readingOrder {index:5;} textStyle {offset:36; length:14;strikethrough:true;}">
+                <Coords points="821,661 2417,658 2417,607 821,610 821,661"/>
+                <Baseline points="821,644 2417,641"/>
+                <TextEquiv>
+                    <Unicode>ouys dire en presentce de plusieurs Quil avoit oys </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l7" custom="readingOrder {index:6;}">
+                <Coords points="801,746 2345,727 2345,676 955,688 801,695 801,746"/>
+                <Baseline points="801,729 2345,710"/>
+                <TextEquiv>
+                    <Unicode>audit henri que il se vouloir descharger Que </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l8" custom="readingOrder {index:7;}">
+                <Coords points="813,832 2364,820 2364,763 890,771 813,775 813,832"/>
+                <Baseline points="813,813 2364,801"/>
+                <TextEquiv>
+                    <Unicode>sa femme estoit resolue et en volonte de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l9" custom="readingOrder {index:8;}">
+                <Coords points="804,909 2415,910 2415,853 1045,843 804,852 804,909"/>
+                <Baseline points="804,890 1609,875 2415,891"/>
+                <TextEquiv>
+                    <Unicode>mectre le feu en la maison de ses freres et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l10" custom="readingOrder {index:9;}">
+                <Coords points="794,994 2336,993 2336,935 948,929 794,936 794,994"/>
+                <Baseline points="794,975 2336,974"/>
+                <TextEquiv>
+                    <Unicode>que si cela ne se faisoit ceste fois la </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l11" custom="readingOrder {index:10;}">
+                <Coords points="797,1080 2438,1071 2438,1013 961,1013 797,1022 797,1080"/>
+                <Baseline points="797,1061 1289,1043 2438,1052"/>
+                <TextEquiv>
+                    <Unicode>quelle se feroit une aultre fois. Et quon </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l12" custom="readingOrder {index:11;}">
+                <Coords points="795,1163 2496,1175 2496,1114 880,1099 795,1102 795,1163"/>
+                <Baseline points="795,1143 1645,1133 2496,1155"/>
+                <TextEquiv>
+                    <Unicode>debvoit faire bon guaict quil sen deschargeoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l13" custom="readingOrder {index:12;}">
+                <Coords points="771,1254 2397,1256 2397,1192 771,1190 771,1254"/>
+                <Baseline points="771,1233 2397,1235"/>
+                <TextEquiv>
+                    <Unicode>Et lavoit empeiche par deux ou trois nuit de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l14" custom="readingOrder {index:13;}">
+                <Coords points="785,1343 2480,1343 2480,1283 785,1283 785,1343"/>
+                <Baseline points="785,1323 2480,1323"/>
+                <TextEquiv>
+                    <Unicode>mectre en execution tel fait et quil navoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l15" custom="readingOrder {index:14;}">
+                <Coords points="801,1426 2301,1432 2301,1372 876,1363 801,1366 801,1426"/>
+                <Baseline points="801,1406 2301,1412"/>
+                <TextEquiv>
+                    <Unicode>point dormis parce quil ne la pouvoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l16" custom="readingOrder {index:15;}">
+                <Coords points="722,1508 1178,1512 1178,1449 722,1445 722,1508"/>
+                <Baseline points="722,1487 1178,1491"/>
+                <TextEquiv>
+                    <Unicode>empeicher. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l17" custom="readingOrder {index:16;}">
+                <Coords points="776,1677 2415,1688 2415,1634 948,1616 776,1623 776,1677"/>
+                <Baseline points="776,1659 1552,1647 2415,1670"/>
+                <TextEquiv>
+                    <Unicode>Dit quelle est chargee et suspitionnee destre une </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l18" custom="readingOrder {index:17;}">
+                <Coords points="803,1752 2367,1757 2367,1703 803,1698 803,1752"/>
+                <Baseline points="803,1734 2367,1739"/>
+                <TextEquiv>
+                    <Unicode>genauche Et avoir fait a mourir ung veau </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l19" custom="readingOrder {index:18;}">
+                <Coords points="828,1833 2421,1821 2421,1758 828,1770 828,1833"/>
+                <Baseline points="828,1812 2421,1800"/>
+                <TextEquiv>
+                    <Unicode>au tixerain Mesme avoir fait a mourir le </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l20" custom="readingOrder {index:19;}">
+                <Coords points="806,1901 2418,1906 2418,1846 806,1841 806,1901"/>
+                <Baseline points="806,1881 2418,1886"/>
+                <TextEquiv>
+                    <Unicode>fils de Jaicque chevrolet son frere Et avoir </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l21" custom="readingOrder {index:20;}">
+                <Coords points="797,1991 2300,1990 2300,1930 872,1926 797,1931 797,1991"/>
+                <Baseline points="797,1971 2300,1970"/>
+                <TextEquiv>
+                    <Unicode>greve et fait borne le fils Henri guenat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l22" custom="readingOrder {index:21;} textStyle {offset:0; length:46;strikethrough:true;}">
+                <Coords points="753,2235 2214,2236 2214,2170 826,2163 753,2169 753,2235"/>
+                <Baseline points="753,2213 1264,2198 2214,2214"/>
+                <TextEquiv>
+                    <Unicode>Groz Jehan vouelin frere dud(it) henri vouelin </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l23" custom="readingOrder {index:22;}">
+                <Coords points="768,2368 1367,2385 2481,2403 2481,2337 2138,2329 768,2302 768,2368"/>
+                <Baseline points="768,2346 2481,2381"/>
+                <TextEquiv>
+                    <Unicode>Richard chavanne de Cueve Par serement depose </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l24" custom="readingOrder {index:23;}">
+                <Coords points="801,2470 2496,2484 2496,2418 801,2404 801,2470"/>
+                <Baseline points="801,2448 2496,2462"/>
+                <TextEquiv>
+                    <Unicode>que trois sepmaines apres Pasques passes que deposant </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l25" custom="readingOrder {index:24;}">
+                <Coords points="813,2565 2050,2584 2463,2605 2463,2539 2050,2518 813,2499 813,2565"/>
+                <Baseline points="813,2543 2463,2583"/>
+                <TextEquiv>
+                    <Unicode>sortit de son service de Beurnevesain A raison </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l26" custom="readingOrder {index:25;}">
+                <Coords points="807,2653 1139,2665 2469,2695 2469,2629 2219,2622 807,2587 807,2653"/>
+                <Baseline points="807,2631 2469,2673"/>
+                <TextEquiv>
+                    <Unicode>questant audit Beurnevesain Il devint malade </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l27" custom="readingOrder {index:26;}">
+                <Coords points="810,2751 1866,2782 2436,2806 2436,2740 1866,2716 810,2685 810,2751"/>
+                <Baseline points="810,2729 2436,2784"/>
+                <TextEquiv>
+                    <Unicode>dune Jambe laquelle sest ouverte Et est </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l28" custom="readingOrder {index:27;}">
+                <Coords points="813,2844 1662,2878 2358,2895 2358,2829 813,2778 813,2844"/>
+                <Baseline points="813,2822 2358,2873"/>
+                <TextEquiv>
+                    <Unicode>encore presentement toute noire Et fust </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l29" custom="readingOrder {index:28;}">
+                <Coords points="822,2929 1765,2952 2394,2982 2394,2916 1765,2886 822,2863 822,2929"/>
+                <Baseline points="822,2907 2394,2960"/>
+                <TextEquiv>
+                    <Unicode>remene sur ung cheval dillec en la maison </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l30" custom="readingOrder {index:29;}">
+                <Coords points="795,3039 2324,3067 2324,3001 795,2973 795,3039"/>
+                <Baseline points="795,3017 2324,3045"/>
+                <TextEquiv>
+                    <Unicode>de son frere Estienne A Cueve Ou Il est </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l31" custom="readingOrder {index:30;}">
+                <Coords points="798,3138 2370,3162 2370,3096 798,3072 798,3138"/>
+                <Baseline points="798,3116 2370,3140"/>
+                <TextEquiv>
+                    <Unicode>encore par lui entretenu honestement. Dit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l32" custom="readingOrder {index:31;}">
+                <Coords points="786,3244 2424,3261 2424,3195 867,3175 786,3178 786,3244"/>
+                <Baseline points="786,3222 2424,3239"/>
+                <TextEquiv>
+                    <Unicode>que a raison de telle maladie que sondit frere </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>enffans bastien Simon, une jument au voueble 
+et ung veau au claivier et donne le mal 
+a Richard chavanne de Cueve. 
+fils 
+Bernard gui Jehan Noel mahon depose avoir 
+ouys dire en presentce de plusieurs Quil avoit oys 
+audit henri que il se vouloir descharger Que 
+sa femme estoit resolue et en volonte de 
+mectre le feu en la maison de ses freres et 
+que si cela ne se faisoit ceste fois la 
+quelle se feroit une aultre fois. Et quon 
+debvoit faire bon guaict quil sen deschargeoit 
+Et lavoit empeiche par deux ou trois nuit de 
+mectre en execution tel fait et quil navoit 
+point dormis parce quil ne la pouvoit 
+empeicher. 
+Dit quelle est chargee et suspitionnee destre une 
+genauche Et avoir fait a mourir ung veau 
+au tixerain Mesme avoir fait a mourir le 
+fils de Jaicque chevrolet son frere Et avoir 
+greve et fait borne le fils Henri guenat 
+Groz Jehan vouelin frere dud(it) henri vouelin 
+Richard chavanne de Cueve Par serement depose 
+que trois sepmaines apres Pasques passes que deposant 
+sortit de son service de Beurnevesain A raison 
+questant audit Beurnevesain Il devint malade 
+dune Jambe laquelle sest ouverte Et est 
+encore presentement toute noire Et fust 
+remene sur ung cheval dillec en la maison 
+de son frere Estienne A Cueve Ou Il est 
+encore par lui entretenu honestement. Dit 
+que a raison de telle maladie que sondit frere </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="2381,3563 2381,3716 2421,3716 2421,3563"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="2381,3713 2421,3716 2421,3566 2381,3563 2381,3713"/>
+                <Baseline points="2381,3663 2421,3666"/>
+                <TextEquiv>
+                    <Unicode>7 </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

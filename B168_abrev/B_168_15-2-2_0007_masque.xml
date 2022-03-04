@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-11-26T16:14:24.275+01:00</Created>
+        <LastChange>2022-03-04T14:16:03.417+01:00</LastChange>
+        <TranskribusMetadata docId="935439" pageId="35622920" pageNr="7" tsid="76977145" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=BXUVYWOUURTLJEDTPYPQHGEJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=KMLREWMRWNGKVICUNVYULSYE" imageId="24636296"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-2-2_0007.jpg" imageWidth="2501" imageHeight="3744">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646403563473" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="region_1639132953432_592"/>
+                <RegionRefIndexed index="1" regionRef="region_1639132947791_589"/>
+                <RegionRefIndexed index="2" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="region_1639132953432_592" custom="readingOrder {index:0;}">
+            <Coords points="609,3058 365,3058 365,2951 609,2951"/>
+            <TextLine id="line_1639132959498_595" custom="readingOrder {index:0;}">
+                <Coords points="648,3069 373,3067 373,2977 648,2979 648,3069"/>
+                <Baseline points="399,3041 607,3044"/>
+                <TextEquiv>
+                    <Unicode>NB	</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>NB	</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="region_1639132947791_589" custom="readingOrder {index:1;}">
+            <Coords points="435,2993 654,2993 654,3072 435,3072"/>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:2;}">
+            <Coords points="683,280 683,3143 2387,3143 2387,280"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="747,344 2354,374 2354,310 2112,299 2038,256 1958,253 1871,291 747,280 747,344"/>
+                <Baseline points="747,323 1711,330 2354,353"/>
+                <TextEquiv>
+                    <Unicode>lequel a son lieu domicille desoubs ung mesme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="765,438 2274,458 2274,395 765,375 765,438"/>
+                <Baseline points="765,417 1293,414 2274,437"/>
+                <TextEquiv>
+                    <Unicode>toict avec Ladite Annelin. Icelle estant proche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="734,540 1796,531 2369,551 2369,488 1796,468 734,477 734,540"/>
+                <Baseline points="734,519 1796,510 2369,530"/>
+                <TextEquiv>
+                    <Unicode>de leurs chevaulx, le soir dudit Jour Lung diceulx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="744,633 2358,636 2358,572 744,569 744,633"/>
+                <Baseline points="744,612 2358,615"/>
+                <TextEquiv>
+                    <Unicode>devint malade de sorte quil mourut. Et a opinion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="725,732 2354,731 2354,668 725,669 725,732"/>
+                <Baseline points="725,711 1213,720 2354,710"/>
+                <TextEquiv>
+                    <Unicode>deposant que pour avoir refuse de charrier pour elle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="683,831 2066,813 2066,750 683,768 683,831"/>
+                <Baseline points="683,810 2066,792"/>
+                <TextEquiv>
+                    <Unicode>quelle avoit donne le mal audit cheval.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="700,1088 2327,1080 2327,1016 906,1022 833,963 706,965 700,1088"/>
+                <Baseline points="749,1067 2327,1059"/>
+                <TextEquiv>
+                    <Unicode>Germain torel par serement ; depose que lannee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="770,1155 2348,1136 2348,1082 770,1101 770,1155"/>
+                <Baseline points="770,1137 2348,1118"/>
+                <TextEquiv>
+                    <Unicode>passee deposant avoit une vache que ne vouloit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="749,1226 2348,1209 2348,1155 749,1172 749,1226"/>
+                <Baseline points="749,1208 2348,1191"/>
+                <TextEquiv>
+                    <Unicode>donner son laict, et que ayant fait a prendre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="750,1317 2357,1283 2357,1229 750,1263 750,1317"/>
+                <Baseline points="750,1299 2357,1265"/>
+                <TextEquiv>
+                    <Unicode>des herbes au curtil de ladite Annelin (laquelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="764,1387 2342,1366 2342,1315 764,1336 764,1387"/>
+                <Baseline points="764,1370 2342,1349"/>
+                <TextEquiv>
+                    <Unicode>avoit heu quelque dificulte avec la femme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="761,1468 2345,1447 2345,1396 761,1417 761,1468"/>
+                <Baseline points="761,1451 1949,1422 2345,1430"/>
+                <TextEquiv>
+                    <Unicode>dudit deposant pour huit deniers) et les ayant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;}">
+                <Coords points="773,1549 2249,1522 2249,1465 773,1492 773,1549"/>
+                <Baseline points="773,1530 2249,1503"/>
+                <TextEquiv>
+                    <Unicode>fait a manger a ladite vache, elle rendit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="759,1636 1466,1614 1466,1557 759,1579 759,1636"/>
+                <Baseline points="759,1617 1466,1595"/>
+                <TextEquiv>
+                    <Unicode>tost apres son laict</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="581,1834 801,1843 910,1814 1384,1805 2333,1823 2333,1778 989,1766 912,1727 611,1764 581,1834"/>
+                <Baseline points="752,1808 1384,1790 2333,1808"/>
+                <TextEquiv>
+                    <Unicode>Thennat maillat de Courthedoubs par serement,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="771,1891 2240,1880 2240,1837 771,1848 771,1891"/>
+                <Baseline points="771,1877 2240,1866"/>
+                <TextEquiv>
+                    <Unicode>depose, que lan passe, ladite Catherine</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;}">
+                <Coords points="764,1989 2348,1955 2348,1900 764,1934 764,1989"/>
+                <Baseline points="764,1971 1556,1944 2348,1937"/>
+                <TextEquiv>
+                    <Unicode>Annelin fust interpeller deposant de lui aller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;}">
+                <Coords points="770,2082 2222,2055 2222,1991 770,2018 770,2082"/>
+                <Baseline points="770,2061 2222,2034"/>
+                <TextEquiv>
+                    <Unicode>querir une charree de gerbes, ce que ayant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;}">
+                <Coords points="737,2187 1892,2154 2387,2160 2387,2096 1892,2090 737,2123 737,2187"/>
+                <Baseline points="737,2166 1892,2133 2387,2139"/>
+                <TextEquiv>
+                    <Unicode>deposant refuse, Incontinenti lui devindrent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;}">
+                <Coords points="756,2294 2268,2247 2268,2183 831,2224 756,2230 756,2294"/>
+                <Baseline points="756,2273 1285,2244 2268,2226"/>
+                <TextEquiv>
+                    <Unicode>deux de ses chevaulx malades de sorte que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;}">
+                <Coords points="776,2396 2288,2343 2288,2279 776,2332 776,2396"/>
+                <Baseline points="776,2375 2288,2322"/>
+                <TextEquiv>
+                    <Unicode>environ huit jours apres ses deux chevaulx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="794,2498 2273,2439 2273,2375 794,2434 794,2498"/>
+                <Baseline points="794,2477 2273,2418"/>
+                <TextEquiv>
+                    <Unicode>morurent Et a opinion que ladite Annelin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;}">
+                <Coords points="770,2600 1982,2534 1982,2470 770,2536 770,2600"/>
+                <Baseline points="770,2579 1982,2513"/>
+                <TextEquiv>
+                    <Unicode>Lui a fait mourir ses chevaulx.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:23;}">
+                <Coords points="773,2731 2255,2701 2255,2644 773,2674 773,2731"/>
+                <Baseline points="773,2712 2255,2682"/>
+                <TextEquiv>
+                    <Unicode>Dit que de plus que lui deposant, avoit une seure</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:24;}">
+                <Coords points="764,2814 2279,2772 2279,2715 764,2757 764,2814"/>
+                <Baseline points="764,2795 2279,2753"/>
+                <TextEquiv>
+                    <Unicode>sont passe six ans Laquelle estant au Lovre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:25;}">
+                <Coords points="755,2894 2267,2856 2267,2793 755,2831 755,2894"/>
+                <Baseline points="755,2873 2267,2835"/>
+                <TextEquiv>
+                    <Unicode>Le soir et assis entre ladite Annelin et sa fille</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:26;}">
+                <Coords points="755,2980 2282,2935 2282,2875 755,2920 755,2980"/>
+                <Baseline points="755,2960 2282,2915"/>
+                <TextEquiv>
+                    <Unicode>et en Riant, sa coiffe Lui tomba, laquelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:27;}">
+                <Coords points="759,3061 2336,3040 2336,2980 759,3001 759,3061"/>
+                <Baseline points="759,3041 1389,3021 2336,3020"/>
+                <TextEquiv>
+                    <Unicode>fust perdue Et surce quon disoit que la fille de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:28;}">
+                <Coords points="726,3143 2372,3118 2372,3058 726,3083 726,3143"/>
+                <Baseline points="726,3123 1302,3105 2372,3098"/>
+                <TextEquiv>
+                    <Unicode>Ladite Annelin avoit ladite coiffe ladite Annelin en fust </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>lequel a son lieu domicille desoubs ung mesme
+toict avec Ladite Annelin. Icelle estant proche
+de leurs chevaulx, le soir dudit Jour Lung diceulx
+devint malade de sorte quil mourut. Et a opinion
+deposant que pour avoir refuse de charrier pour elle
+quelle avoit donne le mal audit cheval.
+Germain torel par serement ; depose que lannee
+passee deposant avoit une vache que ne vouloit
+donner son laict, et que ayant fait a prendre
+des herbes au curtil de ladite Annelin (laquelle
+avoit heu quelque dificulte avec la femme
+dudit deposant pour huit deniers) et les ayant
+fait a manger a ladite vache, elle rendit
+tost apres son laict
+Thennat maillat de Courthedoubs par serement,
+depose, que lan passe, ladite Catherine
+Annelin fust interpeller deposant de lui aller
+querir une charree de gerbes, ce que ayant
+deposant refuse, Incontinenti lui devindrent
+deux de ses chevaulx malades de sorte que
+environ huit jours apres ses deux chevaulx
+morurent Et a opinion que ladite Annelin
+Lui a fait mourir ses chevaulx.
+Dit que de plus que lui deposant, avoit une seure
+sont passe six ans Laquelle estant au Lovre
+Le soir et assis entre ladite Annelin et sa fille
+et en Riant, sa coiffe Lui tomba, laquelle
+fust perdue Et surce quon disoit que la fille de
+Ladite Annelin avoit ladite coiffe ladite Annelin en fust </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

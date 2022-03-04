@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-11-26T16:14:24.097+01:00</Created>
+        <LastChange>2022-03-04T14:13:22.103+01:00</LastChange>
+        <TranskribusMetadata docId="935439" pageId="35622909" pageNr="4" tsid="76976997" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=BMORLVPRZLOCKLDNUYAPZSSS&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ZOZYVUZZTFJKHRALWQMYXSIB" imageId="24636285"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-2-2_0004.jpg" imageWidth="2549" imageHeight="3736">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646403563447" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="146,735 146,850 638,850 638,735"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="146,778 508,778 638,790 638,747 508,735 146,735 146,778"/>
+                <Baseline points="146,764 508,764 638,776"/>
+                <TextEquiv>
+                    <Unicode>+ ladite Annelon et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="179,849 519,832 519,792 179,809 179,849"/>
+                <Baseline points="179,836 519,819"/>
+                <TextEquiv>
+                    <Unicode>ledit homme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>+ ladite Annelon et 
+ledit homme</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="695,237 695,2762 2364,2762 2364,237"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="762,309 1303,294 2310,294 2310,237 839,247 762,252 762,309"/>
+                <Baseline points="762,290 1303,275 2310,275"/>
+                <TextEquiv>
+                    <Unicode>te donnera de largent pour payer lemende</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="753,397 2229,373 2229,316 753,340 753,397"/>
+                <Baseline points="753,378 1195,363 1712,365 2229,354"/>
+                <TextEquiv>
+                    <Unicode>des quatre channes de vin que tu as faut.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="753,482 2219,463 2297,458 2297,397 753,421 753,482"/>
+                <Baseline points="753,462 1061,450 1988,449 2297,438"/>
+                <TextEquiv>
+                    <Unicode>Surquoi elle respondit quelle ny voulut</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="770,586 1238,571 2333,566 2333,497 1238,502 770,517 770,586"/>
+                <Baseline points="770,563 1238,548 2333,543"/>
+                <TextEquiv>
+                    <Unicode>aller. Que son mari nestoit en la maison,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;}">
+                <Coords points="753,679 2195,658 2195,589 753,610 753,679"/>
+                <Baseline points="753,656 1474,639 2195,635"/>
+                <TextEquiv>
+                    <Unicode>et quil ne vouloit rien faire que par lui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;}">
+                <Coords points="725,786 2304,751 2304,684 1556,695 1465,667 1382,669 1306,701 725,719 725,786"/>
+                <Baseline points="725,764 1722,735 2304,729"/>
+                <TextEquiv>
+                    <Unicode>Et sestant departis  + . Ledit deposant arriva</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="750,869 2235,850 2235,789 750,808 750,869"/>
+                <Baseline points="750,849 1863,828 2235,830"/>
+                <TextEquiv>
+                    <Unicode>bien tost apres en la maison, auquel sadite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;}">
+                <Coords points="759,961 1503,940 2247,953 2247,892 1503,879 833,895 759,900 759,961"/>
+                <Baseline points="759,941 1503,920 2247,933"/>
+                <TextEquiv>
+                    <Unicode>femme lui compta ce que dessus Et en,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;}">
+                <Coords points="737,1058 1642,1042 2246,1055 2246,985 1642,972 737,988 737,1058"/>
+                <Baseline points="737,1035 1642,1019 2246,1032"/>
+                <TextEquiv>
+                    <Unicode>lui racomptant elle devint Impotente</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;}">
+                <Coords points="695,1168 1760,1148 2217,1156 2217,1086 1760,1078 695,1098 695,1168"/>
+                <Baseline points="695,1145 1760,1125 2217,1133"/>
+                <TextEquiv>
+                    <Unicode>des bras et des Jambes, de mode qu'il lui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l11" custom="readingOrder {index:10;}">
+                <Coords points="737,1269 2178,1249 2178,1183 737,1203 737,1269"/>
+                <Baseline points="737,1247 2178,1227"/>
+                <TextEquiv>
+                    <Unicode>vindrent tout tord et avoit les mains</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l12" custom="readingOrder {index:11;}">
+                <Coords points="734,1360 2175,1356 2175,1290 734,1294 734,1360"/>
+                <Baseline points="734,1338 2175,1334"/>
+                <TextEquiv>
+                    <Unicode>closes quon ne lui pouvoit ouvrir.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l13" custom="readingOrder {index:12;}">
+                <Coords points="712,1462 1099,1450 2177,1449 2177,1382 1099,1383 712,1395 712,1462"/>
+                <Baseline points="740,1440 1099,1428 2177,1427"/>
+                <TextEquiv>
+                    <Unicode>Et estant conseillee de s prendre des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l14" custom="readingOrder {index:13;}">
+                <Coords points="734,1606 809,1603 884,1559 1634,1552 2234,1562 2234,1492 1259,1482 734,1494 734,1606"/>
+                <Baseline points="734,1541 1259,1529 2234,1539"/>
+                <TextEquiv>
+                    <Unicode>herbes au curtil de ladite Annelon et den</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l15" custom="readingOrder {index:14;}">
+                <Coords points="740,1679 1362,1661 2219,1663 2219,1593 1362,1591 740,1609 740,1679"/>
+                <Baseline points="740,1656 1362,1638 2219,1640"/>
+                <TextEquiv>
+                    <Unicode>menger, elle en fust prendre dequoi</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l16" custom="readingOrder {index:15;}">
+                <Coords points="747,1784 1776,1768 2331,1781 2331,1711 1776,1698 747,1714 747,1784"/>
+                <Baseline points="747,1761 1776,1745 2331,1758"/>
+                <TextEquiv>
+                    <Unicode>en ayant mange les mains se ouvrirent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l17" custom="readingOrder {index:16;}">
+                <Coords points="722,1907 1199,1901 2313,1916 2313,1846 1199,1831 722,1837 722,1907"/>
+                <Baseline points="722,1884 1199,1878 2313,1893"/>
+                <TextEquiv>
+                    <Unicode>Mais surce elle perdit la parolle, estant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l18" custom="readingOrder {index:17;}">
+                <Coords points="705,2023 2364,2027 2364,1957 705,1953 705,2023"/>
+                <Baseline points="705,2000 2364,2004"/>
+                <TextEquiv>
+                    <Unicode>derechieff conseillee daller prendre de la</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l19" custom="readingOrder {index:18;}">
+                <Coords points="752,2143 2328,2144 2328,2074 752,2073 752,2143"/>
+                <Baseline points="752,2120 2328,2121"/>
+                <TextEquiv>
+                    <Unicode>terre desoubs le seuille de la maison de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l20" custom="readingOrder {index:19;}">
+                <Coords points="707,2260 2265,2255 2265,2186 707,2191 707,2260"/>
+                <Baseline points="707,2237 1096,2228 1875,2238 2265,2232"/>
+                <TextEquiv>
+                    <Unicode>Ladite Annelin et den menger ; elle Layant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l21" custom="readingOrder {index:20;}">
+                <Coords points="711,2353 2226,2360 2226,2291 711,2284 711,2353"/>
+                <Baseline points="711,2330 2226,2337"/>
+                <TextEquiv>
+                    <Unicode>faict La parolle Lui revint. Mais non</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l22" custom="readingOrder {index:21;}">
+                <Coords points="702,2465 1533,2453 2213,2477 2213,2407 1533,2383 853,2389 702,2395 702,2465"/>
+                <Baseline points="702,2442 1533,2430 2213,2454"/>
+                <TextEquiv>
+                    <Unicode>pourtant ladite femme dudit deposant est</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l23" custom="readingOrder {index:22;}">
+                <Coords points="710,2567 1520,2558 2330,2591 2330,2522 1682,2492 872,2492 710,2498 710,2567"/>
+                <Baseline points="710,2544 1277,2532 1520,2535 2330,2568"/>
+                <TextEquiv>
+                    <Unicode>tousjour malade. Laquelle mantient que ladite</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l24" custom="readingOrder {index:23;}">
+                <Coords points="714,2660 2291,2684 2291,2615 714,2591 714,2660"/>
+                <Baseline points="714,2637 2291,2661"/>
+                <TextEquiv>
+                    <Unicode>Annelin lui a donne telle maladie et plus</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l25" custom="readingOrder {index:24;}">
+                <Coords points="723,2762 1020,2756 1020,2686 723,2692 723,2762"/>
+                <Baseline points="723,2739 1020,2733"/>
+                <TextEquiv>
+                    <Unicode>nen dit.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>te donnera de largent pour payer lemende
+des quatre channes de vin que tu as faut.
+Surquoi elle respondit quelle ny voulut
+aller. Que son mari nestoit en la maison,
+et quil ne vouloit rien faire que par lui
+Et sestant departis  + . Ledit deposant arriva
+bien tost apres en la maison, auquel sadite
+femme lui compta ce que dessus Et en,
+lui racomptant elle devint Impotente
+des bras et des Jambes, de mode qu'il lui
+vindrent tout tord et avoit les mains
+closes quon ne lui pouvoit ouvrir.
+Et estant conseillee de s prendre des
+herbes au curtil de ladite Annelon et den
+menger, elle en fust prendre dequoi
+en ayant mange les mains se ouvrirent
+Mais surce elle perdit la parolle, estant
+derechieff conseillee daller prendre de la
+terre desoubs le seuille de la maison de
+Ladite Annelin et den menger ; elle Layant
+faict La parolle Lui revint. Mais non
+pourtant ladite femme dudit deposant est
+tousjour malade. Laquelle mantient que ladite
+Annelin lui a donne telle maladie et plus
+nen dit.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

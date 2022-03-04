@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-09T11:25:53.270+01:00</Created>
+        <LastChange>2022-03-04T14:29:31.827+01:00</LastChange>
+        <TranskribusMetadata docId="935440" pageId="35622902" pageNr="3" tsid="76977808" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=DMBHSHWJYHAOMIBDEEPURJLP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WZARWAHZICAAKXNIPQHXYOAU" imageId="25645577"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-2-4_0003.jpg" imageWidth="2637" imageHeight="3968">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646403562106" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="758,155 758,915 2418,915 2418,155"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1982,192 2035,196 2223,218 2223,181 2035,159 1982,155 1982,192"/>
+                <Baseline points="1982,180 2223,206"/>
+                <TextEquiv>
+                    <Unicode>leur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;} textStyle {offset:33; length:3;strikethrough:true;}">
+                <Coords points="758,278 1671,258 2418,278 2418,241 2086,224 1505,224 758,241 758,278"/>
+                <Baseline points="758,266 1671,246 2086,249 2418,266"/>
+                <TextEquiv>
+                    <Unicode>et requeste sans le prejudice de lui  ni des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="782,327 939,322 939,283 782,288 782,327"/>
+                <Baseline points="782,314 939,309"/>
+                <TextEquiv>
+                    <Unicode>leurs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;}">
+                <Coords points="777,384 1299,354 2270,360 2270,324 1000,327 777,348 777,384"/>
+                <Baseline points="777,372 1000,351 1299,342 1896,353 2270,348"/>
+                <TextEquiv>
+                    <Unicode>audit Pourrentruy Le Cinquieme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="770,475 1239,456 2334,450 2334,392 1239,398 770,417 770,475"/>
+                <Baseline points="770,456 1239,437 2334,431"/>
+                <TextEquiv>
+                    <Unicode>jour du mois de decembre mil six cens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="792,571 1313,544 2283,528 2283,470 1313,486 792,513 792,571"/>
+                <Baseline points="792,552 1313,525 2283,509"/>
+                <TextEquiv>
+                    <Unicode>et huict Presents Petit jehan henselin de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="801,652 2262,601 2262,543 801,594 801,652"/>
+                <Baseline points="801,633 1531,614 2262,582"/>
+                <TextEquiv>
+                    <Unicode>miecort et petit Jehan le mercier de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;}">
+                <Coords points="788,747 2058,679 2058,621 788,689 788,747"/>
+                <Baseline points="788,728 1550,695 2058,660"/>
+                <TextEquiv>
+                    <Unicode>Chermoille tesmoings ad ce requis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;}">
+                <Coords points="1563,808 1669,792 1708,819 1747,816 1786,780 2331,751 2331,693 1903,714 1866,695 1827,697 1786,722 1563,750 1563,808"/>
+                <Baseline points="1592,785 1825,758 2331,732"/>
+                <TextEquiv>
+                    <Unicode>Richard Thomas </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;}">
+                <Coords points="939,829 1023,820 1023,762 939,771 939,829"/>
+                <Baseline points="939,810 995,811 1023,801"/>
+                <TextEquiv>
+                    <Unicode>S</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;}">
+                <Coords points="779,907 1374,915 1374,857 925,857 904,756 854,758 779,849 779,907"/>
+                <Baseline points="813,888 953,896 1261,887 1374,896"/>
+                <TextEquiv>
+                    <Unicode>JGigendet </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>leur
+et requeste sans le prejudice de lui  ni des
+leurs
+audit Pourrentruy Le Cinquieme
+jour du mois de decembre mil six cens
+et huict Presents Petit jehan henselin de
+miecort et petit Jehan le mercier de
+Chermoille tesmoings ad ce requis.
+Richard Thomas 
+S
+JGigendet </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
