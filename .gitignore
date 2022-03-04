@@ -1,10 +1,11 @@
 .DS_Store
 *.ipynb
+*.rtf
 *.zip
 _alto/
 _page/
 _page_abrev/
-corpus_abrév_transcription à normaliser/
-corpus_abrév_transcriptions normalisées/
+corpus_abrev_norm/
+corpus_abrev_pas_norm/
 Transcriptions/
 Transcriptions_abrév/
