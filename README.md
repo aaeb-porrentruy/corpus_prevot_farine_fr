@@ -25,9 +25,8 @@ Les pièces appartiennent toutes à la série B 168 conservée par les Archives 
 Les ruptures de numérotation dans les fichiers `.jpeg` s'explique par le fait que les pages vierges n'ont pas été numérisées.
 
 ### Fichiers des transcriptions
-Les transcriptions sont données en format PAGE dans le même dossier que les images. Elles ont été réalisés sur Transkribus. Afin d'être importées dans e-scriptorium, les masques ont été recalculé à l'aide du [LSS (Layout Segmentation Simplifier)](https://github.com/PonteIneptique/lss) en utilisant les valeurs recommandées: 
-
-Les fichiers ALTO et PAGE qui sont donnés dans les sous-dossiers sont les imports de Transkribus. 
+Les transcriptions sont données en format ALTO dans le même dossier que les images. Elles ont été enregistrées en partie dans Transkribus et en partie dans FoNDUE. 
+La qualité des fichiers a été contrôlée à l'aide de [htrvw](https://github.com/HTR-United/htrvx) de HTR-United.
 
 ## Particularités du corpus
 Le corpus est constitué d'une seule main, celle du prévôt Henri Farine. Les pièces sont datées entre 1603 et 1610. 
