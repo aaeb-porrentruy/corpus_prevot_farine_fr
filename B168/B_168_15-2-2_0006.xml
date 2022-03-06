@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-11-26T16:14:24.216+01:00</Created>
+        <LastChange>2021-12-10T16:03:24.237+01:00</LastChange>
+        <TranskribusMetadata docId="843468" pageId="31259714" pageNr="6" tsid="71072292" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=LTHVIBTHHMHMSVQDAQBKAFPM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JXCJWREVJLOGSIYKRTHGPZQJ" imageId="24636293"/>
+    </Metadata>
+    <Page imageFilename="B_168-15-2-2_0006.jpg" imageWidth="2560" imageHeight="3735">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646323954779" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="627,232 627,3068 2391,3068 2391,232"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;} abbrev {offset:5; length:1;expansion:qui;} abbrev {offset:39; length:1;expansion:qui;}">
+                <Coords points="729,299 1679,293 2313,311 2313,250 1679,232 729,238 729,299"/>
+                <Baseline points="729,279 1679,273 2313,291"/>
+                <TextEquiv>
+                    <Unicode>ungs q alloyent de travers les aultres q sont</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l2" custom="readingOrder {index:1;}">
+                <Coords points="741,383 2295,398 2295,337 741,322 741,383"/>
+                <Baseline points="741,363 1828,362 2295,378"/>
+                <TextEquiv>
+                    <Unicode>mortz. Mais ne scait dou procedoyent telles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l3" custom="readingOrder {index:2;}">
+                <Coords points="761,473 1620,473 1620,412 761,412 761,473"/>
+                <Baseline points="761,453 1620,453"/>
+                <TextEquiv>
+                    <Unicode>Inconveniens et maladies</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l4" custom="readingOrder {index:3;} abbrev {offset:14; length:3;expansion:dudit;}">
+                <Coords points="666,619 2316,626 2316,565 666,558 666,619"/>
+                <Baseline points="666,599 1243,612 2316,606"/>
+                <TextEquiv>
+                    <Unicode>Semon villain dud Courthedoubs depose, que sont,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l5" custom="readingOrder {index:4;}">
+                <Coords points="762,703 2379,725 2379,664 762,642 762,703"/>
+                <Baseline points="762,683 1085,698 2379,705"/>
+                <TextEquiv>
+                    <Unicode>environ, quatre ans quilz avoyent deux Juvencelx</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l6" custom="readingOrder {index:5;}">
+                <Coords points="737,808 2327,823 2327,762 737,747 737,808"/>
+                <Baseline points="737,788 2327,803"/>
+                <TextEquiv>
+                    <Unicode>que vindrent malades Et estant estes conseilles</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l7" custom="readingOrder {index:6;}">
+                <Coords points="708,907 2364,905 2364,844 708,846 708,907"/>
+                <Baseline points="708,887 2364,885"/>
+                <TextEquiv>
+                    <Unicode>de baptre les lings diceulx, deposant print</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l8" custom="readingOrder {index:7;} abbrev {offset:0; length:4;expansion:Lesdits;} unclear {offset:34; length:4;}">
+                <Coords points="720,1006 2313,1009 2313,948 720,945 720,1006"/>
+                <Baseline points="720,986 2313,989"/>
+                <TextEquiv>
+                    <Unicode>Lesd Lings les baptirent avec des fleu dont</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:8;} abbrev {offset:0; length:3;expansion:Ladite;} abbrev {offset:36; length:1;expansion:par;}">
+                <Coords points="717,1108 2155,1094 2231,1090 2231,1029 717,1047 717,1108"/>
+                <Baseline points="717,1088 1852,1083 2231,1070"/>
+                <TextEquiv>
+                    <Unicode>Lad Annelin se trouvat tout blessee p le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l10" custom="readingOrder {index:9;} abbrev {offset:22; length:4;expansion:lesdits;}">
+                <Coords points="704,1190 1716,1199 2391,1228 2391,1167 1716,1138 704,1129 704,1190"/>
+                <Baseline points="704,1170 1716,1179 2391,1208"/>
+                <TextEquiv>
+                    <Unicode>visaige. Non pourtant lesd Juvencelx morurent</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l11" custom="readingOrder {index:10;} abbrev {offset:26; length:3;expansion:ladite;}">
+                <Coords points="705,1280 2253,1285 2253,1224 705,1219 705,1280"/>
+                <Baseline points="705,1260 1479,1272 2253,1265"/>
+                <TextEquiv>
+                    <Unicode>Et a opinion deposant que lad Annelin les</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l12" custom="readingOrder {index:11;}">
+                <Coords points="722,1382 1448,1373 1448,1312 722,1321 722,1382"/>
+                <Baseline points="722,1362 1448,1353"/>
+                <TextEquiv>
+                    <Unicode>Leur feist mourir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:12;} abbrev {offset:17; length:3;expansion:dudit;}">
+                <Coords points="716,1627 2355,1603 2355,1546 716,1570 716,1627"/>
+                <Baseline points="716,1608 1578,1587 2355,1584"/>
+                <TextEquiv>
+                    <Unicode>Vaulbert Jordain dud lieu Par serement depose</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:13;}">
+                <Coords points="717,1705 2328,1686 2328,1629 717,1648 717,1705"/>
+                <Baseline points="717,1686 2328,1667"/>
+                <TextEquiv>
+                    <Unicode>Que la premiere femme de Estienne doland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l15" custom="readingOrder {index:14;}">
+                <Coords points="735,1784 2385,1769 2385,1714 735,1729 735,1784"/>
+                <Baseline points="735,1766 1560,1749 2385,1751"/>
+                <TextEquiv>
+                    <Unicode>devint malade sont plus de huit ans de sorte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l16" custom="readingOrder {index:15;}">
+                <Coords points="732,1859 2349,1857 2349,1802 732,1804 732,1859"/>
+                <Baseline points="732,1841 1540,1830 2349,1839"/>
+                <TextEquiv>
+                    <Unicode>quil La failloit tenir dont deposant y estant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l17" custom="readingOrder {index:16;} abbrev {offset:33; length:3;expansion:dudit;}">
+                <Coords points="747,1948 2276,1935 2276,1877 747,1890 747,1948"/>
+                <Baseline points="747,1929 2276,1916"/>
+                <TextEquiv>
+                    <Unicode>et laidant a tenir, Icelle femme dud Doland</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:17;} abbrev {offset:0; length:3;expansion:present;} abbrev {offset:4; length:6;expansion:plusieurs;} abbrev {offset:33; length:1;expansion:qui;}">
+                <Coords points="738,2042 2382,2039 2382,2002 820,2003 738,2005 738,2042"/>
+                <Baseline points="738,2030 2382,2027"/>
+                <TextEquiv>
+                    <Unicode>pnt plusrs aultres personnes dit q la Baillie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l19" custom="readingOrder {index:18;} abbrev {offset:13; length:6;expansion:nommant;}">
+                <Coords points="627,2108 1061,2086 1061,2052 627,2074 627,2108"/>
+                <Baseline points="627,2097 1061,2075"/>
+                <TextEquiv>
+                    <Unicode>entendant et nomant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l20" custom="readingOrder {index:19;} abbrev {offset:6; length:3;expansion:Ladite;}">
+                <Coords points="743,2156 1226,2126 2355,2117 2355,2083 984,2101 743,2122 743,2156"/>
+                <Baseline points="743,2145 1226,2115 2355,2106"/>
+                <TextEquiv>
+                    <Unicode>quest Lad Annelin lui avoit donne la maladie.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:20;} abbrev {offset:37; length:3;expansion:ladite;}">
+                <Coords points="695,2251 1276,2234 2274,2245 2274,2184 861,2182 695,2190 695,2251"/>
+                <Baseline points="695,2231 1276,2214 2274,2225"/>
+                <TextEquiv>
+                    <Unicode>de laquelle ayant quelquement trayne lad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l22" custom="readingOrder {index:21;}">
+                <Coords points="699,2344 1091,2329 2268,2336 2268,2275 855,2274 699,2283 699,2344"/>
+                <Baseline points="699,2324 1091,2309 2268,2316"/>
+                <TextEquiv>
+                    <Unicode>de telle maladie finablement en est morte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l23" custom="readingOrder {index:22;} unclear {offset:0; length:7;} abbrev {offset:15; length:1;expansion:par;}">
+                <Coords points="653,2509 2273,2510 2273,2449 950,2446 919,2407 696,2409 653,2509"/>
+                <Baseline points="803,2486 2273,2490"/>
+                <TextEquiv>
+                    <Unicode>Theunat guenin p serement depose, Que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l25" custom="readingOrder {index:23;} abbrev {offset:15; length:3;expansion:Ladite;}">
+                <Coords points="708,2590 2346,2590 2346,2542 708,2542 708,2590"/>
+                <Baseline points="708,2574 2346,2574"/>
+                <TextEquiv>
+                    <Unicode>Lannée passee, Lad Annelin fust interpeller</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:24;}">
+                <Coords points="710,2700 2256,2674 2256,2616 710,2642 710,2700"/>
+                <Baseline points="710,2681 2256,2655"/>
+                <TextEquiv>
+                    <Unicode>deposant de lui aller querir une charree de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l27" custom="readingOrder {index:25;}">
+                <Coords points="744,2788 2312,2764 2312,2703 744,2727 744,2788"/>
+                <Baseline points="744,2768 2312,2744"/>
+                <TextEquiv>
+                    <Unicode>feuille ce que nayant, peu faire pource que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l28" custom="readingOrder {index:26;}">
+                <Coords points="713,2876 1793,2857 2375,2873 2375,2812 1793,2796 713,2815 713,2876"/>
+                <Baseline points="713,2856 1793,2837 2375,2853"/>
+                <TextEquiv>
+                    <Unicode>Lui convenoit aller querir de lavenne lui refusa</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l29" custom="readingOrder {index:27;}">
+                <Coords points="731,2983 2322,2963 2322,2902 731,2922 731,2983"/>
+                <Baseline points="731,2963 1844,2940 2322,2943"/>
+                <TextEquiv>
+                    <Unicode>Et le lendemain ayant deposant mene une</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l30" custom="readingOrder {index:28;}">
+                <Coords points="734,3068 2180,3053 2180,2992 734,3007 734,3068"/>
+                <Baseline points="734,3048 2180,3033"/>
+                <TextEquiv>
+                    <Unicode>charree de boihin pour son frere Caspar,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ungs q alloyent de travers les aultres q sont
+mortz. Mais ne scait dou procedoyent telles
+Inconveniens et maladies
+Semon villain dud Courthedoubs depose, que sont,
+environ, quatre ans quilz avoyent deux Juvencelx
+que vindrent malades Et estant estes conseilles
+de baptre les lings diceulx, deposant print
+Lesd Lings les baptirent avec des fleu dont
+Lad Annelin se trouvat tout blessee p(ar) le
+visaige. Non pourtant lesd Juvencelx morurent
+Et a opinion deposant que lad(ite) Annelin les
+Leur feist mourir
+Vaulbert Jordain dud lieu Par serement depose
+Que la premiere femme de Estienne doland
+devint malade sont plus de huit ans de sorte
+quil La failloit tenir dont deposant y estant
+et laidant a tenir, Icelle femme dud Doland
+pnt plusrs aultres personnes dit q la Baillie
+entendant et nomant
+quest Lad Annelin lui avoit donne la maladie.
+de laquelle ayant quelquement trayne lad
+de telle maladie finablement en est morte
+Theunat guenin p serement depose, Que
+Lannée passee, Lad Annelin fust interpeller
+deposant de lui aller querir une charree de
+feuille ce que nayant, peu faire pource que
+Lui convenoit aller querir de lavenne lui refusa
+Et le lendemain ayant deposant mene une
+charree de boihin pour son frere Caspar,</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

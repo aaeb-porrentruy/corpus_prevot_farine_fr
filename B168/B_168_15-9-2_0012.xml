@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-10T08:19:59.329+01:00</Created>
+        <LastChange>2021-12-13T21:51:30.070+01:00</LastChange>
+        <TranskribusMetadata docId="859968" pageId="32403040" pageNr="11" tsid="70805051" status="DONE" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=CRDZAQAOKRLQAHAYQUUCNSTP&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=WBVNVGGWOVVSGVOPQEJWRHCO" imageId="25748360"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-9_2_12.jpg" imageWidth="2754" imageHeight="3743">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646324049203" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="48,3594 48,3667 69,3667 69,3594"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="273,353 275,1166 1347,1166 1345,353"/>
+            <TextLine id="r2l3" custom="readingOrder {index:0;}">
+                <Coords points="307,822 489,799 434,878 600,803 1192,870 1296,812 1285,618 1104,627 1078,714 305,674 307,822"/>
+                <Baseline points="1142,727 335,698"/>
+                <TextEquiv>
+                    <Unicode>Criminalia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1639395440816_358" custom="readingOrder {index:1;}">
+                <Coords points="1175,645 809,694 714,620 510,665 246,598 296,492 869,568 1210,537 1175,645"/>
+                <Baseline points="1178,574 361,553"/>
+                <TextEquiv>
+                    <Unicode>de Beurnevai-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1639395338077_344" custom="readingOrder {index:2;}">
+                <Coords points="572,431 1318,379 1273,512 572,512 572,431"/>
+                <Baseline points="1297,381 1068,447 843,443"/>
+                <TextEquiv>
+                    <Unicode>sain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Criminalia
+de Beurnevai-
+sain</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="468,1332 447,1822 1927,1830 1948,1340"/>
+            <TextLine id="line_1639395889115_427" custom="readingOrder {index:0;} abbrev {offset:0; length:9;expansion:Information;}">
+                <Coords points="1622,1795 1399,1722 1169,1775 1286,1604 1319,1675 1646,1644 1622,1795"/>
+                <Baseline points="1603,1663 1197,1681"/>
+                <TextEquiv>
+                    <Unicode>Informatn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l2" custom="readingOrder {index:1;}">
+                <Coords points="516,1635 1873,1584 1875,1642 2001,1578 2003,1486 1675,1540 1633,1487 1518,1545 517,1509 516,1635"/>
+                <Baseline points="1972,1521 548,1554"/>
+                <TextEquiv>
+                    <Unicode>Contre Agatte femme de henry vouelin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r3l1" custom="readingOrder {index:2;}">
+                <Coords points="1214,1486 1843,1504 2023,1469 1412,1435 1396,1338 1313,1433 1214,1429 1214,1486"/>
+                <Baseline points="1862,1455 1227,1457"/>
+                <TextEquiv>
+                    <Unicode>de Beurnevesain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Informat(io)n
+Contre Agatte femme de henry vouelin
+de Beurnevesain</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

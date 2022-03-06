@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-10T08:19:57.588+01:00</Created>
+        <LastChange>2021-12-13T21:48:16.052+01:00</LastChange>
+        <TranskribusMetadata docId="859968" pageId="32403036" pageNr="10" tsid="70804818" status="DONE" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=EBPXZXRJGRXYHLEAKCTPXWTC&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWKVOMPWFYQZBJGQSLKYXCNI" imageId="25748356"/>
+    </Metadata>
+    <Page imageFilename="B_168_15-9_2_10.jpg" imageWidth="2754" imageHeight="3743">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646324049190" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="84,2932 84,3107 122,3107 122,2932"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="764,247 764,1133 2459,1133 2459,247"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;} abbrev {offset:15; length:3;expansion:ladite;} abbrev {offset:34; length:1;expansion:par;}">
+                <Coords points="765,320 1769,307 2310,331 2310,271 1769,247 765,260 765,320"/>
+                <Baseline points="765,300 1769,287 2310,311"/>
+                <TextEquiv>
+                    <Unicode>Dit quen apres lad Agatte passant p </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;} textStyle {offset:20; length:3;strikethrough:true;}">
+                <Coords points="764,406 1679,389 2289,415 2289,355 1679,329 764,346 764,406"/>
+                <Baseline points="764,386 1679,369 2289,395"/>
+                <TextEquiv>
+                    <Unicode>devant le moulin ou dep la fille de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;} abbrev {offset:34; length:1;expansion:qui;}">
+                <Coords points="771,488 1692,482 2307,506 2307,446 1692,422 771,428 771,488"/>
+                <Baseline points="771,468 1692,462 2307,486"/>
+                <TextEquiv>
+                    <Unicode>deposante questoyt eagee de 3 ans q </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="789,575 1937,575 2348,595 2348,535 1937,515 789,515 789,575"/>
+                <Baseline points="789,555 1937,555 2348,575"/>
+                <TextEquiv>
+                    <Unicode>mangeoit du pain Que estoit et lui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l5" custom="readingOrder {index:4;} unclear {offset:36; length:5;}">
+                <Coords points="803,676 1879,659 2459,689 2459,629 1879,599 803,616 803,676"/>
+                <Baseline points="803,656 1879,639 2459,669"/>
+                <TextEquiv>
+                    <Unicode>ayant dit quelle mangeoit bien a la certe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l6" custom="readingOrder {index:5;} abbrev {offset:0; length:3;expansion:sadite;}">
+                <Coords points="800,763 1802,751 2343,766 2343,709 1802,694 800,706 800,763"/>
+                <Baseline points="800,744 1802,732 2343,747"/>
+                <TextEquiv>
+                    <Unicode>sad fille devint fort malade et debille </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l7" custom="readingOrder {index:6;}">
+                <Coords points="791,841 2316,856 2316,799 867,781 791,784 791,841"/>
+                <Baseline points="791,822 1248,815 2316,837"/>
+                <TextEquiv>
+                    <Unicode>et mourut deans huict jours en apres. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l8" custom="readingOrder {index:7;} textStyle {offset:9; length:2;strikethrough:true;}">
+                <Coords points="783,930 1849,949 2306,960 2306,902 1849,891 783,872 783,930"/>
+                <Baseline points="783,911 2306,941"/>
+                <TextEquiv>
+                    <Unicode>Et tient et deposante telle Inimitie </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l9" custom="readingOrder {index:8;} abbrev {offset:24; length:1;expansion:que;}">
+                <Coords points="804,1018 2303,1038 2303,980 804,960 804,1018"/>
+                <Baseline points="804,999 1592,1019 2303,1019"/>
+                <TextEquiv>
+                    <Unicode>provenir a raison de ce q elle deposante </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l10" custom="readingOrder {index:9;} abbrev {offset:17; length:3;expansion:ledit;}">
+                <Coords points="804,1103 1597,1132 1938,1133 1938,1073 804,1043 804,1103"/>
+                <Baseline points="804,1083 1938,1113"/>
+                <TextEquiv>
+                    <Unicode>lui avoit refuse led laict </Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="2387,3514 2387,3667 2453,3667 2453,3514"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="2387,3667 2453,3664 2453,3514 2387,3517 2387,3667"/>
+                <Baseline points="2387,3617 2453,3614"/>
+                <TextEquiv>
+                    <Unicode>10</Unicode>
+                </TextEquiv>
+            </TextLine>
+        </TextRegion>
+    </Page>
+</PcGts>

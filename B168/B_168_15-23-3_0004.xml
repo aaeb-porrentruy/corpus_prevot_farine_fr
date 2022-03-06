@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
+Transkribus</Creator>
+        <Created>2021-12-14T09:09:12.914+01:00</Created>
+        <LastChange>2021-12-16T09:36:42.403+01:00</LastChange>
+        <TranskribusMetadata docId="863318" pageId="32959472" pageNr="9" tsid="71072646" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=RXFTRLGITDIFETSTIPTTDKRB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DGNMXQWHLNXUKTOVGYCIHKLM" imageId="26287856"/>
+    </Metadata>
+    <Page imageFilename="B_168-15-23_0009.jpg" imageWidth="2604" imageHeight="3923">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1646324005391" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion id="r1" custom="readingOrder {index:0;}">
+            <Coords points="1287,2934 1287,2934 1246,2934 1246,2934"/>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="1415,2129 1415,2502 2469,2502 2469,2129"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="1646,2196 2088,2202 2088,2135 1646,2129 1646,2196"/>
+                <Baseline points="1646,2174 2088,2180"/>
+                <TextEquiv>
+                    <Unicode> Reconfessions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l2" custom="readingOrder {index:1;}">
+                <Coords points="1427,2334 2409,2311 2409,2253 1476,2271 1427,2276 1427,2334"/>
+                <Baseline points="1427,2315 1770,2298 2409,2292"/>
+                <TextEquiv>
+                    <Unicode>Des actes crimes et delictz de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l3" custom="readingOrder {index:2;}">
+                <Coords points="1431,2422 1794,2395 2469,2391 2469,2333 1534,2352 1431,2364 1431,2422"/>
+                <Baseline points="1431,2403 1794,2376 2469,2372"/>
+                <TextEquiv>
+                    <Unicode>Sortilege de Adelheit vefve </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r2l4" custom="readingOrder {index:3;}">
+                <Coords points="1415,2497 2408,2487 2408,2421 1415,2431 1415,2497"/>
+                <Baseline points="1415,2475 2408,2465"/>
+                <TextEquiv>
+                    <Unicode>Borquin Betteny de Boncourt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode/>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
