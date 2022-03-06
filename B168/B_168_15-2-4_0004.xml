@@ -1,52 +1,116 @@
-<?xml version='1.0' encoding='utf-8'?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-    <Metadata>
-        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
-Transkribus</Creator>
-        <Created>2021-12-09T11:25:53.319+01:00</Created>
-        <LastChange>2021-12-10T15:03:03.276+01:00</LastChange>
-        <TranskribusMetadata docId="858542" pageId="32293607" pageNr="4" tsid="70307388" status="IN_PROGRESS" userId="48895" imgUrl="https://files.transkribus.eu/Get?id=GAFKZWIWKEVUWGSPJHARLKUI&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=VQCVCNFFEUTTZUSFMFOFSJQW" imageId="25645589"/>
-    </Metadata>
-    <Page imageFilename="B_168_15-2-4_0004.jpg" imageWidth="2654" imageHeight="3988">
-        <ReadingOrder>
-            <OrderedGroup id="ro_1646323987532" caption="Regions reading order">
-                <RegionRefIndexed index="0" regionRef="r1"/>
-                <RegionRefIndexed index="1" regionRef="r2"/>
-            </OrderedGroup>
-        </ReadingOrder>
-        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
-            <Coords points="1632,2249 1632,2486 2402,2486 2402,2249"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="1632,2321 2399,2304 2399,2249 1632,2266 1632,2321"/>
-                <Baseline points="1632,2303 2399,2286"/>
-                <TextEquiv>
-                    <Unicode>Urphed de Annelin</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
-                <Coords points="1641,2406 2402,2391 2402,2336 1641,2351 1641,2406"/>
-                <Baseline points="1641,2388 1945,2373 2402,2373"/>
-                <TextEquiv>
-                    <Unicode> vefve Pierrat vauthier</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
-                <Coords points="1641,2486 2244,2469 2244,2414 1641,2431 1641,2486"/>
-                <Baseline points="1641,2468 2244,2451"/>
-                <TextEquiv>
-                    <Unicode> de Courthedoubs</Unicode>
-                </TextEquiv>
-            </TextLine>
-        </TextRegion>
-        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
-            <Coords points="2282,452 2282,619 2456,619 2456,452"/>
-            <TextLine id="r2l1" custom="readingOrder {index:0;}">
-                <Coords points="2282,602 2456,617 2456,467 2282,452 2282,602"/>
-                <Baseline points="2282,552 2340,565 2456,567"/>
-                <TextEquiv>
-                    <Unicode> </Unicode>
-                </TextEquiv>
-            </TextLine>
-        </TextRegion>
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-2-4_0004.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2654"
+          HEIGHT="3988"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2654"
+                  HEIGHT="3988">
+        
+        <TextBlock HPOS="1632"
+                   VPOS="2249"
+                   WIDTH="770"
+                   HEIGHT="237"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1632 2249 1632 2486 2402 2486 2402 2249"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="1632 2303 2399 2286" 
+                    HPOS="1632.0"
+                    VPOS="2249.0"
+                    WIDTH="767.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="1632 2321 2399 2304 2399 2249 1632 2266 1632 2321"/></Shape>
+	    <String CONTENT="Urphed de Annelin"
+                    HPOS="1632.0"
+                    VPOS="2249.0"
+                    WIDTH="767.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l2"
+                    
+                    BASELINE="1641 2388 1945 2373 2402 2373" 
+                    HPOS="1641.0"
+                    VPOS="2336.0"
+                    WIDTH="761.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="1641 2406 2402 2391 2402 2336 1641 2351 1641 2406"/></Shape>
+	    <String CONTENT=" vefve Pierrat vauthier"
+                    HPOS="1641.0"
+                    VPOS="2336.0"
+                    WIDTH="761.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l3"
+                    
+                    BASELINE="1641 2468 2244 2451" 
+                    HPOS="1641.0"
+                    VPOS="2414.0"
+                    WIDTH="603.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="1641 2486 2244 2469 2244 2414 1641 2431 1641 2486"/></Shape>
+	    <String CONTENT=" de Courthedoubs"
+                    HPOS="1641.0"
+                    VPOS="2414.0"
+                    WIDTH="603.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2282"
+                   VPOS="452"
+                   WIDTH="174"
+                   HEIGHT="167"
+                   ID="r2"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="2282 452 2282 619 2456 619 2456 452"/></Shape>
+          
+          
+          <TextLine ID="r2l1"
+                    
+                    BASELINE="2282 552 2340 565 2456 567" 
+                    HPOS="2282.0"
+                    VPOS="452.0"
+                    WIDTH="174.0"
+                    HEIGHT="165.0">
+            <Shape><Polygon POINTS="2282 602 2456 617 2456 467 2282 452 2282 602"/></Shape>
+	    <String CONTENT=" "
+                    HPOS="2282.0"
+                    VPOS="452.0"
+                    WIDTH="174.0"
+                    HEIGHT="165.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
     </Page>
-</PcGts>
+  </Layout>
+</alto>

@@ -1,170 +1,28 @@
-<?xml version='1.0' encoding='utf-8'?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-    <Metadata>
-        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
-Transkribus</Creator>
-        <Created>2021-12-14T09:09:18.618+01:00</Created>
-        <LastChange>2021-12-16T09:37:16.241+01:00</LastChange>
-        <TranskribusMetadata docId="863318" pageId="32959480" pageNr="13" tsid="71072677" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=LLNJIVLXXKAENHBQUGXDZYSZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=HLPHNULOCRQOKOPZZKEDMCFE" imageId="26287864"/>
-    </Metadata>
-    <Page imageFilename="B_168_15-23-4_0004.jpg" imageWidth="2606" imageHeight="3823">
-        <ReadingOrder>
-            <OrderedGroup id="ro_1646324005451" caption="Regions reading order">
-                <RegionRefIndexed index="0" regionRef="r1"/>
-            </OrderedGroup>
-        </ReadingOrder>
-        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
-            <Coords points="738,142 738,2170 2502,2170 2502,142"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="771,231 1446,206 2460,219 2460,155 1024,152 771,167 771,231"/>
-                <Baseline points="771,210 1446,185 2460,198"/>
-                <TextEquiv>
-                    <Unicode> et quelle navoit jamais commis ni perpetres les</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;} abbrev {offset:6; length:1;expansion:par;}">
-                <Coords points="797,312 1473,287 2487,308 2487,245 1642,224 1050,234 797,249 797,312"/>
-                <Baseline points="797,291 1473,266 2487,287"/>
-                <TextEquiv>
-                    <Unicode>actes p elle confesses. Surce lui fust donne </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
-                <Coords points="773,395 1549,372 2325,393 2325,330 1549,309 773,332 773,395"/>
-                <Baseline points="773,374 1549,351 2325,372"/>
-                <TextEquiv>
-                    <Unicode>terme jusques apres disne de soi adviser. </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:3;} abbrev {offset:12; length:3;expansion:dudit;}">
-                <Coords points="1235,501 2066,480 2066,416 1235,437 1235,501"/>
-                <Baseline points="1235,480 2066,459"/>
-                <TextEquiv>
-                    <Unicode>Apres disne dud jour </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:4;} abbrev {offset:0; length:3;expansion:Ladite;}">
-                <Coords points="756,623 1672,582 2423,590 2423,526 1672,518 1006,542 756,559 756,623"/>
-                <Baseline points="756,602 1672,561 2423,569"/>
-                <TextEquiv>
-                    <Unicode>Lad Alix librement au grand poille du chasteau dit </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:5;}">
-                <Coords points="782,695 1626,653 2471,646 2471,594 950,630 782,643 782,695"/>
-                <Baseline points="782,678 1626,636 2471,629"/>
-                <TextEquiv>
-                    <Unicode>quelle estimoit que entant quelle ne confesseroit </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:6;} textStyle {offset:12; length:7;strikethrough:true;}">
-                <Coords points="782,767 2495,715 2495,663 782,715 782,767"/>
-                <Baseline points="782,750 1552,716 2495,698"/>
-                <TextEquiv>
-                    <Unicode>rien quelle eschape seroit renvoye quicte de la </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:7;}">
-                <Coords points="768,854 2280,783 2360,776 2360,722 927,783 768,800 768,854"/>
-                <Baseline points="768,836 1166,804 1962,785 2360,758"/>
-                <TextEquiv>
-                    <Unicode>prison Mais quelle sestoit depuis advisee </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:8;} abbrev {offset:37; length:4;expansion:lesdits;}">
-                <Coords points="752,932 1157,897 2372,861 2372,807 995,853 752,878 752,932"/>
-                <Baseline points="752,914 1157,879 1967,864 2372,843"/>
-                <TextEquiv>
-                    <Unicode>Et confessoit librement avoir commis lesd </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:9;}">
-                <Coords points="792,1000 2435,952 2435,892 956,927 792,940 792,1000"/>
-                <Baseline points="792,980 1284,953 2435,932"/>
-                <TextEquiv>
-                    <Unicode>actes lesquelx actes elle declaira derechieff </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:10;} textStyle {offset:0; length:4;strikethrough:true;} unclear {offset:0; length:4;}">
-                <Coords points="747,1072 2501,1036 2501,976 747,1012 747,1072"/>
-                <Baseline points="747,1052 2501,1016"/>
-                <TextEquiv>
-                    <Unicode>Lune distinctement Priant quon heust a interce- </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:11;}">
-                <Coords points="758,1152 2427,1110 2427,1052 758,1094 758,1152"/>
-                <Baseline points="758,1133 2427,1091"/>
-                <TextEquiv>
-                    <Unicode>der envers son Excellence quon lui heust a </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:12;}">
-                <Coords points="761,1236 1805,1209 1805,1151 761,1178 761,1236"/>
-                <Baseline points="761,1217 1074,1220 1805,1190"/>
-                <TextEquiv>
-                    <Unicode>pardonner tel meffaict </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:13;} abbrev {offset:12; length:3;expansion:dudit;}">
-                <Coords points="1199,1349 2114,1343 2114,1279 1199,1285 1199,1349"/>
-                <Baseline points="1199,1328 2114,1322"/>
-                <TextEquiv>
-                    <Unicode>Le jeudi 27 dud mois </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:14;} abbrev {offset:11; length:6;expansion:plusieurs;}">
-                <Coords points="738,1459 2408,1480 2408,1437 738,1416 738,1459"/>
-                <Baseline points="738,1445 1072,1457 2074,1452 2408,1466"/>
-                <TextEquiv>
-                    <Unicode>Icelle sur plusrs admonestemens a elle faict </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:15;} abbrev {offset:3; length:5;expansion:presentce;}">
-                <Coords points="767,1545 2502,1543 2502,1495 767,1497 767,1545"/>
-                <Baseline points="767,1529 2502,1527"/>
-                <TextEquiv>
-                    <Unicode>en pntce des Sept hommes de ne soy faire tord </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:16;} abbrev {offset:40; length:5;expansion:chacuns;}">
-                <Coords points="762,1622 2264,1620 2441,1610 2441,1559 850,1567 762,1571 762,1622"/>
-                <Baseline points="762,1605 1203,1596 2087,1607 2441,1593"/>
-                <TextEquiv>
-                    <Unicode>ni a la justice Icelle recognut tous et chans les </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:17;} abbrev {offset:6; length:1;expansion:que;}">
-                <Coords points="776,1692 2369,1695 2369,1649 935,1639 776,1646 776,1692"/>
-                <Baseline points="776,1677 1253,1667 2369,1680"/>
-                <TextEquiv>
-                    <Unicode>actes q devant les avoir commis et perpetres </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:18;}">
-                <Coords points="773,1755 1392,1749 1392,1703 773,1709 773,1755"/>
-                <Baseline points="773,1740 1392,1734"/>
-                <TextEquiv>
-                    <Unicode>demandant pardon </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:19;}">
-                <Coords points="1103,2065 1991,2100 2148,2103 2148,2054 1207,2019 1103,2016 1103,2065"/>
-                <Baseline points="1103,2049 2148,2087"/>
-                <TextEquiv>
-                    <Unicode>Proces Criminel de Alix vefve </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:20;}">
-                <Coords points="1079,2151 2054,2170 2054,2121 1127,2100 1079,2102 1079,2151"/>
-                <Baseline points="1079,2135 1469,2133 2054,2154"/>
-                <TextEquiv>
-                    <Unicode>George Rossel de Boncourt </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextEquiv>
-                <Unicode/>
-            </TextEquiv>
-        </TextRegion>
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-23-4_0004.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2606"
+          HEIGHT="3823"
+          PHYSICAL_IMG_NR="53"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2606"
+                  HEIGHT="3823">
+        
+
+        
+      </PrintSpace>
     </Page>
-</PcGts>
+  </Layout>
+</alto>

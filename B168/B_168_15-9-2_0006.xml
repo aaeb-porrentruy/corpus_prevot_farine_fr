@@ -1,294 +1,616 @@
-<?xml version='1.0' encoding='utf-8'?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-    <Metadata>
-        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
-Transkribus</Creator>
-        <Created>2021-12-10T08:19:50.300+01:00</Created>
-        <LastChange>2021-12-13T21:47:49.675+01:00</LastChange>
-        <TranskribusMetadata docId="859968" pageId="32403003" pageNr="6" tsid="70804782" status="DONE" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=ILJOSAYFDVRPNKGOGFCXTNIJ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=JEJSLLHEOTITENBPFXSEKRVE" imageId="25748323"/>
-    </Metadata>
-    <Page imageFilename="B_168_15-9-2_0006.jpg" imageWidth="2754" imageHeight="3743">
-        <ReadingOrder>
-            <OrderedGroup id="ro_1646324049053" caption="Regions reading order">
-                <RegionRefIndexed index="0" regionRef="r1"/>
-            </OrderedGroup>
-        </ReadingOrder>
-        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
-            <Coords points="765,230 765,3186 2526,3186 2526,230"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="792,322 2466,290 2466,230 972,242 889,175 806,173 792,322"/>
-                <Baseline points="806,279 2466,270"/>
-                <TextEquiv>
-                    <Unicode> Jehan mahon de Beurnevesain depose Que</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;} abbrev {offset:16; length:5;expansion:presentce;} abbrev {offset:25; length:6;expansion:plusieurs;} abbrev {offset:36; length:3;expansion:ledit;}">
-                <Coords points="785,388 2361,389 2361,329 785,328 785,388"/>
-                <Baseline points="785,368 2361,369"/>
-                <TextEquiv>
-                    <Unicode>par ung soir en pntce de plusrs Que led </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;} abbrev {offset:40; length:1;expansion:par;}">
-                <Coords points="818,485 2384,469 2384,409 818,425 818,485"/>
-                <Baseline points="818,465 2384,449"/>
-                <TextEquiv>
-                    <Unicode>Henri se declaira que Il avoit empeiche p </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l4" custom="readingOrder {index:3;}">
-                <Coords points="806,563 2486,563 2486,508 806,508 806,563"/>
-                <Baseline points="806,545 2486,545"/>
-                <TextEquiv>
-                    <Unicode>deux ou trois nuct sa femme que se vouloit </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l5" custom="readingOrder {index:4;}">
-                <Coords points="807,638 2472,659 2472,604 807,583 807,638"/>
-                <Baseline points="807,620 2472,641"/>
-                <TextEquiv>
-                    <Unicode>relever pour aller mectre le feug en la </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l6" custom="readingOrder {index:5;}">
-                <Coords points="804,717 1234,731 2526,750 2526,713 2267,707 804,680 804,717"/>
-                <Baseline points="804,705 2526,738"/>
-                <TextEquiv>
-                    <Unicode>maison de ses freres Et quil sen deschargeoit </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l7" custom="readingOrder {index:6;}">
-                <Coords points="798,777 1250,782 1250,745 798,740 798,777"/>
-                <Baseline points="798,765 1250,770"/>
-                <TextEquiv>
-                    <Unicode>de tel faict </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l8" custom="readingOrder {index:7;}">
-                <Coords points="765,848 1498,845 2394,875 2394,832 1498,802 765,805 765,848"/>
-                <Baseline points="765,834 1498,831 2394,861"/>
-                <TextEquiv>
-                    <Unicode>Dit quil a ouys dire Que lon chargeoit et </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l9" custom="readingOrder {index:8;} abbrev {offset:41; length:3;expansion:ladite;}">
-                <Coords points="810,938 2471,956 2471,901 893,881 810,883 810,938"/>
-                <Baseline points="810,920 2471,938"/>
-                <TextEquiv>
-                    <Unicode>suspitionoit sont plus de quinze ans que lad </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l10" custom="readingOrder {index:9;}">
-                <Coords points="791,1018 2511,1026 2511,968 791,960 791,1018"/>
-                <Baseline points="791,999 2511,1007"/>
-                <TextEquiv>
-                    <Unicode>Agatte estoit une genauche Et quelle avoit </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l11" custom="readingOrder {index:10;}">
-                <Coords points="818,1103 2511,1111 2511,1051 818,1043 818,1103"/>
-                <Baseline points="818,1083 2511,1091"/>
-                <TextEquiv>
-                    <Unicode>fait a mourir des enffans a Bastien simon </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l12" custom="readingOrder {index:11;} abbrev {offset:35; length:3;expansion:Comme;}">
-                <Coords points="800,1181 2478,1202 2478,1142 800,1121 800,1181"/>
-                <Baseline points="800,1161 2478,1182"/>
-                <TextEquiv>
-                    <Unicode>et quon lui reprochoit ouvertement Coe aussi </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l13" custom="readingOrder {index:12;} textStyle {offset:37; length:4;strikethrough:true;}">
-                <Coords points="830,1270 2408,1286 2408,1226 830,1210 830,1270"/>
-                <Baseline points="830,1250 2408,1266"/>
-                <TextEquiv>
-                    <Unicode>fait mourir ung veau a Jehan muat et dune </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l14" custom="readingOrder {index:13;}">
-                <Coords points="809,1352 2351,1355 2433,1351 2433,1291 809,1292 809,1352"/>
-                <Baseline points="809,1332 2433,1331"/>
-                <TextEquiv>
-                    <Unicode>une jument au voueble mesme quelle </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l15" custom="readingOrder {index:14;}">
-                <Coords points="824,1433 2348,1450 2429,1447 2429,1387 824,1373 824,1433"/>
-                <Baseline points="824,1413 2429,1427"/>
-                <TextEquiv>
-                    <Unicode>avoit greve et tire les yeulx a lenfant de </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l16" custom="readingOrder {index:15;}">
-                <Coords points="813,1514 2384,1538 2384,1478 813,1454 813,1514"/>
-                <Baseline points="813,1494 2384,1518"/>
-                <TextEquiv>
-                    <Unicode>henri guenat Et de plus greve et donne </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l17" custom="readingOrder {index:16;}">
-                <Coords points="773,1612 2204,1619 2363,1613 2363,1553 773,1552 773,1612"/>
-                <Baseline points="773,1592 2363,1593"/>
-                <TextEquiv>
-                    <Unicode>La maladie a Richard chavanne de Cueve </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l18" custom="readingOrder {index:17;}">
-                <Coords points="822,1687 1989,1706 2379,1721 2379,1670 1989,1655 822,1636 822,1687"/>
-                <Baseline points="822,1670 2379,1704"/>
-                <TextEquiv>
-                    <Unicode>questoit pour lors son serviteur. Et de </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l19" custom="readingOrder {index:18;}">
-                <Coords points="801,1774 2454,1790 2454,1739 801,1723 801,1774"/>
-                <Baseline points="801,1757 2454,1773"/>
-                <TextEquiv>
-                    <Unicode>plus a opinion quelle lui a fait a mourir </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l20" custom="readingOrder {index:19;}">
-                <Coords points="776,1862 1260,1876 1260,1816 776,1802 776,1862"/>
-                <Baseline points="776,1842 1260,1856"/>
-                <TextEquiv>
-                    <Unicode>une jument. </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l21" custom="readingOrder {index:20;} textStyle {offset:6; length:5;strikethrough:true;}">
-                <Coords points="836,2056 2319,2045 2319,1985 836,1996 836,2056"/>
-                <Baseline points="836,2036 2319,2025"/>
-                <TextEquiv>
-                    <Unicode>Jehan pbtre Prestre de Beurnevesain </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l22" custom="readingOrder {index:21;} abbrev {offset:7; length:1;expansion:que;}">
-                <Coords points="782,2137 2351,2134 2351,2074 782,2077 782,2137"/>
-                <Baseline points="782,2117 2351,2114"/>
-                <TextEquiv>
-                    <Unicode>depose q dimenche devant le mostier </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l23" custom="readingOrder {index:22;} textStyle {offset:0; length:7;strikethrough:true;} abbrev {offset:15; length:5;expansion:presentce;}">
-                <Coords points="806,2222 2354,2214 2354,2160 806,2168 806,2222"/>
-                <Baseline points="806,2204 2354,2196"/>
-                <TextEquiv>
-                    <Unicode>que led en pntce de Jaicque chevrolet </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l24" custom="readingOrder {index:23;} abbrev {offset:4; length:3;expansion:ledit;}">
-                <Coords points="816,2295 2373,2292 2373,2238 816,2241 816,2295"/>
-                <Baseline points="816,2277 2373,2274"/>
-                <TextEquiv>
-                    <Unicode>Que led henri dit Que Il se vouloit </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l25" custom="readingOrder {index:24;} abbrev {offset:11; length:1;expansion:par;} abbrev {offset:29; length:3;expansion:sadite;}">
-                <Coords points="801,2387 2511,2378 2511,2318 801,2327 801,2387"/>
-                <Baseline points="801,2367 2511,2358"/>
-                <TextEquiv>
-                    <Unicode>descharger p devant eulx Que sad femme </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l26" custom="readingOrder {index:25;}">
-                <Coords points="828,2480 2490,2483 2490,2423 828,2420 828,2480"/>
-                <Baseline points="828,2460 2490,2463"/>
-                <TextEquiv>
-                    <Unicode>sestoit voulu relever pour mectre le feu </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l27" custom="readingOrder {index:26;} abbrev {offset:31; length:1;expansion:que;} abbrev {offset:33; length:3;expansion:ledit;}">
-                <Coords points="840,2578 2325,2575 2380,2662 2463,2662 2490,2515 840,2518 840,2578"/>
-                <Baseline points="840,2558 2490,2555"/>
-                <TextEquiv>
-                    <Unicode>en la maison de ses freres. Ce q led henri </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l29" custom="readingOrder {index:27;}">
-                <Coords points="822,2659 2346,2671 2346,2611 822,2599 822,2659"/>
-                <Baseline points="822,2639 1355,2660 2346,2651"/>
-                <TextEquiv>
-                    <Unicode>raconta derechieff sur le soir devant </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l30" custom="readingOrder {index:28;} abbrev {offset:0; length:6;expansion:plusieurs;}">
-                <Coords points="815,2759 1073,2765 1073,2705 815,2699 815,2759"/>
-                <Baseline points="815,2739 1073,2745"/>
-                <TextEquiv>
-                    <Unicode>plusrs </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l31" custom="readingOrder {index:29;} abbrev {offset:22; length:6;expansion:plusieurs;}">
-                <Coords points="797,2848 2456,2848 2456,2791 797,2791 797,2848"/>
-                <Baseline points="797,2829 2456,2829"/>
-                <TextEquiv>
-                    <Unicode>Dit avoir ouys dire a plusrs quelle estoit </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l32" custom="readingOrder {index:30;} abbrev {offset:27; length:6;expansion:plusieurs;}">
-                <Coords points="845,2927 2511,2925 2511,2870 1011,2866 845,2872 845,2927"/>
-                <Baseline points="845,2909 2511,2907"/>
-                <TextEquiv>
-                    <Unicode>genauche et quon lui avoit plusrs fois reproche</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l33" custom="readingOrder {index:31;}">
-                <Coords points="846,3013 1970,2994 1970,2936 846,2955 846,3013"/>
-                <Baseline points="846,2994 1970,2975"/>
-                <TextEquiv>
-                    <Unicode>sans quelle sen soit purgee </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l34" custom="readingOrder {index:32;} textStyle {offset:42; length:2;strikethrough:true;}">
-                <Coords points="825,3089 2477,3098 2493,3009 2311,3041 825,3034 825,3089"/>
-                <Baseline points="825,3071 2477,3080"/>
-                <TextEquiv>
-                    <Unicode>dit quon la charge davoir creve les yeulx au a</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l35" custom="readingOrder {index:33;}">
-                <Coords points="837,3170 2462,3186 2462,3131 918,3113 837,3115 837,3170"/>
-                <Baseline points="837,3152 2462,3168"/>
-                <TextEquiv>
-                    <Unicode>lenfant henri guenat, fait mourir les </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextEquiv>
-                <Unicode> Jehan mahon de Beurnevesain depose Que
-par ung soir en p(rese)ntce de plus(ieu)rs Que led(it) 
-Henri se declaira que Il avoit empeiche p(ar) 
-deux ou trois nuct sa femme que se vouloit 
-relever pour aller mectre le feug en la 
-maison de ses freres Et quil sen deschargeoit 
-de tel faict 
-Dit quil a ouys dire Que lon chargeoit et 
-suspitionoit sont plus de quinze ans que lad(ite) 
-Agatte estoit une genauche Et quelle avoit 
-fait a mourir des enffans a Bastien simon 
-et quon lui reprochoit ouvertement Co(mm)e aussi 
-fait mourir ung veau a Jehan muat et dune 
-une jument au voueble mesme quelle 
-avoit greve et tire les yeulx a lenfant de 
-henri guenat Et de plus greve et donne 
-La maladie a Richard chavanne de Cueve 
-questoit pour lors son serviteur. Et de 
-plus a opinion quelle lui a fait a mourir 
-une jument. 
-Jehan pbtre Prestre de Beurnevesain 
-depose q(ue) dimenche devant le mostier 
-que led(it) en p(rese)ntce de Jaicque chevrolet 
-Que led(it) henri dit Que Il se vouloit 
-descharger p(ar) devant eulx Que sad(ite) femme 
-sestoit voulu relever pour mectre le feu 
-en la maison de ses freres. Ce q(ue) led(it) henri 
-raconta derechieff sur le soir devant 
-plus(ieu)rs 
-Dit avoir ouys dire a plus(ieu)rs quelle estoit 
-genauche et quon lui avoit plus(ieu)rs fois reproche 
-sans quelle sen soit purgee 
-dit quon la charge davoir creve les yeulx au a
-lenfant henri guenat, fait mourir les </Unicode>
-            </TextEquiv>
-        </TextRegion>
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-9-2_0006.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2754"
+          HEIGHT="3743"
+          PHYSICAL_IMG_NR="27"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2754"
+                  HEIGHT="3743">
+        
+        <TextBlock HPOS="765"
+                   VPOS="230"
+                   WIDTH="1761"
+                   HEIGHT="2956"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="765 230 765 3186 2526 3186 2526 230"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="806 279 2466 270" 
+                    HPOS="792.0"
+                    VPOS="173.0"
+                    WIDTH="1674.0"
+                    HEIGHT="149.0">
+            <Shape><Polygon POINTS="792 322 2466 290 2466 230 972 242 889 175 806 173 792 322"/></Shape>
+	    <String CONTENT=" Jehan mahon de Beurnevesain depose Que"
+                    HPOS="792.0"
+                    VPOS="173.0"
+                    WIDTH="1674.0"
+                    HEIGHT="149.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l2"
+                    
+                    BASELINE="785 368 2361 369" 
+                    HPOS="785.0"
+                    VPOS="328.0"
+                    WIDTH="1576.0"
+                    HEIGHT="61.0">
+            <Shape><Polygon POINTS="785 388 2361 389 2361 329 785 328 785 388"/></Shape>
+	    <String CONTENT="par ung soir en pntce de plusrs Que led "
+                    HPOS="785.0"
+                    VPOS="328.0"
+                    WIDTH="1576.0"
+                    HEIGHT="61.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l3"
+                    
+                    BASELINE="818 465 2384 449" 
+                    HPOS="818.0"
+                    VPOS="409.0"
+                    WIDTH="1566.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="818 485 2384 469 2384 409 818 425 818 485"/></Shape>
+	    <String CONTENT="Henri se declaira que Il avoit empeiche p "
+                    HPOS="818.0"
+                    VPOS="409.0"
+                    WIDTH="1566.0"
+                    HEIGHT="76.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l4"
+                    
+                    BASELINE="806 545 2486 545" 
+                    HPOS="806.0"
+                    VPOS="508.0"
+                    WIDTH="1680.0"
+                    HEIGHT="55.0">
+            <Shape><Polygon POINTS="806 563 2486 563 2486 508 806 508 806 563"/></Shape>
+	    <String CONTENT="deux ou trois nuct sa femme que se vouloit "
+                    HPOS="806.0"
+                    VPOS="508.0"
+                    WIDTH="1680.0"
+                    HEIGHT="55.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l5"
+                    
+                    BASELINE="807 620 2472 641" 
+                    HPOS="807.0"
+                    VPOS="583.0"
+                    WIDTH="1665.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="807 638 2472 659 2472 604 807 583 807 638"/></Shape>
+	    <String CONTENT="relever pour aller mectre le feug en la "
+                    HPOS="807.0"
+                    VPOS="583.0"
+                    WIDTH="1665.0"
+                    HEIGHT="76.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l6"
+                    
+                    BASELINE="804 705 2526 738" 
+                    HPOS="804.0"
+                    VPOS="680.0"
+                    WIDTH="1722.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="804 717 1234 731 2526 750 2526 713 2267 707 804 680 804 717"/></Shape>
+	    <String CONTENT="maison de ses freres Et quil sen deschargeoit "
+                    HPOS="804.0"
+                    VPOS="680.0"
+                    WIDTH="1722.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l7"
+                    
+                    BASELINE="798 765 1250 770" 
+                    HPOS="798.0"
+                    VPOS="740.0"
+                    WIDTH="452.0"
+                    HEIGHT="42.0">
+            <Shape><Polygon POINTS="798 777 1250 782 1250 745 798 740 798 777"/></Shape>
+	    <String CONTENT="de tel faict "
+                    HPOS="798.0"
+                    VPOS="740.0"
+                    WIDTH="452.0"
+                    HEIGHT="42.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l8"
+                    
+                    BASELINE="765 834 1498 831 2394 861" 
+                    HPOS="765.0"
+                    VPOS="802.0"
+                    WIDTH="1629.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="765 848 1498 845 2394 875 2394 832 1498 802 765 805 765 848"/></Shape>
+	    <String CONTENT="Dit quil a ouys dire Que lon chargeoit et "
+                    HPOS="765.0"
+                    VPOS="802.0"
+                    WIDTH="1629.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l9"
+                    
+                    BASELINE="810 920 2471 938" 
+                    HPOS="810.0"
+                    VPOS="881.0"
+                    WIDTH="1661.0"
+                    HEIGHT="75.0">
+            <Shape><Polygon POINTS="810 938 2471 956 2471 901 893 881 810 883 810 938"/></Shape>
+	    <String CONTENT="suspitionoit sont plus de quinze ans que lad "
+                    HPOS="810.0"
+                    VPOS="881.0"
+                    WIDTH="1661.0"
+                    HEIGHT="75.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l10"
+                    
+                    BASELINE="791 999 2511 1007" 
+                    HPOS="791.0"
+                    VPOS="960.0"
+                    WIDTH="1720.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="791 1018 2511 1026 2511 968 791 960 791 1018"/></Shape>
+	    <String CONTENT="Agatte estoit une genauche Et quelle avoit "
+                    HPOS="791.0"
+                    VPOS="960.0"
+                    WIDTH="1720.0"
+                    HEIGHT="66.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l11"
+                    
+                    BASELINE="818 1083 2511 1091" 
+                    HPOS="818.0"
+                    VPOS="1043.0"
+                    WIDTH="1693.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="818 1103 2511 1111 2511 1051 818 1043 818 1103"/></Shape>
+	    <String CONTENT="fait a mourir des enffans a Bastien simon "
+                    HPOS="818.0"
+                    VPOS="1043.0"
+                    WIDTH="1693.0"
+                    HEIGHT="68.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l12"
+                    
+                    BASELINE="800 1161 2478 1182" 
+                    HPOS="800.0"
+                    VPOS="1121.0"
+                    WIDTH="1678.0"
+                    HEIGHT="81.0">
+            <Shape><Polygon POINTS="800 1181 2478 1202 2478 1142 800 1121 800 1181"/></Shape>
+	    <String CONTENT="et quon lui reprochoit ouvertement Coe aussi "
+                    HPOS="800.0"
+                    VPOS="1121.0"
+                    WIDTH="1678.0"
+                    HEIGHT="81.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l13"
+                    
+                    BASELINE="830 1250 2408 1266" 
+                    HPOS="830.0"
+                    VPOS="1210.0"
+                    WIDTH="1578.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="830 1270 2408 1286 2408 1226 830 1210 830 1270"/></Shape>
+	    <String CONTENT="fait mourir ung veau a Jehan muat et dune "
+                    HPOS="830.0"
+                    VPOS="1210.0"
+                    WIDTH="1578.0"
+                    HEIGHT="76.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l14"
+                    
+                    BASELINE="809 1332 2433 1331" 
+                    HPOS="809.0"
+                    VPOS="1291.0"
+                    WIDTH="1624.0"
+                    HEIGHT="64.0">
+            <Shape><Polygon POINTS="809 1352 2351 1355 2433 1351 2433 1291 809 1292 809 1352"/></Shape>
+	    <String CONTENT="une jument au voueble mesme quelle "
+                    HPOS="809.0"
+                    VPOS="1291.0"
+                    WIDTH="1624.0"
+                    HEIGHT="64.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l15"
+                    
+                    BASELINE="824 1413 2429 1427" 
+                    HPOS="824.0"
+                    VPOS="1373.0"
+                    WIDTH="1605.0"
+                    HEIGHT="77.0">
+            <Shape><Polygon POINTS="824 1433 2348 1450 2429 1447 2429 1387 824 1373 824 1433"/></Shape>
+	    <String CONTENT="avoit greve et tire les yeulx a lenfant de "
+                    HPOS="824.0"
+                    VPOS="1373.0"
+                    WIDTH="1605.0"
+                    HEIGHT="77.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l16"
+                    
+                    BASELINE="813 1494 2384 1518" 
+                    HPOS="813.0"
+                    VPOS="1454.0"
+                    WIDTH="1571.0"
+                    HEIGHT="84.0">
+            <Shape><Polygon POINTS="813 1514 2384 1538 2384 1478 813 1454 813 1514"/></Shape>
+	    <String CONTENT="henri guenat Et de plus greve et donne "
+                    HPOS="813.0"
+                    VPOS="1454.0"
+                    WIDTH="1571.0"
+                    HEIGHT="84.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l17"
+                    
+                    BASELINE="773 1592 2363 1593" 
+                    HPOS="773.0"
+                    VPOS="1552.0"
+                    WIDTH="1590.0"
+                    HEIGHT="67.0">
+            <Shape><Polygon POINTS="773 1612 2204 1619 2363 1613 2363 1553 773 1552 773 1612"/></Shape>
+	    <String CONTENT="La maladie a Richard chavanne de Cueve "
+                    HPOS="773.0"
+                    VPOS="1552.0"
+                    WIDTH="1590.0"
+                    HEIGHT="67.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l18"
+                    
+                    BASELINE="822 1670 2379 1704" 
+                    HPOS="822.0"
+                    VPOS="1636.0"
+                    WIDTH="1557.0"
+                    HEIGHT="85.0">
+            <Shape><Polygon POINTS="822 1687 1989 1706 2379 1721 2379 1670 1989 1655 822 1636 822 1687"/></Shape>
+	    <String CONTENT="questoit pour lors son serviteur. Et de "
+                    HPOS="822.0"
+                    VPOS="1636.0"
+                    WIDTH="1557.0"
+                    HEIGHT="85.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l19"
+                    
+                    BASELINE="801 1757 2454 1773" 
+                    HPOS="801.0"
+                    VPOS="1723.0"
+                    WIDTH="1653.0"
+                    HEIGHT="67.0">
+            <Shape><Polygon POINTS="801 1774 2454 1790 2454 1739 801 1723 801 1774"/></Shape>
+	    <String CONTENT="plus a opinion quelle lui a fait a mourir "
+                    HPOS="801.0"
+                    VPOS="1723.0"
+                    WIDTH="1653.0"
+                    HEIGHT="67.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l20"
+                    
+                    BASELINE="776 1842 1260 1856" 
+                    HPOS="776.0"
+                    VPOS="1802.0"
+                    WIDTH="484.0"
+                    HEIGHT="74.0">
+            <Shape><Polygon POINTS="776 1862 1260 1876 1260 1816 776 1802 776 1862"/></Shape>
+	    <String CONTENT="une jument. "
+                    HPOS="776.0"
+                    VPOS="1802.0"
+                    WIDTH="484.0"
+                    HEIGHT="74.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l21"
+                    
+                    BASELINE="836 2036 2319 2025" 
+                    HPOS="836.0"
+                    VPOS="1985.0"
+                    WIDTH="1483.0"
+                    HEIGHT="71.0">
+            <Shape><Polygon POINTS="836 2056 2319 2045 2319 1985 836 1996 836 2056"/></Shape>
+	    <String CONTENT="Jehan pbtre Prestre de Beurnevesain "
+                    HPOS="836.0"
+                    VPOS="1985.0"
+                    WIDTH="1483.0"
+                    HEIGHT="71.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l22"
+                    
+                    BASELINE="782 2117 2351 2114" 
+                    HPOS="782.0"
+                    VPOS="2074.0"
+                    WIDTH="1569.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="782 2137 2351 2134 2351 2074 782 2077 782 2137"/></Shape>
+	    <String CONTENT="depose q dimenche devant le mostier "
+                    HPOS="782.0"
+                    VPOS="2074.0"
+                    WIDTH="1569.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l23"
+                    
+                    BASELINE="806 2204 2354 2196" 
+                    HPOS="806.0"
+                    VPOS="2160.0"
+                    WIDTH="1548.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="806 2222 2354 2214 2354 2160 806 2168 806 2222"/></Shape>
+	    <String CONTENT="que led en pntce de Jaicque chevrolet "
+                    HPOS="806.0"
+                    VPOS="2160.0"
+                    WIDTH="1548.0"
+                    HEIGHT="62.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l24"
+                    
+                    BASELINE="816 2277 2373 2274" 
+                    HPOS="816.0"
+                    VPOS="2238.0"
+                    WIDTH="1557.0"
+                    HEIGHT="57.0">
+            <Shape><Polygon POINTS="816 2295 2373 2292 2373 2238 816 2241 816 2295"/></Shape>
+	    <String CONTENT="Que led henri dit Que Il se vouloit "
+                    HPOS="816.0"
+                    VPOS="2238.0"
+                    WIDTH="1557.0"
+                    HEIGHT="57.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l25"
+                    
+                    BASELINE="801 2367 2511 2358" 
+                    HPOS="801.0"
+                    VPOS="2318.0"
+                    WIDTH="1710.0"
+                    HEIGHT="69.0">
+            <Shape><Polygon POINTS="801 2387 2511 2378 2511 2318 801 2327 801 2387"/></Shape>
+	    <String CONTENT="descharger p devant eulx Que sad femme "
+                    HPOS="801.0"
+                    VPOS="2318.0"
+                    WIDTH="1710.0"
+                    HEIGHT="69.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l26"
+                    
+                    BASELINE="828 2460 2490 2463" 
+                    HPOS="828.0"
+                    VPOS="2420.0"
+                    WIDTH="1662.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="828 2480 2490 2483 2490 2423 828 2420 828 2480"/></Shape>
+	    <String CONTENT="sestoit voulu relever pour mectre le feu "
+                    HPOS="828.0"
+                    VPOS="2420.0"
+                    WIDTH="1662.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l27"
+                    
+                    BASELINE="840 2558 2490 2555" 
+                    HPOS="840.0"
+                    VPOS="2515.0"
+                    WIDTH="1650.0"
+                    HEIGHT="147.0">
+            <Shape><Polygon POINTS="840 2578 2325 2575 2380 2662 2463 2662 2490 2515 840 2518 840 2578"/></Shape>
+	    <String CONTENT="en la maison de ses freres. Ce q led henri "
+                    HPOS="840.0"
+                    VPOS="2515.0"
+                    WIDTH="1650.0"
+                    HEIGHT="147.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l29"
+                    
+                    BASELINE="822 2639 1355 2660 2346 2651" 
+                    HPOS="822.0"
+                    VPOS="2599.0"
+                    WIDTH="1524.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="822 2659 2346 2671 2346 2611 822 2599 822 2659"/></Shape>
+	    <String CONTENT="raconta derechieff sur le soir devant "
+                    HPOS="822.0"
+                    VPOS="2599.0"
+                    WIDTH="1524.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l30"
+                    
+                    BASELINE="815 2739 1073 2745" 
+                    HPOS="815.0"
+                    VPOS="2699.0"
+                    WIDTH="258.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="815 2759 1073 2765 1073 2705 815 2699 815 2759"/></Shape>
+	    <String CONTENT="plusrs "
+                    HPOS="815.0"
+                    VPOS="2699.0"
+                    WIDTH="258.0"
+                    HEIGHT="66.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l31"
+                    
+                    BASELINE="797 2829 2456 2829" 
+                    HPOS="797.0"
+                    VPOS="2791.0"
+                    WIDTH="1659.0"
+                    HEIGHT="57.0">
+            <Shape><Polygon POINTS="797 2848 2456 2848 2456 2791 797 2791 797 2848"/></Shape>
+	    <String CONTENT="Dit avoir ouys dire a plusrs quelle estoit "
+                    HPOS="797.0"
+                    VPOS="2791.0"
+                    WIDTH="1659.0"
+                    HEIGHT="57.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l32"
+                    
+                    BASELINE="845 2909 2511 2907" 
+                    HPOS="845.0"
+                    VPOS="2866.0"
+                    WIDTH="1666.0"
+                    HEIGHT="61.0">
+            <Shape><Polygon POINTS="845 2927 2511 2925 2511 2870 1011 2866 845 2872 845 2927"/></Shape>
+	    <String CONTENT="genauche et quon lui avoit plusrs fois reproche"
+                    HPOS="845.0"
+                    VPOS="2866.0"
+                    WIDTH="1666.0"
+                    HEIGHT="61.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l33"
+                    
+                    BASELINE="846 2994 1970 2975" 
+                    HPOS="846.0"
+                    VPOS="2936.0"
+                    WIDTH="1124.0"
+                    HEIGHT="77.0">
+            <Shape><Polygon POINTS="846 3013 1970 2994 1970 2936 846 2955 846 3013"/></Shape>
+	    <String CONTENT="sans quelle sen soit purgee "
+                    HPOS="846.0"
+                    VPOS="2936.0"
+                    WIDTH="1124.0"
+                    HEIGHT="77.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l34"
+                    
+                    BASELINE="825 3071 2477 3080" 
+                    HPOS="825.0"
+                    VPOS="3009.0"
+                    WIDTH="1668.0"
+                    HEIGHT="89.0">
+            <Shape><Polygon POINTS="825 3089 2477 3098 2493 3009 2311 3041 825 3034 825 3089"/></Shape>
+	    <String CONTENT="dit quon la charge davoir creve les yeulx au a"
+                    HPOS="825.0"
+                    VPOS="3009.0"
+                    WIDTH="1668.0"
+                    HEIGHT="89.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l35"
+                    
+                    BASELINE="837 3152 2462 3168" 
+                    HPOS="837.0"
+                    VPOS="3113.0"
+                    WIDTH="1625.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="837 3170 2462 3186 2462 3131 918 3113 837 3115 837 3170"/></Shape>
+	    <String CONTENT="lenfant henri guenat, fait mourir les "
+                    HPOS="837.0"
+                    VPOS="3113.0"
+                    WIDTH="1625.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
     </Page>
-</PcGts>
+  </Layout>
+</alto>

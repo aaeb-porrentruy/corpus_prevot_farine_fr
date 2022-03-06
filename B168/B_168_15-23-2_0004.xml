@@ -1,44 +1,89 @@
-<?xml version='1.0' encoding='utf-8'?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-    <Metadata>
-        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
-Transkribus</Creator>
-        <Created>2021-12-14T09:09:07.265+01:00</Created>
-        <LastChange>2021-12-16T09:35:05.649+01:00</LastChange>
-        <TranskribusMetadata docId="863318" pageId="32959465" pageNr="5" tsid="71072552" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=FNPKFPIMOPBAJLFRODRZIJGR&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=DRVJOGFCKAGUZWKEZJODZUOG" imageId="26287849"/>
-    </Metadata>
-    <Page imageFilename="B_168_15-23-2_0004.jpg" imageWidth="2572" imageHeight="3813">
-        <ReadingOrder>
-            <OrderedGroup id="ro_1646324005283" caption="Regions reading order">
-                <RegionRefIndexed index="0" regionRef="r1"/>
-            </OrderedGroup>
-        </ReadingOrder>
-        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
-            <Coords points="1137,2015 1137,2224 2172,2224 2172,2015"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;}">
-                <Coords points="1137,2061 1384,2064 2126,2103 2126,2057 1384,2018 1137,2015 1137,2061"/>
-                <Baseline points="1137,2046 2126,2088"/>
-                <TextEquiv>
-                    <Unicode>Proces Criminel de Adelheit </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
-                <Coords points="1173,2129 1909,2165 2172,2165 2172,2119 1225,2083 1173,2083 1173,2129"/>
-                <Baseline points="1173,2114 1909,2150 2172,2150"/>
-                <TextEquiv>
-                    <Unicode>vefve Borquin Betteny de </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
-                <Coords points="1163,2210 1524,2224 1524,2173 1163,2159 1163,2210"/>
-                <Baseline points="1163,2193 1524,2207"/>
-                <TextEquiv>
-                    <Unicode>Boncourt </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextEquiv>
-                <Unicode/>
-            </TextEquiv>
-        </TextRegion>
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-23-2_0004.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2572"
+          HEIGHT="3813"
+          PHYSICAL_IMG_NR="45"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2572"
+                  HEIGHT="3813">
+        
+        <TextBlock HPOS="1137"
+                   VPOS="2015"
+                   WIDTH="1035"
+                   HEIGHT="209"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1137 2015 1137 2224 2172 2224 2172 2015"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="1137 2046 2126 2088" 
+                    HPOS="1137.0"
+                    VPOS="2015.0"
+                    WIDTH="989.0"
+                    HEIGHT="88.0">
+            <Shape><Polygon POINTS="1137 2061 1384 2064 2126 2103 2126 2057 1384 2018 1137 2015 1137 2061"/></Shape>
+	    <String CONTENT="Proces Criminel de Adelheit "
+                    HPOS="1137.0"
+                    VPOS="2015.0"
+                    WIDTH="989.0"
+                    HEIGHT="88.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l2"
+                    
+                    BASELINE="1173 2114 1909 2150 2172 2150" 
+                    HPOS="1173.0"
+                    VPOS="2083.0"
+                    WIDTH="999.0"
+                    HEIGHT="82.0">
+            <Shape><Polygon POINTS="1173 2129 1909 2165 2172 2165 2172 2119 1225 2083 1173 2083 1173 2129"/></Shape>
+	    <String CONTENT="vefve Borquin Betteny de "
+                    HPOS="1173.0"
+                    VPOS="2083.0"
+                    WIDTH="999.0"
+                    HEIGHT="82.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l3"
+                    
+                    BASELINE="1163 2193 1524 2207" 
+                    HPOS="1163.0"
+                    VPOS="2159.0"
+                    WIDTH="361.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="1163 2210 1524 2224 1524 2173 1163 2159 1163 2210"/></Shape>
+	    <String CONTENT="Boncourt "
+                    HPOS="1163.0"
+                    VPOS="2159.0"
+                    WIDTH="361.0"
+                    HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
     </Page>
-</PcGts>
+  </Layout>
+</alto>

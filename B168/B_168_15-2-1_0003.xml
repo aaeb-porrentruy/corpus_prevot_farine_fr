@@ -1,46 +1,89 @@
-<?xml version='1.0' encoding='utf-8'?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-    <Metadata>
-        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
-Transkribus</Creator>
-        <Created>2021-12-09T11:17:46.566+01:00</Created>
-        <LastChange>2021-12-10T12:22:23.720+01:00</LastChange>
-        <TranskribusMetadata docId="858528" pageId="32292758" pageNr="3" tsid="70263763" status="DONE" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=SYPTFCWTYGBEAOLWOQMFEWBM&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=PWFNSBTVPHAGCKPQYNEQCHFY" imageId="25645017"/>
-    </Metadata>
-    <Page imageFilename="B_168_15-2-1_0003.jpg" imageWidth="2628" imageHeight="4046">
-        <ReadingOrder>
-            <OrderedGroup id="ro_1646323940830" caption="Regions reading order">
-                <RegionRefIndexed index="0" regionRef="r1"/>
-            </OrderedGroup>
-        </ReadingOrder>
-        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
-            <Coords points="1458,2189 1458,2509 2442,2509 2442,2189"/>
-            <TextLine id="r1l1" custom="readingOrder {index:0;} abbrev {offset:0; length:9;expansion:Informations;}">
-                <Coords points="1704,2350 1758,2263 2153,2289 2145,2187 1758,2190 1719,2137 1676,2153 1704,2350"/>
-                <Baseline points="1706,2238 2153,2265"/>
-                <TextEquiv>
-                    <Unicode>Informats</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l2" custom="readingOrder {index:1;}">
-                <Coords points="1443,2422 2442,2432 2442,2371 2214,2331 1556,2352 1487,2313 1423,2322 1443,2422"/>
-                <Baseline points="1458,2393 2442,2412"/>
-                <TextEquiv>
-                    <Unicode>Contre Annelin fille henrisat</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r1l3" custom="readingOrder {index:2;}">
-                <Coords points="1482,2494 1971,2523 2178,2509 2178,2448 1521,2407 1482,2494"/>
-                <Baseline points="1482,2474 2178,2489"/>
-                <TextEquiv>
-                    <Unicode>Boulet de Courthedoubs</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextEquiv>
-                <Unicode>Informats
-Contre Annelin fille henrisat
-Boulet de Courthedoubs</Unicode>
-            </TextEquiv>
-        </TextRegion>
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-2-1_0003.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2628"
+          HEIGHT="4046"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2628"
+                  HEIGHT="4046">
+        
+        <TextBlock HPOS="1458"
+                   VPOS="2189"
+                   WIDTH="984"
+                   HEIGHT="320"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1458 2189 1458 2509 2442 2509 2442 2189"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="1706 2238 2153 2265" 
+                    HPOS="1676.0"
+                    VPOS="2137.0"
+                    WIDTH="477.0"
+                    HEIGHT="213.0">
+            <Shape><Polygon POINTS="1704 2350 1758 2263 2153 2289 2145 2187 1758 2190 1719 2137 1676 2153 1704 2350"/></Shape>
+	    <String CONTENT="Informats"
+                    HPOS="1676.0"
+                    VPOS="2137.0"
+                    WIDTH="477.0"
+                    HEIGHT="213.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l2"
+                    
+                    BASELINE="1458 2393 2442 2412" 
+                    HPOS="1423.0"
+                    VPOS="2313.0"
+                    WIDTH="1019.0"
+                    HEIGHT="119.0">
+            <Shape><Polygon POINTS="1443 2422 2442 2432 2442 2371 2214 2331 1556 2352 1487 2313 1423 2322 1443 2422"/></Shape>
+	    <String CONTENT="Contre Annelin fille henrisat"
+                    HPOS="1423.0"
+                    VPOS="2313.0"
+                    WIDTH="1019.0"
+                    HEIGHT="119.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l3"
+                    
+                    BASELINE="1482 2474 2178 2489" 
+                    HPOS="1482.0"
+                    VPOS="2407.0"
+                    WIDTH="696.0"
+                    HEIGHT="116.0">
+            <Shape><Polygon POINTS="1482 2494 1971 2523 2178 2509 2178 2448 1521 2407 1482 2494"/></Shape>
+	    <String CONTENT="Boulet de Courthedoubs"
+                    HPOS="1482.0"
+                    VPOS="2407.0"
+                    WIDTH="696.0"
+                    HEIGHT="116.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
     </Page>
-</PcGts>
+  </Layout>
+</alto>

@@ -1,313 +1,653 @@
-<?xml version='1.0' encoding='utf-8'?>
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
-    <Metadata>
-        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab|PLANET AI GmbH/Tobias Gruening/tobias.gruening@planet-ai.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.6.7
-Transkribus</Creator>
-        <Created>2021-12-10T08:20:00.943+01:00</Created>
-        <LastChange>2021-12-13T21:47:24.527+01:00</LastChange>
-        <TranskribusMetadata docId="859968" pageId="32403049" pageNr="1" tsid="70804744" status="DONE" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=VHWGTYTBLOLIQTOSCTXHVLVB&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=QRNOCFRMQZEPMYETJFBKPEHU" imageId="25748369"/>
-    </Metadata>
-    <Page imageFilename="B_168_15-9-2_0001.jpg" imageWidth="2754" imageHeight="3743">
-        <ReadingOrder>
-            <OrderedGroup id="ro_1646324048973" caption="Regions reading order">
-                <RegionRefIndexed index="0" regionRef="r1"/>
-                <RegionRefIndexed index="1" regionRef="region_1639427367647_577"/>
-                <RegionRefIndexed index="2" regionRef="r2"/>
-            </OrderedGroup>
-        </ReadingOrder>
-        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
-            <Coords points="56,3584 56,3674 117,3674 117,3584"/>
-            <TextEquiv>
-                <Unicode/>
-            </TextEquiv>
-        </TextRegion>
-        <TextRegion id="region_1639427367647_577" custom="readingOrder {index:1;}">
-            <Coords points="1134,339 292,339 292,118 1134,118"/>
-        </TextRegion>
-        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:2;}">
-            <Coords points="324,141 324,3610 2513,3610 2513,141"/>
-            <TextLine id="r2l1" custom="readingOrder {index:0;} abbrev {offset:20; length:3;expansion:contre;}">
-                <Coords points="324,203 1119,194 1119,151 324,160 324,203"/>
-                <Baseline points="324,189 1119,180"/>
-                <TextEquiv>
-                    <Unicode>Informations levees cot</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="line_1639427437549_589" custom="readingOrder {index:1;}">
-                <Coords points="1090,256 1079,288 1004,259 920,275 907,251 458,272 383,291 343,256 343,216 982,194 1090,216 1090,256"/>
-                <Baseline points="364,264 555,259 660,243 767,256 915,240 985,251 1090,248"/>
-                <TextEquiv>
-                    <Unicode>Agatte femme de henri</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l2" custom="readingOrder {index:2;} abbrev {offset:10; length:3;expansion:augusti;}">
-                <Coords points="1604,214 2043,202 2075,220 2105,220 2131,203 2161,232 2259,227 2264,120 2166,125 2131,142 1750,148 1721,106 1691,107 1662,151 1604,153 1604,214"/>
-                <Baseline points="1604,194 1955,182 2190,186"/>
-                <TextEquiv>
-                    <Unicode>1609. 15. aug </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l4" custom="readingOrder {index:3;} textStyle {offset:0; length:7;underlined:true;} textStyle {offset:11; length:12;underlined:true;}">
-                <Coords points="351,337 696,314 1119,310 1119,276 696,280 389,299 351,303 351,337"/>
-                <Baseline points="351,326 696,303 1119,299"/>
-                <TextEquiv>
-                    <Unicode>Vouelin de Beurnevesain </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="line_1639427441808_592" custom="readingOrder {index:4;}">
-                <Coords points="1122,227 1170,202 1745,227 1882,202 1885,284 1844,334 1560,294 1288,291 1138,345 1173,284 1122,227"/>
-                <Baseline points="1189,267 1544,272 1686,288 1871,286"/>
-                <TextEquiv>
-                    <Unicode>Du 15 daougst 1609</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l5" custom="readingOrder {index:5;}">
-                <Coords points="791,475 860,472 939,444 1149,439 2196,445 2196,378 939,377 898,347 829,350 791,475"/>
-                <Baseline points="800,429 1149,417 2196,423"/>
-                <TextEquiv>
-                    <Unicode>Henneman Lacovatte de Beurnevesain </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l6" custom="readingOrder {index:6;}">
-                <Coords points="819,531 2277,537 2277,480 819,474 819,531"/>
-                <Baseline points="819,512 1183,507 2277,518"/>
-                <TextEquiv>
-                    <Unicode>par serement depose Que sont environ </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l7" custom="readingOrder {index:7;}">
-                <Coords points="806,625 2282,615 2282,557 806,567 806,625"/>
-                <Baseline points="806,606 1101,599 1913,605 2282,596"/>
-                <TextEquiv>
-                    <Unicode>Seize ans quil servoit aupres du voueble </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l8" custom="readingOrder {index:8;} abbrev {offset:0; length:3;expansion:dudit;}">
-                <Coords points="801,709 2307,718 2307,657 801,648 801,709"/>
-                <Baseline points="801,689 2307,698"/>
-                <TextEquiv>
-                    <Unicode>dud lieu Et estant alle requerir les chevaulx </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l9" custom="readingOrder {index:9;} abbrev {offset:7; length:3;expansion:maitre;} abbrev {offset:35; length:1;expansion:par;}">
-                <Coords points="809,798 2373,807 2373,743 809,734 809,798"/>
-                <Baseline points="809,777 1982,791 2373,786"/>
-                <TextEquiv>
-                    <Unicode>de son mre ainsy quil les chassoit p aupres </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l10" custom="readingOrder {index:10;} textStyle {offset:14; length:3;strikethrough:true;}">
-                <Coords points="777,890 2304,910 2304,841 2166,830 1845,841 777,821 777,890"/>
-                <Baseline points="777,867 1540,884 2304,887"/>
-                <TextEquiv>
-                    <Unicode>du vergier de Aug henri vouelin. Agatte </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l11" custom="readingOrder {index:11;} textStyle {offset:14; length:3;strikethrough:true;} abbrev {offset:35; length:3;expansion:dudit;}">
-                <Coords points="816,983 2324,1013 2324,944 816,914 816,983"/>
-                <Baseline points="816,960 1343,977 2324,990"/>
-                <TextEquiv>
-                    <Unicode>femme dicelui dit estant au dessus dud </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l12" custom="readingOrder {index:12;} abbrev {offset:14; length:1;expansion:que;} abbrev {offset:16; length:3;expansion:ledits;}">
-                <Coords points="792,1082 2328,1114 2328,1045 792,1013 792,1082"/>
-                <Baseline points="792,1059 1252,1076 2328,1091"/>
-                <TextEquiv>
-                    <Unicode>vergier ainsy q led chevaulx passoyent </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l13" custom="readingOrder {index:13;} unclear {offset:33; length:9;} textStyle {offset:34; length:9;strikethrough:true;}">
-                <Coords points="810,1210 1972,1210 2360,1223 2360,1154 1972,1141 810,1141 810,1210"/>
-                <Baseline points="810,1187 1042,1193 1972,1187 2360,1200"/>
-                <TextEquiv>
-                    <Unicode>se baissat puis jeta de la main [ illisible ] </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l14" custom="readingOrder {index:14;} abbrev {offset:7; length:4;expansion:lesdits;}">
-                <Coords points="812,1325 1906,1310 2376,1319 2376,1250 1906,1241 812,1256 812,1325"/>
-                <Baseline points="812,1302 1124,1304 1906,1287 2376,1296"/>
-                <TextEquiv>
-                    <Unicode>contre lesd chevaux mais deposant ne </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l15" custom="readingOrder {index:15;}">
-                <Coords points="806,1429 2513,1418 2513,1349 806,1360 806,1429"/>
-                <Baseline points="806,1406 1318,1409 2513,1395"/>
-                <TextEquiv>
-                    <Unicode>veit point ce que sestoit. Et tout Instanment </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l16" custom="readingOrder {index:16;} abbrev {offset:21; length:4;expansion:sondit;} abbrev {offset:26; length:3;expansion:maitre;}">
-                <Coords points="773,1537 2369,1529 2369,1460 773,1468 773,1537"/>
-                <Baseline points="773,1514 1810,1503 2369,1506"/>
-                <TextEquiv>
-                    <Unicode>Lung des chevaulx de sond mre tombat </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l17" custom="readingOrder {index:17;} abbrev {offset:0; length:1;expansion:par;}">
-                <Coords points="732,1714 863,1671 1187,1652 1673,1637 2321,1643 2321,1574 1673,1568 944,1596 851,1584 720,1627 732,1714"/>
-                <Baseline points="782,1653 1187,1629 1673,1614 2321,1620"/>
-                <TextEquiv>
-                    <Unicode>p terre tout accoutreti. Lequel Ilz </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l18" custom="readingOrder {index:18;} abbrev {offset:11; length:1;expansion:par;}">
-                <Coords points="719,1816 842,1769 1087,1771 1171,1783 1332,1764 1903,1748 2393,1769 2393,1700 1985,1679 842,1700 719,1747 719,1816"/>
-                <Baseline points="761,1743 1087,1748 1985,1725 2393,1746"/>
-                <TextEquiv>
-                    <Unicode>Laissarent p quelque temps devant la </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l19" custom="readingOrder {index:19;} abbrev {offset:7; length:3;expansion:dudit;}">
-                <Coords points="776,1876 1801,1879 2241,1862 2241,1793 1801,1810 776,1807 776,1876"/>
-                <Baseline points="776,1853 1801,1856 2241,1839"/>
-                <TextEquiv>
-                    <Unicode>maison dud vouelin. Et desla le </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l20" custom="readingOrder {index:20;} abbrev {offset:27; length:4;expansion:sondit;} abbrev {offset:32; length:3;expansion:maitre;}">
-                <Coords points="776,2005 1831,1988 2400,1963 2400,1894 1831,1919 776,1936 776,2005"/>
-                <Baseline points="776,1982 1831,1965 2400,1940"/>
-                <TextEquiv>
-                    <Unicode>pourtarent en la maison de sond mre. </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l21" custom="readingOrder {index:21;} abbrev {offset:14; length:1;expansion:que;}">
-                <Coords points="788,2180 2342,2165 2342,2096 788,2111 788,2180"/>
-                <Baseline points="788,2157 1254,2160 2342,2142"/>
-                <TextEquiv>
-                    <Unicode>Dit en oultre q dimenche passe du soir </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l22" custom="readingOrder {index:22;} abbrev {offset:0; length:3;expansion:ledit;}">
-                <Coords points="761,2294 843,2294 930,2319 1338,2282 1501,2292 1668,2273 1833,2270 2411,2276 2411,2207 1916,2200 761,2225 761,2294"/>
-                <Baseline points="761,2271 1916,2246 2411,2253"/>
-                <TextEquiv>
-                    <Unicode>led henri vouelin estant alle en la maison </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l23" custom="readingOrder {index:23;}">
-                <Coords points="777,2407 1404,2376 1468,2398 1547,2395 1639,2369 2345,2358 2345,2291 1561,2304 777,2340 777,2407"/>
-                <Baseline points="777,2385 1561,2349 2345,2336"/>
-                <TextEquiv>
-                    <Unicode>de lui deposant. Icelui dit quil ne </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l24" custom="readingOrder {index:24;}">
-                <Coords points="812,2523 1393,2475 1974,2451 2028,2477 2119,2458 2159,2492 2306,2445 2472,2443 2472,2377 1808,2390 1061,2432 812,2457 812,2523"/>
-                <Baseline points="812,2501 1476,2448 1974,2429 2472,2421"/>
-                <TextEquiv>
-                    <Unicode>scavoit ce quil vouloit faire de sa femme </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l25" custom="readingOrder {index:25;}">
-                <Coords points="822,2611 1636,2562 2451,2560 2451,2494 1717,2494 1066,2526 822,2545 822,2611"/>
-                <Baseline points="822,2589 1310,2554 1636,2540 2451,2538"/>
-                <TextEquiv>
-                    <Unicode>quelle sestoit volsus relever deux ou trois </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l26" custom="readingOrder {index:26;}">
-                <Coords points="789,2722 995,2697 1953,2648 2192,2644 2247,2678 2327,2678 2432,2645 2432,2576 1953,2579 836,2635 789,2722"/>
-                <Baseline points="836,2681 1953,2625 2432,2622"/>
-                <TextEquiv>
-                    <Unicode>fois pour aller mectre le feug en la maison </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l27" custom="readingOrder {index:27;}">
-                <Coords points="809,2795 1276,2782 1976,2740 2366,2744 2366,2675 1976,2671 1276,2713 809,2726 809,2795"/>
-                <Baseline points="809,2772 1276,2759 1976,2717 2366,2721"/>
-                <TextEquiv>
-                    <Unicode>des freres de lui Neust este quil lavoit </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l28" custom="readingOrder {index:28;} abbrev {offset:12; length:1;expansion:que;} textStyle {offset:14; length:3;strikethrough:true;}">
-                <Coords points="794,2887 1262,2876 2354,2815 2354,2749 1262,2810 794,2821 794,2887"/>
-                <Baseline points="794,2865 1262,2854 2354,2793"/>
-                <TextEquiv>
-                    <Unicode>empeiche Et q sen elle sen estoit alle </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l29" custom="readingOrder {index:29;}">
-                <Coords points="797,2979 2438,2900 2438,2837 797,2916 797,2979"/>
-                <Baseline points="797,2958 1371,2936 2438,2879"/>
-                <TextEquiv>
-                    <Unicode>nesachant ou elle alloit Et quicelle sestoit </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l30" custom="readingOrder {index:30;}">
-                <Coords points="800,3063 1128,3062 2112,3008 2441,3015 2441,2952 2112,2945 1128,2999 800,3000 800,3063"/>
-                <Baseline points="800,3042 1128,3041 2112,2987 2441,2994"/>
-                <TextEquiv>
-                    <Unicode>declaire quelle ne rentreroit dedans Beur- </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l31" custom="readingOrder {index:31;}">
-                <Coords points="809,3150 1210,3153 1932,3114 2173,3113 2414,3128 2414,3064 2173,3049 1932,3050 1210,3089 809,3086 809,3150"/>
-                <Baseline points="809,3129 1210,3132 1932,3093 2173,3092 2414,3107"/>
-                <TextEquiv>
-                    <Unicode>nevesain quelle neust faict du mal, quest </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l32" custom="readingOrder {index:32;}">
-                <Coords points="809,3255 1580,3226 1580,3159 809,3188 809,3255"/>
-                <Baseline points="809,3233 1580,3204"/>
-                <TextEquiv>
-                    <Unicode>tout ce quil en scait </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l33" custom="readingOrder {index:33;}">
-                <Coords points="1356,3605 1467,3596 1467,3527 1356,3536 1356,3605"/>
-                <Baseline points="1356,3582 1467,3573"/>
-                <TextEquiv>
-                    <Unicode>2 </Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextLine id="r2l34" custom="readingOrder {index:34;}">
-                <Coords points="2369,3610 2415,3608 2415,3539 2369,3541 2369,3610"/>
-                <Baseline points="2369,3587 2415,3585"/>
-                <TextEquiv>
-                    <Unicode>1</Unicode>
-                </TextEquiv>
-            </TextLine>
-            <TextEquiv>
-                <Unicode>Informations levees cot
-Agatte femme de henri
-1609. 15. aug 
-Vouelin de Beurnevesain 
-Du 15 daougst 1609
-Henneman Lacovatte de Beurnevesain 
-par serement depose Que sont environ 
-Seize ans quil servoit aupres du voueble 
-dud lieu Et estant alle requerir les chevaulx 
-de son mre ainsy quil les chassoit p aupres 
-du vergier de Aug henri vouelin. Agatte 
-femme dicelui dit estant au dessus dud 
-vergier ainsy q led chevaulx passoyent 
-se baissat puis jeta de la main [ illisible ] 
-contre lesd chevaux mais deposant ne 
-veit point ce que sestoit. Et tout Instanment 
-Lung des chevaulx de sond mre tombat 
-p terre tout accoutreti. Lequel Ilz 
-Laissarent p quelque temps devant la 
-maison dud vouelin. Et desla le 
-pourtarent en la maison de sond mre. 
-Dit en oultre q dimenche passe du soir 
-led henri vouelin estant alle en la maison 
-de lui deposant. Icelui dit quil ne 
-scavoit ce quil vouloit faire de sa femme 
-quelle sestoit volsus relever deux ou trois 
-fois pour aller mectre le feug en la maison 
-des freres de lui Neust este quil lavoit 
-empeiche Et q sen elle sen estoit alle 
-nesachant ou elle alloit Et quicelle sestoit 
-declaire quelle ne rentreroit dedans Beur- 
-nevesain quelle neust faict du mal, quest 
-tout ce quil en scait 
-2 
-1</Unicode>
-            </TextEquiv>
-        </TextRegion>
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-9-2_0001.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2754"
+          HEIGHT="3743"
+          PHYSICAL_IMG_NR="22"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2754"
+                  HEIGHT="3743">
+        
+        <TextBlock HPOS="324"
+                   VPOS="141"
+                   WIDTH="2189"
+                   HEIGHT="3469"
+                   ID="r2"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="324 141 324 3610 2513 3610 2513 141"/></Shape>
+          
+          
+          <TextLine ID="r2l1"
+                    
+                    BASELINE="324 189 1119 180" 
+                    HPOS="324.0"
+                    VPOS="151.0"
+                    WIDTH="795.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="324 203 1119 194 1119 151 324 160 324 203"/></Shape>
+	    <String CONTENT="Informations levees cot"
+                    HPOS="324.0"
+                    VPOS="151.0"
+                    WIDTH="795.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1639427437549_589"
+                    
+                    BASELINE="364 264 555 259 660 243 767 256 915 240 985 251 1090 248" 
+                    HPOS="343.0"
+                    VPOS="194.0"
+                    WIDTH="747.0"
+                    HEIGHT="97.0">
+            <Shape><Polygon POINTS="1090 256 1079 288 1004 259 920 275 907 251 458 272 383 291 343 256 343 216 982 194 1090 216 1090 256"/></Shape>
+	    <String CONTENT="Agatte femme de henri"
+                    HPOS="343.0"
+                    VPOS="194.0"
+                    WIDTH="747.0"
+                    HEIGHT="97.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l2"
+                    
+                    BASELINE="1604 194 1955 182 2190 186" 
+                    HPOS="1604.0"
+                    VPOS="106.0"
+                    WIDTH="660.0"
+                    HEIGHT="126.0">
+            <Shape><Polygon POINTS="1604 214 2043 202 2075 220 2105 220 2131 203 2161 232 2259 227 2264 120 2166 125 2131 142 1750 148 1721 106 1691 107 1662 151 1604 153 1604 214"/></Shape>
+	    <String CONTENT="1609. 15. aug "
+                    HPOS="1604.0"
+                    VPOS="106.0"
+                    WIDTH="660.0"
+                    HEIGHT="126.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l4"
+                    
+                    BASELINE="351 326 696 303 1119 299" 
+                    HPOS="351.0"
+                    VPOS="276.0"
+                    WIDTH="768.0"
+                    HEIGHT="61.0">
+            <Shape><Polygon POINTS="351 337 696 314 1119 310 1119 276 696 280 389 299 351 303 351 337"/></Shape>
+	    <String CONTENT="Vouelin de Beurnevesain "
+                    HPOS="351.0"
+                    VPOS="276.0"
+                    WIDTH="768.0"
+                    HEIGHT="61.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1639427441808_592"
+                    
+                    BASELINE="1189 267 1544 272 1686 288 1871 286" 
+                    HPOS="1122.0"
+                    VPOS="202.0"
+                    WIDTH="763.0"
+                    HEIGHT="143.0">
+            <Shape><Polygon POINTS="1122 227 1170 202 1745 227 1882 202 1885 284 1844 334 1560 294 1288 291 1138 345 1173 284 1122 227"/></Shape>
+	    <String CONTENT="Du 15 daougst 1609"
+                    HPOS="1122.0"
+                    VPOS="202.0"
+                    WIDTH="763.0"
+                    HEIGHT="143.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l5"
+                    
+                    BASELINE="800 429 1149 417 2196 423" 
+                    HPOS="791.0"
+                    VPOS="347.0"
+                    WIDTH="1405.0"
+                    HEIGHT="128.0">
+            <Shape><Polygon POINTS="791 475 860 472 939 444 1149 439 2196 445 2196 378 939 377 898 347 829 350 791 475"/></Shape>
+	    <String CONTENT="Henneman Lacovatte de Beurnevesain "
+                    HPOS="791.0"
+                    VPOS="347.0"
+                    WIDTH="1405.0"
+                    HEIGHT="128.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l6"
+                    
+                    BASELINE="819 512 1183 507 2277 518" 
+                    HPOS="819.0"
+                    VPOS="474.0"
+                    WIDTH="1458.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="819 531 2277 537 2277 480 819 474 819 531"/></Shape>
+	    <String CONTENT="par serement depose Que sont environ "
+                    HPOS="819.0"
+                    VPOS="474.0"
+                    WIDTH="1458.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l7"
+                    
+                    BASELINE="806 606 1101 599 1913 605 2282 596" 
+                    HPOS="806.0"
+                    VPOS="557.0"
+                    WIDTH="1476.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="806 625 2282 615 2282 557 806 567 806 625"/></Shape>
+	    <String CONTENT="Seize ans quil servoit aupres du voueble "
+                    HPOS="806.0"
+                    VPOS="557.0"
+                    WIDTH="1476.0"
+                    HEIGHT="68.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l8"
+                    
+                    BASELINE="801 689 2307 698" 
+                    HPOS="801.0"
+                    VPOS="648.0"
+                    WIDTH="1506.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="801 709 2307 718 2307 657 801 648 801 709"/></Shape>
+	    <String CONTENT="dud lieu Et estant alle requerir les chevaulx "
+                    HPOS="801.0"
+                    VPOS="648.0"
+                    WIDTH="1506.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l9"
+                    
+                    BASELINE="809 777 1982 791 2373 786" 
+                    HPOS="809.0"
+                    VPOS="734.0"
+                    WIDTH="1564.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="809 798 2373 807 2373 743 809 734 809 798"/></Shape>
+	    <String CONTENT="de son mre ainsy quil les chassoit p aupres "
+                    HPOS="809.0"
+                    VPOS="734.0"
+                    WIDTH="1564.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l10"
+                    
+                    BASELINE="777 867 1540 884 2304 887" 
+                    HPOS="777.0"
+                    VPOS="821.0"
+                    WIDTH="1527.0"
+                    HEIGHT="89.0">
+            <Shape><Polygon POINTS="777 890 2304 910 2304 841 2166 830 1845 841 777 821 777 890"/></Shape>
+	    <String CONTENT="du vergier de Aug henri vouelin. Agatte "
+                    HPOS="777.0"
+                    VPOS="821.0"
+                    WIDTH="1527.0"
+                    HEIGHT="89.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l11"
+                    
+                    BASELINE="816 960 1343 977 2324 990" 
+                    HPOS="816.0"
+                    VPOS="914.0"
+                    WIDTH="1508.0"
+                    HEIGHT="99.0">
+            <Shape><Polygon POINTS="816 983 2324 1013 2324 944 816 914 816 983"/></Shape>
+	    <String CONTENT="femme dicelui dit estant au dessus dud "
+                    HPOS="816.0"
+                    VPOS="914.0"
+                    WIDTH="1508.0"
+                    HEIGHT="99.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l12"
+                    
+                    BASELINE="792 1059 1252 1076 2328 1091" 
+                    HPOS="792.0"
+                    VPOS="1013.0"
+                    WIDTH="1536.0"
+                    HEIGHT="101.0">
+            <Shape><Polygon POINTS="792 1082 2328 1114 2328 1045 792 1013 792 1082"/></Shape>
+	    <String CONTENT="vergier ainsy q led chevaulx passoyent "
+                    HPOS="792.0"
+                    VPOS="1013.0"
+                    WIDTH="1536.0"
+                    HEIGHT="101.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l13"
+                    
+                    BASELINE="810 1187 1042 1193 1972 1187 2360 1200" 
+                    HPOS="810.0"
+                    VPOS="1141.0"
+                    WIDTH="1550.0"
+                    HEIGHT="82.0">
+            <Shape><Polygon POINTS="810 1210 1972 1210 2360 1223 2360 1154 1972 1141 810 1141 810 1210"/></Shape>
+	    <String CONTENT="se baissat puis jeta de la main [ illisible ] "
+                    HPOS="810.0"
+                    VPOS="1141.0"
+                    WIDTH="1550.0"
+                    HEIGHT="82.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l14"
+                    
+                    BASELINE="812 1302 1124 1304 1906 1287 2376 1296" 
+                    HPOS="812.0"
+                    VPOS="1241.0"
+                    WIDTH="1564.0"
+                    HEIGHT="84.0">
+            <Shape><Polygon POINTS="812 1325 1906 1310 2376 1319 2376 1250 1906 1241 812 1256 812 1325"/></Shape>
+	    <String CONTENT="contre lesd chevaux mais deposant ne "
+                    HPOS="812.0"
+                    VPOS="1241.0"
+                    WIDTH="1564.0"
+                    HEIGHT="84.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l15"
+                    
+                    BASELINE="806 1406 1318 1409 2513 1395" 
+                    HPOS="806.0"
+                    VPOS="1349.0"
+                    WIDTH="1707.0"
+                    HEIGHT="80.0">
+            <Shape><Polygon POINTS="806 1429 2513 1418 2513 1349 806 1360 806 1429"/></Shape>
+	    <String CONTENT="veit point ce que sestoit. Et tout Instanment "
+                    HPOS="806.0"
+                    VPOS="1349.0"
+                    WIDTH="1707.0"
+                    HEIGHT="80.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l16"
+                    
+                    BASELINE="773 1514 1810 1503 2369 1506" 
+                    HPOS="773.0"
+                    VPOS="1460.0"
+                    WIDTH="1596.0"
+                    HEIGHT="77.0">
+            <Shape><Polygon POINTS="773 1537 2369 1529 2369 1460 773 1468 773 1537"/></Shape>
+	    <String CONTENT="Lung des chevaulx de sond mre tombat "
+                    HPOS="773.0"
+                    VPOS="1460.0"
+                    WIDTH="1596.0"
+                    HEIGHT="77.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l17"
+                    
+                    BASELINE="782 1653 1187 1629 1673 1614 2321 1620" 
+                    HPOS="720.0"
+                    VPOS="1568.0"
+                    WIDTH="1601.0"
+                    HEIGHT="146.0">
+            <Shape><Polygon POINTS="732 1714 863 1671 1187 1652 1673 1637 2321 1643 2321 1574 1673 1568 944 1596 851 1584 720 1627 732 1714"/></Shape>
+	    <String CONTENT="p terre tout accoutreti. Lequel Ilz "
+                    HPOS="720.0"
+                    VPOS="1568.0"
+                    WIDTH="1601.0"
+                    HEIGHT="146.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l18"
+                    
+                    BASELINE="761 1743 1087 1748 1985 1725 2393 1746" 
+                    HPOS="719.0"
+                    VPOS="1679.0"
+                    WIDTH="1674.0"
+                    HEIGHT="137.0">
+            <Shape><Polygon POINTS="719 1816 842 1769 1087 1771 1171 1783 1332 1764 1903 1748 2393 1769 2393 1700 1985 1679 842 1700 719 1747 719 1816"/></Shape>
+	    <String CONTENT="Laissarent p quelque temps devant la "
+                    HPOS="719.0"
+                    VPOS="1679.0"
+                    WIDTH="1674.0"
+                    HEIGHT="137.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l19"
+                    
+                    BASELINE="776 1853 1801 1856 2241 1839" 
+                    HPOS="776.0"
+                    VPOS="1793.0"
+                    WIDTH="1465.0"
+                    HEIGHT="86.0">
+            <Shape><Polygon POINTS="776 1876 1801 1879 2241 1862 2241 1793 1801 1810 776 1807 776 1876"/></Shape>
+	    <String CONTENT="maison dud vouelin. Et desla le "
+                    HPOS="776.0"
+                    VPOS="1793.0"
+                    WIDTH="1465.0"
+                    HEIGHT="86.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l20"
+                    
+                    BASELINE="776 1982 1831 1965 2400 1940" 
+                    HPOS="776.0"
+                    VPOS="1894.0"
+                    WIDTH="1624.0"
+                    HEIGHT="111.0">
+            <Shape><Polygon POINTS="776 2005 1831 1988 2400 1963 2400 1894 1831 1919 776 1936 776 2005"/></Shape>
+	    <String CONTENT="pourtarent en la maison de sond mre. "
+                    HPOS="776.0"
+                    VPOS="1894.0"
+                    WIDTH="1624.0"
+                    HEIGHT="111.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l21"
+                    
+                    BASELINE="788 2157 1254 2160 2342 2142" 
+                    HPOS="788.0"
+                    VPOS="2096.0"
+                    WIDTH="1554.0"
+                    HEIGHT="84.0">
+            <Shape><Polygon POINTS="788 2180 2342 2165 2342 2096 788 2111 788 2180"/></Shape>
+	    <String CONTENT="Dit en oultre q dimenche passe du soir "
+                    HPOS="788.0"
+                    VPOS="2096.0"
+                    WIDTH="1554.0"
+                    HEIGHT="84.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l22"
+                    
+                    BASELINE="761 2271 1916 2246 2411 2253" 
+                    HPOS="761.0"
+                    VPOS="2200.0"
+                    WIDTH="1650.0"
+                    HEIGHT="119.0">
+            <Shape><Polygon POINTS="761 2294 843 2294 930 2319 1338 2282 1501 2292 1668 2273 1833 2270 2411 2276 2411 2207 1916 2200 761 2225 761 2294"/></Shape>
+	    <String CONTENT="led henri vouelin estant alle en la maison "
+                    HPOS="761.0"
+                    VPOS="2200.0"
+                    WIDTH="1650.0"
+                    HEIGHT="119.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l23"
+                    
+                    BASELINE="777 2385 1561 2349 2345 2336" 
+                    HPOS="777.0"
+                    VPOS="2291.0"
+                    WIDTH="1568.0"
+                    HEIGHT="116.0">
+            <Shape><Polygon POINTS="777 2407 1404 2376 1468 2398 1547 2395 1639 2369 2345 2358 2345 2291 1561 2304 777 2340 777 2407"/></Shape>
+	    <String CONTENT="de lui deposant. Icelui dit quil ne "
+                    HPOS="777.0"
+                    VPOS="2291.0"
+                    WIDTH="1568.0"
+                    HEIGHT="116.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l24"
+                    
+                    BASELINE="812 2501 1476 2448 1974 2429 2472 2421" 
+                    HPOS="812.0"
+                    VPOS="2377.0"
+                    WIDTH="1660.0"
+                    HEIGHT="146.0">
+            <Shape><Polygon POINTS="812 2523 1393 2475 1974 2451 2028 2477 2119 2458 2159 2492 2306 2445 2472 2443 2472 2377 1808 2390 1061 2432 812 2457 812 2523"/></Shape>
+	    <String CONTENT="scavoit ce quil vouloit faire de sa femme "
+                    HPOS="812.0"
+                    VPOS="2377.0"
+                    WIDTH="1660.0"
+                    HEIGHT="146.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l25"
+                    
+                    BASELINE="822 2589 1310 2554 1636 2540 2451 2538" 
+                    HPOS="822.0"
+                    VPOS="2494.0"
+                    WIDTH="1629.0"
+                    HEIGHT="117.0">
+            <Shape><Polygon POINTS="822 2611 1636 2562 2451 2560 2451 2494 1717 2494 1066 2526 822 2545 822 2611"/></Shape>
+	    <String CONTENT="quelle sestoit volsus relever deux ou trois "
+                    HPOS="822.0"
+                    VPOS="2494.0"
+                    WIDTH="1629.0"
+                    HEIGHT="117.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l26"
+                    
+                    BASELINE="836 2681 1953 2625 2432 2622" 
+                    HPOS="789.0"
+                    VPOS="2576.0"
+                    WIDTH="1643.0"
+                    HEIGHT="146.0">
+            <Shape><Polygon POINTS="789 2722 995 2697 1953 2648 2192 2644 2247 2678 2327 2678 2432 2645 2432 2576 1953 2579 836 2635 789 2722"/></Shape>
+	    <String CONTENT="fois pour aller mectre le feug en la maison "
+                    HPOS="789.0"
+                    VPOS="2576.0"
+                    WIDTH="1643.0"
+                    HEIGHT="146.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l27"
+                    
+                    BASELINE="809 2772 1276 2759 1976 2717 2366 2721" 
+                    HPOS="809.0"
+                    VPOS="2671.0"
+                    WIDTH="1557.0"
+                    HEIGHT="124.0">
+            <Shape><Polygon POINTS="809 2795 1276 2782 1976 2740 2366 2744 2366 2675 1976 2671 1276 2713 809 2726 809 2795"/></Shape>
+	    <String CONTENT="des freres de lui Neust este quil lavoit "
+                    HPOS="809.0"
+                    VPOS="2671.0"
+                    WIDTH="1557.0"
+                    HEIGHT="124.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l28"
+                    
+                    BASELINE="794 2865 1262 2854 2354 2793" 
+                    HPOS="794.0"
+                    VPOS="2749.0"
+                    WIDTH="1560.0"
+                    HEIGHT="138.0">
+            <Shape><Polygon POINTS="794 2887 1262 2876 2354 2815 2354 2749 1262 2810 794 2821 794 2887"/></Shape>
+	    <String CONTENT="empeiche Et q sen elle sen estoit alle "
+                    HPOS="794.0"
+                    VPOS="2749.0"
+                    WIDTH="1560.0"
+                    HEIGHT="138.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l29"
+                    
+                    BASELINE="797 2958 1371 2936 2438 2879" 
+                    HPOS="797.0"
+                    VPOS="2837.0"
+                    WIDTH="1641.0"
+                    HEIGHT="142.0">
+            <Shape><Polygon POINTS="797 2979 2438 2900 2438 2837 797 2916 797 2979"/></Shape>
+	    <String CONTENT="nesachant ou elle alloit Et quicelle sestoit "
+                    HPOS="797.0"
+                    VPOS="2837.0"
+                    WIDTH="1641.0"
+                    HEIGHT="142.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l30"
+                    
+                    BASELINE="800 3042 1128 3041 2112 2987 2441 2994" 
+                    HPOS="800.0"
+                    VPOS="2945.0"
+                    WIDTH="1641.0"
+                    HEIGHT="118.0">
+            <Shape><Polygon POINTS="800 3063 1128 3062 2112 3008 2441 3015 2441 2952 2112 2945 1128 2999 800 3000 800 3063"/></Shape>
+	    <String CONTENT="declaire quelle ne rentreroit dedans Beur- "
+                    HPOS="800.0"
+                    VPOS="2945.0"
+                    WIDTH="1641.0"
+                    HEIGHT="118.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l31"
+                    
+                    BASELINE="809 3129 1210 3132 1932 3093 2173 3092 2414 3107" 
+                    HPOS="809.0"
+                    VPOS="3049.0"
+                    WIDTH="1605.0"
+                    HEIGHT="104.0">
+            <Shape><Polygon POINTS="809 3150 1210 3153 1932 3114 2173 3113 2414 3128 2414 3064 2173 3049 1932 3050 1210 3089 809 3086 809 3150"/></Shape>
+	    <String CONTENT="nevesain quelle neust faict du mal, quest "
+                    HPOS="809.0"
+                    VPOS="3049.0"
+                    WIDTH="1605.0"
+                    HEIGHT="104.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l32"
+                    
+                    BASELINE="809 3233 1580 3204" 
+                    HPOS="809.0"
+                    VPOS="3159.0"
+                    WIDTH="771.0"
+                    HEIGHT="96.0">
+            <Shape><Polygon POINTS="809 3255 1580 3226 1580 3159 809 3188 809 3255"/></Shape>
+	    <String CONTENT="tout ce quil en scait "
+                    HPOS="809.0"
+                    VPOS="3159.0"
+                    WIDTH="771.0"
+                    HEIGHT="96.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l33"
+                    
+                    BASELINE="1356 3582 1467 3573" 
+                    HPOS="1356.0"
+                    VPOS="3527.0"
+                    WIDTH="111.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="1356 3605 1467 3596 1467 3527 1356 3536 1356 3605"/></Shape>
+	    <String CONTENT="2 "
+                    HPOS="1356.0"
+                    VPOS="3527.0"
+                    WIDTH="111.0"
+                    HEIGHT="78.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l34"
+                    
+                    BASELINE="2369 3587 2415 3585" 
+                    HPOS="2369.0"
+                    VPOS="3539.0"
+                    WIDTH="46.0"
+                    HEIGHT="71.0">
+            <Shape><Polygon POINTS="2369 3610 2415 3608 2415 3539 2369 3541 2369 3610"/></Shape>
+	    <String CONTENT="1"
+                    HPOS="2369.0"
+                    VPOS="3539.0"
+                    WIDTH="46.0"
+                    HEIGHT="71.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="56"
+                   VPOS="3584"
+                   WIDTH="61"
+                   HEIGHT="90"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="56 3584 56 3674 117 3674 117 3584"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="292"
+                   VPOS="118"
+                   WIDTH="842"
+                   HEIGHT="221"
+                   ID="region_1639427367647_577"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1134 339 292 339 292 118 1134 118"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
     </Page>
-</PcGts>
+  </Layout>
+</alto>
