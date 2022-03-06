@@ -7,7 +7,7 @@ Transkribus</Creator>
         <LastChange>2021-12-16T09:31:54.455+01:00</LastChange>
         <TranskribusMetadata docId="863318" pageId="32959459" pageNr="2" tsid="71072371" status="GT" userId="52016" imgUrl="https://files.transkribus.eu/Get?id=DGSGYUGFSKRFTHJIZRHKPHJZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=TVWEBRZOJMILJFERDIBMBESF" imageId="26287843"/>
     </Metadata>
-    <Page imageFilename="B_168-15-23_0002.jpg" imageWidth="2582" imageHeight="3808">
+    <Page imageFilename="B_168_15-23-2_0001.jpg" imageWidth="2582" imageHeight="3808">
         <ReadingOrder>
             <OrderedGroup id="ro_1646324005238" caption="Regions reading order">
                 <RegionRefIndexed index="0" regionRef="r1"/>
