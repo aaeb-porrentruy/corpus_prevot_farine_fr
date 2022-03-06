@@ -771,26 +771,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="910"
-                   VPOS="1192"
-                   WIDTH="0"
-                   HEIGHT="0"
-                   ID="r1"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="910 1192 910 1192 910 1192 910 1192"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="807"
-                   VPOS="1222"
-                   WIDTH="0"
-                   HEIGHT="4"
-                   ID="r2"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="807 1222 807 1226 807 1226 807 1222"/></Shape>
-          
-        </TextBlock>
-        
 
         
       </PrintSpace>

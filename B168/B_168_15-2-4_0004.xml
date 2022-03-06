@@ -81,32 +81,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="2282"
-                   VPOS="452"
-                   WIDTH="174"
-                   HEIGHT="167"
-                   ID="r2"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="2282 452 2282 619 2456 619 2456 452"/></Shape>
-          
-          
-          <TextLine ID="r2l1"
-                    
-                    BASELINE="2282 552 2340 565 2456 567" 
-                    HPOS="2282.0"
-                    VPOS="452.0"
-                    WIDTH="174.0"
-                    HEIGHT="165.0">
-            <Shape><Polygon POINTS="2282 602 2456 617 2456 467 2282 452 2282 602"/></Shape>
-	    <String CONTENT=" "
-                    HPOS="2282.0"
-                    VPOS="452.0"
-                    WIDTH="174.0"
-                    HEIGHT="165.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
 
         

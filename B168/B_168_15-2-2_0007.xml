@@ -550,16 +550,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="435"
-                   VPOS="2993"
-                   WIDTH="219"
-                   HEIGHT="79"
-                   ID="region_1639132947791_589"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="435 2993 654 2993 654 3072 435 3072"/></Shape>
-          
-        </TextBlock>
-        
 
         
       </PrintSpace>

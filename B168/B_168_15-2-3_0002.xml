@@ -539,20 +539,6 @@
 
           
           
-          <TextLine ID="r1l31"
-                    
-                    BASELINE="1962 2447 2151 2477" 
-                    HPOS="1962.0"
-                    VPOS="2427.0"
-                    WIDTH="189.0"
-                    HEIGHT="60.0">
-            <Shape><Polygon POINTS="1962 2457 2097 2484 2151 2487 2151 2457 1962 2427 1962 2457"/></Shape>
-	    <String CONTENT=" "
-                    HPOS="1962.0"
-                    VPOS="2427.0"
-                    WIDTH="189.0"
-                    HEIGHT="60.0"></String>
-          </TextLine>
 
           
           
