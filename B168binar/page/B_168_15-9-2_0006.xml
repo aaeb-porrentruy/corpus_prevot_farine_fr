@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:53.352+01:00</Created>
+        <LastChange>2022-03-07T16:35:53.352+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-9-2_0006.jpg" imageWidth="2754" imageHeight="3743">
+        <PrintSpace>
+            <Coords points="0,0 2754,0 2754,3743 0,3743"/>
+        </PrintSpace>
+        <TextRegion id="r1" custom="readingOrder {index:NaN;}">
+            <Coords points="765,230 765,3186 2526,3186 2526,230"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="791,172 2467,172 2467,323 791,323"/>
+                <Baseline points="806,279 2466,270"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="792.0,173.0 2466,173.0 2466,322 792.0,322"/>
+                    <TextEquiv>
+                        <Unicode> Jehan mahon de Beurnevesain depose Que</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode> Jehan mahon de Beurnevesain depose Que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="784,327 2362,327 2362,390 784,390"/>
+                <Baseline points="785,368 2361,369"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="785.0,328.0 2361,328.0 2361,389 785.0,389"/>
+                    <TextEquiv>
+                        <Unicode>par ung soir en pntce de plusrs Que led </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>par ung soir en pntce de plusrs Que led </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="817,408 2385,408 2385,486 817,486"/>
+                <Baseline points="818,465 2384,449"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="818.0,409.0 2384,409.0 2384,485 818.0,485"/>
+                    <TextEquiv>
+                        <Unicode>Henri se declaira que Il avoit empeiche p </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Henri se declaira que Il avoit empeiche p </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" custom="readingOrder {index:3;}">
+                <Coords points="805,507 2487,507 2487,564 805,564"/>
+                <Baseline points="806,545 2486,545"/>
+                <Word id="w_4" custom="readingOrder {index:3;}">
+                    <Coords points="806.0,508.0 2486,508.0 2486,563 806.0,563"/>
+                    <TextEquiv>
+                        <Unicode>deux ou trois nuct sa femme que se vouloit </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>deux ou trois nuct sa femme que se vouloit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" custom="readingOrder {index:4;}">
+                <Coords points="806,582 2473,582 2473,660 806,660"/>
+                <Baseline points="807,620 2472,641"/>
+                <Word id="w_5" custom="readingOrder {index:4;}">
+                    <Coords points="807.0,583.0 2472,583.0 2472,659 807.0,659"/>
+                    <TextEquiv>
+                        <Unicode>relever pour aller mectre le feug en la </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>relever pour aller mectre le feug en la </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" custom="readingOrder {index:5;}">
+                <Coords points="803,679 2527,679 2527,751 803,751"/>
+                <Baseline points="804,705 2526,738"/>
+                <Word id="w_6" custom="readingOrder {index:5;}">
+                    <Coords points="804.0,680.0 2526,680.0 2526,750 804.0,750"/>
+                    <TextEquiv>
+                        <Unicode>maison de ses freres Et quil sen deschargeoit </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>maison de ses freres Et quil sen deschargeoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" custom="readingOrder {index:6;}">
+                <Coords points="797,739 1251,739 1251,783 797,783"/>
+                <Baseline points="798,765 1250,770"/>
+                <Word id="w_7" custom="readingOrder {index:6;}">
+                    <Coords points="798.0,740.0 1250,740.0 1250,782 798.0,782"/>
+                    <TextEquiv>
+                        <Unicode>de tel faict </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>de tel faict </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" custom="readingOrder {index:7;}">
+                <Coords points="764,801 2395,801 2395,876 764,876"/>
+                <Baseline points="765,834 1498,831 2394,861"/>
+                <Word id="w_8" custom="readingOrder {index:7;}">
+                    <Coords points="765.0,802.0 2394,802.0 2394,875 765.0,875"/>
+                    <TextEquiv>
+                        <Unicode>Dit quil a ouys dire Que lon chargeoit et </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Dit quil a ouys dire Que lon chargeoit et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" custom="readingOrder {index:8;}">
+                <Coords points="809,880 2472,880 2472,957 809,957"/>
+                <Baseline points="810,920 2471,938"/>
+                <Word id="w_9" custom="readingOrder {index:8;}">
+                    <Coords points="810.0,881.0 2471,881.0 2471,956 810.0,956"/>
+                    <TextEquiv>
+                        <Unicode>suspitionoit sont plus de quinze ans que lad </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>suspitionoit sont plus de quinze ans que lad </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" custom="readingOrder {index:9;}">
+                <Coords points="790,959 2512,959 2512,1027 790,1027"/>
+                <Baseline points="791,999 2511,1007"/>
+                <Word id="w_10" custom="readingOrder {index:9;}">
+                    <Coords points="791.0,960.0 2511,960.0 2511,1026 791.0,1026"/>
+                    <TextEquiv>
+                        <Unicode>Agatte estoit une genauche Et quelle avoit </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Agatte estoit une genauche Et quelle avoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" custom="readingOrder {index:10;}">
+                <Coords points="817,1042 2512,1042 2512,1112 817,1112"/>
+                <Baseline points="818,1083 2511,1091"/>
+                <Word id="w_11" custom="readingOrder {index:10;}">
+                    <Coords points="818.0,1043.0 2511,1043.0 2511,1111 818.0,1111"/>
+                    <TextEquiv>
+                        <Unicode>fait a mourir des enffans a Bastien simon </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>fait a mourir des enffans a Bastien simon </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" custom="readingOrder {index:11;}">
+                <Coords points="799,1120 2479,1120 2479,1203 799,1203"/>
+                <Baseline points="800,1161 2478,1182"/>
+                <Word id="w_12" custom="readingOrder {index:11;}">
+                    <Coords points="800.0,1121.0 2478,1121.0 2478,1202 800.0,1202"/>
+                    <TextEquiv>
+                        <Unicode>et quon lui reprochoit ouvertement Coe aussi </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>et quon lui reprochoit ouvertement Coe aussi </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" custom="readingOrder {index:12;}">
+                <Coords points="829,1209 2409,1209 2409,1287 829,1287"/>
+                <Baseline points="830,1250 2408,1266"/>
+                <Word id="w_13" custom="readingOrder {index:12;}">
+                    <Coords points="830.0,1210.0 2408,1210.0 2408,1286 830.0,1286"/>
+                    <TextEquiv>
+                        <Unicode>fait mourir ung veau a Jehan muat et dune </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>fait mourir ung veau a Jehan muat et dune </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" custom="readingOrder {index:13;}">
+                <Coords points="808,1290 2434,1290 2434,1356 808,1356"/>
+                <Baseline points="809,1332 2433,1331"/>
+                <Word id="w_14" custom="readingOrder {index:13;}">
+                    <Coords points="809.0,1291.0 2433,1291.0 2433,1355 809.0,1355"/>
+                    <TextEquiv>
+                        <Unicode>une jument au voueble mesme quelle </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>une jument au voueble mesme quelle </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" custom="readingOrder {index:14;}">
+                <Coords points="823,1372 2430,1372 2430,1451 823,1451"/>
+                <Baseline points="824,1413 2429,1427"/>
+                <Word id="w_15" custom="readingOrder {index:14;}">
+                    <Coords points="824.0,1373.0 2429,1373.0 2429,1450 824.0,1450"/>
+                    <TextEquiv>
+                        <Unicode>avoit greve et tire les yeulx a lenfant de </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>avoit greve et tire les yeulx a lenfant de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" custom="readingOrder {index:15;}">
+                <Coords points="812,1453 2385,1453 2385,1539 812,1539"/>
+                <Baseline points="813,1494 2384,1518"/>
+                <Word id="w_16" custom="readingOrder {index:15;}">
+                    <Coords points="813.0,1454.0 2384,1454.0 2384,1538 813.0,1538"/>
+                    <TextEquiv>
+                        <Unicode>henri guenat Et de plus greve et donne </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>henri guenat Et de plus greve et donne </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" custom="readingOrder {index:16;}">
+                <Coords points="772,1551 2364,1551 2364,1620 772,1620"/>
+                <Baseline points="773,1592 2363,1593"/>
+                <Word id="w_17" custom="readingOrder {index:16;}">
+                    <Coords points="773.0,1552.0 2363,1552.0 2363,1619 773.0,1619"/>
+                    <TextEquiv>
+                        <Unicode>La maladie a Richard chavanne de Cueve </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>La maladie a Richard chavanne de Cueve </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" custom="readingOrder {index:17;}">
+                <Coords points="821,1635 2380,1635 2380,1722 821,1722"/>
+                <Baseline points="822,1670 2379,1704"/>
+                <Word id="w_18" custom="readingOrder {index:17;}">
+                    <Coords points="822.0,1636.0 2379,1636.0 2379,1721 822.0,1721"/>
+                    <TextEquiv>
+                        <Unicode>questoit pour lors son serviteur. Et de </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>questoit pour lors son serviteur. Et de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" custom="readingOrder {index:18;}">
+                <Coords points="800,1722 2455,1722 2455,1791 800,1791"/>
+                <Baseline points="801,1757 2454,1773"/>
+                <Word id="w_19" custom="readingOrder {index:18;}">
+                    <Coords points="801.0,1723.0 2454,1723.0 2454,1790 801.0,1790"/>
+                    <TextEquiv>
+                        <Unicode>plus a opinion quelle lui a fait a mourir </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>plus a opinion quelle lui a fait a mourir </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" custom="readingOrder {index:19;}">
+                <Coords points="775,1801 1261,1801 1261,1877 775,1877"/>
+                <Baseline points="776,1842 1260,1856"/>
+                <Word id="w_20" custom="readingOrder {index:19;}">
+                    <Coords points="776.0,1802.0 1260,1802.0 1260,1876 776.0,1876"/>
+                    <TextEquiv>
+                        <Unicode>une jument. </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>une jument. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" custom="readingOrder {index:20;}">
+                <Coords points="835,1984 2320,1984 2320,2057 835,2057"/>
+                <Baseline points="836,2036 2319,2025"/>
+                <Word id="w_21" custom="readingOrder {index:20;}">
+                    <Coords points="836.0,1985.0 2319,1985.0 2319,2056 836.0,2056"/>
+                    <TextEquiv>
+                        <Unicode>Jehan pbtre Prestre de Beurnevesain </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Jehan pbtre Prestre de Beurnevesain </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" custom="readingOrder {index:21;}">
+                <Coords points="781,2073 2352,2073 2352,2138 781,2138"/>
+                <Baseline points="782,2117 2351,2114"/>
+                <Word id="w_22" custom="readingOrder {index:21;}">
+                    <Coords points="782.0,2074.0 2351,2074.0 2351,2137 782.0,2137"/>
+                    <TextEquiv>
+                        <Unicode>depose q dimenche devant le mostier </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>depose q dimenche devant le mostier </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" custom="readingOrder {index:22;}">
+                <Coords points="805,2159 2355,2159 2355,2223 805,2223"/>
+                <Baseline points="806,2204 2354,2196"/>
+                <Word id="w_23" custom="readingOrder {index:22;}">
+                    <Coords points="806.0,2160.0 2354,2160.0 2354,2222 806.0,2222"/>
+                    <TextEquiv>
+                        <Unicode>que led en pntce de Jaicque chevrolet </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>que led en pntce de Jaicque chevrolet </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" custom="readingOrder {index:23;}">
+                <Coords points="815,2237 2374,2237 2374,2296 815,2296"/>
+                <Baseline points="816,2277 2373,2274"/>
+                <Word id="w_24" custom="readingOrder {index:23;}">
+                    <Coords points="816.0,2238.0 2373,2238.0 2373,2295 816.0,2295"/>
+                    <TextEquiv>
+                        <Unicode>Que led henri dit Que Il se vouloit </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Que led henri dit Que Il se vouloit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" custom="readingOrder {index:24;}">
+                <Coords points="800,2317 2512,2317 2512,2388 800,2388"/>
+                <Baseline points="801,2367 2511,2358"/>
+                <Word id="w_25" custom="readingOrder {index:24;}">
+                    <Coords points="801.0,2318.0 2511,2318.0 2511,2387 801.0,2387"/>
+                    <TextEquiv>
+                        <Unicode>descharger p devant eulx Que sad femme </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>descharger p devant eulx Que sad femme </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" custom="readingOrder {index:25;}">
+                <Coords points="827,2419 2491,2419 2491,2484 827,2484"/>
+                <Baseline points="828,2460 2490,2463"/>
+                <Word id="w_26" custom="readingOrder {index:25;}">
+                    <Coords points="828.0,2420.0 2490,2420.0 2490,2483 828.0,2483"/>
+                    <TextEquiv>
+                        <Unicode>sestoit voulu relever pour mectre le feu </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>sestoit voulu relever pour mectre le feu </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" custom="readingOrder {index:26;}">
+                <Coords points="839,2514 2491,2514 2491,2663 839,2663"/>
+                <Baseline points="840,2558 2490,2555"/>
+                <Word id="w_27" custom="readingOrder {index:26;}">
+                    <Coords points="840.0,2515.0 2490,2515.0 2490,2662 840.0,2662"/>
+                    <TextEquiv>
+                        <Unicode>en la maison de ses freres. Ce q led henri </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>en la maison de ses freres. Ce q led henri </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_28" custom="readingOrder {index:27;}">
+                <Coords points="821,2598 2347,2598 2347,2672 821,2672"/>
+                <Baseline points="822,2639 1355,2660 2346,2651"/>
+                <Word id="w_28" custom="readingOrder {index:27;}">
+                    <Coords points="822.0,2599.0 2346,2599.0 2346,2671 822.0,2671"/>
+                    <TextEquiv>
+                        <Unicode>raconta derechieff sur le soir devant </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>raconta derechieff sur le soir devant </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_29" custom="readingOrder {index:28;}">
+                <Coords points="814,2698 1074,2698 1074,2766 814,2766"/>
+                <Baseline points="815,2739 1073,2745"/>
+                <Word id="w_29" custom="readingOrder {index:28;}">
+                    <Coords points="815.0,2699.0 1073,2699.0 1073,2765 815.0,2765"/>
+                    <TextEquiv>
+                        <Unicode>plusrs </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>plusrs </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_30" custom="readingOrder {index:29;}">
+                <Coords points="796,2790 2457,2790 2457,2849 796,2849"/>
+                <Baseline points="797,2829 2456,2829"/>
+                <Word id="w_30" custom="readingOrder {index:29;}">
+                    <Coords points="797.0,2791.0 2456,2791.0 2456,2848 797.0,2848"/>
+                    <TextEquiv>
+                        <Unicode>Dit avoir ouys dire a plusrs quelle estoit </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Dit avoir ouys dire a plusrs quelle estoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_31" custom="readingOrder {index:30;}">
+                <Coords points="844,2865 2512,2865 2512,2928 844,2928"/>
+                <Baseline points="845,2909 2511,2907"/>
+                <Word id="w_31" custom="readingOrder {index:30;}">
+                    <Coords points="845.0,2866.0 2511,2866.0 2511,2927 845.0,2927"/>
+                    <TextEquiv>
+                        <Unicode>genauche et quon lui avoit plusrs fois reproche</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>genauche et quon lui avoit plusrs fois reproche</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_32" custom="readingOrder {index:31;}">
+                <Coords points="845,2935 1971,2935 1971,3014 845,3014"/>
+                <Baseline points="846,2994 1970,2975"/>
+                <Word id="w_32" custom="readingOrder {index:31;}">
+                    <Coords points="846.0,2936.0 1970,2936.0 1970,3013 846.0,3013"/>
+                    <TextEquiv>
+                        <Unicode>sans quelle sen soit purgee </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>sans quelle sen soit purgee </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_33" custom="readingOrder {index:32;}">
+                <Coords points="824,3008 2494,3008 2494,3099 824,3099"/>
+                <Baseline points="825,3071 2477,3080"/>
+                <Word id="w_33" custom="readingOrder {index:32;}">
+                    <Coords points="825.0,3009.0 2493,3009.0 2493,3098 825.0,3098"/>
+                    <TextEquiv>
+                        <Unicode>dit quon la charge davoir creve les yeulx au a</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>dit quon la charge davoir creve les yeulx au a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_34" custom="readingOrder {index:33;}">
+                <Coords points="836,3112 2463,3112 2463,3187 836,3187"/>
+                <Baseline points="837,3152 2462,3168"/>
+                <Word id="w_34" custom="readingOrder {index:33;}">
+                    <Coords points="837.0,3113.0 2462,3113.0 2462,3186 837.0,3186"/>
+                    <TextEquiv>
+                        <Unicode>lenfant henri guenat, fait mourir les </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>lenfant henri guenat, fait mourir les </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> Jehan mahon de Beurnevesain depose Que
+par ung soir en pntce de plusrs Que led 
+Henri se declaira que Il avoit empeiche p 
+deux ou trois nuct sa femme que se vouloit 
+relever pour aller mectre le feug en la 
+maison de ses freres Et quil sen deschargeoit 
+de tel faict 
+Dit quil a ouys dire Que lon chargeoit et 
+suspitionoit sont plus de quinze ans que lad 
+Agatte estoit une genauche Et quelle avoit 
+fait a mourir des enffans a Bastien simon 
+et quon lui reprochoit ouvertement Coe aussi 
+fait mourir ung veau a Jehan muat et dune 
+une jument au voueble mesme quelle 
+avoit greve et tire les yeulx a lenfant de 
+henri guenat Et de plus greve et donne 
+La maladie a Richard chavanne de Cueve 
+questoit pour lors son serviteur. Et de 
+plus a opinion quelle lui a fait a mourir 
+une jument. 
+Jehan pbtre Prestre de Beurnevesain 
+depose q dimenche devant le mostier 
+que led en pntce de Jaicque chevrolet 
+Que led henri dit Que Il se vouloit 
+descharger p devant eulx Que sad femme 
+sestoit voulu relever pour mectre le feu 
+en la maison de ses freres. Ce q led henri 
+raconta derechieff sur le soir devant 
+plusrs 
+Dit avoir ouys dire a plusrs quelle estoit 
+genauche et quon lui avoit plusrs fois reproche
+sans quelle sen soit purgee 
+dit quon la charge davoir creve les yeulx au a
+lenfant henri guenat, fait mourir les </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

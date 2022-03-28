@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-23-3_0002.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2637"
+          HEIGHT="3848"
+          PHYSICAL_IMG_NR="47"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2637"
+                  HEIGHT="3848">
+        
+        <TextBlock HPOS="647"
+                   VPOS="207"
+                   WIDTH="1791"
+                   HEIGHT="3012"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="647 207 647 3219 2438 3219 2438 207"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="671 258 1791 251 2271 263" 
+                    HPOS="671.0"
+                    VPOS="214.0"
+                    WIDTH="1600.0"
+                    HEIGHT="71.0">
+            <Shape><Polygon POINTS="671 280 2271 285 2271 219 671 214 671 280"/></Shape>
+	    <String CONTENT=" Item confesse qualors ledi elle heust sa"
+                    HPOS="671.0"
+                    VPOS="214.0"
+                    WIDTH="1600.0"
+                    HEIGHT="71.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l2"
+                    
+                    BASELINE="744 350 1624 342 2211 350" 
+                    HPOS="744.0"
+                    VPOS="306.0"
+                    WIDTH="1467.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="744 372 2211 372 2211 306 744 306 744 372"/></Shape>
+	    <String CONTENT="compagnie et copulation avec Iceluy "
+                    HPOS="744.0"
+                    VPOS="306.0"
+                    WIDTH="1467.0"
+                    HEIGHT="66.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l3"
+                    
+                    BASELINE="692 492 1875 485 2270 494" 
+                    HPOS="692.0"
+                    VPOS="446.0"
+                    WIDTH="1578.0"
+                    HEIGHT="71.0">
+            <Shape><Polygon POINTS="692 515 2270 517 2270 448 692 446 692 515"/></Shape>
+	    <String CONTENT="Item confesse qualors aussy elle receut "
+                    HPOS="692.0"
+                    VPOS="446.0"
+                    WIDTH="1578.0"
+                    HEIGHT="71.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l4"
+                    
+                    BASELINE="731 587 2228 569" 
+                    HPOS="731.0"
+                    VPOS="527.0"
+                    WIDTH="1497.0"
+                    HEIGHT="81.0">
+            <Shape><Polygon POINTS="731 608 2228 590 2228 527 731 545 731 608"/></Shape>
+	    <String CONTENT="dud Hämmerlin son mre, de largent "
+                    HPOS="731.0"
+                    VPOS="527.0"
+                    WIDTH="1497.0"
+                    HEIGHT="81.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l5"
+                    
+                    BASELINE="734 674 1814 680 2277 657" 
+                    HPOS="734.0"
+                    VPOS="617.0"
+                    WIDTH="1543.0"
+                    HEIGHT="77.0">
+            <Shape><Polygon POINTS="734 694 2045 694 2277 677 2277 617 1814 640 734 634 734 694"/></Shape>
+	    <String CONTENT="comme elle pensoit, mais quayant "
+                    HPOS="734.0"
+                    VPOS="617.0"
+                    WIDTH="1543.0"
+                    HEIGHT="77.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l6"
+                    
+                    BASELINE="720 761 2307 765" 
+                    HPOS="720.0"
+                    VPOS="721.0"
+                    WIDTH="1587.0"
+                    HEIGHT="64.0">
+            <Shape><Polygon POINTS="720 781 2307 785 2307 725 720 721 720 781"/></Shape>
+	    <String CONTENT="regardé a son dept, ce nestoit esté q "
+                    HPOS="720.0"
+                    VPOS="721.0"
+                    WIDTH="1587.0"
+                    HEIGHT="64.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l7"
+                    
+                    BASELINE="867 848 1250 854" 
+                    HPOS="867.0"
+                    VPOS="804.0"
+                    WIDTH="383.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="867 870 1250 876 1250 810 867 804 867 870"/></Shape>
+	    <String CONTENT="de feuilles. "
+                    HPOS="867.0"
+                    VPOS="804.0"
+                    WIDTH="383.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l8"
+                    
+                    BASELINE="732 993 1204 1005 2307 1002" 
+                    HPOS="732.0"
+                    VPOS="954.0"
+                    WIDTH="1575.0"
+                    HEIGHT="67.0">
+            <Shape><Polygon POINTS="732 1012 2307 1021 2307 963 732 954 732 1012"/></Shape>
+	    <String CONTENT="Item confesse que led Hammerlin avoit "
+                    HPOS="732.0"
+                    VPOS="954.0"
+                    WIDTH="1575.0"
+                    HEIGHT="67.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l9"
+                    
+                    BASELINE="1482 1107 1654 1089 2128 1092 2301 1080" 
+                    HPOS="1482.0"
+                    VPOS="1042.0"
+                    WIDTH="819.0"
+                    HEIGHT="84.0">
+            <Shape><Polygon POINTS="1482 1126 1654 1108 2257 1105 2301 1099 2301 1042 1568 1058 1482 1069 1482 1126"/></Shape>
+	    <String CONTENT="des pieds de vache. "
+                    HPOS="1482.0"
+                    VPOS="1042.0"
+                    WIDTH="819.0"
+                    HEIGHT="84.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l10"
+                    
+                    BASELINE="734 1100 1466 1106" 
+                    HPOS="734.0"
+                    VPOS="1054.0"
+                    WIDTH="732.0"
+                    HEIGHT="75.0">
+            <Shape><Polygon POINTS="734 1123 1466 1129 1466 1060 734 1054 734 1123"/></Shape>
+	    <String CONTENT="des pieds comme"
+                    HPOS="734.0"
+                    VPOS="1054.0"
+                    WIDTH="732.0"
+                    HEIGHT="75.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l11"
+                    
+                    BASELINE="710 1242 1242 1274 2231 1283" 
+                    HPOS="710.0"
+                    VPOS="1198.0"
+                    WIDTH="1521.0"
+                    HEIGHT="107.0">
+            <Shape><Polygon POINTS="710 1264 1242 1296 2231 1305 2231 1239 1242 1230 710 1198 710 1264"/></Shape>
+	    <String CONTENT="Item confesse qualors led Hammerlin "
+                    HPOS="710.0"
+                    VPOS="1198.0"
+                    WIDTH="1521.0"
+                    HEIGHT="107.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l12"
+                    
+                    BASELINE="713 1346 2225 1392" 
+                    HPOS="713.0"
+                    VPOS="1302.0"
+                    WIDTH="1512.0"
+                    HEIGHT="112.0">
+            <Shape><Polygon POINTS="713 1368 1922 1399 2225 1414 2225 1348 1922 1333 713 1302 713 1368"/></Shape>
+	    <String CONTENT="sond mre, Lui donna du poulsat en "
+                    HPOS="713.0"
+                    VPOS="1302.0"
+                    WIDTH="1512.0"
+                    HEIGHT="112.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l13"
+                    
+                    BASELINE="731 1437 1875 1466 2366 1490" 
+                    HPOS="731.0"
+                    VPOS="1392.0"
+                    WIDTH="1635.0"
+                    HEIGHT="120.0">
+            <Shape><Polygon POINTS="731 1459 1875 1488 2366 1512 2366 1445 1875 1421 731 1392 731 1459"/></Shape>
+	    <String CONTENT="une bouete pour nuire a gens et a bestes. "
+                    HPOS="731.0"
+                    VPOS="1392.0"
+                    WIDTH="1635.0"
+                    HEIGHT="120.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l14"
+                    
+                    BASELINE="647 1599 1124 1625 2240 1634" 
+                    HPOS="647.0"
+                    VPOS="1553.0"
+                    WIDTH="1593.0"
+                    HEIGHT="104.0">
+            <Shape><Polygon POINTS="647 1622 1124 1648 2240 1657 2240 1588 2080 1583 1124 1579 647 1553 647 1622"/></Shape>
+	    <String CONTENT="Item confesse q       dud poulsat elle en "
+                    HPOS="647.0"
+                    VPOS="1553.0"
+                    WIDTH="1593.0"
+                    HEIGHT="104.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l15"
+                    
+                    BASELINE="699 1691 1339 1712 2301 1716" 
+                    HPOS="699.0"
+                    VPOS="1653.0"
+                    WIDTH="1602.0"
+                    HEIGHT="82.0">
+            <Shape><Polygon POINTS="699 1710 2301 1735 2301 1678 699 1653 699 1710"/></Shape>
+	    <String CONTENT="avoit jecté sur les porcs de Caspar "
+                    HPOS="699.0"
+                    VPOS="1653.0"
+                    WIDTH="1602.0"
+                    HEIGHT="82.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l16"
+                    
+                    BASELINE="693 1767 2289 1812" 
+                    HPOS="693.0"
+                    VPOS="1729.0"
+                    WIDTH="1596.0"
+                    HEIGHT="102.0">
+            <Shape><Polygon POINTS="693 1786 1251 1809 2289 1831 2289 1774 693 1729 693 1786"/></Shape>
+	    <String CONTENT="vallat, Questoyent dessus le grainier "
+                    HPOS="693.0"
+                    VPOS="1729.0"
+                    WIDTH="1596.0"
+                    HEIGHT="102.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l17"
+                    
+                    BASELINE="698 1869 2321 1905" 
+                    HPOS="698.0"
+                    VPOS="1823.0"
+                    WIDTH="1623.0"
+                    HEIGHT="105.0">
+            <Shape><Polygon POINTS="698 1892 1590 1918 2321 1928 2321 1859 698 1823 698 1892"/></Shape>
+	    <String CONTENT="et lesquelx en morurent, Et ce a raison "
+                    HPOS="698.0"
+                    VPOS="1823.0"
+                    WIDTH="1623.0"
+                    HEIGHT="105.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l18"
+                    
+                    BASELINE="705 1967 2331 1998" 
+                    HPOS="705.0"
+                    VPOS="1923.0"
+                    WIDTH="1626.0"
+                    HEIGHT="97.0">
+            <Shape><Polygon POINTS="705 1989 2331 2020 2331 1954 705 1923 705 1989"/></Shape>
+	    <String CONTENT="de ce q led Caspar laccusoit davoir "
+                    HPOS="705.0"
+                    VPOS="1923.0"
+                    WIDTH="1626.0"
+                    HEIGHT="97.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l19"
+                    
+                    BASELINE="714 2067 2313 2087" 
+                    HPOS="714.0"
+                    VPOS="2021.0"
+                    WIDTH="1599.0"
+                    HEIGHT="89.0">
+            <Shape><Polygon POINTS="714 2090 2313 2110 2313 2041 714 2021 714 2090"/></Shape>
+	    <String CONTENT="prins de la closure en une barre. "
+                    HPOS="714.0"
+                    VPOS="2021.0"
+                    WIDTH="1599.0"
+                    HEIGHT="89.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l20"
+                    
+                    BASELINE="1878 2196 2048 2187" 
+                    HPOS="1878.0"
+                    VPOS="2141.0"
+                    WIDTH="170.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="1878 2219 2048 2210 2048 2141 1878 2150 1878 2219"/></Shape>
+	    <String CONTENT="aussi "
+                    HPOS="1878.0"
+                    VPOS="2141.0"
+                    WIDTH="170.0"
+                    HEIGHT="78.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l21"
+                    
+                    BASELINE="699 2231 2333 2303" 
+                    HPOS="699.0"
+                    VPOS="2187.0"
+                    WIDTH="1634.0"
+                    HEIGHT="138.0">
+            <Shape><Polygon POINTS="699 2253 1189 2269 2333 2325 2333 2259 1189 2203 699 2187 699 2253"/></Shape>
+	    <String CONTENT="Item confesse quelle avoit jecté dud"
+                    HPOS="699.0"
+                    VPOS="2187.0"
+                    WIDTH="1634.0"
+                    HEIGHT="138.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l22"
+                    
+                    BASELINE="686 2348 1672 2366 2330 2394" 
+                    HPOS="686.0"
+                    VPOS="2303.0"
+                    WIDTH="1644.0"
+                    HEIGHT="113.0">
+            <Shape><Polygon POINTS="686 2370 1672 2388 2330 2416 2330 2349 1672 2321 686 2303 686 2370"/></Shape>
+	    <String CONTENT="poulsat sur lung des chevaulx de chez "
+                    HPOS="686.0"
+                    VPOS="2303.0"
+                    WIDTH="1644.0"
+                    HEIGHT="113.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l23"
+                    
+                    BASELINE="668 2454 2364 2478" 
+                    HPOS="668.0"
+                    VPOS="2408.0"
+                    WIDTH="1696.0"
+                    HEIGHT="93.0">
+            <Shape><Polygon POINTS="668 2477 2364 2501 2364 2432 668 2408 668 2477"/></Shape>
+	    <String CONTENT="Mori guyon Et questant sollicitee des "
+                    HPOS="668.0"
+                    VPOS="2408.0"
+                    WIDTH="1696.0"
+                    HEIGHT="93.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l24"
+                    
+                    BASELINE="678 2564 2438 2589" 
+                    HPOS="678.0"
+                    VPOS="2521.0"
+                    WIDTH="1760.0"
+                    HEIGHT="89.0">
+            <Shape><Polygon POINTS="678 2585 2438 2610 2438 2546 678 2521 678 2585"/></Shape>
+	    <String CONTENT="gens de chez led guyon de lui ayder, quicelle "
+                    HPOS="678.0"
+                    VPOS="2521.0"
+                    WIDTH="1760.0"
+                    HEIGHT="89.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l25"
+                    
+                    BASELINE="716 2663 1314 2679 2427 2676" 
+                    HPOS="716.0"
+                    VPOS="2620.0"
+                    WIDTH="1711.0"
+                    HEIGHT="77.0">
+            <Shape><Polygon POINTS="716 2684 2427 2697 2427 2633 716 2620 716 2684"/></Shape>
+	    <String CONTENT="conseilla de faire ung veu pour led "
+                    HPOS="716.0"
+                    VPOS="2620.0"
+                    WIDTH="1711.0"
+                    HEIGHT="77.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l26"
+                    
+                    BASELINE="777 2747 1352 2765 2420 2766" 
+                    HPOS="777.0"
+                    VPOS="2704.0"
+                    WIDTH="1643.0"
+                    HEIGHT="83.0">
+            <Shape><Polygon POINTS="777 2768 2420 2787 2420 2723 777 2704 777 2768"/></Shape>
+	    <String CONTENT="cheval a Souharce, Ce que ayant "
+                    HPOS="777.0"
+                    VPOS="2704.0"
+                    WIDTH="1643.0"
+                    HEIGHT="83.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l27"
+                    
+                    BASELINE="705 2828 2402 2853" 
+                    HPOS="705.0"
+                    VPOS="2784.0"
+                    WIDTH="1697.0"
+                    HEIGHT="91.0">
+            <Shape><Polygon POINTS="705 2850 2402 2875 2402 2809 705 2784 705 2850"/></Shape>
+	    <String CONTENT="prins ung estaulx et faict led voyaige "
+                    HPOS="705.0"
+                    VPOS="2784.0"
+                    WIDTH="1697.0"
+                    HEIGHT="91.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l28"
+                    
+                    BASELINE="753 2910 2349 2957" 
+                    HPOS="753.0"
+                    VPOS="2866.0"
+                    WIDTH="1596.0"
+                    HEIGHT="113.0">
+            <Shape><Polygon POINTS="753 2932 2029 2973 2349 2979 2349 2913 1152 2875 753 2866 753 2932"/></Shape>
+	    <String CONTENT="et prins des herbes et de la terre du "
+                    HPOS="753.0"
+                    VPOS="2866.0"
+                    WIDTH="1596.0"
+                    HEIGHT="113.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l29"
+                    
+                    BASELINE="707 3012 2231 3039" 
+                    HPOS="707.0"
+                    VPOS="2968.0"
+                    WIDTH="1524.0"
+                    HEIGHT="93.0">
+            <Shape><Polygon POINTS="707 3034 2231 3061 2231 2995 707 2968 707 3034"/></Shape>
+	    <String CONTENT="Cymetiere et en donné a manger aud "
+                    HPOS="707.0"
+                    VPOS="2968.0"
+                    WIDTH="1524.0"
+                    HEIGHT="93.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l30"
+                    
+                    BASELINE="692 3116 1676 3120 2333 3144" 
+                    HPOS="692.0"
+                    VPOS="3077.0"
+                    WIDTH="1641.0"
+                    HEIGHT="86.0">
+            <Shape><Polygon POINTS="692 3135 1676 3139 2333 3163 2333 3105 1676 3081 692 3077 692 3135"/></Shape>
+	    <String CONTENT="cheval, Il estoit devenu guairis et luy "
+                    HPOS="692.0"
+                    VPOS="3077.0"
+                    WIDTH="1641.0"
+                    HEIGHT="86.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l31"
+                    
+                    BASELINE="668 3192 1334 3200" 
+                    HPOS="668.0"
+                    VPOS="3154.0"
+                    WIDTH="666.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="668 3211 1334 3219 1334 3162 668 3154 668 3211"/></Shape>
+	    <String CONTENT="avoit osté le mal"
+                    HPOS="668.0"
+                    VPOS="3154.0"
+                    WIDTH="666.0"
+                    HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

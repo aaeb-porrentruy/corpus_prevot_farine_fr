@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-23-4_0003.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2643"
+          HEIGHT="3812"
+          PHYSICAL_IMG_NR="52"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2643"
+                  HEIGHT="3812">
+        
+        <TextBlock HPOS="165"
+                   VPOS="1771"
+                   WIDTH="383"
+                   HEIGHT="156"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="165 1771 165 1927 548 1927 548 1771"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="165 1877 548 1871" 
+                    HPOS="165.0"
+                    VPOS="1771.0"
+                    WIDTH="383.0"
+                    HEIGHT="156.0">
+            <Shape><Polygon POINTS="165 1927 548 1921 548 1771 165 1777 165 1927"/></Shape>
+	    <String CONTENT=" La deculpe"
+                    HPOS="165.0"
+                    VPOS="1771.0"
+                    WIDTH="383.0"
+                    HEIGHT="156.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l2"
+                    
+                    BASELINE="1479 2225 2388 2210" 
+                    HPOS="1479.0"
+                    VPOS="2175.0"
+                    WIDTH="909.0"
+                    HEIGHT="67.0">
+            <Shape><Polygon POINTS="1479 2242 2388 2227 2388 2175 1479 2190 1479 2242"/></Shape>
+	    <String CONTENT="Des actes crimes et delictz de "
+                    HPOS="1479.0"
+                    VPOS="2175.0"
+                    WIDTH="909.0"
+                    HEIGHT="67.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l3"
+                    
+                    BASELINE="1551 2310 2391 2280" 
+                    HPOS="1551.0"
+                    VPOS="2245.0"
+                    WIDTH="840.0"
+                    HEIGHT="82.0">
+            <Shape><Polygon POINTS="1551 2327 2391 2297 2391 2245 1551 2275 1551 2327"/></Shape>
+	    <String CONTENT="Sortilege de Alix vefve "
+                    HPOS="1551.0"
+                    VPOS="2245.0"
+                    WIDTH="840.0"
+                    HEIGHT="82.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l4"
+                    
+                    BASELINE="1551 2382 2199 2364 2477 2370" 
+                    HPOS="1551.0"
+                    VPOS="2335.0"
+                    WIDTH="926.0"
+                    HEIGHT="64.0">
+            <Shape><Polygon POINTS="1551 2399 2477 2387 2477 2335 1551 2347 1551 2399"/></Shape>
+	    <String CONTENT="George Rossel de Boncourt"
+                    HPOS="1551.0"
+                    VPOS="2335.0"
+                    WIDTH="926.0"
+                    HEIGHT="64.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="713"
+                   VPOS="154"
+                   WIDTH="1848"
+                   HEIGHT="3167"
+                   ID="r2"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="713 154 713 3321 2561 3321 2561 154"/></Shape>
+          
+          
+          <TextLine ID="r2l1"
+                    
+                    BASELINE="713 210 2406 207" 
+                    HPOS="713.0"
+                    VPOS="159.0"
+                    WIDTH="1693.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="713 230 2321 232 2406 227 2406 167 882 159 713 170 713 230"/></Shape>
+	    <String CONTENT=" doffice se rencontrant du tout semblable a"
+                    HPOS="713.0"
+                    VPOS="159.0"
+                    WIDTH="1693.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l2"
+                    
+                    BASELINE="741 297 1279 279 2535 306" 
+                    HPOS="741.0"
+                    VPOS="244.0"
+                    WIDTH="1794.0"
+                    HEIGHT="81.0">
+            <Shape><Polygon POINTS="741 316 2535 325 2535 267 1010 244 741 258 741 316"/></Shape>
+	    <String CONTENT="ceuqlle avoit confessee Icelle fust condempne "
+                    HPOS="741.0"
+                    VPOS="244.0"
+                    WIDTH="1794.0"
+                    HEIGHT="81.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l3"
+                    
+                    BASELINE="741 390 1992 378" 
+                    HPOS="741.0"
+                    VPOS="339.0"
+                    WIDTH="1251.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="741 409 1992 397 1992 339 866 341 741 351 741 409"/></Shape>
+	    <String CONTENT="destre aplicque a la torture. "
+                    HPOS="741.0"
+                    VPOS="339.0"
+                    WIDTH="1251.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l4"
+                    
+                    BASELINE="726 545 1323 528 2433 555" 
+                    HPOS="726.0"
+                    VPOS="490.0"
+                    WIDTH="1707.0"
+                    HEIGHT="85.0">
+            <Shape><Polygon POINTS="726 565 2433 575 2433 515 982 490 726 505 726 565"/></Shape>
+	    <String CONTENT="Ou estant recougnut entierement questoient "
+                    HPOS="726.0"
+                    VPOS="490.0"
+                    WIDTH="1707.0"
+                    HEIGHT="85.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l5"
+                    
+                    BASELINE="759 629 1282 617 2418 642" 
+                    HPOS="759.0"
+                    VPOS="580.0"
+                    WIDTH="1659.0"
+                    HEIGHT="81.0">
+            <Shape><Polygon POINTS="759 648 2418 661 2418 604 1020 580 759 591 759 648"/></Shape>
+	    <String CONTENT="10 ans quelle avoit renunce dieu Cresme et "
+                    HPOS="759.0"
+                    VPOS="580.0"
+                    WIDTH="1659.0"
+                    HEIGHT="81.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l6"
+                    
+                    BASELINE="756 708 1095 696" 
+                    HPOS="756.0"
+                    VPOS="657.0"
+                    WIDTH="339.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="756 727 1095 715 1095 657 756 669 756 727"/></Shape>
+	    <String CONTENT="baptesme "
+                    HPOS="756.0"
+                    VPOS="657.0"
+                    WIDTH="339.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l7"
+                    
+                    BASELINE="735 800 1059 780 1815 788" 
+                    HPOS="735.0"
+                    VPOS="748.0"
+                    WIDTH="1080.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="735 820 1815 808 1815 748 843 749 735 760 735 820"/></Shape>
+	    <String CONTENT="Sestoit donne a son mre charbon "
+                    HPOS="735.0"
+                    VPOS="748.0"
+                    WIDTH="1080.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l8"
+                    
+                    BASELINE="744 887 1857 872" 
+                    HPOS="744.0"
+                    VPOS="833.0"
+                    WIDTH="1113.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="744 906 1857 891 1857 833 855 837 744 848 744 906"/></Shape>
+	    <String CONTENT="Avoit heu sa compagnie froide "
+                    HPOS="744.0"
+                    VPOS="833.0"
+                    WIDTH="1113.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l9"
+                    
+                    BASELINE="743 966 2075 975" 
+                    HPOS="743.0"
+                    VPOS="923.0"
+                    WIDTH="1332.0"
+                    HEIGHT="71.0">
+            <Shape><Polygon POINTS="743 985 2075 994 2075 936 809 923 743 927 743 985"/></Shape>
+	    <String CONTENT="Quil avoit les pied Rond coe une beste "
+                    HPOS="743.0"
+                    VPOS="923.0"
+                    WIDTH="1332.0"
+                    HEIGHT="71.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l10"
+                    
+                    BASELINE="746 1053 1665 1055" 
+                    HPOS="746.0"
+                    VPOS="1013.0"
+                    WIDTH="919.0"
+                    HEIGHT="62.0">
+            <Shape><Polygon POINTS="746 1073 1665 1075 1665 1015 746 1013 746 1073"/></Shape>
+	    <String CONTENT="Quil estoit vestus de gris "
+                    HPOS="746.0"
+                    VPOS="1013.0"
+                    WIDTH="919.0"
+                    HEIGHT="62.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l11"
+                    
+                    BASELINE="729 1149 1657 1137 2417 1179" 
+                    HPOS="729.0"
+                    VPOS="1097.0"
+                    WIDTH="1688.0"
+                    HEIGHT="102.0">
+            <Shape><Polygon POINTS="729 1169 1657 1157 2417 1199 2417 1139 1657 1097 729 1109 729 1169"/></Shape>
+	    <String CONTENT="Quil lui avoit donne des feuilles pour delargent "
+                    HPOS="729.0"
+                    VPOS="1097.0"
+                    WIDTH="1688.0"
+                    HEIGHT="102.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l12"
+                    
+                    BASELINE="740 1245 1172 1236 1820 1262" 
+                    HPOS="740.0"
+                    VPOS="1202.0"
+                    WIDTH="1080.0"
+                    HEIGHT="80.0">
+            <Shape><Polygon POINTS="740 1265 1820 1282 1820 1222 794 1202 740 1205 740 1265"/></Shape>
+	    <String CONTENT="Quil avoit receu du poulsat "
+                    HPOS="740.0"
+                    VPOS="1202.0"
+                    WIDTH="1080.0"
+                    HEIGHT="80.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l13"
+                    
+                    BASELINE="740 1343 2411 1368" 
+                    HPOS="740.0"
+                    VPOS="1299.0"
+                    WIDTH="1671.0"
+                    HEIGHT="87.0">
+            <Shape><Polygon POINTS="740 1361 2411 1386 2411 1332 907 1299 740 1307 740 1361"/></Shape>
+	    <String CONTENT="Et en avoit jectes sur les 2 chevaulx et la vache "
+                    HPOS="740.0"
+                    VPOS="1299.0"
+                    WIDTH="1671.0"
+                    HEIGHT="87.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l14"
+                    
+                    BASELINE="750 1422 1010 1403" 
+                    HPOS="750.0"
+                    VPOS="1365.0"
+                    WIDTH="260.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="750 1441 1010 1422 1010 1365 750 1384 750 1441"/></Shape>
+	    <String CONTENT="pred "
+                    HPOS="750.0"
+                    VPOS="1365.0"
+                    WIDTH="260.0"
+                    HEIGHT="76.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l15"
+                    
+                    BASELINE="771 1521 2523 1530" 
+                    HPOS="771.0"
+                    VPOS="1478.0"
+                    WIDTH="1752.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="771 1541 2523 1550 2523 1490 858 1478 771 1481 771 1541"/></Shape>
+	    <String CONTENT="Quelle sestoit treuve au Sabath Sur les planches "
+                    HPOS="771.0"
+                    VPOS="1478.0"
+                    WIDTH="1752.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l16"
+                    
+                    BASELINE="774 1614 2129 1599" 
+                    HPOS="774.0"
+                    VPOS="1559.0"
+                    WIDTH="1355.0"
+                    HEIGHT="75.0">
+            <Shape><Polygon POINTS="774 1634 2129 1619 2129 1559 774 1574 774 1634"/></Shape>
+	    <String CONTENT="Gribolai vers le fahir de dele O "
+                    HPOS="774.0"
+                    VPOS="1559.0"
+                    WIDTH="1355.0"
+                    HEIGHT="75.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l17"
+                    
+                    BASELINE="768 1716 1387 1701 2537 1725" 
+                    HPOS="768.0"
+                    VPOS="1666.0"
+                    WIDTH="1769.0"
+                    HEIGHT="79.0">
+            <Shape><Polygon POINTS="768 1736 2537 1745 2537 1685 1033 1666 768 1676 768 1736"/></Shape>
+	    <String CONTENT="Quilec Il y en avoit plusrs questoient masquees "
+                    HPOS="768.0"
+                    VPOS="1666.0"
+                    WIDTH="1769.0"
+                    HEIGHT="79.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l18"
+                    
+                    BASELINE="756 1824 2391 1830" 
+                    HPOS="756.0"
+                    VPOS="1780.0"
+                    WIDTH="1635.0"
+                    HEIGHT="67.0">
+            <Shape><Polygon POINTS="756 1841 2391 1847 2391 1796 1001 1780 756 1790 756 1841"/></Shape>
+	    <String CONTENT="Quilec elle cougnut la voirade femme de "
+                    HPOS="756.0"
+                    VPOS="1780.0"
+                    WIDTH="1635.0"
+                    HEIGHT="67.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l19"
+                    
+                    BASELINE="797 1911 1955 1889" 
+                    HPOS="797.0"
+                    VPOS="1855.0"
+                    WIDTH="1158.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="797 1928 1839 1915 1955 1906 1955 1855 797 1877 797 1928"/></Shape>
+	    <String CONTENT="Pierrat fongaibe de dele. "
+                    HPOS="797.0"
+                    VPOS="1855.0"
+                    WIDTH="1158.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l20"
+                    
+                    BASELINE="1122 2063 1908 2067" 
+                    HPOS="1122.0"
+                    VPOS="2029.0"
+                    WIDTH="786.0"
+                    HEIGHT="38.0">
+            <Shape><Polygon POINTS="1122 2063 1440 2059 1908 2067 1906 2037 1440 2029 1122 2033 1122 2063"/></Shape>
+	    <String CONTENT="Le 25 dud mois 1610 "
+                    HPOS="1122.0"
+                    VPOS="2029.0"
+                    WIDTH="786.0"
+                    HEIGHT="38.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l21"
+                    
+                    BASELINE="749 2177 2451 2187" 
+                    HPOS="749.0"
+                    VPOS="2135.0"
+                    WIDTH="1702.0"
+                    HEIGHT="71.0">
+            <Shape><Polygon POINTS="749 2196 2451 2206 2451 2148 834 2135 749 2138 749 2196"/></Shape>
+	    <String CONTENT="Lad Alix librement ayant nye les faictz pred "
+                    HPOS="749.0"
+                    VPOS="2135.0"
+                    WIDTH="1702.0"
+                    HEIGHT="71.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l22"
+                    
+                    BASELINE="758 2259 2423 2274" 
+                    HPOS="758.0"
+                    VPOS="2217.0"
+                    WIDTH="1665.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="758 2278 2423 2293 2423 2235 841 2217 758 2220 758 2278"/></Shape>
+	    <String CONTENT="et declaire quelle se faisoit tord ainsy que lon "
+                    HPOS="758.0"
+                    VPOS="2217.0"
+                    WIDTH="1665.0"
+                    HEIGHT="76.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l23"
+                    
+                    BASELINE="758 2339 2535 2366" 
+                    HPOS="758.0"
+                    VPOS="2300.0"
+                    WIDTH="1777.0"
+                    HEIGHT="85.0">
+            <Shape><Polygon POINTS="758 2358 2535 2385 2535 2327 758 2300 758 2358"/></Shape>
+	    <String CONTENT="la conduisoit en prison au lieu ou au paravant "
+                    HPOS="758.0"
+                    VPOS="2300.0"
+                    WIDTH="1777.0"
+                    HEIGHT="85.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l24"
+                    
+                    BASELINE="767 2424 2361 2447" 
+                    HPOS="767.0"
+                    VPOS="2387.0"
+                    WIDTH="1594.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="767 2442 2361 2465 2361 2410 767 2387 767 2442"/></Shape>
+	    <String CONTENT="elle avoit este Icelle dit que lon la debvoit "
+                    HPOS="767.0"
+                    VPOS="2387.0"
+                    WIDTH="1594.0"
+                    HEIGHT="78.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l25"
+                    
+                    BASELINE="768 2510 1395 2499 2561 2538" 
+                    HPOS="768.0"
+                    VPOS="2462.0"
+                    WIDTH="1793.0"
+                    HEIGHT="94.0">
+            <Shape><Polygon POINTS="768 2528 1395 2517 2561 2556 2561 2501 1395 2462 768 2473 768 2528"/></Shape>
+	    <String CONTENT="remener vers les srs officiers quelle se vouloit descharger "
+                    HPOS="768.0"
+                    VPOS="2462.0"
+                    WIDTH="1793.0"
+                    HEIGHT="94.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l26"
+                    
+                    BASELINE="731 2600 1555 2598 2379 2630" 
+                    HPOS="731.0"
+                    VPOS="2560.0"
+                    WIDTH="1648.0"
+                    HEIGHT="89.0">
+            <Shape><Polygon POINTS="731 2619 1555 2617 2379 2649 2379 2592 1555 2560 731 2562 731 2619"/></Shape>
+	    <String CONTENT="Et estant enmy la court du chasteau icelle dit "
+                    HPOS="731.0"
+                    VPOS="2560.0"
+                    WIDTH="1648.0"
+                    HEIGHT="89.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l27"
+                    
+                    BASELINE="762 2678 1362 2669 2478 2714" 
+                    HPOS="762.0"
+                    VPOS="2631.0"
+                    WIDTH="1716.0"
+                    HEIGHT="102.0">
+            <Shape><Polygon POINTS="762 2697 1362 2688 2478 2733 2478 2676 1362 2631 762 2640 762 2697"/></Shape>
+	    <String CONTENT="que vroyement elle avoit commis et perpertres "
+                    HPOS="762.0"
+                    VPOS="2631.0"
+                    WIDTH="1716.0"
+                    HEIGHT="102.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l28"
+                    
+                    BASELINE="765 2762 1389 2760 2550 2801" 
+                    HPOS="765.0"
+                    VPOS="2720.0"
+                    WIDTH="1785.0"
+                    HEIGHT="101.0">
+            <Shape><Polygon POINTS="765 2782 1389 2780 2550 2821 2550 2761 1389 2720 765 2722 765 2782"/></Shape>
+	    <String CONTENT="les actes et crimes p elle confessee Criant a dieu "
+                    HPOS="765.0"
+                    VPOS="2720.0"
+                    WIDTH="1785.0"
+                    HEIGHT="101.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l29"
+                    
+                    BASELINE="759 2844 2499 2873" 
+                    HPOS="759.0"
+                    VPOS="2807.0"
+                    WIDTH="1740.0"
+                    HEIGHT="84.0">
+            <Shape><Polygon POINTS="759 2862 1542 2865 2499 2891 2499 2836 1542 2810 759 2807 759 2862"/></Shape>
+	    <String CONTENT="merci et a monsr le priant de lui vouloir faire "
+                    HPOS="759.0"
+                    VPOS="2807.0"
+                    WIDTH="1740.0"
+                    HEIGHT="84.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l30"
+                    
+                    BASELINE="753 2919 2394 2957" 
+                    HPOS="753.0"
+                    VPOS="2885.0"
+                    WIDTH="1641.0"
+                    HEIGHT="89.0">
+            <Shape><Polygon POINTS="753 2936 1901 2954 2394 2974 2394 2923 1901 2903 753 2885 753 2936"/></Shape>
+	    <String CONTENT="grace Et estoient pnts mesrs Balthasar "
+                    HPOS="753.0"
+                    VPOS="2885.0"
+                    WIDTH="1641.0"
+                    HEIGHT="89.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l31"
+                    
+                    BASELINE="749 3000 1692 3008" 
+                    HPOS="749.0"
+                    VPOS="2966.0"
+                    WIDTH="943.0"
+                    HEIGHT="59.0">
+            <Shape><Polygon POINTS="749 3017 1692 3025 1692 2974 749 2966 749 3017"/></Shape>
+	    <String CONTENT="Reitner, Marrel et je. "
+                    HPOS="749.0"
+                    VPOS="2966.0"
+                    WIDTH="943.0"
+                    HEIGHT="59.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l32"
+                    
+                    BASELINE="1208 3143 1859 3125" 
+                    HPOS="1208.0"
+                    VPOS="3085.0"
+                    WIDTH="651.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="1208 3163 1859 3145 1859 3085 1240 3098 1208 3103 1208 3163"/></Shape>
+	    <String CONTENT="Le 26. dud mois"
+                    HPOS="1208.0"
+                    VPOS="3085.0"
+                    WIDTH="651.0"
+                    HEIGHT="78.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l33"
+                    
+                    BASELINE="740 3212 2432 3228" 
+                    HPOS="740.0"
+                    VPOS="3174.0"
+                    WIDTH="1692.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="740 3231 2432 3247 2432 3190 740 3174 740 3231"/></Shape>
+	    <String CONTENT="Lad Alix estant derechieff examinee le matin dud "
+                    HPOS="740.0"
+                    VPOS="3174.0"
+                    WIDTH="1692.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l34"
+                    
+                    BASELINE="738 3302 2400 3296" 
+                    HPOS="738.0"
+                    VPOS="3258.0"
+                    WIDTH="1662.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="738 3321 2400 3315 2400 3258 738 3264 738 3321"/></Shape>
+	    <String CONTENT="jour Icelle dit quelle se faisoit grand tord"
+                    HPOS="738.0"
+                    VPOS="3258.0"
+                    WIDTH="1662.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-23-3_0004.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2604"
+          HEIGHT="3923"
+          PHYSICAL_IMG_NR="49"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2604"
+                  HEIGHT="3923">
+        
+        <TextBlock HPOS="1415"
+                   VPOS="2129"
+                   WIDTH="1054"
+                   HEIGHT="373"
+                   ID="r2"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1415 2129 1415 2502 2469 2502 2469 2129"/></Shape>
+          
+          
+          <TextLine ID="r2l1"
+                    
+                    BASELINE="1646 2174 2088 2180" 
+                    HPOS="1646.0"
+                    VPOS="2129.0"
+                    WIDTH="442.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="1646 2196 2088 2202 2088 2135 1646 2129 1646 2196"/></Shape>
+	    <String CONTENT=" Reconfessions"
+                    HPOS="1646.0"
+                    VPOS="2129.0"
+                    WIDTH="442.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l2"
+                    
+                    BASELINE="1427 2315 1770 2298 2409 2292" 
+                    HPOS="1427.0"
+                    VPOS="2253.0"
+                    WIDTH="982.0"
+                    HEIGHT="81.0">
+            <Shape><Polygon POINTS="1427 2334 2409 2311 2409 2253 1476 2271 1427 2276 1427 2334"/></Shape>
+	    <String CONTENT="Des actes crimes et delictz de "
+                    HPOS="1427.0"
+                    VPOS="2253.0"
+                    WIDTH="982.0"
+                    HEIGHT="81.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l3"
+                    
+                    BASELINE="1431 2403 1794 2376 2469 2372" 
+                    HPOS="1431.0"
+                    VPOS="2333.0"
+                    WIDTH="1038.0"
+                    HEIGHT="89.0">
+            <Shape><Polygon POINTS="1431 2422 1794 2395 2469 2391 2469 2333 1534 2352 1431 2364 1431 2422"/></Shape>
+	    <String CONTENT="Sortilege de Adelheit vefve "
+                    HPOS="1431.0"
+                    VPOS="2333.0"
+                    WIDTH="1038.0"
+                    HEIGHT="89.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l4"
+                    
+                    BASELINE="1415 2475 2408 2465" 
+                    HPOS="1415.0"
+                    VPOS="2421.0"
+                    WIDTH="993.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="1415 2497 2408 2487 2408 2421 1415 2431 1415 2497"/></Shape>
+	    <String CONTENT="Borquin Betteny de Boncourt "
+                    HPOS="1415.0"
+                    VPOS="2421.0"
+                    WIDTH="993.0"
+                    HEIGHT="76.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

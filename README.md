@@ -15,7 +15,7 @@ Les pièces appartiennent toutes à la série B 168 conservée par les Archives 
 | B 168/15-2.4          | 4
 | B 168/15-9.2          | 11
 | B 168/15-9.4          | 4
-| B 168/15-10.3         | 4
+| B 168/15-10.3         | 1
 | B 168/15-23.1         | 4
 | B 168/15-23.2         | 4
 | B 168/15-23.3         | 4

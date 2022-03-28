@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:54.847+01:00</Created>
+        <LastChange>2022-03-07T16:35:54.847+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-23-2_0003.jpg" imageWidth="2596" imageHeight="3801">
+        <PrintSpace>
+            <Coords points="0,0 2596,0 2596,3801 0,3801"/>
+        </PrintSpace>
+        <TextRegion id="r1" custom="readingOrder {index:NaN;}">
+            <Coords points="692,116 692,985 2516,985 2516,116"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1154,115 2071,115 2071,212 1154,212"/>
+                <Baseline points="1155,156 2070,191"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="1155.0,116.0 2070,116.0 2070,211 1155.0,211"/>
+                    <TextEquiv>
+                        <Unicode>Le 25 dud mois 1610 </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Le 25 dud mois 1610 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="691,250 2481,250 2481,342 691,342"/>
+                <Baseline points="692,297 1317,291 2480,321"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="692.0,251.0 2480,251.0 2480,341 692.0,341"/>
+                    <TextEquiv>
+                        <Unicode>Lad Adelheit librement recognut les faictz pred </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Lad Adelheit librement recognut les faictz pred </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="748,333 2437,333 2437,432 748,432"/>
+                <Baseline points="749,377 1339,374 2436,411"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="749.0,334.0 2436,334.0 2436,431 749.0,431"/>
+                    <TextEquiv>
+                        <Unicode>les avoir Commis et perpetres Priant quon lui </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>les avoir Commis et perpetres Priant quon lui </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" custom="readingOrder {index:3;}">
+                <Coords points="727,425 2517,425 2517,512 727,512"/>
+                <Baseline points="728,468 1443,459 2516,495"/>
+                <Word id="w_4" custom="readingOrder {index:3;}">
+                    <Coords points="728.0,426.0 2516,426.0 2516,511 728.0,511"/>
+                    <TextEquiv>
+                        <Unicode>heust a faire bonne et brieve justice, Criant </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>heust a faire bonne et brieve justice, Criant </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" custom="readingOrder {index:4;}">
+                <Coords points="728,506 2434,506 2434,577 728,577"/>
+                <Baseline points="729,558 1240,539 2433,560"/>
+                <Word id="w_5" custom="readingOrder {index:4;}">
+                    <Coords points="729.0,507.0 2433,507.0 2433,576 729.0,576"/>
+                    <TextEquiv>
+                        <Unicode>merci a Dieu a mon Seigneur et a la Justice. </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>merci a Dieu a mon Seigneur et a la Justice. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1186,625 1812,625 1812,695 1186,695"/>
+                <Baseline points="1187,674 1811,666"/>
+                <Word id="w_6" custom="readingOrder {index:5;}">
+                    <Coords points="1187.0,626.0 1811,626.0 1811,694 1187.0,694"/>
+                    <TextEquiv>
+                        <Unicode>Le 26. dud mois </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Le 26. dud mois </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" custom="readingOrder {index:6;}">
+                <Coords points="733,721 2370,721 2370,789 733,789"/>
+                <Baseline points="734,762 2369,768"/>
+                <Word id="w_7" custom="readingOrder {index:6;}">
+                    <Coords points="734.0,722.0 2369,722.0 2369,788 734.0,788"/>
+                    <TextEquiv>
+                        <Unicode>Elle cougnut derechieff avoir commis lesd actes. </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Elle cougnut derechieff avoir commis lesd actes. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1207,811 1867,811 1867,881 1207,881"/>
+                <Baseline points="1208,860 1866,852"/>
+                <Word id="w_8" custom="readingOrder {index:7;}">
+                    <Coords points="1208.0,812.0 1866,812.0 1866,880 1208.0,880"/>
+                    <TextEquiv>
+                        <Unicode>Le 27 dud mois </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Le 27 dud mois </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" custom="readingOrder {index:8;}">
+                <Coords points="736,900 2481,900 2481,986 736,986"/>
+                <Baseline points="737,965 1869,941 2480,953"/>
+                <Word id="w_9" custom="readingOrder {index:8;}">
+                    <Coords points="737.0,901.0 2480,901.0 2480,985 737.0,985"/>
+                    <TextEquiv>
+                        <Unicode>En pntce des .7. hommes elle feist le semblable </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>En pntce des .7. hommes elle feist le semblable </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Le 25 dud mois 1610 
+Lad Adelheit librement recognut les faictz pred 
+les avoir Commis et perpetres Priant quon lui 
+heust a faire bonne et brieve justice, Criant 
+merci a Dieu a mon Seigneur et a la Justice. 
+Le 26. dud mois 
+Elle cougnut derechieff avoir commis lesd actes. 
+Le 27 dud mois 
+En pntce des .7. hommes elle feist le semblable </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

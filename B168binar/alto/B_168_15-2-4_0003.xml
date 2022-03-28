@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-2-4_0003.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2637"
+          HEIGHT="3968"
+          PHYSICAL_IMG_NR="20"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2637"
+                  HEIGHT="3968">
+        
+        <TextBlock HPOS="758"
+                   VPOS="155"
+                   WIDTH="1660"
+                   HEIGHT="760"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="758 155 758 915 2418 915 2418 155"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="1982 180 2223 206" 
+                    HPOS="1982.0"
+                    VPOS="155.0"
+                    WIDTH="241.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="1982 192 2035 196 2223 218 2223 181 2035 159 1982 155 1982 192"/></Shape>
+	    <String CONTENT="leur"
+                    HPOS="1982.0"
+                    VPOS="155.0"
+                    WIDTH="241.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l2"
+                    
+                    BASELINE="758 266 1671 246 2086 249 2418 266" 
+                    HPOS="758.0"
+                    VPOS="224.0"
+                    WIDTH="1660.0"
+                    HEIGHT="54.0">
+            <Shape><Polygon POINTS="758 278 1671 258 2418 278 2418 241 2086 224 1505 224 758 241 758 278"/></Shape>
+	    <String CONTENT="et requeste sans le prejudice de lui  ni des"
+                    HPOS="758.0"
+                    VPOS="224.0"
+                    WIDTH="1660.0"
+                    HEIGHT="54.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l3"
+                    
+                    BASELINE="782 314 939 309" 
+                    HPOS="782.0"
+                    VPOS="283.0"
+                    WIDTH="157.0"
+                    HEIGHT="44.0">
+            <Shape><Polygon POINTS="782 327 939 322 939 283 782 288 782 327"/></Shape>
+	    <String CONTENT="leurs"
+                    HPOS="782.0"
+                    VPOS="283.0"
+                    WIDTH="157.0"
+                    HEIGHT="44.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l4"
+                    
+                    BASELINE="777 372 1000 351 1299 342 1896 353 2270 348" 
+                    HPOS="777.0"
+                    VPOS="324.0"
+                    WIDTH="1493.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="777 384 1299 354 2270 360 2270 324 1000 327 777 348 777 384"/></Shape>
+	    <String CONTENT=" aud Pourrent Le Cinquieme"
+                    HPOS="777.0"
+                    VPOS="324.0"
+                    WIDTH="1493.0"
+                    HEIGHT="60.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l5"
+                    
+                    BASELINE="770 456 1239 437 2334 431" 
+                    HPOS="770.0"
+                    VPOS="392.0"
+                    WIDTH="1564.0"
+                    HEIGHT="83.0">
+            <Shape><Polygon POINTS="770 475 1239 456 2334 450 2334 392 1239 398 770 417 770 475"/></Shape>
+	    <String CONTENT="jour du mois de decembre mil six cens"
+                    HPOS="770.0"
+                    VPOS="392.0"
+                    WIDTH="1564.0"
+                    HEIGHT="83.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l6"
+                    
+                    BASELINE="792 552 1313 525 2283 509" 
+                    HPOS="792.0"
+                    VPOS="470.0"
+                    WIDTH="1491.0"
+                    HEIGHT="101.0">
+            <Shape><Polygon POINTS="792 571 1313 544 2283 528 2283 470 1313 486 792 513 792 571"/></Shape>
+	    <String CONTENT="et huict Pts Petit jehan henselin de"
+                    HPOS="792.0"
+                    VPOS="470.0"
+                    WIDTH="1491.0"
+                    HEIGHT="101.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l7"
+                    
+                    BASELINE="801 633 1531 614 2262 582" 
+                    HPOS="801.0"
+                    VPOS="543.0"
+                    WIDTH="1461.0"
+                    HEIGHT="109.0">
+            <Shape><Polygon POINTS="801 652 2262 601 2262 543 801 594 801 652"/></Shape>
+	    <String CONTENT=" miecort et petit Jehan le mercier de"
+                    HPOS="801.0"
+                    VPOS="543.0"
+                    WIDTH="1461.0"
+                    HEIGHT="109.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l8"
+                    
+                    BASELINE="788 728 1550 695 2058 660" 
+                    HPOS="788.0"
+                    VPOS="621.0"
+                    WIDTH="1270.0"
+                    HEIGHT="126.0">
+            <Shape><Polygon POINTS="788 747 2058 679 2058 621 788 689 788 747"/></Shape>
+	    <String CONTENT="Chermoille tesmoings ad ce requis."
+                    HPOS="788.0"
+                    VPOS="621.0"
+                    WIDTH="1270.0"
+                    HEIGHT="126.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l9"
+                    
+                    BASELINE="1592 785 1825 758 2331 732" 
+                    HPOS="1563.0"
+                    VPOS="693.0"
+                    WIDTH="768.0"
+                    HEIGHT="126.0">
+            <Shape><Polygon POINTS="1563 808 1669 792 1708 819 1747 816 1786 780 2331 751 2331 693 1903 714 1866 695 1827 697 1786 722 1563 750 1563 808"/></Shape>
+	    <String CONTENT="Richard Thomas [paraphe]"
+                    HPOS="1563.0"
+                    VPOS="693.0"
+                    WIDTH="768.0"
+                    HEIGHT="126.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l10"
+                    
+                    BASELINE="939 810 995 811 1023 801" 
+                    HPOS="939.0"
+                    VPOS="762.0"
+                    WIDTH="84.0"
+                    HEIGHT="67.0">
+            <Shape><Polygon POINTS="939 829 1023 820 1023 762 939 771 939 829"/></Shape>
+	    <String CONTENT="S ?"
+                    HPOS="939.0"
+                    VPOS="762.0"
+                    WIDTH="84.0"
+                    HEIGHT="67.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l11"
+                    
+                    BASELINE="813 888 953 896 1261 887 1374 896" 
+                    HPOS="779.0"
+                    VPOS="756.0"
+                    WIDTH="595.0"
+                    HEIGHT="159.0">
+            <Shape><Polygon POINTS="779 907 1374 915 1374 857 925 857 904 756 854 758 779 849 779 907"/></Shape>
+	    <String CONTENT="JGigendet [paraphe]"
+                    HPOS="779.0"
+                    VPOS="756.0"
+                    WIDTH="595.0"
+                    HEIGHT="159.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

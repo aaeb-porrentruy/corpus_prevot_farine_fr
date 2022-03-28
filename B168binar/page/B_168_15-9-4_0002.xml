@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:54.066+01:00</Created>
+        <LastChange>2022-03-07T16:35:54.066+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-9-4_0002.jpg" imageWidth="2754" imageHeight="3743">
+        <PrintSpace>
+            <Coords points="0,0 2754,0 2754,3743 0,3743"/>
+        </PrintSpace>
+        <TextRegion id="r1" custom="readingOrder {index:NaN;}">
+            <Coords points="206,940 206,2161 603,2161 603,940"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="382,902 604,902 604,1058 382,1058"/>
+                <Baseline points="383,986 603,969"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="383.0,903.0 603,903.0 603,1057 383.0,1057"/>
+                    <TextEquiv>
+                        <Unicode>Negat</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="299,1561 532,1561 532,1708 299,1708"/>
+                <Baseline points="300,1650 531,1647"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="300.0,1562.0 531,1562.0 531,1707 300.0,1707"/>
+                    <TextEquiv>
+                        <Unicode>Negat </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Negat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="205,1995 582,1995 582,2094 205,2094"/>
+                <Baseline points="206,2078 581,2078"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="206.0,1996.0 581,1996.0 581,2093 206.0,2093"/>
+                    <TextEquiv>
+                        <Unicode>+ avec dud</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>+ avec dud</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" custom="readingOrder {index:3;}">
+                <Coords points="254,2114 565,2114 565,2212 254,2212"/>
+                <Baseline points="255,2147 564,2145"/>
+                <Word id="w_4" custom="readingOrder {index:3;}">
+                    <Coords points="255.0,2115.0 564,2115.0 564,2211 255.0,2211"/>
+                    <TextEquiv>
+                        <Unicode>poulsat </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>poulsat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Negat
+Negat 
++ avec dud
+poulsat </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r2" custom="readingOrder {index:NaN;}">
+            <Coords points="731,231 731,3615 2447,3615 2447,231"/>
+            <TextLine id="tl_5" custom="readingOrder {index:4;}">
+                <Coords points="661,190 2316,190 2316,356 661,356"/>
+                <Baseline points="764,284 2315,266"/>
+                <Word id="w_5" custom="readingOrder {index:4;}">
+                    <Coords points="662.0,191.0 2315,191.0 2315,355 662.0,355"/>
+                    <TextEquiv>
+                        <Unicode> Item confesse aussy que avec daultres</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode> Item confesse aussy que avec daultres</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" custom="readingOrder {index:5;}">
+                <Coords points="800,299 2295,299 2295,386 800,386"/>
+                <Baseline points="731,368 2294,339"/>
+                <Word id="w_6" custom="readingOrder {index:5;}">
+                    <Coords points="801.0,300.0 2294,300.0 2294,385 801.0,385"/>
+                    <TextEquiv>
+                        <Unicode>elle a assiste a faire de la grelle </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>elle a assiste a faire de la grelle </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" custom="readingOrder {index:6;}">
+                <Coords points="811,380 2433,380 2433,461 811,461"/>
+                <Baseline points="812,447 2432,407"/>
+                <Word id="w_7" custom="readingOrder {index:6;}">
+                    <Coords points="812.0,381.0 2432,381.0 2432,460 812.0,460"/>
+                    <TextEquiv>
+                        <Unicode>et de la pluye p quelquefois. Et que la grelle </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>et de la pluye p quelquefois. Et que la grelle </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" custom="readingOrder {index:7;}">
+                <Coords points="805,433 2416,433 2416,512 805,512"/>
+                <Baseline points="806,501 2415,465"/>
+                <Word id="w_8" custom="readingOrder {index:7;}">
+                    <Coords points="806.0,434.0 2415,434.0 2415,511 806.0,511"/>
+                    <TextEquiv>
+                        <Unicode>quelles feirent lannee passe icelle tomba sur le bois de </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>quelles feirent lannee passe icelle tomba sur le bois de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" custom="readingOrder {index:8;}">
+                <Coords points="833,509 1116,509 1116,556 833,556"/>
+                <Baseline points="809,549 1115,530"/>
+                <Word id="w_9" custom="readingOrder {index:8;}">
+                    <Coords points="834.0,510.0 1115,510.0 1115,555 834.0,555"/>
+                    <TextEquiv>
+                        <Unicode>Rechesie </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Rechesie </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" custom="readingOrder {index:9;}">
+                <Coords points="638,530 2316,530 2316,725 638,725"/>
+                <Baseline points="783,608 1319,573 2315,558"/>
+                <Word id="w_10" custom="readingOrder {index:9;}">
+                    <Coords points="639.0,531.0 2315,531.0 2315,724 639.0,724"/>
+                    <TextEquiv>
+                        <Unicode>Item confesse q dud poulsat quelle en a </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Item confesse q dud poulsat quelle en a </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" custom="readingOrder {index:10;}">
+                <Coords points="799,590 2407,590 2407,708 799,708"/>
+                <Baseline points="800,689 1281,654 2406,627"/>
+                <Word id="w_11" custom="readingOrder {index:10;}">
+                    <Coords points="800.0,591.0 2406,591.0 2406,707 800.0,707"/>
+                    <TextEquiv>
+                        <Unicode>heu Jete sur lund des chevaulx au voueble </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>heu Jete sur lund des chevaulx au voueble </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" custom="readingOrder {index:11;}">
+                <Coords points="778,676 2247,676 2247,796 778,796"/>
+                <Baseline points="779,776 1585,725 2246,716"/>
+                <Word id="w_12" custom="readingOrder {index:11;}">
+                    <Coords points="779.0,677.0 2246,677.0 2246,795 779.0,795"/>
+                    <TextEquiv>
+                        <Unicode>dud Beurnevesain dequoi il en morut </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>dud Beurnevesain dequoi il en morut </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" custom="readingOrder {index:12;}">
+                <Coords points="672,809 2376,809 2376,1017 672,1017"/>
+                <Baseline points="785,927 1421,871 2375,849"/>
+                <Word id="w_13" custom="readingOrder {index:12;}">
+                    <Coords points="673.0,810.0 2375,810.0 2375,1016 673.0,1016"/>
+                    <TextEquiv>
+                        <Unicode>Item confesse avoir aussy faict a mourir </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Item confesse avoir aussy faict a mourir </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" custom="readingOrder {index:13;}">
+                <Coords points="809,892 2391,892 2391,1012 809,1012"/>
+                <Baseline points="810,993 1363,951 2390,929"/>
+                <Word id="w_14" custom="readingOrder {index:13;}">
+                    <Coords points="810.0,893.0 2390,893.0 2390,1011 810.0,1011"/>
+                    <TextEquiv>
+                        <Unicode>au voueble une vache. Laquelle [doublement biffé :Il avoit] </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>au voueble une vache. Laquelle [doublement biffé :Il avoit] </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" custom="readingOrder {index:14;}">
+                <Coords points="811,992 2415,992 2415,1084 811,1084"/>
+                <Baseline points="812,1065 1773,1014 2414,1029"/>
+                <Word id="w_15" custom="readingOrder {index:14;}">
+                    <Coords points="812.0,993.0 2414,993.0 2414,1083 812.0,1083"/>
+                    <TextEquiv>
+                        <Unicode>elle avoit frappe avec une verge q sond(it) </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>elle avoit frappe avec une verge q sond(it) </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" custom="readingOrder {index:15;}">
+                <Coords points="787,1050 1971,1050 1971,1186 787,1186"/>
+                <Baseline points="788,1152 1970,1088"/>
+                <Word id="w_16" custom="readingOrder {index:15;}">
+                    <Coords points="788.0,1051.0 1970,1051.0 1970,1185 788.0,1185"/>
+                    <TextEquiv>
+                        <Unicode>m(ait)re grappin lui avoit donne </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>m(ait)re grappin lui avoit donne </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" custom="readingOrder {index:16;}">
+                <Coords points="701,1200 2341,1200 2341,1383 701,1383"/>
+                <Baseline points="774,1293 1557,1242 2340,1245"/>
+                <Word id="w_17" custom="readingOrder {index:16;}">
+                    <Coords points="702.0,1201.0 2340,1201.0 2340,1382 702.0,1382"/>
+                    <TextEquiv>
+                        <Unicode>Item confesse aussy avoir faict a mourir </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Item confesse aussy avoir faict a mourir </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" custom="readingOrder {index:17;}">
+                <Coords points="818,1280 2256,1280 2256,1384 818,1384"/>
+                <Baseline points="819,1365 2255,1317"/>
+                <Word id="w_18" custom="readingOrder {index:17;}">
+                    <Coords points="819.0,1281.0 2255,1281.0 2255,1383 819.0,1383"/>
+                    <TextEquiv>
+                        <Unicode>une vache a Petre Malgrain avec du </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>une vache a Petre Malgrain avec du </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" custom="readingOrder {index:18;}">
+                <Coords points="820,1355 2317,1355 2317,1471 820,1471"/>
+                <Baseline points="821,1451 2316,1395"/>
+                <Word id="w_19" custom="readingOrder {index:18;}">
+                    <Coords points="821.0,1356.0 2316,1356.0 2316,1470 821.0,1470"/>
+                    <TextEquiv>
+                        <Unicode>poulsat que sond mre lui avoit donne </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>poulsat que sond mre lui avoit donne </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" custom="readingOrder {index:19;}">
+                <Coords points="808,1532 2320,1532 2320,1603 808,1603"/>
+                <Baseline points="809,1583 2319,1572"/>
+                <Word id="w_20" custom="readingOrder {index:19;}">
+                    <Coords points="809.0,1533.0 2319,1533.0 2319,1602 809.0,1602"/>
+                    <TextEquiv>
+                        <Unicode>Item de plus confesse avoir faict mourir </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Item de plus confesse avoir faict mourir </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" custom="readingOrder {index:20;}">
+                <Coords points="818,1619 2368,1619 2368,1682 818,1682"/>
+                <Baseline points="819,1662 2367,1659"/>
+                <Word id="w_21" custom="readingOrder {index:20;}">
+                    <Coords points="819.0,1620.0 2367,1620.0 2367,1681 819.0,1681"/>
+                    <TextEquiv>
+                        <Unicode>avec dud(it) poulsat une vache a Jehan du pray </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>avec dud(it) poulsat une vache a Jehan du pray </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" custom="readingOrder {index:21;}">
+                <Coords points="812,1703 2326,1703 2326,1768 812,1768"/>
+                <Baseline points="813,1748 2325,1742"/>
+                <Word id="w_22" custom="readingOrder {index:21;}">
+                    <Coords points="813.0,1704.0 2325,1704.0 2325,1767 813.0,1767"/>
+                    <TextEquiv>
+                        <Unicode>a raison quil lui avoit refuse de vendre </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>a raison quil lui avoit refuse de vendre </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" custom="readingOrder {index:22;}">
+                <Coords points="803,1778 1320,1778 1320,1847 803,1847"/>
+                <Baseline points="804,1827 1319,1817"/>
+                <Word id="w_23" custom="readingOrder {index:22;}">
+                    <Coords points="804.0,1779.0 1319,1779.0 1319,1846 804.0,1846"/>
+                    <TextEquiv>
+                        <Unicode>de la grainne. </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>de la grainne. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" custom="readingOrder {index:23;}">
+                <Coords points="743,1871 2287,1871 2287,2038 743,2038"/>
+                <Baseline points="822,1980 2286,2000"/>
+                <Word id="w_24" custom="readingOrder {index:23;}">
+                    <Coords points="744.0,1872.0 2286,1872.0 2286,2037 744.0,2037"/>
+                    <TextEquiv>
+                        <Unicode>Item confesse que sont environ huict ans </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Item confesse que sont environ huict ans </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" custom="readingOrder {index:24;}">
+                <Coords points="835,2021 2326,2021 2326,2104 835,2104"/>
+                <Baseline points="836,2067 2325,2084"/>
+                <Word id="w_25" custom="readingOrder {index:24;}">
+                    <Coords points="836.0,2022.0 2325,2022.0 2325,2103 836.0,2103"/>
+                    <TextEquiv>
+                        <Unicode>quicelle + feist a mourir leur Une fille </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>quicelle + feist a mourir leur Une fille </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" custom="readingOrder {index:25;}">
+                <Coords points="817,2121 2218,2121 2218,2176 817,2176"/>
+                <Baseline points="818,2154 2217,2163"/>
+                <Word id="w_26" custom="readingOrder {index:25;}">
+                    <Coords points="818.0,2122.0 2217,2122.0 2217,2175 818.0,2175"/>
+                    <TextEquiv>
+                        <Unicode>a Bastien Simon monnier : Parce que </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>a Bastien Simon monnier : Parce que </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" custom="readingOrder {index:26;}">
+                <Coords points="1069,2150 1185,2150 1185,2198 1069,2198"/>
+                <Baseline points="1103,2184 1184,2187"/>
+                <Word id="w_27" custom="readingOrder {index:26;}">
+                    <Coords points="1070.0,2151.0 1184,2151.0 1184,2197 1070.0,2197"/>
+                    <TextEquiv>
+                        <Unicode>fille </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>fille </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_28" custom="readingOrder {index:27;}">
+                <Coords points="808,2206 2422,2206 2422,2273 808,2273"/>
+                <Baseline points="809,2232 2421,2261"/>
+                <Word id="w_28" custom="readingOrder {index:27;}">
+                    <Coords points="809.0,2207.0 2421,2207.0 2421,2272 809.0,2272"/>
+                    <TextEquiv>
+                        <Unicode>la femme dud Simon luy avoit refuse </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>la femme dud Simon luy avoit refuse </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_29" custom="readingOrder {index:28;}">
+                <Coords points="788,2277 1960,2277 1960,2354 788,2354"/>
+                <Baseline points="789,2336 1959,2312"/>
+                <Word id="w_29" custom="readingOrder {index:28;}">
+                    <Coords points="789.0,2278.0 1959,2278.0 1959,2353 789.0,2353"/>
+                    <TextEquiv>
+                        <Unicode>du laict sestoit ferme a elle </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>du laict sestoit ferme a elle </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_30" custom="readingOrder {index:29;}">
+                <Coords points="785,2453 2263,2453 2263,2521 785,2521"/>
+                <Baseline points="786,2501 2262,2493"/>
+                <Word id="w_30" custom="readingOrder {index:29;}">
+                    <Coords points="786.0,2454.0 2262,2454.0 2262,2520 786.0,2520"/>
+                    <TextEquiv>
+                        <Unicode>Item confesse de plus quelle a aussy </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Item confesse de plus quelle a aussy </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_31" custom="readingOrder {index:30;}">
+                <Coords points="836,2537 2161,2537 2161,2603 836,2603"/>
+                <Baseline points="837,2580 2160,2583"/>
+                <Word id="w_31" custom="readingOrder {index:30;}">
+                    <Coords points="837.0,2538.0 2160,2538.0 2160,2602 837.0,2602"/>
+                    <TextEquiv>
+                        <Unicode>faict a mourir avec dud poulsat </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>faict a mourir avec dud poulsat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_32" custom="readingOrder {index:31;}">
+                <Coords points="805,2627 2358,2627 2358,2693 805,2693"/>
+                <Baseline points="806,2667 2357,2673"/>
+                <Word id="w_32" custom="readingOrder {index:31;}">
+                    <Coords points="806.0,2628.0 2357,2628.0 2357,2692 806.0,2692"/>
+                    <TextEquiv>
+                        <Unicode>ung enffant a Jehan mahon dit madeux </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ung enffant a Jehan mahon dit madeux </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_33" custom="readingOrder {index:32;}">
+                <Coords points="797,2726 2335,2726 2335,2786 797,2786"/>
+                <Baseline points="798,2766 2334,2766"/>
+                <Word id="w_33" custom="readingOrder {index:32;}">
+                    <Coords points="798.0,2727.0 2334,2727.0 2334,2785 798.0,2785"/>
+                    <TextEquiv>
+                        <Unicode>A raison de ce que Il la chargeoyent </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>A raison de ce que Il la chargeoyent </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_34" custom="readingOrder {index:33;}">
+                <Coords points="772,2801 2418,2801 2418,2894 772,2894"/>
+                <Baseline points="773,2874 1759,2841 2417,2871"/>
+                <Word id="w_34" custom="readingOrder {index:33;}">
+                    <Coords points="773.0,2802.0 2417,2802.0 2417,2893 773.0,2893"/>
+                    <TextEquiv>
+                        <Unicode>de leur avoir faict a mourir ung cheval </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>de leur avoir faict a mourir ung cheval </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_35" custom="readingOrder {index:34;}">
+                <Coords points="2261,3556 2332,3556 2332,3616 2261,3616"/>
+                <Baseline points="2262,3596 2331,3596"/>
+                <Word id="w_35" custom="readingOrder {index:34;}">
+                    <Coords points="2262.0,3557.0 2331,3557.0 2331,3615 2262.0,3615"/>
+                    <TextEquiv>
+                        <Unicode>2</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>2</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> Item confesse aussy que avec daultres
+elle a assiste a faire de la grelle 
+et de la pluye p quelquefois. Et que la grelle 
+quelles feirent lannee passe icelle tomba sur le bois de 
+Rechesie 
+Item confesse q dud poulsat quelle en a 
+heu Jete sur lund des chevaulx au voueble 
+dud Beurnevesain dequoi il en morut 
+Item confesse avoir aussy faict a mourir 
+au voueble une vache. Laquelle [doublement biffé :Il avoit] 
+elle avoit frappe avec une verge q sond(it) 
+m(ait)re grappin lui avoit donne 
+Item confesse aussy avoir faict a mourir 
+une vache a Petre Malgrain avec du 
+poulsat que sond mre lui avoit donne 
+Item de plus confesse avoir faict mourir 
+avec dud(it) poulsat une vache a Jehan du pray 
+a raison quil lui avoit refuse de vendre 
+de la grainne. 
+Item confesse que sont environ huict ans 
+quicelle + feist a mourir leur Une fille 
+a Bastien Simon monnier : Parce que 
+fille 
+la femme dud Simon luy avoit refuse 
+du laict sestoit ferme a elle 
+Item confesse de plus quelle a aussy 
+faict a mourir avec dud poulsat 
+ung enffant a Jehan mahon dit madeux 
+A raison de ce que Il la chargeoyent 
+de leur avoir faict a mourir ung cheval 
+2</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

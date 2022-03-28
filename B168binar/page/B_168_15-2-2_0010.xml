@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:51.362+01:00</Created>
+        <LastChange>2022-03-07T16:35:51.362+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-2-2_0010.jpg" imageWidth="2565" imageHeight="3756">
+        <PrintSpace>
+            <Coords points="0,0 2565,0 2565,3756 0,3756"/>
+        </PrintSpace>
+        <TextRegion id="r1" custom="readingOrder {index:NaN;}">
+            <Coords points="500,202 500,865 2424,865 2424,202"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1000,203 1947,203 1947,294 1000,294"/>
+                <Baseline points="1001,263 1946,264"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="1001.0,204.0 1946,204.0 1946,293 1001.0,293"/>
+                    <TextEquiv>
+                        <Unicode>Le 22 de Novembre 1608.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Le 22 de Novembre 1608.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="680,363 2256,363 2256,432 680,432"/>
+                <Baseline points="681,414 1625,398 2255,411"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="681.0,364.0 2255,364.0 2255,431 681.0,431"/>
+                    <TextEquiv>
+                        <Unicode>Les pntes Informations sont estees leutes Par</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Les pntes Informations sont estees leutes Par</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="728,435 2425,435 2425,512 728,512"/>
+                <Baseline points="729,494 1576,470 2424,488"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="729.0,436.0 2424,436.0 2424,511 729.0,511"/>
+                    <TextEquiv>
+                        <Unicode>devant Le conseil de son Excellence Reverendissime</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>devant Le conseil de son Excellence Reverendissime</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" custom="readingOrder {index:3;}">
+                <Coords points="700,507 2391,507 2391,590 700,590"/>
+                <Baseline points="701,569 2390,548"/>
+                <Word id="w_4" custom="readingOrder {index:3;}">
+                    <Coords points="701.0,508.0 2390,508.0 2390,589 701.0,589"/>
+                    <TextEquiv>
+                        <Unicode>Lequel ayant le tout veu et pese Ont declaire</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Lequel ayant le tout veu et pese Ont declaire</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" custom="readingOrder {index:4;}">
+                <Coords points="682,570 2382,570 2382,681 682,681"/>
+                <Baseline points="683,651 2381,630"/>
+                <Word id="w_5" custom="readingOrder {index:4;}">
+                    <Coords points="683.0,571.0 2381,571.0 2381,680 683.0,680"/>
+                    <TextEquiv>
+                        <Unicode>Lad Annelin debvoir estre tiree en cause et en</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Lad Annelin debvoir estre tiree en cause et en</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" custom="readingOrder {index:5;}">
+                <Coords points="752,659 2373,659 2373,768 752,768"/>
+                <Baseline points="753,738 2372,719"/>
+                <Word id="w_6" custom="readingOrder {index:5;}">
+                    <Coords points="753.0,660.0 2372,660.0 2372,767 753.0,767"/>
+                    <TextEquiv>
+                        <Unicode>prison. Et estant Illec tost sur les faictz pred</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>prison. Et estant Illec tost sur les faictz pred</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" custom="readingOrder {index:6;}">
+                <Coords points="499,755 2269,755 2269,866 499,866"/>
+                <Baseline points="500,836 1737,810 2268,815"/>
+                <Word id="w_7" custom="readingOrder {index:6;}">
+                    <Coords points="500.0,756.0 2268,756.0 2268,865 500.0,865"/>
+                    <TextEquiv>
+                        <Unicode>debvoir estre gehennee et examinee a la torture. </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>debvoir estre gehennee et examinee a la torture. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Le 22 de Novembre 1608.
+Les pntes Informations sont estees leutes Par
+devant Le conseil de son Excellence Reverendissime
+Lequel ayant le tout veu et pese Ont declaire
+Lad Annelin debvoir estre tiree en cause et en
+prison. Et estant Illec tost sur les faictz pred
+debvoir estre gehennee et examinee a la torture. </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

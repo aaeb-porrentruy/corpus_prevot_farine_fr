@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:55.635+01:00</Created>
+        <LastChange>2022-03-07T16:35:55.635+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-23-5_0003.jpg" imageWidth="2581" imageHeight="3823">
+        <PrintSpace>
+            <Coords points="0,0 2581,0 2581,3823 0,3823"/>
+        </PrintSpace>
+        <TextRegion id="eSc_dummyblock_" custom="readingOrder {index:NaN;}">
+            <Coords points="0,0 0,0 0,0 0,0"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1633,1999 2180,1999 2180,2154 1633,2154"/>
+                <Baseline points="1644,2109 2179,2096"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="1634,2000 2179,2000 2179,2153 1634,2153"/>
+                    <TextEquiv>
+                        <Unicode>Reconfessions</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Reconfessions</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1423,2114 2419,2114 2419,2256 1423,2256"/>
+                <Baseline points="1430,2230 2418,2210"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="1424,2115 2418,2115 2418,2255 1424,2255"/>
+                    <TextEquiv>
+                        <Unicode>Des actes crimes et delictz de</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Des actes crimes et delictz de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1528,2209 2397,2209 2397,2339 1528,2339"/>
+                <Baseline points="1532,2312 2396,2281"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="1529,2210 2396,2210 2396,2338 1529,2338"/>
+                    <TextEquiv>
+                        <Unicode>Sortilege de Alix vefve</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Sortilege de Alix vefve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1547,2295 2489,2295 2489,2422 1547,2422"/>
+                <Baseline points="1554,2386 2488,2367"/>
+                <Word id="w_4" custom="readingOrder {index:3;}">
+                    <Coords points="1548,2296 2488,2296 2488,2421 1548,2421"/>
+                    <TextEquiv>
+                        <Unicode>George Rossel de Boncourt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>George Rossel de Boncourt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Reconfessions
+Des actes crimes et delictz de
+Sortilege de Alix vefve
+George Rossel de Boncourt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:48.082+01:00</Created>
+        <LastChange>2022-03-07T16:35:48.082+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-2-1_0001.jpg" imageWidth="2617" imageHeight="4010">
+        <PrintSpace>
+            <Coords points="0,0 2617,0 2617,4010 0,4010"/>
+        </PrintSpace>
+        <TextRegion id="r1" custom="readingOrder {index:NaN;}">
+            <Coords points="351,457 351,696 710,696 710,457"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="428,459 637,459 637,552 428,552"/>
+                <Baseline points="429,521 636,521"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="429.0,460.0 636,460.0 636,551 429.0,551"/>
+                    <TextEquiv>
+                        <Unicode>Anne </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Anne </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="350,576 711,576 711,697 350,697"/>
+                <Baseline points="351,666 710,638"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="351.0,577.0 710,577.0 710,696 351.0,696"/>
+                    <TextEquiv>
+                        <Unicode>Boulay</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Boulay</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Anne 
+Boulay</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r2" custom="readingOrder {index:NaN;}">
+            <Coords points="780,96 780,3116 2511,3116 2511,96"/>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1268,95 1408,95 1408,179 1268,179"/>
+                <Baseline points="1269,143 1407,155"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="1269.0,96.0 1407,96.0 1407,178 1269.0,178"/>
+                    <TextEquiv>
+                        <Unicode>+ </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>+ </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1561,153 2053,153 2053,227 1561,227"/>
+                <Baseline points="1562,206 2052,195"/>
+                <Word id="w_4" custom="readingOrder {index:3;}">
+                    <Coords points="1562.0,154.0 2052,154.0 2052,226 1562.0,226"/>
+                    <TextEquiv>
+                        <Unicode>1603, avril 16 </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>1603, avril 16 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" custom="readingOrder {index:4;}">
+                <Coords points="1030,237 2326,237 2326,339 1030,339"/>
+                <Baseline points="1031,318 2325,279"/>
+                <Word id="w_5" custom="readingOrder {index:4;}">
+                    <Coords points="1031.0,238.0 2325,238.0 2325,338 1031.0,338"/>
+                    <TextEquiv>
+                        <Unicode>Information secrete prinse doffice,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Information secrete prinse doffice,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1042,335 2406,335 2406,428 1042,428"/>
+                <Baseline points="1043,405 1792,378 2405,380"/>
+                <Word id="w_6" custom="readingOrder {index:5;}">
+                    <Coords points="1043.0,336.0 2405,336.0 2405,427 1043.0,427"/>
+                    <TextEquiv>
+                        <Unicode>Contre Annelin fille henrisat Boulai</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Contre Annelin fille henrisat Boulai</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" custom="readingOrder {index:6;}">
+                <Coords points="1057,417 2478,417 2478,509 1057,509"/>
+                <Baseline points="1058,486 2103,462 2477,474"/>
+                <Word id="w_7" custom="readingOrder {index:6;}">
+                    <Coords points="1058.0,418.0 2477,418.0 2477,508 1058.0,508"/>
+                    <TextEquiv>
+                        <Unicode>de Couurthedoubs et vefve de feu Pierrat</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>de Couurthedoubs et vefve de feu Pierrat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" custom="readingOrder {index:7;}">
+                <Coords points="1120,513 2479,513 2479,602 1120,602"/>
+                <Baseline points="1121,579 1799,558 2478,578"/>
+                <Word id="w_8" custom="readingOrder {index:7;}">
+                    <Coords points="1121.0,514.0 2478,514.0 2478,601 1121.0,601"/>
+                    <TextEquiv>
+                        <Unicode>Vauthier dud lieu, ce 16 dapvril 1603.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Vauthier dud lieu, ce 16 dapvril 1603.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" custom="readingOrder {index:8;}">
+                <Coords points="794,753 2344,753 2344,852 794,852"/>
+                <Baseline points="795,794 1569,798 2343,831"/>
+                <Word id="w_9" custom="readingOrder {index:8;}">
+                    <Coords points="795.0,754.0 2343,754.0 2343,851 795.0,851"/>
+                    <TextEquiv>
+                        <Unicode>Jehan villain dud Courthedoubs, Par serement</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Jehan villain dud Courthedoubs, Par serement</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" custom="readingOrder {index:9;}">
+                <Coords points="788,835 2473,835 2473,947 788,947"/>
+                <Baseline points="789,894 1462,876 2472,926"/>
+                <Word id="w_10" custom="readingOrder {index:9;}">
+                    <Coords points="789.0,836.0 2472,836.0 2472,946 789.0,946"/>
+                    <TextEquiv>
+                        <Unicode>depose, Que Ilz avoyent p ci devant du bestial</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>depose, Que Ilz avoyent p ci devant du bestial</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" custom="readingOrder {index:10;}">
+                <Coords points="793,924 2314,924 2314,1022 793,1022"/>
+                <Baseline points="794,984 1753,969 2313,999"/>
+                <Word id="w_11" custom="readingOrder {index:10;}">
+                    <Coords points="794.0,925.0 2313,925.0 2313,1021 794.0,1021"/>
+                    <TextEquiv>
+                        <Unicode>questoit malade et signament ung juvencel</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>questoit malade et signament ung juvencel</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" custom="readingOrder {index:11;}">
+                <Coords points="781,1025 2364,1025 2364,1107 781,1107"/>
+                <Baseline points="782,1083 1572,1064 2363,1073"/>
+                <Word id="w_12" custom="readingOrder {index:11;}">
+                    <Coords points="782.0,1026.0 2363,1026.0 2363,1106 782.0,1106"/>
+                    <TextEquiv>
+                        <Unicode>dont estant aux Lovres entre aultres une</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>dont estant aux Lovres entre aultres une</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" custom="readingOrder {index:12;}">
+                <Coords points="779,1118 2310,1118 2310,1203 779,1203"/>
+                <Baseline points="780,1179 1238,1164 2309,1166"/>
+                <Word id="w_13" custom="readingOrder {index:12;}">
+                    <Coords points="780.0,1119.0 2309,1119.0 2309,1202 780.0,1202"/>
+                    <TextEquiv>
+                        <Unicode>femme ou fille dit que sil avoyent malle</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>femme ou fille dit que sil avoyent malle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" custom="readingOrder {index:13;}">
+                <Coords points="784,1217 2430,1217 2430,1301 784,1301"/>
+                <Baseline points="785,1277 2429,1265"/>
+                <Word id="w_14" custom="readingOrder {index:13;}">
+                    <Coords points="785.0,1218.0 2429,1218.0 2429,1300 785.0,1300"/>
+                    <TextEquiv>
+                        <Unicode>mescreance que les bestes fusent grevees que</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>mescreance que les bestes fusent grevees que</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" custom="readingOrder {index:14;}">
+                <Coords points="799,1314 2478,1314 2478,1409 799,1409"/>
+                <Baseline points="800,1376 1806,1362 2477,1385"/>
+                <Word id="w_15" custom="readingOrder {index:14;}">
+                    <Coords points="800.0,1315.0 2477,1315.0 2477,1408 800.0,1408"/>
+                    <TextEquiv>
+                        <Unicode>sil sy elle mouroyent quon debvoit baptre le</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>sil sy elle mouroyent quon debvoit baptre le</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" custom="readingOrder {index:15;}">
+                <Coords points="832,1428 2463,1428 2463,1500 832,1500"/>
+                <Baseline points="833,1476 1728,1463 2462,1476"/>
+                <Word id="w_16" custom="readingOrder {index:15;}">
+                    <Coords points="833.0,1429.0 2462,1429.0 2462,1499 833.0,1499"/>
+                    <TextEquiv>
+                        <Unicode>Ling et quon verroit bien qui auroit causse</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Ling et quon verroit bien qui auroit causse</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" custom="readingOrder {index:16;}">
+                <Coords points="790,1515 2497,1515 2497,1614 790,1614"/>
+                <Baseline points="791,1569 1643,1563 2496,1590"/>
+                <Word id="w_17" custom="readingOrder {index:16;}">
+                    <Coords points="791.0,1516.0 2496,1516.0 2496,1613 791.0,1613"/>
+                    <TextEquiv>
+                        <Unicode>cela. Et estant led juvencel mort deposant</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>cela. Et estant led juvencel mort deposant</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" custom="readingOrder {index:17;}">
+                <Coords points="809,1620 2326,1620 2326,1700 809,1700"/>
+                <Baseline points="810,1668 2325,1676"/>
+                <Word id="w_18" custom="readingOrder {index:17;}">
+                    <Coords points="810.0,1621.0 2325,1621.0 2325,1699 810.0,1699"/>
+                    <TextEquiv>
+                        <Unicode>print ung fleau et baptit fort le ling</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>print ung fleau et baptit fort le ling</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" custom="readingOrder {index:18;}">
+                <Coords points="791,1722 2359,1722 2359,1802 791,1802"/>
+                <Baseline points="792,1770 1496,1760 2358,1778"/>
+                <Word id="w_19" custom="readingOrder {index:18;}">
+                    <Coords points="792.0,1723.0 2358,1723.0 2358,1801 792.0,1801"/>
+                    <TextEquiv>
+                        <Unicode>dicelui. Surquoi la feue feme de  Ge</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>dicelui. Surquoi la feue feme de  Ge</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" custom="readingOrder {index:19;}">
+                <Coords points="812,1815 2470,1815 2470,1902 812,1902"/>
+                <Baseline points="813,1877 1723,1859 2469,1880"/>
+                <Word id="w_20" custom="readingOrder {index:19;}">
+                    <Coords points="813.0,1816.0 2469,1816.0 2469,1901 813.0,1901"/>
+                    <TextEquiv>
+                        <Unicode>Jehan Burin dit que Lad Annelin estoit fort</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Jehan Burin dit que Lad Annelin estoit fort</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" custom="readingOrder {index:20;}">
+                <Coords points="805,1920 2055,1920 2055,1990 805,1990"/>
+                <Baseline points="806,1964 2054,1968"/>
+                <Word id="w_21" custom="readingOrder {index:20;}">
+                    <Coords points="806.0,1921.0 2054,1921.0 2054,1989 806.0,1989"/>
+                    <TextEquiv>
+                        <Unicode>marquee et blessee p le visaige.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>marquee et blessee p le visaige.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" custom="readingOrder {index:21;}">
+                <Coords points="800,2120 2392,2120 2392,2225 800,2225"/>
+                <Baseline points="801,2168 1755,2178 2391,2201"/>
+                <Word id="w_22" custom="readingOrder {index:21;}">
+                    <Coords points="801.0,2121.0 2391,2121.0 2391,2224 801.0,2224"/>
+                    <TextEquiv>
+                        <Unicode>Claude vefve de feu Jehan maillat jadis Mayre</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Claude vefve de feu Jehan maillat jadis Mayre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" custom="readingOrder {index:22;}">
+                <Coords points="833,2207 2424,2207 2424,2300 833,2300"/>
+                <Baseline points="834,2255 1866,2256 2423,2276"/>
+                <Word id="w_23" custom="readingOrder {index:22;}">
+                    <Coords points="834.0,2208.0 2423,2208.0 2423,2299 834.0,2299"/>
+                    <TextEquiv>
+                        <Unicode>a Courthedoubs depose, Quelle deposante</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>a Courthedoubs depose, Quelle deposante</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" custom="readingOrder {index:23;}">
+                <Coords points="845,2294 2442,2294 2442,2387 845,2387"/>
+                <Baseline points="846,2342 1882,2346 2441,2363"/>
+                <Word id="w_24" custom="readingOrder {index:23;}">
+                    <Coords points="846.0,2295.0 2441,2295.0 2441,2386 846.0,2386"/>
+                    <TextEquiv>
+                        <Unicode>a heu mauvaise opinion depuis quelle a ouys</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>a heu mauvaise opinion depuis quelle a ouys</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" custom="readingOrder {index:24;}">
+                <Coords points="815,2385 2392,2385 2392,2471 815,2471"/>
+                <Baseline points="816,2433 2391,2447"/>
+                <Word id="w_25" custom="readingOrder {index:24;}">
+                    <Coords points="816.0,2386.0 2391,2386.0 2391,2470 816.0,2470"/>
+                    <TextEquiv>
+                        <Unicode>dire que lad Annelin avoit greve a la fille</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>dire que lad Annelin avoit greve a la fille</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" custom="readingOrder {index:25;}">
+                <Coords points="818,2484 2512,2484 2512,2577 818,2577"/>
+                <Baseline points="819,2528 1495,2529 2511,2555"/>
+                <Word id="w_26" custom="readingOrder {index:25;}">
+                    <Coords points="819.0,2485.0 2511,2485.0 2511,2576 819.0,2576"/>
+                    <TextEquiv>
+                        <Unicode>Pierre Broingne. En ce quelle deposante avoit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Pierre Broingne. En ce quelle deposante avoit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" custom="readingOrder {index:26;}">
+                <Coords points="827,2576 2476,2576 2476,2665 827,2665"/>
+                <Baseline points="828,2622 1404,2616 2475,2643"/>
+                <Word id="w_27" custom="readingOrder {index:26;}">
+                    <Coords points="828.0,2577.0 2475,2577.0 2475,2664 828.0,2664"/>
+                    <TextEquiv>
+                        <Unicode>Une fille que devint tout enflee de laquelle</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Une fille que devint tout enflee de laquelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_28" custom="readingOrder {index:27;}">
+                <Coords points="823,2657 2497,2657 2497,2757 823,2757"/>
+                <Baseline points="824,2706 1325,2700 2496,2735"/>
+                <Word id="w_28" custom="readingOrder {index:27;}">
+                    <Coords points="824.0,2658.0 2496,2658.0 2496,2756 824.0,2756"/>
+                    <TextEquiv>
+                        <Unicode>elle mourut. Et ce doultant que sad fille</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>elle mourut. Et ce doultant que sad fille</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_29" custom="readingOrder {index:28;}">
+                <Coords points="824,2749 2398,2749 2398,2844 824,2844"/>
+                <Baseline points="825,2793 1453,2793 2397,2822"/>
+                <Word id="w_29" custom="readingOrder {index:28;}">
+                    <Coords points="825.0,2750.0 2397,2750.0 2397,2843 825.0,2843"/>
+                    <TextEquiv>
+                        <Unicode> avoit perdus sa coiffe aux Lovres et pce</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode> avoit perdus sa coiffe aux Lovres et pce</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_30" custom="readingOrder {index:29;}">
+                <Coords points="833,2841 2466,2841 2466,2946 833,2946"/>
+                <Baseline points="834,2892 1812,2889 2465,2922"/>
+                <Word id="w_30" custom="readingOrder {index:29;}">
+                    <Coords points="834.0,2842.0 2465,2842.0 2465,2945 834.0,2945"/>
+                    <TextEquiv>
+                        <Unicode>quon chargeoit La fille de lad Annelin lavoir</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>quon chargeoit La fille de lad Annelin lavoir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_31" custom="readingOrder {index:30;}">
+                <Coords points="839,2940 2481,2940 2481,3056 839,3056"/>
+                <Baseline points="840,2994 1824,2988 2480,3032"/>
+                <Word id="w_31" custom="readingOrder {index:30;}">
+                    <Coords points="840.0,2941.0 2480,2941.0 2480,3055 840.0,3055"/>
+                    <TextEquiv>
+                        <Unicode>cache, deposante dit avoir heu ceste opinion</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>cache, deposante dit avoir heu ceste opinion</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_32" custom="readingOrder {index:31;}">
+                <Coords points="857,3032 1371,3032 1371,3117 857,3117"/>
+                <Baseline points="858,3093 1370,3080"/>
+                <Word id="w_32" custom="readingOrder {index:31;}">
+                    <Coords points="858.0,3033.0 1370,3033.0 1370,3116 858.0,3116"/>
+                    <TextEquiv>
+                        <Unicode>depuis delle.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>depuis delle.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>+ 
+1603, avril 16 
+Information secrete prinse doffice,
+Contre Annelin fille henrisat Boulai
+de Couurthedoubs et vefve de feu Pierrat
+Vauthier dud lieu, ce 16 dapvril 1603.
+Jehan villain dud Courthedoubs, Par serement
+depose, Que Ilz avoyent p ci devant du bestial
+questoit malade et signament ung juvencel
+dont estant aux Lovres entre aultres une
+femme ou fille dit que sil avoyent malle
+mescreance que les bestes fusent grevees que
+sil sy elle mouroyent quon debvoit baptre le
+Ling et quon verroit bien qui auroit causse
+cela. Et estant led juvencel mort deposant
+print ung fleau et baptit fort le ling
+dicelui. Surquoi la feue feme de  Ge
+Jehan Burin dit que Lad Annelin estoit fort
+marquee et blessee p le visaige.
+Claude vefve de feu Jehan maillat jadis Mayre
+a Courthedoubs depose, Quelle deposante
+a heu mauvaise opinion depuis quelle a ouys
+dire que lad Annelin avoit greve a la fille
+Pierre Broingne. En ce quelle deposante avoit
+Une fille que devint tout enflee de laquelle
+elle mourut. Et ce doultant que sad fille
+ avoit perdus sa coiffe aux Lovres et pce
+quon chargeoit La fille de lad Annelin lavoir
+cache, deposante dit avoir heu ceste opinion
+depuis delle.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

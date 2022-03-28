@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:51.468+01:00</Created>
+        <LastChange>2022-03-07T16:35:51.468+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-2-2_0011.jpg" imageWidth="2512" imageHeight="3746">
+        <PrintSpace>
+            <Coords points="0,0 2512,0 2512,3746 0,3746"/>
+        </PrintSpace>
+        <TextRegion id="r1" custom="readingOrder {index:NaN;}">
+            <Coords points="1451,2088 1451,2459 2411,2459 2411,2088"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1581,1980 2361,1980 2361,2276 1581,2276"/>
+                <Baseline points="1682,2174 2273,2145"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="1582.0,1981.0 2360,1981.0 2360,2275 1582.0,2275"/>
+                    <TextEquiv>
+                        <Unicode>Informats </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Informats </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1387,2242 2202,2242 2202,2353 1387,2353"/>
+                <Baseline points="1451,2331 2201,2321"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="1388.0,2243.0 2201,2243.0 2201,2352 1388.0,2352"/>
+                    <TextEquiv>
+                        <Unicode>Contre Annelin vefve</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Contre Annelin vefve</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1454,2352 2418,2352 2418,2465 1454,2465"/>
+                <Baseline points="1467,2423 2411,2436"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="1455.0,2353.0 2417,2353.0 2417,2464 1455.0,2464"/>
+                    <TextEquiv>
+                        <Unicode>Pierrat vauthier de Courthedoubs</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Pierrat vauthier de Courthedoubs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Informats 
+Contre Annelin vefve
+Pierrat vauthier de Courthedoubs</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

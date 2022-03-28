@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:54.905+01:00</Created>
+        <LastChange>2022-03-07T16:35:54.905+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-23-2_0004.jpg" imageWidth="2572" imageHeight="3813">
+        <PrintSpace>
+            <Coords points="0,0 2572,0 2572,3813 0,3813"/>
+        </PrintSpace>
+        <TextRegion id="r1" custom="readingOrder {index:NaN;}">
+            <Coords points="1137,2015 1137,2224 2172,2224 2172,2015"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1136,2014 2127,2014 2127,2104 1136,2104"/>
+                <Baseline points="1137,2046 2126,2088"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="1137.0,2015.0 2126,2015.0 2126,2103 1137.0,2103"/>
+                    <TextEquiv>
+                        <Unicode>Proces Criminel de Adelheit </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Proces Criminel de Adelheit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1172,2082 2173,2082 2173,2166 1172,2166"/>
+                <Baseline points="1173,2114 1909,2150 2172,2150"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="1173.0,2083.0 2172,2083.0 2172,2165 1173.0,2165"/>
+                    <TextEquiv>
+                        <Unicode>vefve Borquin Betteny de </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>vefve Borquin Betteny de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1162,2158 1525,2158 1525,2225 1162,2225"/>
+                <Baseline points="1163,2193 1524,2207"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="1163.0,2159.0 1524,2159.0 1524,2224 1163.0,2224"/>
+                    <TextEquiv>
+                        <Unicode>Boncourt </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Boncourt </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Proces Criminel de Adelheit 
+vefve Borquin Betteny de 
+Boncourt </Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

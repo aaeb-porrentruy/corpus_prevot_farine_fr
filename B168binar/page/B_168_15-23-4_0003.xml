@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:55.442+01:00</Created>
+        <LastChange>2022-03-07T16:35:55.442+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-23-4_0003.jpg" imageWidth="2643" imageHeight="3812">
+        <PrintSpace>
+            <Coords points="0,0 2643,0 2643,3812 0,3812"/>
+        </PrintSpace>
+        <TextRegion id="r1" custom="readingOrder {index:NaN;}">
+            <Coords points="165,1771 165,1927 548,1927 548,1771"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="164,1770 549,1770 549,1928 164,1928"/>
+                <Baseline points="165,1877 548,1871"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="165.0,1771.0 548,1771.0 548,1927 165.0,1927"/>
+                    <TextEquiv>
+                        <Unicode> La deculpe</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode> La deculpe</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1478,2174 2389,2174 2389,2243 1478,2243"/>
+                <Baseline points="1479,2225 2388,2210"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="1479.0,2175.0 2388,2175.0 2388,2242 1479.0,2242"/>
+                    <TextEquiv>
+                        <Unicode>Des actes crimes et delictz de </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Des actes crimes et delictz de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1550,2244 2392,2244 2392,2328 1550,2328"/>
+                <Baseline points="1551,2310 2391,2280"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="1551.0,2245.0 2391,2245.0 2391,2327 1551.0,2327"/>
+                    <TextEquiv>
+                        <Unicode>Sortilege de Alix vefve </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Sortilege de Alix vefve </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1550,2334 2478,2334 2478,2400 1550,2400"/>
+                <Baseline points="1551,2382 2199,2364 2477,2370"/>
+                <Word id="w_4" custom="readingOrder {index:3;}">
+                    <Coords points="1551.0,2335.0 2477,2335.0 2477,2399 1551.0,2399"/>
+                    <TextEquiv>
+                        <Unicode>George Rossel de Boncourt</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>George Rossel de Boncourt</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> La deculpe
+Des actes crimes et delictz de 
+Sortilege de Alix vefve 
+George Rossel de Boncourt</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r2" custom="readingOrder {index:NaN;}">
+            <Coords points="713,154 713,3321 2561,3321 2561,154"/>
+            <TextLine id="tl_5" custom="readingOrder {index:4;}">
+                <Coords points="712,158 2407,158 2407,233 712,233"/>
+                <Baseline points="713,210 2406,207"/>
+                <Word id="w_5" custom="readingOrder {index:4;}">
+                    <Coords points="713.0,159.0 2406,159.0 2406,232 713.0,232"/>
+                    <TextEquiv>
+                        <Unicode> doffice se rencontrant du tout semblable a</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode> doffice se rencontrant du tout semblable a</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" custom="readingOrder {index:5;}">
+                <Coords points="740,243 2536,243 2536,326 740,326"/>
+                <Baseline points="741,297 1279,279 2535,306"/>
+                <Word id="w_6" custom="readingOrder {index:5;}">
+                    <Coords points="741.0,244.0 2535,244.0 2535,325 741.0,325"/>
+                    <TextEquiv>
+                        <Unicode>ceuqlle avoit confessee Icelle fust condempne </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>ceuqlle avoit confessee Icelle fust condempne </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" custom="readingOrder {index:6;}">
+                <Coords points="740,338 1993,338 1993,410 740,410"/>
+                <Baseline points="741,390 1992,378"/>
+                <Word id="w_7" custom="readingOrder {index:6;}">
+                    <Coords points="741.0,339.0 1992,339.0 1992,409 741.0,409"/>
+                    <TextEquiv>
+                        <Unicode>destre aplicque a la torture. </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>destre aplicque a la torture. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" custom="readingOrder {index:7;}">
+                <Coords points="725,489 2434,489 2434,576 725,576"/>
+                <Baseline points="726,545 1323,528 2433,555"/>
+                <Word id="w_8" custom="readingOrder {index:7;}">
+                    <Coords points="726.0,490.0 2433,490.0 2433,575 726.0,575"/>
+                    <TextEquiv>
+                        <Unicode>Ou estant recougnut entierement questoient </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Ou estant recougnut entierement questoient </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" custom="readingOrder {index:8;}">
+                <Coords points="758,579 2419,579 2419,662 758,662"/>
+                <Baseline points="759,629 1282,617 2418,642"/>
+                <Word id="w_9" custom="readingOrder {index:8;}">
+                    <Coords points="759.0,580.0 2418,580.0 2418,661 759.0,661"/>
+                    <TextEquiv>
+                        <Unicode>10 ans quelle avoit renunce dieu Cresme et </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>10 ans quelle avoit renunce dieu Cresme et </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" custom="readingOrder {index:9;}">
+                <Coords points="755,656 1096,656 1096,728 755,728"/>
+                <Baseline points="756,708 1095,696"/>
+                <Word id="w_10" custom="readingOrder {index:9;}">
+                    <Coords points="756.0,657.0 1095,657.0 1095,727 756.0,727"/>
+                    <TextEquiv>
+                        <Unicode>baptesme </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>baptesme </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" custom="readingOrder {index:10;}">
+                <Coords points="734,747 1816,747 1816,821 734,821"/>
+                <Baseline points="735,800 1059,780 1815,788"/>
+                <Word id="w_11" custom="readingOrder {index:10;}">
+                    <Coords points="735.0,748.0 1815,748.0 1815,820 735.0,820"/>
+                    <TextEquiv>
+                        <Unicode>Sestoit donne a son mre charbon </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Sestoit donne a son mre charbon </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" custom="readingOrder {index:11;}">
+                <Coords points="743,832 1858,832 1858,907 743,907"/>
+                <Baseline points="744,887 1857,872"/>
+                <Word id="w_12" custom="readingOrder {index:11;}">
+                    <Coords points="744.0,833.0 1857,833.0 1857,906 744.0,906"/>
+                    <TextEquiv>
+                        <Unicode>Avoit heu sa compagnie froide </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Avoit heu sa compagnie froide </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" custom="readingOrder {index:12;}">
+                <Coords points="742,922 2076,922 2076,995 742,995"/>
+                <Baseline points="743,966 2075,975"/>
+                <Word id="w_13" custom="readingOrder {index:12;}">
+                    <Coords points="743.0,923.0 2075,923.0 2075,994 743.0,994"/>
+                    <TextEquiv>
+                        <Unicode>Quil avoit les pied Rond coe une beste </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Quil avoit les pied Rond coe une beste </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" custom="readingOrder {index:13;}">
+                <Coords points="745,1012 1666,1012 1666,1076 745,1076"/>
+                <Baseline points="746,1053 1665,1055"/>
+                <Word id="w_14" custom="readingOrder {index:13;}">
+                    <Coords points="746.0,1013.0 1665,1013.0 1665,1075 746.0,1075"/>
+                    <TextEquiv>
+                        <Unicode>Quil estoit vestus de gris </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Quil estoit vestus de gris </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" custom="readingOrder {index:14;}">
+                <Coords points="728,1096 2418,1096 2418,1200 728,1200"/>
+                <Baseline points="729,1149 1657,1137 2417,1179"/>
+                <Word id="w_15" custom="readingOrder {index:14;}">
+                    <Coords points="729.0,1097.0 2417,1097.0 2417,1199 729.0,1199"/>
+                    <TextEquiv>
+                        <Unicode>Quil lui avoit donne des feuilles pour delargent </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Quil lui avoit donne des feuilles pour delargent </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" custom="readingOrder {index:15;}">
+                <Coords points="739,1201 1821,1201 1821,1283 739,1283"/>
+                <Baseline points="740,1245 1172,1236 1820,1262"/>
+                <Word id="w_16" custom="readingOrder {index:15;}">
+                    <Coords points="740.0,1202.0 1820,1202.0 1820,1282 740.0,1282"/>
+                    <TextEquiv>
+                        <Unicode>Quil avoit receu du poulsat </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Quil avoit receu du poulsat </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" custom="readingOrder {index:16;}">
+                <Coords points="739,1298 2412,1298 2412,1387 739,1387"/>
+                <Baseline points="740,1343 2411,1368"/>
+                <Word id="w_17" custom="readingOrder {index:16;}">
+                    <Coords points="740.0,1299.0 2411,1299.0 2411,1386 740.0,1386"/>
+                    <TextEquiv>
+                        <Unicode>Et en avoit jectes sur les 2 chevaulx et la vache </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Et en avoit jectes sur les 2 chevaulx et la vache </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" custom="readingOrder {index:17;}">
+                <Coords points="749,1364 1011,1364 1011,1442 749,1442"/>
+                <Baseline points="750,1422 1010,1403"/>
+                <Word id="w_18" custom="readingOrder {index:17;}">
+                    <Coords points="750.0,1365.0 1010,1365.0 1010,1441 750.0,1441"/>
+                    <TextEquiv>
+                        <Unicode>pred </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>pred </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" custom="readingOrder {index:18;}">
+                <Coords points="770,1477 2524,1477 2524,1551 770,1551"/>
+                <Baseline points="771,1521 2523,1530"/>
+                <Word id="w_19" custom="readingOrder {index:18;}">
+                    <Coords points="771.0,1478.0 2523,1478.0 2523,1550 771.0,1550"/>
+                    <TextEquiv>
+                        <Unicode>Quelle sestoit treuve au Sabath Sur les planches </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Quelle sestoit treuve au Sabath Sur les planches </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" custom="readingOrder {index:19;}">
+                <Coords points="773,1558 2130,1558 2130,1635 773,1635"/>
+                <Baseline points="774,1614 2129,1599"/>
+                <Word id="w_20" custom="readingOrder {index:19;}">
+                    <Coords points="774.0,1559.0 2129,1559.0 2129,1634 774.0,1634"/>
+                    <TextEquiv>
+                        <Unicode>Gribolai vers le fahir de dele O </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Gribolai vers le fahir de dele O </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" custom="readingOrder {index:20;}">
+                <Coords points="767,1665 2538,1665 2538,1746 767,1746"/>
+                <Baseline points="768,1716 1387,1701 2537,1725"/>
+                <Word id="w_21" custom="readingOrder {index:20;}">
+                    <Coords points="768.0,1666.0 2537,1666.0 2537,1745 768.0,1745"/>
+                    <TextEquiv>
+                        <Unicode>Quilec Il y en avoit plusrs questoient masquees </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Quilec Il y en avoit plusrs questoient masquees </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" custom="readingOrder {index:21;}">
+                <Coords points="755,1779 2392,1779 2392,1848 755,1848"/>
+                <Baseline points="756,1824 2391,1830"/>
+                <Word id="w_22" custom="readingOrder {index:21;}">
+                    <Coords points="756.0,1780.0 2391,1780.0 2391,1847 756.0,1847"/>
+                    <TextEquiv>
+                        <Unicode>Quilec elle cougnut la voirade femme de </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Quilec elle cougnut la voirade femme de </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" custom="readingOrder {index:22;}">
+                <Coords points="796,1854 1956,1854 1956,1929 796,1929"/>
+                <Baseline points="797,1911 1955,1889"/>
+                <Word id="w_23" custom="readingOrder {index:22;}">
+                    <Coords points="797.0,1855.0 1955,1855.0 1955,1928 797.0,1928"/>
+                    <TextEquiv>
+                        <Unicode>Pierrat fongaibe de dele. </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Pierrat fongaibe de dele. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" custom="readingOrder {index:23;}">
+                <Coords points="1121,2028 1909,2028 1909,2068 1121,2068"/>
+                <Baseline points="1122,2063 1908,2067"/>
+                <Word id="w_24" custom="readingOrder {index:23;}">
+                    <Coords points="1122.0,2029.0 1908,2029.0 1908,2067 1122.0,2067"/>
+                    <TextEquiv>
+                        <Unicode>Le 25 dud mois 1610 </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Le 25 dud mois 1610 </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" custom="readingOrder {index:24;}">
+                <Coords points="748,2134 2452,2134 2452,2207 748,2207"/>
+                <Baseline points="749,2177 2451,2187"/>
+                <Word id="w_25" custom="readingOrder {index:24;}">
+                    <Coords points="749.0,2135.0 2451,2135.0 2451,2206 749.0,2206"/>
+                    <TextEquiv>
+                        <Unicode>Lad Alix librement ayant nye les faictz pred </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Lad Alix librement ayant nye les faictz pred </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" custom="readingOrder {index:25;}">
+                <Coords points="757,2216 2424,2216 2424,2294 757,2294"/>
+                <Baseline points="758,2259 2423,2274"/>
+                <Word id="w_26" custom="readingOrder {index:25;}">
+                    <Coords points="758.0,2217.0 2423,2217.0 2423,2293 758.0,2293"/>
+                    <TextEquiv>
+                        <Unicode>et declaire quelle se faisoit tord ainsy que lon </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>et declaire quelle se faisoit tord ainsy que lon </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" custom="readingOrder {index:26;}">
+                <Coords points="757,2299 2536,2299 2536,2386 757,2386"/>
+                <Baseline points="758,2339 2535,2366"/>
+                <Word id="w_27" custom="readingOrder {index:26;}">
+                    <Coords points="758.0,2300.0 2535,2300.0 2535,2385 758.0,2385"/>
+                    <TextEquiv>
+                        <Unicode>la conduisoit en prison au lieu ou au paravant </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>la conduisoit en prison au lieu ou au paravant </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_28" custom="readingOrder {index:27;}">
+                <Coords points="766,2386 2362,2386 2362,2466 766,2466"/>
+                <Baseline points="767,2424 2361,2447"/>
+                <Word id="w_28" custom="readingOrder {index:27;}">
+                    <Coords points="767.0,2387.0 2361,2387.0 2361,2465 767.0,2465"/>
+                    <TextEquiv>
+                        <Unicode>elle avoit este Icelle dit que lon la debvoit </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>elle avoit este Icelle dit que lon la debvoit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_29" custom="readingOrder {index:28;}">
+                <Coords points="767,2461 2562,2461 2562,2557 767,2557"/>
+                <Baseline points="768,2510 1395,2499 2561,2538"/>
+                <Word id="w_29" custom="readingOrder {index:28;}">
+                    <Coords points="768.0,2462.0 2561,2462.0 2561,2556 768.0,2556"/>
+                    <TextEquiv>
+                        <Unicode>remener vers les srs officiers quelle se vouloit descharger </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>remener vers les srs officiers quelle se vouloit descharger </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_30" custom="readingOrder {index:29;}">
+                <Coords points="730,2559 2380,2559 2380,2650 730,2650"/>
+                <Baseline points="731,2600 1555,2598 2379,2630"/>
+                <Word id="w_30" custom="readingOrder {index:29;}">
+                    <Coords points="731.0,2560.0 2379,2560.0 2379,2649 731.0,2649"/>
+                    <TextEquiv>
+                        <Unicode>Et estant enmy la court du chasteau icelle dit </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Et estant enmy la court du chasteau icelle dit </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_31" custom="readingOrder {index:30;}">
+                <Coords points="761,2630 2479,2630 2479,2734 761,2734"/>
+                <Baseline points="762,2678 1362,2669 2478,2714"/>
+                <Word id="w_31" custom="readingOrder {index:30;}">
+                    <Coords points="762.0,2631.0 2478,2631.0 2478,2733 762.0,2733"/>
+                    <TextEquiv>
+                        <Unicode>que vroyement elle avoit commis et perpertres </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>que vroyement elle avoit commis et perpertres </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_32" custom="readingOrder {index:31;}">
+                <Coords points="764,2719 2551,2719 2551,2822 764,2822"/>
+                <Baseline points="765,2762 1389,2760 2550,2801"/>
+                <Word id="w_32" custom="readingOrder {index:31;}">
+                    <Coords points="765.0,2720.0 2550,2720.0 2550,2821 765.0,2821"/>
+                    <TextEquiv>
+                        <Unicode>les actes et crimes p elle confessee Criant a dieu </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>les actes et crimes p elle confessee Criant a dieu </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_33" custom="readingOrder {index:32;}">
+                <Coords points="758,2806 2500,2806 2500,2892 758,2892"/>
+                <Baseline points="759,2844 2499,2873"/>
+                <Word id="w_33" custom="readingOrder {index:32;}">
+                    <Coords points="759.0,2807.0 2499,2807.0 2499,2891 759.0,2891"/>
+                    <TextEquiv>
+                        <Unicode>merci et a monsr le priant de lui vouloir faire </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>merci et a monsr le priant de lui vouloir faire </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_34" custom="readingOrder {index:33;}">
+                <Coords points="752,2884 2395,2884 2395,2975 752,2975"/>
+                <Baseline points="753,2919 2394,2957"/>
+                <Word id="w_34" custom="readingOrder {index:33;}">
+                    <Coords points="753.0,2885.0 2394,2885.0 2394,2974 753.0,2974"/>
+                    <TextEquiv>
+                        <Unicode>grace Et estoient pnts mesrs Balthasar </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>grace Et estoient pnts mesrs Balthasar </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_35" custom="readingOrder {index:34;}">
+                <Coords points="748,2965 1693,2965 1693,3026 748,3026"/>
+                <Baseline points="749,3000 1692,3008"/>
+                <Word id="w_35" custom="readingOrder {index:34;}">
+                    <Coords points="749.0,2966.0 1692,2966.0 1692,3025 749.0,3025"/>
+                    <TextEquiv>
+                        <Unicode>Reitner, Marrel et je. </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Reitner, Marrel et je. </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_36" custom="readingOrder {index:35;}">
+                <Coords points="1207,3084 1860,3084 1860,3164 1207,3164"/>
+                <Baseline points="1208,3143 1859,3125"/>
+                <Word id="w_36" custom="readingOrder {index:35;}">
+                    <Coords points="1208.0,3085.0 1859,3085.0 1859,3163 1208.0,3163"/>
+                    <TextEquiv>
+                        <Unicode>Le 26. dud mois</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Le 26. dud mois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_37" custom="readingOrder {index:36;}">
+                <Coords points="739,3173 2433,3173 2433,3248 739,3248"/>
+                <Baseline points="740,3212 2432,3228"/>
+                <Word id="w_37" custom="readingOrder {index:36;}">
+                    <Coords points="740.0,3174.0 2432,3174.0 2432,3247 740.0,3247"/>
+                    <TextEquiv>
+                        <Unicode>Lad Alix estant derechieff examinee le matin dud </Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Lad Alix estant derechieff examinee le matin dud </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_38" custom="readingOrder {index:37;}">
+                <Coords points="737,3257 2401,3257 2401,3322 737,3322"/>
+                <Baseline points="738,3302 2400,3296"/>
+                <Word id="w_38" custom="readingOrder {index:37;}">
+                    <Coords points="738.0,3258.0 2400,3258.0 2400,3321 738.0,3321"/>
+                    <TextEquiv>
+                        <Unicode>jour Icelle dit quelle se faisoit grand tord</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>jour Icelle dit quelle se faisoit grand tord</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> doffice se rencontrant du tout semblable a
+ceuqlle avoit confessee Icelle fust condempne 
+destre aplicque a la torture. 
+Ou estant recougnut entierement questoient 
+10 ans quelle avoit renunce dieu Cresme et 
+baptesme 
+Sestoit donne a son mre charbon 
+Avoit heu sa compagnie froide 
+Quil avoit les pied Rond coe une beste 
+Quil estoit vestus de gris 
+Quil lui avoit donne des feuilles pour delargent 
+Quil avoit receu du poulsat 
+Et en avoit jectes sur les 2 chevaulx et la vache 
+pred 
+Quelle sestoit treuve au Sabath Sur les planches 
+Gribolai vers le fahir de dele O 
+Quilec Il y en avoit plusrs questoient masquees 
+Quilec elle cougnut la voirade femme de 
+Pierrat fongaibe de dele. 
+Le 25 dud mois 1610 
+Lad Alix librement ayant nye les faictz pred 
+et declaire quelle se faisoit tord ainsy que lon 
+la conduisoit en prison au lieu ou au paravant 
+elle avoit este Icelle dit que lon la debvoit 
+remener vers les srs officiers quelle se vouloit descharger 
+Et estant enmy la court du chasteau icelle dit 
+que vroyement elle avoit commis et perpertres 
+les actes et crimes p elle confessee Criant a dieu 
+merci et a monsr le priant de lui vouloir faire 
+grace Et estoient pnts mesrs Balthasar 
+Reitner, Marrel et je. 
+Le 26. dud mois
+Lad Alix estant derechieff examinee le matin dud 
+jour Icelle dit quelle se faisoit grand tord</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

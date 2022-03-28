@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-2-2_0010.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2565"
+          HEIGHT="3756"
+          PHYSICAL_IMG_NR="12"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2565"
+                  HEIGHT="3756">
+        
+        <TextBlock HPOS="500"
+                   VPOS="202"
+                   WIDTH="1924"
+                   HEIGHT="663"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="500 202 500 865 2424 865 2424 202"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="1001 263 1946 264" 
+                    HPOS="1001.0"
+                    VPOS="204.0"
+                    WIDTH="945.0"
+                    HEIGHT="89.0">
+            <Shape><Polygon POINTS="1001 292 1946 293 1946 205 1001 204 1001 292"/></Shape>
+	    <String CONTENT="Le 22 de Novembre 1608."
+                    HPOS="1001.0"
+                    VPOS="204.0"
+                    WIDTH="945.0"
+                    HEIGHT="89.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l2"
+                    
+                    BASELINE="681 414 1625 398 2255 411" 
+                    HPOS="681.0"
+                    VPOS="364.0"
+                    WIDTH="1574.0"
+                    HEIGHT="67.0">
+            <Shape><Polygon POINTS="681 431 1625 415 2255 428 2255 377 1625 364 681 380 681 431"/></Shape>
+	    <String CONTENT="Les pntes Informations sont estees leutes Par"
+                    HPOS="681.0"
+                    VPOS="364.0"
+                    WIDTH="1574.0"
+                    HEIGHT="67.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l3"
+                    
+                    BASELINE="729 494 1576 470 2424 488" 
+                    HPOS="729.0"
+                    VPOS="436.0"
+                    WIDTH="1695.0"
+                    HEIGHT="75.0">
+            <Shape><Polygon POINTS="729 511 1576 487 2424 505 2424 454 1830 436 1152 445 729 460 729 511"/></Shape>
+	    <String CONTENT="devant Le conseil de son Excellence Reverendissime"
+                    HPOS="729.0"
+                    VPOS="436.0"
+                    WIDTH="1695.0"
+                    HEIGHT="75.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l4"
+                    
+                    BASELINE="701 569 2390 548" 
+                    HPOS="701.0"
+                    VPOS="508.0"
+                    WIDTH="1689.0"
+                    HEIGHT="81.0">
+            <Shape><Polygon POINTS="701 589 2390 568 2390 508 701 529 701 589"/></Shape>
+	    <String CONTENT="Lequel ayant le tout veu et pese Ont declaire"
+                    HPOS="701.0"
+                    VPOS="508.0"
+                    WIDTH="1689.0"
+                    HEIGHT="81.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l5"
+                    
+                    BASELINE="683 651 2381 630" 
+                    HPOS="683.0"
+                    VPOS="571.0"
+                    WIDTH="1698.0"
+                    HEIGHT="109.0">
+            <Shape><Polygon POINTS="683 680 2381 659 2381 571 683 592 683 680"/></Shape>
+	    <String CONTENT="Lad Annelin debvoir estre tiree en cause et en"
+                    HPOS="683.0"
+                    VPOS="571.0"
+                    WIDTH="1698.0"
+                    HEIGHT="109.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l6"
+                    
+                    BASELINE="753 738 2372 719" 
+                    HPOS="753.0"
+                    VPOS="660.0"
+                    WIDTH="1619.0"
+                    HEIGHT="107.0">
+            <Shape><Polygon POINTS="753 767 2372 748 2372 660 753 679 753 767"/></Shape>
+	    <String CONTENT="prison. Et estant Illec tost sur les faictz pred"
+                    HPOS="753.0"
+                    VPOS="660.0"
+                    WIDTH="1619.0"
+                    HEIGHT="107.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l7"
+                    
+                    BASELINE="500 836 1737 810 2268 815" 
+                    HPOS="500.0"
+                    VPOS="756.0"
+                    WIDTH="1768.0"
+                    HEIGHT="109.0">
+            <Shape><Polygon POINTS="500 865 2268 844 2268 756 500 777 500 865"/></Shape>
+	    <String CONTENT="debvoir estre gehennee et examinee a la torture. "
+                    HPOS="500.0"
+                    VPOS="756.0"
+                    WIDTH="1768.0"
+                    HEIGHT="109.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

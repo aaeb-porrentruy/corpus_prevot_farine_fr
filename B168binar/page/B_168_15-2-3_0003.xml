@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:52.04+01:00</Created>
+        <LastChange>2022-03-07T16:35:52.04+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-2-3_0003.jpg" imageWidth="2648" imageHeight="3947">
+        <PrintSpace>
+            <Coords points="0,0 2648,0 2648,3947 0,3947"/>
+        </PrintSpace>
+        <TextRegion id="r1" custom="readingOrder {index:NaN;}">
+            <Coords points="128,220 128,3257 2576,3257 2576,220"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="814,225 2484,225 2484,315 814,315"/>
+                <Baseline points="815,294 1398,260 2483,288"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="815.0,226.0 2483,226.0 2483,314 815.0,314"/>
+                    <TextEquiv>
+                        <Unicode>A quelle occasion lad Annelin fust faschee</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>A quelle occasion lad Annelin fust faschee</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="826,309 2499,309 2499,404 826,404"/>
+                <Baseline points="827,369 1662,345 2498,383"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="827.0,310.0 2498,310.0 2498,403 827.0,403"/>
+                    <TextEquiv>
+                        <Unicode>lors quela f coiffe de la seure Thevnat</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>lors quela f coiffe de la seure Thevnat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="127,296 744,296 744,373 127,373"/>
+                <Baseline points="128,359 743,356"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="128.0,297.0 743,297.0 743,372 128.0,372"/>
+                    <TextEquiv>
+                        <Unicode>Confesse avoir maudit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Confesse avoir maudit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" custom="readingOrder {index:3;}">
+                <Coords points="161,365 815,365 815,434 161,434"/>
+                <Baseline points="162,420 780,408"/>
+                <Word id="w_4" custom="readingOrder {index:3;}">
+                    <Coords points="162.0,366.0 814,366.0 814,433 162.0,433"/>
+                    <TextEquiv>
+                        <Unicode>celle que faisoit 20 tord</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>celle que faisoit 20 tord</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" custom="readingOrder {index:4;}">
+                <Coords points="827,387 2452,387 2452,487 827,487"/>
+                <Baseline points="828,467 1558,426 2451,449"/>
+                <Word id="w_5" custom="readingOrder {index:4;}">
+                    <Coords points="828.0,388.0 2451,388.0 2451,486 828.0,486"/>
+                    <TextEquiv>
+                        <Unicode>maillat fust perdue, Et sy elle scait rien</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>maillat fust perdue, Et sy elle scait rien</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" custom="readingOrder {index:5;}">
+                <Coords points="184,442 768,442 768,494 184,494"/>
+                <Baseline points="185,479 728,476"/>
+                <Word id="w_6" custom="readingOrder {index:5;}">
+                    <Coords points="185.0,443.0 767,443.0 767,493 185.0,493"/>
+                    <TextEquiv>
+                        <Unicode>a laultre quelle ne</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>a laultre quelle ne</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" custom="readingOrder {index:6;}">
+                <Coords points="820,477 2577,477 2577,566 820,566"/>
+                <Baseline points="821,551 1874,506 2225,513 2576,539"/>
+                <Word id="w_7" custom="readingOrder {index:6;}">
+                    <Coords points="821.0,478.0 2576,478.0 2576,565 821.0,565"/>
+                    <TextEquiv>
+                        <Unicode>de la maladie dicelle dequoi la mort sen ensuivit</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>de la maladie dicelle dequoi la mort sen ensuivit</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" custom="readingOrder {index:7;}">
+                <Coords points="175,513 738,513 738,564 175,564"/>
+                <Baseline points="176,549 737,543"/>
+                <Word id="w_8" custom="readingOrder {index:7;}">
+                    <Coords points="176.0,514.0 737,514.0 737,563 176.0,563"/>
+                    <TextEquiv>
+                        <Unicode>deust point vivre ung</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>deust point vivre ung</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" custom="readingOrder {index:8;}">
+                <Coords points="197,578 829,578 829,624 197,624"/>
+                <Baseline points="198,608 828,609"/>
+                <Word id="w_9" custom="readingOrder {index:8;}">
+                    <Coords points="198.0,579.0 828,579.0 828,623 198.0,623"/>
+                    <TextEquiv>
+                        <Unicode>an. Et est depuis morte</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>an. Et est depuis morte</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" custom="readingOrder {index:9;}">
+                <Coords points="737,655 2479,655 2479,774 737,774"/>
+                <Baseline points="768,753 1110,719 1537,698 2478,707"/>
+                <Word id="w_10" custom="readingOrder {index:9;}">
+                    <Coords points="738.0,656.0 2478,656.0 2478,773 738.0,773"/>
+                    <TextEquiv>
+                        <Unicode>Sy elle scait point qui avoit oste Le laict aux</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Sy elle scait point qui avoit oste Le laict aux</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" custom="readingOrder {index:10;}">
+                <Coords points="844,741 2484,741 2484,851 844,851"/>
+                <Baseline points="845,830 1500,786 1991,783 2483,800"/>
+                <Word id="w_11" custom="readingOrder {index:10;}">
+                    <Coords points="845.0,742.0 2483,742.0 2483,850 845.0,850"/>
+                    <TextEquiv>
+                        <Unicode>chievres de Nicolas torel et comme le laict</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>chievres de Nicolas torel et comme le laict</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_12" custom="readingOrder {index:11;}">
+                <Coords points="563,825 661,825 661,890 563,890"/>
+                <Baseline points="564,866 660,869"/>
+                <Word id="w_12" custom="readingOrder {index:11;}">
+                    <Coords points="564.0,826.0 660,826.0 660,889 564.0,889"/>
+                    <TextEquiv>
+                        <Unicode>21</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>21</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" custom="readingOrder {index:12;}">
+                <Coords points="787,846 1413,846 1413,931 787,931"/>
+                <Baseline points="788,917 1412,890"/>
+                <Word id="w_13" custom="readingOrder {index:12;}">
+                    <Coords points="788.0,847.0 1412,847.0 1412,930 788.0,930"/>
+                    <TextEquiv>
+                        <Unicode>Leur est revenu.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Leur est revenu.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" custom="readingOrder {index:13;}">
+                <Coords points="608,943 840,943 840,995 608,995"/>
+                <Baseline points="609,981 839,971"/>
+                <Word id="w_14" custom="readingOrder {index:13;}">
+                    <Coords points="609.0,944.0 839,944.0 839,994 609.0,994"/>
+                    <TextEquiv>
+                        <Unicode>Negat</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" custom="readingOrder {index:14;}">
+                <Coords points="743,1071 2433,1071 2433,1215 743,1215"/>
+                <Baseline points="800,1170 1616,1125 2432,1133"/>
+                <Word id="w_15" custom="readingOrder {index:14;}">
+                    <Coords points="744.0,1072.0 2432,1072.0 2432,1214 744.0,1214"/>
+                    <TextEquiv>
+                        <Unicode>Sy elle scait point qui estoit la cause du laict</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Sy elle scait point qui estoit la cause du laict</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_16" custom="readingOrder {index:15;}">
+                <Coords points="802,1170 2433,1170 2433,1264 802,1264"/>
+                <Baseline points="803,1245 1454,1212 2432,1208"/>
+                <Word id="w_16" custom="readingOrder {index:15;}">
+                    <Coords points="803.0,1171.0 2432,1171.0 2432,1263 803.0,1263"/>
+                    <TextEquiv>
+                        <Unicode>des vaches de dedie villain lors quelle lad</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>des vaches de dedie villain lors quelle lad</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" custom="readingOrder {index:16;}">
+                <Coords points="811,1261 2476,1261 2476,1346 811,1346"/>
+                <Baseline points="812,1325 1477,1293 2475,1304"/>
+                <Word id="w_17" custom="readingOrder {index:16;}">
+                    <Coords points="812.0,1262.0 2475,1262.0 2475,1345 812.0,1345"/>
+                    <TextEquiv>
+                        <Unicode>Annelin fust au marche avec leur mere,</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Annelin fust au marche avec leur mere,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_18" custom="readingOrder {index:17;}">
+                <Coords points="565,1282 798,1282 798,1359 565,1359"/>
+                <Baseline points="566,1338 797,1323"/>
+                <Word id="w_18" custom="readingOrder {index:17;}">
+                    <Coords points="566.0,1283.0 797,1283.0 797,1358 566.0,1358"/>
+                    <TextEquiv>
+                        <Unicode>22</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>22</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_19" custom="readingOrder {index:18;}">
+                <Coords points="832,1336 2539,1336 2539,1422 832,1422"/>
+                <Baseline points="833,1403 1770,1374 2538,1391"/>
+                <Word id="w_19" custom="readingOrder {index:18;}">
+                    <Coords points="833.0,1337.0 2538,1337.0 2538,1421 833.0,1421"/>
+                    <TextEquiv>
+                        <Unicode>et avoit tenu et manie en ses mains lebeurre</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>et avoit tenu et manie en ses mains lebeurre</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" custom="readingOrder {index:19;}">
+                <Coords points="604,1441 861,1441 861,1498 604,1498"/>
+                <Baseline points="605,1479 860,1479"/>
+                <Word id="w_20" custom="readingOrder {index:19;}">
+                    <Coords points="605.0,1442.0 860,1442.0 860,1497 605.0,1497"/>
+                    <TextEquiv>
+                        <Unicode>Negat</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" custom="readingOrder {index:20;}">
+                <Coords points="777,1508 2378,1508 2378,1632 777,1632"/>
+                <Baseline points="809,1614 1429,1590 2360,1602"/>
+                <Word id="w_21" custom="readingOrder {index:20;}">
+                    <Coords points="778.0,1509.0 2377,1509.0 2377,1631 778.0,1631"/>
+                    <TextEquiv>
+                        <Unicode>Sy elle scait point la cause dela maladie</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Sy elle scait point la cause dela maladie</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_22" custom="readingOrder {index:21;}">
+                <Coords points="815,1643 2473,1643 2473,1709 815,1709"/>
+                <Baseline points="816,1685 1561,1674 2472,1691"/>
+                <Word id="w_22" custom="readingOrder {index:21;}">
+                    <Coords points="816.0,1644.0 2472,1644.0 2472,1708 816.0,1708"/>
+                    <TextEquiv>
+                        <Unicode>du cheval dud dedie Lors quelle quil lui</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>du cheval dud dedie Lors quelle quil lui</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" custom="readingOrder {index:22;}">
+                <Coords points="532,1690 640,1690 640,1754 532,1754"/>
+                <Baseline points="533,1731 639,1733"/>
+                <Word id="w_23" custom="readingOrder {index:22;}">
+                    <Coords points="533.0,1691.0 639,1691.0 639,1753 533.0,1753"/>
+                    <TextEquiv>
+                        <Unicode>23</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>23</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_24" custom="readingOrder {index:23;}">
+                <Coords points="845,1716 2334,1716 2334,1799 845,1799"/>
+                <Baseline points="846,1767 1812,1755 2333,1779"/>
+                <Word id="w_24" custom="readingOrder {index:23;}">
+                    <Coords points="846.0,1717.0 2333,1717.0 2333,1798 846.0,1798"/>
+                    <TextEquiv>
+                        <Unicode>refusa daller querir une charre de bois</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>refusa daller querir une charre de bois</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_25" custom="readingOrder {index:24;}">
+                <Coords points="650,1807 940,1807 940,1887 650,1887"/>
+                <Baseline points="651,1866 939,1848"/>
+                <Word id="w_25" custom="readingOrder {index:24;}">
+                    <Coords points="651.0,1808.0 939,1808.0 939,1886 651.0,1886"/>
+                    <TextEquiv>
+                        <Unicode>Negat</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_26" custom="readingOrder {index:25;}">
+                <Coords points="838,1952 2436,1952 2436,2010 838,2010"/>
+                <Baseline points="839,1992 2435,1988"/>
+                <Word id="w_26" custom="readingOrder {index:25;}">
+                    <Coords points="839.0,1953.0 2435,1953.0 2435,2009 839.0,2009"/>
+                    <TextEquiv>
+                        <Unicode>Du cheval mort a Perrin coinson et devenu</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Du cheval mort a Perrin coinson et devenu</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_27" custom="readingOrder {index:26;}">
+                <Coords points="829,2019 2469,2019 2469,2091 829,2091"/>
+                <Baseline points="830,2073 1157,2055 2468,2073"/>
+                <Word id="w_27" custom="readingOrder {index:26;}">
+                    <Coords points="830.0,2020.0 2468,2020.0 2468,2090 830.0,2090"/>
+                    <TextEquiv>
+                        <Unicode>malade incontinenti apres que led Perrin</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>malade incontinenti apres que led Perrin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_28" custom="readingOrder {index:27;}">
+                <Coords points="505,2058 645,2058 645,2126 505,2126"/>
+                <Baseline points="506,2105 644,2099"/>
+                <Word id="w_28" custom="readingOrder {index:27;}">
+                    <Coords points="506.0,2059.0 644,2059.0 644,2125 506.0,2125"/>
+                    <TextEquiv>
+                        <Unicode>24</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>24</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_29" custom="readingOrder {index:28;}">
+                <Coords points="823,2108 2556,2108 2556,2184 823,2184"/>
+                <Baseline points="824,2162 1343,2141 2208,2168 2555,2163"/>
+                <Word id="w_29" custom="readingOrder {index:28;}">
+                    <Coords points="824.0,2109.0 2555,2109.0 2555,2183 824.0,2183"/>
+                    <TextEquiv>
+                        <Unicode>Lui heust refuse de mener du fumier et quelle</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Lui heust refuse de mener du fumier et quelle</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_30" custom="readingOrder {index:29;}">
+                <Coords points="787,2193 2245,2193 2245,2274 787,2274"/>
+                <Baseline points="788,2255 1807,2228 2244,2256"/>
+                <Word id="w_30" custom="readingOrder {index:29;}">
+                    <Coords points="788.0,2194.0 2244,2194.0 2244,2273 788.0,2273"/>
+                    <TextEquiv>
+                        <Unicode>Leust menace quil nen gaingneroit rien.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Leust menace quil nen gaingneroit rien.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_31" custom="readingOrder {index:30;}">
+                <Coords points="628,2314 901,2314 901,2390 628,2390"/>
+                <Baseline points="629,2369 900,2355"/>
+                <Word id="w_31" custom="readingOrder {index:30;}">
+                    <Coords points="629.0,2315.0 900,2315.0 900,2389 629.0,2389"/>
+                    <TextEquiv>
+                        <Unicode>Negat</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Negat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_32" custom="readingOrder {index:31;}">
+                <Coords points="814,2499 2398,2499 2398,2565 814,2565"/>
+                <Baseline points="815,2537 1685,2528 2397,2546"/>
+                <Word id="w_32" custom="readingOrder {index:31;}">
+                    <Coords points="815.0,2500.0 2397,2500.0 2397,2564 815.0,2564"/>
+                    <TextEquiv>
+                        <Unicode>Quil Maudiroit tant Vernier coinson quille</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Quil Maudiroit tant Vernier coinson quille</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_33" custom="readingOrder {index:32;}">
+                <Coords points="536,2535 631,2535 631,2603 536,2603"/>
+                <Baseline points="537,2582 630,2576"/>
+                <Word id="w_33" custom="readingOrder {index:32;}">
+                    <Coords points="537.0,2536.0 630,2536.0 630,2602 537.0,2602"/>
+                    <TextEquiv>
+                        <Unicode>25</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>25</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_34" custom="readingOrder {index:33;}">
+                <Coords points="809,2574 1723,2574 1723,2636 809,2636"/>
+                <Baseline points="810,2616 1402,2604 1722,2613"/>
+                <Word id="w_34" custom="readingOrder {index:33;}">
+                    <Coords points="810.0,2575.0 1722,2575.0 1722,2635 810.0,2635"/>
+                    <TextEquiv>
+                        <Unicode>feroit a seicher sur terre.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>feroit a seicher sur terre.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_35" custom="readingOrder {index:34;}">
+                <Coords points="790,2746 2467,2746 2467,2820 790,2820"/>
+                <Baseline points="791,2787 2466,2799"/>
+                <Word id="w_35" custom="readingOrder {index:34;}">
+                    <Coords points="791.0,2747.0 2466,2747.0 2466,2819 791.0,2819"/>
+                    <TextEquiv>
+                        <Unicode>Lors quon portoit lenfant vnier coinson pour</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Lors quon portoit lenfant vnier coinson pour</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_36" custom="readingOrder {index:35;}">
+                <Coords points="827,2832 2508,2832 2508,2909 827,2909"/>
+                <Baseline points="828,2873 2507,2888"/>
+                <Word id="w_36" custom="readingOrder {index:35;}">
+                    <Coords points="828.0,2833.0 2507,2833.0 2507,2908 828.0,2908"/>
+                    <TextEquiv>
+                        <Unicode>baptiser, quelle dit a Belet feme Borcard guenin</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>baptiser, quelle dit a Belet feme Borcard guenin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_37" custom="readingOrder {index:36;}">
+                <Coords points="818,2920 2452,2920 2452,2993 818,2993"/>
+                <Baseline points="819,2961 2451,2972"/>
+                <Word id="w_37" custom="readingOrder {index:36;}">
+                    <Coords points="819.0,2921.0 2451,2921.0 2451,2992 819.0,2992"/>
+                    <TextEquiv>
+                        <Unicode>qui tient cest enffant quelle respondit bien veoir</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>qui tient cest enffant quelle respondit bien veoir</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_38" custom="readingOrder {index:37;}">
+                <Coords points="494,2953 655,2953 655,3033 494,3033"/>
+                <Baseline points="495,3012 654,2994"/>
+                <Word id="w_38" custom="readingOrder {index:37;}">
+                    <Coords points="495.0,2954.0 654,2954.0 654,3032 495.0,3032"/>
+                    <TextEquiv>
+                        <Unicode>26.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>26.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_39" custom="readingOrder {index:38;}">
+                <Coords points="806,3009 2494,3009 2494,3071 806,3071"/>
+                <Baseline points="807,3050 2493,3050"/>
+                <Word id="w_39" custom="readingOrder {index:38;}">
+                    <Coords points="807.0,3010.0 2493,3010.0 2493,3070 807.0,3070"/>
+                    <TextEquiv>
+                        <Unicode>q surce elle dit quelle feroit le diable que lui deust</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>q surce elle dit quelle feroit le diable que lui deust</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_40" custom="readingOrder {index:39;}">
+                <Coords points="824,3105 2518,3105 2518,3182 824,3182"/>
+                <Baseline points="825,3146 2517,3161"/>
+                <Word id="w_40" custom="readingOrder {index:39;}">
+                    <Coords points="825.0,3106.0 2517,3106.0 2517,3181 825.0,3181"/>
+                    <TextEquiv>
+                        <Unicode>tomber sus et sur le pere et sur la mere et sur</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>tomber sus et sur le pere et sur la mere et sur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_41" custom="readingOrder {index:40;}">
+                <Coords points="763,3195 2149,3195 2149,3258 763,3258"/>
+                <Baseline points="812,3236 2148,3237"/>
+                <Word id="w_41" custom="readingOrder {index:40;}">
+                    <Coords points="764.0,3196.0 2148,3196.0 2148,3257 764.0,3257"/>
+                    <TextEquiv>
+                        <Unicode>Lenfant et sur les parain et maronnes.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Lenfant et sur les parain et maronnes.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>A quelle occasion lad Annelin fust faschee
+lors quela f coiffe de la seure Thevnat
+Confesse avoir maudit
+celle que faisoit 20 tord
+maillat fust perdue, Et sy elle scait rien
+a laultre quelle ne
+de la maladie dicelle dequoi la mort sen ensuivit
+deust point vivre ung
+an. Et est depuis morte
+Sy elle scait point qui avoit oste Le laict aux
+chievres de Nicolas torel et comme le laict
+21
+Leur est revenu.
+Negat
+Sy elle scait point qui estoit la cause du laict
+des vaches de dedie villain lors quelle lad
+Annelin fust au marche avec leur mere,
+22
+et avoit tenu et manie en ses mains lebeurre
+Negat
+Sy elle scait point la cause dela maladie
+du cheval dud dedie Lors quelle quil lui
+23
+refusa daller querir une charre de bois
+Negat
+Du cheval mort a Perrin coinson et devenu
+malade incontinenti apres que led Perrin
+24
+Lui heust refuse de mener du fumier et quelle
+Leust menace quil nen gaingneroit rien.
+Negat
+Quil Maudiroit tant Vernier coinson quille
+25
+feroit a seicher sur terre.
+Lors quon portoit lenfant vnier coinson pour
+baptiser, quelle dit a Belet feme Borcard guenin
+qui tient cest enffant quelle respondit bien veoir
+26.
+q surce elle dit quelle feroit le diable que lui deust
+tomber sus et sur le pere et sur la mere et sur
+Lenfant et sur les parain et maronnes.</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

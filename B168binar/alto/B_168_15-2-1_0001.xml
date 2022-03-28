@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-2-1_0001.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2617"
+          HEIGHT="4010"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2617"
+                  HEIGHT="4010">
+        
+        <TextBlock HPOS="351"
+                   VPOS="457"
+                   WIDTH="359"
+                   HEIGHT="239"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="351 457 351 696 710 696 710 457"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="429 521 636 521" 
+                    HPOS="429.0"
+                    VPOS="460.0"
+                    WIDTH="207.0"
+                    HEIGHT="91.0">
+            <Shape><Polygon POINTS="429 551 636 551 636 460 429 460 429 551"/></Shape>
+	    <String CONTENT="Anne "
+                    HPOS="429.0"
+                    VPOS="460.0"
+                    WIDTH="207.0"
+                    HEIGHT="91.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l2"
+                    
+                    BASELINE="351 666 710 638" 
+                    HPOS="351.0"
+                    VPOS="577.0"
+                    WIDTH="359.0"
+                    HEIGHT="119.0">
+            <Shape><Polygon POINTS="351 696 710 668 710 577 351 605 351 696"/></Shape>
+	    <String CONTENT="Boulay"
+                    HPOS="351.0"
+                    VPOS="577.0"
+                    WIDTH="359.0"
+                    HEIGHT="119.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="780"
+                   VPOS="96"
+                   WIDTH="1731"
+                   HEIGHT="3020"
+                   ID="r2"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="780 96 780 3116 2511 3116 2511 96"/></Shape>
+          
+          
+          <TextLine ID="r2l1"
+                    
+                    BASELINE="1269 143 1407 155" 
+                    HPOS="1269.0"
+                    VPOS="96.0"
+                    WIDTH="138.0"
+                    HEIGHT="82.0">
+            <Shape><Polygon POINTS="1269 166 1407 178 1407 108 1269 96 1269 166"/></Shape>
+	    <String CONTENT="+ "
+                    HPOS="1269.0"
+                    VPOS="96.0"
+                    WIDTH="138.0"
+                    HEIGHT="82.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l2"
+                    
+                    BASELINE="1562 206 2052 195" 
+                    HPOS="1562.0"
+                    VPOS="154.0"
+                    WIDTH="490.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="1562 226 2052 215 2052 154 1562 165 1562 226"/></Shape>
+	    <String CONTENT="1603, avril 16 "
+                    HPOS="1562.0"
+                    VPOS="154.0"
+                    WIDTH="490.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l3"
+                    
+                    BASELINE="1031 318 2325 279" 
+                    HPOS="1031.0"
+                    VPOS="238.0"
+                    WIDTH="1294.0"
+                    HEIGHT="100.0">
+            <Shape><Polygon POINTS="1031 338 2325 299 2325 238 1031 277 1031 338"/></Shape>
+	    <String CONTENT="Information secrete prinse doffice,"
+                    HPOS="1031.0"
+                    VPOS="238.0"
+                    WIDTH="1294.0"
+                    HEIGHT="100.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l4"
+                    
+                    BASELINE="1043 405 1792 378 2405 380" 
+                    HPOS="1043.0"
+                    VPOS="336.0"
+                    WIDTH="1362.0"
+                    HEIGHT="91.0">
+            <Shape><Polygon POINTS="1043 427 2405 402 2405 336 1043 361 1043 427"/></Shape>
+	    <String CONTENT="Contre Annelin fille henrisat Boulai"
+                    HPOS="1043.0"
+                    VPOS="336.0"
+                    WIDTH="1362.0"
+                    HEIGHT="91.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l5"
+                    
+                    BASELINE="1058 486 2103 462 2477 474" 
+                    HPOS="1058.0"
+                    VPOS="418.0"
+                    WIDTH="1419.0"
+                    HEIGHT="90.0">
+            <Shape><Polygon POINTS="1058 508 2103 484 2477 496 2477 430 2103 418 1058 442 1058 508"/></Shape>
+	    <String CONTENT="de Couurthedoubs et vefve de feu Pierrat"
+                    HPOS="1058.0"
+                    VPOS="418.0"
+                    WIDTH="1419.0"
+                    HEIGHT="90.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l6"
+                    
+                    BASELINE="1121 579 1799 558 2478 578" 
+                    HPOS="1121.0"
+                    VPOS="514.0"
+                    WIDTH="1357.0"
+                    HEIGHT="87.0">
+            <Shape><Polygon POINTS="1121 601 1799 580 2478 600 2478 534 1799 514 1121 535 1121 601"/></Shape>
+	    <String CONTENT="Vauthier dud lieu, ce 16 dapvril 1603."
+                    HPOS="1121.0"
+                    VPOS="514.0"
+                    WIDTH="1357.0"
+                    HEIGHT="87.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l7"
+                    
+                    BASELINE="795 794 1569 798 2343 831" 
+                    HPOS="795.0"
+                    VPOS="754.0"
+                    WIDTH="1548.0"
+                    HEIGHT="97.0">
+            <Shape><Polygon POINTS="795 814 1569 818 2343 851 2343 791 1569 758 795 754 795 814"/></Shape>
+	    <String CONTENT="Jehan villain dud Courthedoubs, Par serement"
+                    HPOS="795.0"
+                    VPOS="754.0"
+                    WIDTH="1548.0"
+                    HEIGHT="97.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l8"
+                    
+                    BASELINE="789 894 1462 876 2472 926" 
+                    HPOS="789.0"
+                    VPOS="836.0"
+                    WIDTH="1683.0"
+                    HEIGHT="110.0">
+            <Shape><Polygon POINTS="789 914 1462 896 2472 946 2472 886 1462 836 789 854 789 914"/></Shape>
+	    <String CONTENT="depose, Que Ilz avoyent p ci devant du bestial"
+                    HPOS="789.0"
+                    VPOS="836.0"
+                    WIDTH="1683.0"
+                    HEIGHT="110.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l9"
+                    
+                    BASELINE="794 984 1753 969 2313 999" 
+                    HPOS="794.0"
+                    VPOS="925.0"
+                    WIDTH="1519.0"
+                    HEIGHT="96.0">
+            <Shape><Polygon POINTS="794 1006 1753 991 2313 1021 2313 955 1753 925 873 937 794 940 794 1006"/></Shape>
+	    <String CONTENT="questoit malade et signament ung juvencel"
+                    HPOS="794.0"
+                    VPOS="925.0"
+                    WIDTH="1519.0"
+                    HEIGHT="96.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l10"
+                    
+                    BASELINE="782 1083 1572 1064 2363 1073" 
+                    HPOS="782.0"
+                    VPOS="1026.0"
+                    WIDTH="1581.0"
+                    HEIGHT="80.0">
+            <Shape><Polygon POINTS="782 1106 2363 1096 2363 1026 782 1036 782 1106"/></Shape>
+	    <String CONTENT="dont estant aux Lovres entre aultres une"
+                    HPOS="782.0"
+                    VPOS="1026.0"
+                    WIDTH="1581.0"
+                    HEIGHT="80.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l11"
+                    
+                    BASELINE="780 1179 1238 1164 2309 1166" 
+                    HPOS="780.0"
+                    VPOS="1119.0"
+                    WIDTH="1529.0"
+                    HEIGHT="83.0">
+            <Shape><Polygon POINTS="780 1202 2309 1189 2309 1119 780 1132 780 1202"/></Shape>
+	    <String CONTENT="femme ou fille dit que sil avoyent malle"
+                    HPOS="780.0"
+                    VPOS="1119.0"
+                    WIDTH="1529.0"
+                    HEIGHT="83.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l12"
+                    
+                    BASELINE="785 1277 2429 1265" 
+                    HPOS="785.0"
+                    VPOS="1218.0"
+                    WIDTH="1644.0"
+                    HEIGHT="82.0">
+            <Shape><Polygon POINTS="785 1300 2429 1288 2429 1218 785 1230 785 1300"/></Shape>
+	    <String CONTENT="mescreance que les bestes fusent grevees que"
+                    HPOS="785.0"
+                    VPOS="1218.0"
+                    WIDTH="1644.0"
+                    HEIGHT="82.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l13"
+                    
+                    BASELINE="800 1376 1806 1362 2477 1385" 
+                    HPOS="800.0"
+                    VPOS="1315.0"
+                    WIDTH="1677.0"
+                    HEIGHT="93.0">
+            <Shape><Polygon POINTS="800 1399 1806 1385 2477 1408 2477 1338 1806 1315 800 1329 800 1399"/></Shape>
+	    <String CONTENT="sil sy elle mouroyent quon debvoit baptre le"
+                    HPOS="800.0"
+                    VPOS="1315.0"
+                    WIDTH="1677.0"
+                    HEIGHT="93.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l14"
+                    
+                    BASELINE="833 1476 1728 1463 2462 1476" 
+                    HPOS="833.0"
+                    VPOS="1429.0"
+                    WIDTH="1629.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="833 1499 2462 1499 2462 1429 833 1429 833 1499"/></Shape>
+	    <String CONTENT="Ling et quon verroit bien qui auroit causse"
+                    HPOS="833.0"
+                    VPOS="1429.0"
+                    WIDTH="1629.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l15"
+                    
+                    BASELINE="791 1569 1643 1563 2496 1590" 
+                    HPOS="791.0"
+                    VPOS="1516.0"
+                    WIDTH="1705.0"
+                    HEIGHT="97.0">
+            <Shape><Polygon POINTS="791 1592 1643 1586 2496 1613 2496 1543 1643 1516 791 1522 791 1592"/></Shape>
+	    <String CONTENT="cela. Et estant led juvencel mort deposant"
+                    HPOS="791.0"
+                    VPOS="1516.0"
+                    WIDTH="1705.0"
+                    HEIGHT="97.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l16"
+                    
+                    BASELINE="810 1668 2325 1676" 
+                    HPOS="810.0"
+                    VPOS="1621.0"
+                    WIDTH="1515.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="810 1691 2325 1699 2325 1629 810 1621 810 1691"/></Shape>
+	    <String CONTENT="print ung fleau et baptit fort le ling"
+                    HPOS="810.0"
+                    VPOS="1621.0"
+                    WIDTH="1515.0"
+                    HEIGHT="78.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l17"
+                    
+                    BASELINE="792 1770 1496 1760 2358 1778" 
+                    HPOS="792.0"
+                    VPOS="1723.0"
+                    WIDTH="1566.0"
+                    HEIGHT="78.0">
+            <Shape><Polygon POINTS="792 1793 2358 1801 2358 1731 792 1723 792 1793"/></Shape>
+	    <String CONTENT="dicelui. Surquoi la feue feme de  Ge"
+                    HPOS="792.0"
+                    VPOS="1723.0"
+                    WIDTH="1566.0"
+                    HEIGHT="78.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l18"
+                    
+                    BASELINE="813 1877 1723 1859 2469 1880" 
+                    HPOS="813.0"
+                    VPOS="1816.0"
+                    WIDTH="1656.0"
+                    HEIGHT="85.0">
+            <Shape><Polygon POINTS="813 1898 1723 1880 2469 1901 2469 1837 1723 1816 895 1830 813 1834 813 1898"/></Shape>
+	    <String CONTENT="Jehan Burin dit que Lad Annelin estoit fort"
+                    HPOS="813.0"
+                    VPOS="1816.0"
+                    WIDTH="1656.0"
+                    HEIGHT="85.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l19"
+                    
+                    BASELINE="806 1964 2054 1968" 
+                    HPOS="806.0"
+                    VPOS="1921.0"
+                    WIDTH="1248.0"
+                    HEIGHT="68.0">
+            <Shape><Polygon POINTS="806 1985 2054 1989 2054 1925 806 1921 806 1985"/></Shape>
+	    <String CONTENT="marquee et blessee p le visaige."
+                    HPOS="806.0"
+                    VPOS="1921.0"
+                    WIDTH="1248.0"
+                    HEIGHT="68.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l20"
+                    
+                    BASELINE="801 2168 1755 2178 2391 2201" 
+                    HPOS="801.0"
+                    VPOS="2121.0"
+                    WIDTH="1590.0"
+                    HEIGHT="103.0">
+            <Shape><Polygon POINTS="801 2191 2391 2224 2391 2154 801 2121 801 2191"/></Shape>
+	    <String CONTENT="Claude vefve de feu Jehan maillat jadis Mayre"
+                    HPOS="801.0"
+                    VPOS="2121.0"
+                    WIDTH="1590.0"
+                    HEIGHT="103.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l21"
+                    
+                    BASELINE="834 2255 1866 2256 2423 2276" 
+                    HPOS="834.0"
+                    VPOS="2208.0"
+                    WIDTH="1589.0"
+                    HEIGHT="91.0">
+            <Shape><Polygon POINTS="834 2278 2423 2299 2423 2229 834 2208 834 2278"/></Shape>
+	    <String CONTENT="a Courthedoubs depose, Quelle deposante"
+                    HPOS="834.0"
+                    VPOS="2208.0"
+                    WIDTH="1589.0"
+                    HEIGHT="91.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l22"
+                    
+                    BASELINE="846 2342 1882 2346 2441 2363" 
+                    HPOS="846.0"
+                    VPOS="2295.0"
+                    WIDTH="1595.0"
+                    HEIGHT="91.0">
+            <Shape><Polygon POINTS="846 2365 2441 2386 2441 2316 846 2295 846 2365"/></Shape>
+	    <String CONTENT="a heu mauvaise opinion depuis quelle a ouys"
+                    HPOS="846.0"
+                    VPOS="2295.0"
+                    WIDTH="1595.0"
+                    HEIGHT="91.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l23"
+                    
+                    BASELINE="816 2433 2391 2447" 
+                    HPOS="816.0"
+                    VPOS="2386.0"
+                    WIDTH="1575.0"
+                    HEIGHT="84.0">
+            <Shape><Polygon POINTS="816 2456 2391 2470 2391 2400 816 2386 816 2456"/></Shape>
+	    <String CONTENT="dire que lad Annelin avoit greve a la fille"
+                    HPOS="816.0"
+                    VPOS="2386.0"
+                    WIDTH="1575.0"
+                    HEIGHT="84.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l24"
+                    
+                    BASELINE="819 2528 1495 2529 2511 2555" 
+                    HPOS="819.0"
+                    VPOS="2485.0"
+                    WIDTH="1692.0"
+                    HEIGHT="91.0">
+            <Shape><Polygon POINTS="819 2549 2511 2576 2511 2512 819 2485 819 2549"/></Shape>
+	    <String CONTENT="Pierre Broingne. En ce quelle deposante avoit"
+                    HPOS="819.0"
+                    VPOS="2485.0"
+                    WIDTH="1692.0"
+                    HEIGHT="91.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l25"
+                    
+                    BASELINE="828 2622 1404 2616 2475 2643" 
+                    HPOS="828.0"
+                    VPOS="2577.0"
+                    WIDTH="1647.0"
+                    HEIGHT="87.0">
+            <Shape><Polygon POINTS="828 2643 2475 2664 2475 2601 910 2577 828 2580 828 2643"/></Shape>
+	    <String CONTENT="Une fille que devint tout enflee de laquelle"
+                    HPOS="828.0"
+                    VPOS="2577.0"
+                    WIDTH="1647.0"
+                    HEIGHT="87.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l26"
+                    
+                    BASELINE="824 2706 1325 2700 2496 2735" 
+                    HPOS="824.0"
+                    VPOS="2658.0"
+                    WIDTH="1672.0"
+                    HEIGHT="98.0">
+            <Shape><Polygon POINTS="824 2727 1325 2721 2496 2756 2496 2693 1074 2658 824 2664 824 2727"/></Shape>
+	    <String CONTENT="elle mourut. Et ce doultant que sad fille"
+                    HPOS="824.0"
+                    VPOS="2658.0"
+                    WIDTH="1672.0"
+                    HEIGHT="98.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l27"
+                    
+                    BASELINE="825 2793 1453 2793 2397 2822" 
+                    HPOS="825.0"
+                    VPOS="2750.0"
+                    WIDTH="1572.0"
+                    HEIGHT="93.0">
+            <Shape><Polygon POINTS="825 2814 2397 2843 2397 2779 825 2750 825 2814"/></Shape>
+	    <String CONTENT=" avoit perdus sa coiffe aux Lovres et pce"
+                    HPOS="825.0"
+                    VPOS="2750.0"
+                    WIDTH="1572.0"
+                    HEIGHT="93.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l28"
+                    
+                    BASELINE="834 2892 1812 2889 2465 2922" 
+                    HPOS="834.0"
+                    VPOS="2842.0"
+                    WIDTH="1631.0"
+                    HEIGHT="103.0">
+            <Shape><Polygon POINTS="834 2915 1812 2912 2465 2945 2465 2875 1812 2842 834 2845 834 2915"/></Shape>
+	    <String CONTENT="quon chargeoit La fille de lad Annelin lavoir"
+                    HPOS="834.0"
+                    VPOS="2842.0"
+                    WIDTH="1631.0"
+                    HEIGHT="103.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l29"
+                    
+                    BASELINE="840 2994 1824 2988 2480 3032" 
+                    HPOS="840.0"
+                    VPOS="2941.0"
+                    WIDTH="1640.0"
+                    HEIGHT="114.0">
+            <Shape><Polygon POINTS="840 3017 1824 3011 2480 3055 2480 2985 1824 2941 840 2947 840 3017"/></Shape>
+	    <String CONTENT="cache, deposante dit avoir heu ceste opinion"
+                    HPOS="840.0"
+                    VPOS="2941.0"
+                    WIDTH="1640.0"
+                    HEIGHT="114.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r2l30"
+                    
+                    BASELINE="858 3093 1370 3080" 
+                    HPOS="858.0"
+                    VPOS="3033.0"
+                    WIDTH="512.0"
+                    HEIGHT="83.0">
+            <Shape><Polygon POINTS="858 3116 1370 3103 1370 3033 858 3046 858 3116"/></Shape>
+	    <String CONTENT="depuis delle."
+                    HPOS="858.0"
+                    VPOS="3033.0"
+                    WIDTH="512.0"
+                    HEIGHT="83.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

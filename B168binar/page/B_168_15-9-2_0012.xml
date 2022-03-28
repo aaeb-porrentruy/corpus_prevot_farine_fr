@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:53.953+01:00</Created>
+        <LastChange>2022-03-07T16:35:53.953+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-9-2_0012.jpg" imageWidth="2754" imageHeight="3743">
+        <PrintSpace>
+            <Coords points="0,0 2754,0 2754,3743 0,3743"/>
+        </PrintSpace>
+        <TextRegion id="r2" custom="readingOrder {index:NaN;}">
+            <Coords points="273,353 275,1166 1347,1166 1345,353"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="304,617 1297,617 1297,879 304,879"/>
+                <Baseline points="1142,727 335,698"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="305.0,618.0 1296,618.0 1296,878 305.0,878"/>
+                    <TextEquiv>
+                        <Unicode>Criminalia</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Criminalia</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="245,491 1211,491 1211,695 245,695"/>
+                <Baseline points="1178,574 361,553"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="246.0,492.0 1210,492.0 1210,694 246.0,694"/>
+                    <TextEquiv>
+                        <Unicode>de Beurnevai-</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>de Beurnevai-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="571,378 1319,378 1319,513 571,513"/>
+                <Baseline points="1297,381 1068,447 843,443"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="572.0,379.0 1318,379.0 1318,512 572.0,512"/>
+                    <TextEquiv>
+                        <Unicode>sain</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>sain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Criminalia
+de Beurnevai-
+sain</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion id="r3" custom="readingOrder {index:NaN;}">
+            <Coords points="468,1332 447,1822 1927,1830 1948,1340"/>
+            <TextLine id="tl_4" custom="readingOrder {index:3;}">
+                <Coords points="1168,1603 1647,1603 1647,1796 1168,1796"/>
+                <Baseline points="1603,1663 1197,1681"/>
+                <Word id="w_4" custom="readingOrder {index:3;}">
+                    <Coords points="1169.0,1604.0 1646,1604.0 1646,1795 1169.0,1795"/>
+                    <TextEquiv>
+                        <Unicode>Informatn</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Informatn</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" custom="readingOrder {index:4;}">
+                <Coords points="515,1485 2004,1485 2004,1643 515,1643"/>
+                <Baseline points="1972,1521 548,1554"/>
+                <Word id="w_5" custom="readingOrder {index:4;}">
+                    <Coords points="516.0,1486.0 2003,1486.0 2003,1642 516.0,1642"/>
+                    <TextEquiv>
+                        <Unicode>Contre Agatte femme de henry vouelin</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Contre Agatte femme de henry vouelin</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" custom="readingOrder {index:5;}">
+                <Coords points="1213,1337 2024,1337 2024,1505 1213,1505"/>
+                <Baseline points="1862,1455 1227,1457"/>
+                <Word id="w_6" custom="readingOrder {index:5;}">
+                    <Coords points="1214.0,1338.0 2023,1338.0 2023,1504 1214.0,1504"/>
+                    <TextEquiv>
+                        <Unicode>de Beurnevesain</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>de Beurnevesain</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Informatn
+Contre Agatte femme de henry vouelin
+de Beurnevesain</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

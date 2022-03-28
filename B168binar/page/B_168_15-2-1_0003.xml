@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:49.289+01:00</Created>
+        <LastChange>2022-03-07T16:35:49.289+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-2-1_0003.jpg" imageWidth="2628" imageHeight="4046">
+        <PrintSpace>
+            <Coords points="0,0 2628,0 2628,4046 0,4046"/>
+        </PrintSpace>
+        <TextRegion id="r1" custom="readingOrder {index:NaN;}">
+            <Coords points="1458,2189 1458,2509 2442,2509 2442,2189"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1675,2136 2154,2136 2154,2351 1675,2351"/>
+                <Baseline points="1706,2238 2153,2265"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="1676.0,2137.0 2153,2137.0 2153,2350 1676.0,2350"/>
+                    <TextEquiv>
+                        <Unicode>Informats</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Informats</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="1422,2312 2443,2312 2443,2433 1422,2433"/>
+                <Baseline points="1458,2393 2442,2412"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="1423.0,2313.0 2442,2313.0 2442,2432 1423.0,2432"/>
+                    <TextEquiv>
+                        <Unicode>Contre Annelin fille henrisat</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Contre Annelin fille henrisat</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="1481,2406 2179,2406 2179,2524 1481,2524"/>
+                <Baseline points="1482,2474 2178,2489"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="1482.0,2407.0 2178,2407.0 2178,2523 1482.0,2523"/>
+                    <TextEquiv>
+                        <Unicode>Boulet de Courthedoubs</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Boulet de Courthedoubs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>Informats
+Contre Annelin fille henrisat
+Boulet de Courthedoubs</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

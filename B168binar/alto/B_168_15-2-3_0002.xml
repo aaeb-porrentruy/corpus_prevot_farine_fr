@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-2-3_0002.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2649"
+          HEIGHT="3967"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2649"
+                  HEIGHT="3967">
+        
+        <TextBlock HPOS="444"
+                   VPOS="244"
+                   WIDTH="2120"
+                   HEIGHT="3325"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="444 244 444 3569 2564 3569 2564 244"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="699 296 1334 279 2514 287" 
+                    HPOS="699.0"
+                    VPOS="244.0"
+                    WIDTH="1815.0"
+                    HEIGHT="69.0">
+            <Shape><Polygon POINTS="699 313 1334 296 2514 304 2514 252 1334 244 789 256 699 261 699 313"/></Shape>
+	    <String CONTENT="Qui a cause La maladie des chevaulx de Guilliame"
+                    HPOS="699.0"
+                    VPOS="244.0"
+                    WIDTH="1815.0"
+                    HEIGHT="69.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l2"
+                    
+                    BASELINE="504 342 582 330" 
+                    HPOS="504.0"
+                    VPOS="288.0"
+                    WIDTH="78.0"
+                    HEIGHT="75.0">
+            <Shape><Polygon POINTS="504 363 582 351 582 288 504 300 504 363"/></Shape>
+	    <String CONTENT="10"
+                    HPOS="504.0"
+                    VPOS="288.0"
+                    WIDTH="78.0"
+                    HEIGHT="75.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l3"
+                    
+                    BASELINE="765 366 1016 354" 
+                    HPOS="765.0"
+                    VPOS="323.0"
+                    WIDTH="251.0"
+                    HEIGHT="58.0">
+            <Shape><Polygon POINTS="765 381 1016 369 1016 323 765 335 765 381"/></Shape>
+	    <String CONTENT="perreal "
+                    HPOS="765.0"
+                    VPOS="323.0"
+                    WIDTH="251.0"
+                    HEIGHT="58.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l4"
+                    
+                    BASELINE="533 449 985 423 2040 399" 
+                    HPOS="533.0"
+                    VPOS="368.0"
+                    WIDTH="1507.0"
+                    HEIGHT="96.0">
+            <Shape><Polygon POINTS="533 464 985 438 2040 414 2040 368 683 407 533 418 533 464"/></Shape>
+	    <String CONTENT="Negat dit bien scavoir quil lui en soit beaulxcoup mors"
+                    HPOS="533.0"
+                    VPOS="368.0"
+                    WIDTH="1507.0"
+                    HEIGHT="96.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l5"
+                    
+                    BASELINE="746 543 2408 527" 
+                    HPOS="746.0"
+                    VPOS="490.0"
+                    WIDTH="1662.0"
+                    HEIGHT="71.0">
+            <Shape><Polygon POINTS="746 561 2408 545 2408 490 746 506 746 561"/></Shape>
+	    <String CONTENT="Pourquoi quant on lappelloit genauche en elle"
+                    HPOS="746.0"
+                    VPOS="490.0"
+                    WIDTH="1662.0"
+                    HEIGHT="71.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l6"
+                    
+                    BASELINE="780 623 1848 603" 
+                    HPOS="780.0"
+                    VPOS="568.0"
+                    WIDTH="1068.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="780 640 1848 620 1848 568 780 588 780 640"/></Shape>
+	    <String CONTENT="se vengeoit de telle injures"
+                    HPOS="780.0"
+                    VPOS="568.0"
+                    WIDTH="1068.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l7"
+                    
+                    BASELINE="501 645 555 639" 
+                    HPOS="501.0"
+                    VPOS="597.0"
+                    WIDTH="54.0"
+                    HEIGHT="69.0">
+            <Shape><Polygon POINTS="501 666 555 660 555 597 501 603 501 666"/></Shape>
+	    <String CONTENT="11"
+                    HPOS="501.0"
+                    VPOS="597.0"
+                    WIDTH="54.0"
+                    HEIGHT="69.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l8"
+                    
+                    BASELINE="606 702 1971 680" 
+                    HPOS="606.0"
+                    VPOS="645.0"
+                    WIDTH="1365.0"
+                    HEIGHT="74.0">
+            <Shape><Polygon POINTS="606 719 1971 697 1971 645 606 667 606 719"/></Shape>
+	    <String CONTENT="dit quelle navoit personne pour la deffendre"
+                    HPOS="606.0"
+                    VPOS="645.0"
+                    WIDTH="1365.0"
+                    HEIGHT="74.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l9"
+                    
+                    BASELINE="728 828 1853 831 2460 854" 
+                    HPOS="728.0"
+                    VPOS="797.0"
+                    WIDTH="1732.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="728 843 1853 846 2460 869 2460 823 1853 800 728 797 728 843"/></Shape>
+	    <String CONTENT="Qui ont causé les maladies de Mori Vauthier et"
+                    HPOS="728.0"
+                    VPOS="797.0"
+                    WIDTH="1732.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l10"
+                    
+                    BASELINE="720 921 1158 899 1422 897 2475 927" 
+                    HPOS="720.0"
+                    VPOS="868.0"
+                    WIDTH="1755.0"
+                    HEIGHT="74.0">
+            <Shape><Polygon POINTS="720 936 1422 912 2475 942 2475 896 1158 868 720 890 720 936"/></Shape>
+	    <String CONTENT="de sa femme que sont este sy souvent malades"
+                    HPOS="720.0"
+                    VPOS="868.0"
+                    WIDTH="1755.0"
+                    HEIGHT="74.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l11"
+                    
+                    BASELINE="513 950 618 941" 
+                    HPOS="513.0"
+                    VPOS="899.0"
+                    WIDTH="105.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="513 971 618 962 618 899 513 908 513 971"/></Shape>
+	    <String CONTENT="12"
+                    HPOS="513.0"
+                    VPOS="899.0"
+                    WIDTH="105.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l12"
+                    
+                    BASELINE="728 986 1344 995 2270 990" 
+                    HPOS="728.0"
+                    VPOS="954.0"
+                    WIDTH="1542.0"
+                    HEIGHT="52.0">
+            <Shape><Polygon POINTS="728 1002 2270 1006 2270 958 728 954 728 1002"/></Shape>
+	    <String CONTENT="Lors que Ilz avoient querelles avec elle"
+                    HPOS="728.0"
+                    VPOS="954.0"
+                    WIDTH="1542.0"
+                    HEIGHT="52.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l13"
+                    
+                    BASELINE="566 1067 807 1053" 
+                    HPOS="566.0"
+                    VPOS="1020.0"
+                    WIDTH="241.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="566 1083 807 1069 807 1020 566 1034 566 1083"/></Shape>
+	    <String CONTENT="Negat"
+                    HPOS="566.0"
+                    VPOS="1020.0"
+                    WIDTH="241.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l14"
+                    
+                    BASELINE="722 1163 1986 1176 2408 1194" 
+                    HPOS="722.0"
+                    VPOS="1121.0"
+                    WIDTH="1686.0"
+                    HEIGHT="94.0">
+            <Shape><Polygon POINTS="722 1184 2408 1215 2408 1152 722 1121 722 1184"/></Shape>
+	    <String CONTENT="Qui causoit les maladies des chevaulx dud"
+                    HPOS="722.0"
+                    VPOS="1121.0"
+                    WIDTH="1686.0"
+                    HEIGHT="94.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l15"
+                    
+                    BASELINE="498 1256 579 1256" 
+                    HPOS="498.0"
+                    VPOS="1214.0"
+                    WIDTH="81.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="498 1277 579 1277 579 1214 498 1214 498 1277"/></Shape>
+	    <String CONTENT="13"
+                    HPOS="498.0"
+                    VPOS="1214.0"
+                    WIDTH="81.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l16"
+                    
+                    BASELINE="741 1250 2478 1287" 
+                    HPOS="741.0"
+                    VPOS="1211.0"
+                    WIDTH="1737.0"
+                    HEIGHT="95.0">
+            <Shape><Polygon POINTS="741 1269 1870 1296 2478 1306 2478 1248 827 1212 741 1211 741 1269"/></Shape>
+	    <String CONTENT="mori vauthier et pourquoi Il y mouroit tant"
+                    HPOS="741.0"
+                    VPOS="1211.0"
+                    WIDTH="1737.0"
+                    HEIGHT="95.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l17"
+                    
+                    BASELINE="612 1344 741 1329 870 1332" 
+                    HPOS="612.0"
+                    VPOS="1293.0"
+                    WIDTH="258.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="612 1363 870 1351 870 1293 612 1305 612 1363"/></Shape>
+	    <String CONTENT="Negat"
+                    HPOS="612.0"
+                    VPOS="1293.0"
+                    WIDTH="258.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l18"
+                    
+                    BASELINE="713 1470 2468 1503" 
+                    HPOS="713.0"
+                    VPOS="1428.0"
+                    WIDTH="1755.0"
+                    HEIGHT="96.0">
+            <Shape><Polygon POINTS="713 1491 1239 1494 2468 1524 2468 1461 1239 1431 713 1428 713 1491"/></Shape>
+	    <String CONTENT="Qui a cause la maladie des juvencels de"
+                    HPOS="713.0"
+                    VPOS="1428.0"
+                    WIDTH="1755.0"
+                    HEIGHT="96.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l19"
+                    
+                    BASELINE="758 1565 1622 1583" 
+                    HPOS="758.0"
+                    VPOS="1526.0"
+                    WIDTH="864.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="758 1584 1622 1602 1622 1544 758 1526 758 1584"/></Shape>
+	    <String CONTENT="Semon villain Et pour"
+                    HPOS="758.0"
+                    VPOS="1526.0"
+                    WIDTH="864.0"
+                    HEIGHT="76.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l20"
+                    
+                    BASELINE="444 1571 554 1572" 
+                    HPOS="444.0"
+                    VPOS="1529.0"
+                    WIDTH="110.0"
+                    HEIGHT="64.0">
+            <Shape><Polygon POINTS="444 1592 554 1593 554 1530 444 1529 444 1592"/></Shape>
+	    <String CONTENT="14"
+                    HPOS="444.0"
+                    VPOS="1529.0"
+                    WIDTH="110.0"
+                    HEIGHT="64.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l21"
+                    
+                    BASELINE="645 1646 864 1649" 
+                    HPOS="645.0"
+                    VPOS="1607.0"
+                    WIDTH="219.0"
+                    HEIGHT="61.0">
+            <Shape><Polygon POINTS="645 1665 864 1668 864 1610 645 1607 645 1665"/></Shape>
+	    <String CONTENT="Negat"
+                    HPOS="645.0"
+                    VPOS="1607.0"
+                    WIDTH="219.0"
+                    HEIGHT="61.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l22"
+                    
+                    BASELINE="750 1797 1433 1797 2459 1836" 
+                    HPOS="750.0"
+                    VPOS="1759.0"
+                    WIDTH="1709.0"
+                    HEIGHT="96.0">
+            <Shape><Polygon POINTS="750 1816 1433 1816 2459 1855 2459 1798 1433 1759 750 1759 750 1816"/></Shape>
+	    <String CONTENT="Et pourquoi elle se treuva ainsy blessee lors"
+                    HPOS="750.0"
+                    VPOS="1759.0"
+                    WIDTH="1709.0"
+                    HEIGHT="96.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l23"
+                    
+                    BASELINE="479 1862 582 1860" 
+                    HPOS="479.0"
+                    VPOS="1818.0"
+                    WIDTH="103.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="479 1883 582 1881 582 1818 479 1820 479 1883"/></Shape>
+	    <String CONTENT="15"
+                    HPOS="479.0"
+                    VPOS="1818.0"
+                    WIDTH="103.0"
+                    HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l24"
+                    
+                    BASELINE="774 1874 1373 1880" 
+                    HPOS="774.0"
+                    VPOS="1837.0"
+                    WIDTH="599.0"
+                    HEIGHT="61.0">
+            <Shape><Polygon POINTS="774 1892 1373 1898 1373 1843 774 1837 774 1892"/></Shape>
+	    <String CONTENT="de telle maladie"
+                    HPOS="774.0"
+                    VPOS="1837.0"
+                    WIDTH="599.0"
+                    HEIGHT="61.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l25"
+                    
+                    BASELINE="641 1955 876 1950" 
+                    HPOS="641.0"
+                    VPOS="1913.0"
+                    WIDTH="235.0"
+                    HEIGHT="60.0">
+            <Shape><Polygon POINTS="641 1973 876 1968 876 1913 641 1918 641 1973"/></Shape>
+	    <String CONTENT="Negat"
+                    HPOS="641.0"
+                    VPOS="1913.0"
+                    WIDTH="235.0"
+                    HEIGHT="60.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l26"
+                    
+                    BASELINE="753 2093 1536 2088 2493 2117" 
+                    HPOS="753.0"
+                    VPOS="2045.0"
+                    WIDTH="1740.0"
+                    HEIGHT="93.0">
+            <Shape><Polygon POINTS="753 2114 1536 2109 2493 2138 2493 2075 1536 2046 927 2045 753 2051 753 2114"/></Shape>
+	    <String CONTENT="Pourquoi la femme premiere de Estienne doland"
+                    HPOS="753.0"
+                    VPOS="2045.0"
+                    WIDTH="1740.0"
+                    HEIGHT="93.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l27"
+                    
+                    BASELINE="504 2157 654 2127" 
+                    HPOS="504.0"
+                    VPOS="2085.0"
+                    WIDTH="150.0"
+                    HEIGHT="93.0">
+            <Shape><Polygon POINTS="504 2178 654 2148 654 2085 504 2115 504 2178"/></Shape>
+	    <String CONTENT="16"
+                    HPOS="504.0"
+                    VPOS="2085.0"
+                    WIDTH="150.0"
+                    HEIGHT="93.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l28"
+                    
+                    BASELINE="731 2175 1538 2178 2525 2199" 
+                    HPOS="731.0"
+                    VPOS="2133.0"
+                    WIDTH="1794.0"
+                    HEIGHT="87.0">
+            <Shape><Polygon POINTS="731 2196 2525 2220 2525 2157 731 2133 731 2196"/></Shape>
+	    <String CONTENT="disoit que elle lad Annelin la faisoit mourir"
+                    HPOS="731.0"
+                    VPOS="2133.0"
+                    WIDTH="1794.0"
+                    HEIGHT="87.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l29"
+                    
+                    BASELINE="621 2255 857 2265" 
+                    HPOS="621.0"
+                    VPOS="2213.0"
+                    WIDTH="236.0"
+                    HEIGHT="73.0">
+            <Shape><Polygon POINTS="621 2276 857 2286 857 2223 621 2213 621 2276"/></Shape>
+	    <String CONTENT="Negat"
+                    HPOS="621.0"
+                    VPOS="2213.0"
+                    WIDTH="236.0"
+                    HEIGHT="73.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l30"
+                    
+                    BASELINE="747 2411 2564 2430" 
+                    HPOS="747.0"
+                    VPOS="2389.0"
+                    WIDTH="1817.0"
+                    HEIGHT="51.0">
+            <Shape><Polygon POINTS="747 2421 1201 2419 2564 2440 2564 2410 1201 2389 747 2391 747 2421"/></Shape>
+	    <String CONTENT="Pourquoi les chevaulx de Thevnat guenin surce"
+                    HPOS="747.0"
+                    VPOS="2389.0"
+                    WIDTH="1817.0"
+                    HEIGHT="51.0"></String>
+          </TextLine>
+
+          
+          
+
+          
+          
+          <TextLine ID="r1l32"
+                    
+                    BASELINE="749 2502 1367 2490 2516 2516" 
+                    HPOS="749.0"
+                    VPOS="2469.0"
+                    WIDTH="1767.0"
+                    HEIGHT="57.0">
+            <Shape><Polygon POINTS="749 2512 1367 2500 2516 2526 2516 2496 1190 2469 749 2482 749 2512"/></Shape>
+	    <String CONTENT="quil avoit refuse de mener des voihon [&quot;feuilles&quot; suscrit pas reconnu!!!] pour elle"
+                    HPOS="749.0"
+                    VPOS="2469.0"
+                    WIDTH="1767.0"
+                    HEIGHT="57.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l33"
+                    
+                    BASELINE="506 2552 608 2549" 
+                    HPOS="506.0"
+                    VPOS="2507.0"
+                    WIDTH="102.0"
+                    HEIGHT="66.0">
+            <Shape><Polygon POINTS="506 2573 608 2570 608 2507 506 2510 506 2573"/></Shape>
+	    <String CONTENT="17"
+                    HPOS="506.0"
+                    VPOS="2507.0"
+                    WIDTH="102.0"
+                    HEIGHT="66.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l34"
+                    
+                    BASELINE="776 2580 1145 2582" 
+                    HPOS="776.0"
+                    VPOS="2538.0"
+                    WIDTH="369.0"
+                    HEIGHT="65.0">
+            <Shape><Polygon POINTS="776 2601 1145 2603 1145 2540 776 2538 776 2601"/></Shape>
+	    <String CONTENT="sont mort"
+                    HPOS="776.0"
+                    VPOS="2538.0"
+                    WIDTH="369.0"
+                    HEIGHT="65.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l35"
+                    
+                    BASELINE="581 2669 870 2669" 
+                    HPOS="581.0"
+                    VPOS="2627.0"
+                    WIDTH="289.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="581 2690 870 2690 870 2627 581 2627 581 2690"/></Shape>
+	    <String CONTENT="Negat"
+                    HPOS="581.0"
+                    VPOS="2627.0"
+                    WIDTH="289.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l36"
+                    
+                    BASELINE="753 2814 1278 2792 2067 2804 2505 2798" 
+                    HPOS="753.0"
+                    VPOS="2756.0"
+                    WIDTH="1752.0"
+                    HEIGHT="79.0">
+            <Shape><Polygon POINTS="753 2835 1278 2813 2505 2819 2505 2756 1015 2756 753 2772 753 2835"/></Shape>
+	    <String CONTENT="Comme et p quel moyen le laict de la vache"
+                    HPOS="753.0"
+                    VPOS="2756.0"
+                    WIDTH="1752.0"
+                    HEIGHT="79.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l37"
+                    
+                    BASELINE="771 2892 1387 2876 2532 2888" 
+                    HPOS="771.0"
+                    VPOS="2836.0"
+                    WIDTH="1761.0"
+                    HEIGHT="76.0">
+            <Shape><Polygon POINTS="771 2912 1387 2896 2532 2908 2532 2848 1651 2836 859 2848 771 2852 771 2912"/></Shape>
+	    <String CONTENT="germain torel ne donnoit son laict, et quayant prins"
+                    HPOS="771.0"
+                    VPOS="2836.0"
+                    WIDTH="1761.0"
+                    HEIGHT="76.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l38"
+                    
+                    BASELINE="738 2969 1831 2958 2420 2981" 
+                    HPOS="738.0"
+                    VPOS="2918.0"
+                    WIDTH="1682.0"
+                    HEIGHT="83.0">
+            <Shape><Polygon POINTS="738 2989 1831 2978 2420 3001 2420 2941 1831 2918 738 2929 738 2989"/></Shape>
+	    <String CONTENT="delerbe au curtil delle lad Annelin le laict"
+                    HPOS="738.0"
+                    VPOS="2918.0"
+                    WIDTH="1682.0"
+                    HEIGHT="83.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l39"
+                    
+                    BASELINE="494 2984 578 2978" 
+                    HPOS="494.0"
+                    VPOS="2936.0"
+                    WIDTH="84.0"
+                    HEIGHT="69.0">
+            <Shape><Polygon POINTS="494 3005 578 2999 578 2936 494 2942 494 3005"/></Shape>
+	    <String CONTENT="18"
+                    HPOS="494.0"
+                    VPOS="2936.0"
+                    WIDTH="84.0"
+                    HEIGHT="69.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l40"
+                    
+                    BASELINE="723 3054 1029 3053 1281 3039" 
+                    HPOS="723.0"
+                    VPOS="3002.0"
+                    WIDTH="558.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="723 3072 1281 3057 1281 3002 723 3017 723 3072"/></Shape>
+	    <String CONTENT="Lui estoit retorne"
+                    HPOS="723.0"
+                    VPOS="3002.0"
+                    WIDTH="558.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l41"
+                    
+                    BASELINE="630 3144 873 3129" 
+                    HPOS="630.0"
+                    VPOS="3092.0"
+                    WIDTH="243.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="630 3162 873 3147 873 3092 630 3107 630 3162"/></Shape>
+	    <String CONTENT="Negat"
+                    HPOS="630.0"
+                    VPOS="3092.0"
+                    WIDTH="243.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l42"
+                    
+                    BASELINE="746 3290 2447 3257" 
+                    HPOS="746.0"
+                    VPOS="3216.0"
+                    WIDTH="1701.0"
+                    HEIGHT="94.0">
+            <Shape><Polygon POINTS="746 3310 2447 3277 2447 3216 746 3249 746 3310"/></Shape>
+	    <String CONTENT="Sy elle scait point dou procedoit la maladie des"
+                    HPOS="746.0"
+                    VPOS="3216.0"
+                    WIDTH="1701.0"
+                    HEIGHT="94.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l43"
+                    
+                    BASELINE="773 3357 2439 3357" 
+                    HPOS="773.0"
+                    VPOS="3315.0"
+                    WIDTH="1666.0"
+                    HEIGHT="63.0">
+            <Shape><Polygon POINTS="773 3378 2439 3378 2439 3315 773 3315 773 3378"/></Shape>
+	    <String CONTENT="chevaulx de Thevna maillat q lui avoit"
+                    HPOS="773.0"
+                    VPOS="3315.0"
+                    WIDTH="1666.0"
+                    HEIGHT="63.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l44"
+                    
+                    BASELINE="492 3393 591 3384" 
+                    HPOS="492.0"
+                    VPOS="3342.0"
+                    WIDTH="99.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="492 3414 591 3405 591 3342 492 3351 492 3414"/></Shape>
+	    <String CONTENT="19"
+                    HPOS="492.0"
+                    VPOS="3342.0"
+                    WIDTH="99.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l45"
+                    
+                    BASELINE="746 3449 1722 3446" 
+                    HPOS="746.0"
+                    VPOS="3405.0"
+                    WIDTH="976.0"
+                    HEIGHT="64.0">
+            <Shape><Polygon POINTS="746 3469 1722 3466 1722 3405 746 3408 746 3469"/></Shape>
+	    <String CONTENT="refuse de mener, des gerbes"
+                    HPOS="746.0"
+                    VPOS="3405.0"
+                    WIDTH="976.0"
+                    HEIGHT="64.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l46"
+                    
+                    BASELINE="582 3549 879 3527" 
+                    HPOS="582.0"
+                    VPOS="3486.0"
+                    WIDTH="297.0"
+                    HEIGHT="83.0">
+            <Shape><Polygon POINTS="582 3569 879 3547 879 3486 582 3508 582 3569"/></Shape>
+	    <String CONTENT="Negat"
+                    HPOS="582.0"
+                    VPOS="3486.0"
+                    WIDTH="297.0"
+                    HEIGHT="83.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

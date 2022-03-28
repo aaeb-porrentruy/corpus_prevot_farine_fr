@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>B_168_15-2-4_0004.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="2654"
+          HEIGHT="3988"
+          PHYSICAL_IMG_NR="21"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2654"
+                  HEIGHT="3988">
+        
+        <TextBlock HPOS="1632"
+                   VPOS="2249"
+                   WIDTH="770"
+                   HEIGHT="237"
+                   ID="r1"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="1632 2249 1632 2486 2402 2486 2402 2249"/></Shape>
+          
+          
+          <TextLine ID="r1l1"
+                    
+                    BASELINE="1632 2303 2399 2286" 
+                    HPOS="1632.0"
+                    VPOS="2249.0"
+                    WIDTH="767.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="1632 2321 2399 2304 2399 2249 1632 2266 1632 2321"/></Shape>
+	    <String CONTENT="Urphed de Annelin"
+                    HPOS="1632.0"
+                    VPOS="2249.0"
+                    WIDTH="767.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l2"
+                    
+                    BASELINE="1641 2388 1945 2373 2402 2373" 
+                    HPOS="1641.0"
+                    VPOS="2336.0"
+                    WIDTH="761.0"
+                    HEIGHT="70.0">
+            <Shape><Polygon POINTS="1641 2406 2402 2391 2402 2336 1641 2351 1641 2406"/></Shape>
+	    <String CONTENT=" vefve Pierrat vauthier"
+                    HPOS="1641.0"
+                    VPOS="2336.0"
+                    WIDTH="761.0"
+                    HEIGHT="70.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="r1l3"
+                    
+                    BASELINE="1641 2468 2244 2451" 
+                    HPOS="1641.0"
+                    VPOS="2414.0"
+                    WIDTH="603.0"
+                    HEIGHT="72.0">
+            <Shape><Polygon POINTS="1641 2486 2244 2469 2244 2414 1641 2431 1641 2486"/></Shape>
+	    <String CONTENT=" de Courthedoubs"
+                    HPOS="1641.0"
+                    VPOS="2414.0"
+                    WIDTH="603.0"
+                    HEIGHT="72.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

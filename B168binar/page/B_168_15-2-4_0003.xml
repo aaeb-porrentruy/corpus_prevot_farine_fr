@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator></Creator>
+        <Created>2022-03-07T16:35:52.529+01:00</Created>
+        <LastChange>2022-03-07T16:35:52.529+01:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: </Comments>
+    </Metadata>
+    <Page imageFilename="B_168_15-2-4_0003.jpg" imageWidth="2637" imageHeight="3968">
+        <PrintSpace>
+            <Coords points="0,0 2637,0 2637,3968 0,3968"/>
+        </PrintSpace>
+        <TextRegion id="r1" custom="readingOrder {index:NaN;}">
+            <Coords points="758,155 758,915 2418,915 2418,155"/>
+            <TextLine id="tl_1" custom="readingOrder {index:0;}">
+                <Coords points="1981,154 2224,154 2224,219 1981,219"/>
+                <Baseline points="1982,180 2223,206"/>
+                <Word id="w_1" custom="readingOrder {index:0;}">
+                    <Coords points="1982.0,155.0 2223,155.0 2223,218 1982.0,218"/>
+                    <TextEquiv>
+                        <Unicode>leur</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>leur</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_2" custom="readingOrder {index:1;}">
+                <Coords points="757,223 2419,223 2419,279 757,279"/>
+                <Baseline points="758,266 1671,246 2086,249 2418,266"/>
+                <Word id="w_2" custom="readingOrder {index:1;}">
+                    <Coords points="758.0,224.0 2418,224.0 2418,278 758.0,278"/>
+                    <TextEquiv>
+                        <Unicode>et requeste sans le prejudice de lui  ni des</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>et requeste sans le prejudice de lui  ni des</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_3" custom="readingOrder {index:2;}">
+                <Coords points="781,282 940,282 940,328 781,328"/>
+                <Baseline points="782,314 939,309"/>
+                <Word id="w_3" custom="readingOrder {index:2;}">
+                    <Coords points="782.0,283.0 939,283.0 939,327 782.0,327"/>
+                    <TextEquiv>
+                        <Unicode>leurs</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>leurs</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" custom="readingOrder {index:3;}">
+                <Coords points="776,323 2271,323 2271,385 776,385"/>
+                <Baseline points="777,372 1000,351 1299,342 1896,353 2270,348"/>
+                <Word id="w_4" custom="readingOrder {index:3;}">
+                    <Coords points="777.0,324.0 2270,324.0 2270,384 777.0,384"/>
+                    <TextEquiv>
+                        <Unicode> aud Pourrent Le Cinquieme</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode> aud Pourrent Le Cinquieme</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" custom="readingOrder {index:4;}">
+                <Coords points="769,391 2335,391 2335,476 769,476"/>
+                <Baseline points="770,456 1239,437 2334,431"/>
+                <Word id="w_5" custom="readingOrder {index:4;}">
+                    <Coords points="770.0,392.0 2334,392.0 2334,475 770.0,475"/>
+                    <TextEquiv>
+                        <Unicode>jour du mois de decembre mil six cens</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>jour du mois de decembre mil six cens</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" custom="readingOrder {index:5;}">
+                <Coords points="791,469 2284,469 2284,572 791,572"/>
+                <Baseline points="792,552 1313,525 2283,509"/>
+                <Word id="w_6" custom="readingOrder {index:5;}">
+                    <Coords points="792.0,470.0 2283,470.0 2283,571 792.0,571"/>
+                    <TextEquiv>
+                        <Unicode>et huict Pts Petit jehan henselin de</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>et huict Pts Petit jehan henselin de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_7" custom="readingOrder {index:6;}">
+                <Coords points="800,542 2263,542 2263,653 800,653"/>
+                <Baseline points="801,633 1531,614 2262,582"/>
+                <Word id="w_7" custom="readingOrder {index:6;}">
+                    <Coords points="801.0,543.0 2262,543.0 2262,652 801.0,652"/>
+                    <TextEquiv>
+                        <Unicode> miecort et petit Jehan le mercier de</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode> miecort et petit Jehan le mercier de</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_8" custom="readingOrder {index:7;}">
+                <Coords points="787,620 2059,620 2059,748 787,748"/>
+                <Baseline points="788,728 1550,695 2058,660"/>
+                <Word id="w_8" custom="readingOrder {index:7;}">
+                    <Coords points="788.0,621.0 2058,621.0 2058,747 788.0,747"/>
+                    <TextEquiv>
+                        <Unicode>Chermoille tesmoings ad ce requis.</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Chermoille tesmoings ad ce requis.</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_9" custom="readingOrder {index:8;}">
+                <Coords points="1562,692 2332,692 2332,820 1562,820"/>
+                <Baseline points="1592,785 1825,758 2331,732"/>
+                <Word id="w_9" custom="readingOrder {index:8;}">
+                    <Coords points="1563.0,693.0 2331,693.0 2331,819 1563.0,819"/>
+                    <TextEquiv>
+                        <Unicode>Richard Thomas [paraphe]</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>Richard Thomas [paraphe]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" custom="readingOrder {index:9;}">
+                <Coords points="938,761 1024,761 1024,830 938,830"/>
+                <Baseline points="939,810 995,811 1023,801"/>
+                <Word id="w_10" custom="readingOrder {index:9;}">
+                    <Coords points="939.0,762.0 1023,762.0 1023,829 939.0,829"/>
+                    <TextEquiv>
+                        <Unicode>S ?</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>S ?</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_11" custom="readingOrder {index:10;}">
+                <Coords points="778,755 1375,755 1375,916 778,916"/>
+                <Baseline points="813,888 953,896 1261,887 1374,896"/>
+                <Word id="w_11" custom="readingOrder {index:10;}">
+                    <Coords points="779.0,756.0 1374,756.0 1374,915 779.0,915"/>
+                    <TextEquiv>
+                        <Unicode>JGigendet [paraphe]</Unicode>
+                    </TextEquiv>
+                </Word>
+                <TextEquiv>
+                    <Unicode>JGigendet [paraphe]</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>leur
+et requeste sans le prejudice de lui  ni des
+leurs
+ aud Pourrent Le Cinquieme
+jour du mois de decembre mil six cens
+et huict Pts Petit jehan henselin de
+ miecort et petit Jehan le mercier de
+Chermoille tesmoings ad ce requis.
+Richard Thomas [paraphe]
+S ?
+JGigendet [paraphe]</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
