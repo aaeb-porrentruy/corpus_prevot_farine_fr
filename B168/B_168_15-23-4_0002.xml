@@ -591,16 +591,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="109"
-                   VPOS="121"
-                   WIDTH="513"
-                   HEIGHT="2549"
-                   ID="eSc_textblock_e0b71775"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="622 2670 622 121 109 121 109 2670"/></Shape>
-          
-        </TextBlock>
-        
 
         
         <TextBlock ID="eSc_dummyblock_">

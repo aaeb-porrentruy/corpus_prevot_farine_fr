@@ -669,36 +669,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="27"
-                   VPOS="784"
-                   WIDTH="15"
-                   HEIGHT="150"
-                   ID="r1"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="27 784 27 934 42 934 42 784"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="24"
-                   VPOS="584"
-                   WIDTH="29"
-                   HEIGHT="153"
-                   ID="r2"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="24 584 24 737 53 737 53 584"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="32"
-                   VPOS="0"
-                   WIDTH="78"
-                   HEIGHT="470"
-                   ID="r3"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="32 0 32 470 110 470 110 0"/></Shape>
-          
-        </TextBlock>
-        
 
         
       </PrintSpace>

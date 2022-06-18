@@ -20,135 +20,6 @@
                   WIDTH="2754"
                   HEIGHT="3743">
         
-        <TextBlock HPOS="218"
-                   VPOS="216"
-                   WIDTH="564"
-                   HEIGHT="431"
-                   ID="r3"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="218 216 218 647 782 647 782 216"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_a599a2a4"
-                    
-                    BASELINE="221 268 690 246" 
-                    HPOS="212"
-                    VPOS="171"
-                    WIDTH="478"
-                    HEIGHT="122">
-            <Shape><Polygon POINTS="221 268 212 212 490 202 605 171 608 171 608 171 612 171 612 171 612 171 615 171 686 196 690 246 690 258 221 293"/></Shape>
-	    <String CONTENT="Marguerite fille"
-                    HPOS="212"
-                    VPOS="171"
-                    WIDTH="478"
-                    HEIGHT="122"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_1eb580e8"
-                    
-                    BASELINE="237 327 733 302" 
-                    HPOS="227"
-                    VPOS="237"
-                    WIDTH="506"
-                    HEIGHT="106">
-            <Shape><Polygon POINTS="237 327 227 277 724 237 733 302 730 315 237 343"/></Shape>
-	    <String CONTENT="Anthoine musat de"
-                    HPOS="227"
-                    VPOS="237"
-                    WIDTH="506"
-                    HEIGHT="106"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_b6d1dbc4"
-                    
-                    BASELINE="224 389 658 368" 
-                    HPOS="215"
-                    VPOS="315"
-                    WIDTH="443"
-                    HEIGHT="87">
-            <Shape><Polygon POINTS="224 389 215 336 649 315 658 368 658 380 599 399 596 399 596 399 596 399 224 402"/></Shape>
-	    <String CONTENT="La Rouge terre"
-                    HPOS="215"
-                    VPOS="315"
-                    WIDTH="443"
-                    HEIGHT="87"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_879fa0c8"
-                    
-                    BASELINE="215 455 761 442" 
-                    HPOS="202"
-                    VPOS="368"
-                    WIDTH="559"
-                    HEIGHT="106">
-            <Shape><Polygon POINTS="215 455 202 399 234 383 234 383 234 383 237 383 237 383 237 383 240 383 240 383 318 396 334 399 340 396 359 380 359 377 359 377 362 377 362 377 365 377 365 377 365 377 368 377 368 377 371 377 434 396 440 396 443 393 471 371 471 371 474 371 474 371 477 371 477 371 477 371 480 371 480 371 480 371 483 371 546 393 549 393 552 393 612 368 612 368 615 368 615 368 615 368 618 368 618 368 755 389 761 442 761 452 215 474"/></Shape>
-	    <String CONTENT="La chambeliere velt"
-                    HPOS="202"
-                    VPOS="368"
-                    WIDTH="559"
-                    HEIGHT="106"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_22fd7578"
-                    
-                    BASELINE="237 517 387 505" 
-                    HPOS="227"
-                    VPOS="452"
-                    WIDTH="160"
-                    HEIGHT="78">
-            <Shape><Polygon POINTS="237 517 227 467 377 452 387 505 387 514 237 530"/></Shape>
-	    <String CONTENT="Riter"
-                    HPOS="227"
-                    VPOS="452"
-                    WIDTH="160"
-                    HEIGHT="78"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_19b1068a"
-                    
-                    BASELINE="212 580 789 561" 
-                    HPOS="209"
-                    VPOS="486"
-                    WIDTH="580"
-                    HEIGHT="128">
-            <Shape><Polygon POINTS="212 580 209 502 268 517 377 495 387 495 387 495 387 495 390 495 390 495 396 495 480 511 505 492 508 492 508 492 508 492 508 492 512 492 512 492 512 492 515 492 515 492 518 492 518 492 518 492 558 508 602 489 605 489 605 489 608 489 608 489 608 489 612 489 612 489 615 489 618 489 668 502 780 486 789 561 789 595 256 595 215 614"/></Shape>
-	    <String CONTENT="Claudine Claudine de Froide-"
-                    HPOS="209"
-                    VPOS="486"
-                    WIDTH="580"
-                    HEIGHT="128"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_3a0cefa1"
-                    
-                    BASELINE="246 630 421 636" 
-                    HPOS="240"
-                    VPOS="570"
-                    WIDTH="181"
-                    HEIGHT="153">
-            <Shape><Polygon POINTS="246 630 243 580 415 570 421 636 421 698 355 723 355 723 352 723 352 723 349 723 240 720"/></Shape>
-	    <String CONTENT="vaux"
-                    HPOS="240"
-                    VPOS="570"
-                    WIDTH="181"
-                    HEIGHT="153"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="761"
                    VPOS="199"
                    WIDTH="1687"
@@ -771,27 +642,130 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="910"
-                   VPOS="1192"
-                   WIDTH="0"
-                   HEIGHT="0"
-                   ID="r1"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="910 1192 910 1192 910 1192 910 1192"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="807"
-                   VPOS="1222"
-                   WIDTH="0"
-                   HEIGHT="4"
-                   ID="r2"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="807 1222 807 1226 807 1226 807 1222"/></Shape>
-          
-        </TextBlock>
-        
 
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_a599a2a4"
+                    
+                    BASELINE="221 268 690 246" 
+                    HPOS="212"
+                    VPOS="171"
+                    WIDTH="478"
+                    HEIGHT="122">
+            <Shape><Polygon POINTS="221 268 212 212 490 202 605 171 608 171 608 171 612 171 612 171 612 171 615 171 686 196 690 246 690 258 221 293"/></Shape>
+	    <String CONTENT="Marguerite fille"
+                    HPOS="212"
+                    VPOS="171"
+                    WIDTH="478"
+                    HEIGHT="122"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1eb580e8"
+                    
+                    BASELINE="237 327 733 302" 
+                    HPOS="227"
+                    VPOS="237"
+                    WIDTH="506"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="237 327 227 277 724 237 733 302 730 315 237 343"/></Shape>
+	    <String CONTENT="Anthoine musat de"
+                    HPOS="227"
+                    VPOS="237"
+                    WIDTH="506"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6d1dbc4"
+                    
+                    BASELINE="224 389 658 368" 
+                    HPOS="215"
+                    VPOS="315"
+                    WIDTH="443"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="224 389 215 336 649 315 658 368 658 380 599 399 596 399 596 399 596 399 224 402"/></Shape>
+	    <String CONTENT="La Rouge terre"
+                    HPOS="215"
+                    VPOS="315"
+                    WIDTH="443"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_879fa0c8"
+                    
+                    BASELINE="215 455 761 442" 
+                    HPOS="202"
+                    VPOS="368"
+                    WIDTH="559"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="215 455 202 399 234 383 234 383 234 383 237 383 237 383 237 383 240 383 240 383 318 396 334 399 340 396 359 380 359 377 359 377 362 377 362 377 365 377 365 377 365 377 368 377 368 377 371 377 434 396 440 396 443 393 471 371 471 371 474 371 474 371 477 371 477 371 477 371 480 371 480 371 480 371 483 371 546 393 549 393 552 393 612 368 612 368 615 368 615 368 615 368 618 368 618 368 755 389 761 442 761 452 215 474"/></Shape>
+	    <String CONTENT="La chambeliere velt"
+                    HPOS="202"
+                    VPOS="368"
+                    WIDTH="559"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_22fd7578"
+                    
+                    BASELINE="237 517 387 505" 
+                    HPOS="227"
+                    VPOS="452"
+                    WIDTH="160"
+                    HEIGHT="78">
+            <Shape><Polygon POINTS="237 517 227 467 377 452 387 505 387 514 237 530"/></Shape>
+	    <String CONTENT="Riter"
+                    HPOS="227"
+                    VPOS="452"
+                    WIDTH="160"
+                    HEIGHT="78"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_19b1068a"
+                    
+                    BASELINE="212 580 789 561" 
+                    HPOS="209"
+                    VPOS="486"
+                    WIDTH="580"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="212 580 209 502 268 517 377 495 387 495 387 495 387 495 390 495 390 495 396 495 480 511 505 492 508 492 508 492 508 492 508 492 512 492 512 492 512 492 515 492 515 492 518 492 518 492 518 492 558 508 602 489 605 489 605 489 608 489 608 489 608 489 612 489 612 489 615 489 618 489 668 502 780 486 789 561 789 595 256 595 215 614"/></Shape>
+	    <String CONTENT="Claudine Claudine de Froide-"
+                    HPOS="209"
+                    VPOS="486"
+                    WIDTH="580"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a0cefa1"
+                    
+                    BASELINE="246 630 421 636" 
+                    HPOS="240"
+                    VPOS="570"
+                    WIDTH="181"
+                    HEIGHT="153">
+            <Shape><Polygon POINTS="246 630 243 580 415 570 421 636 421 698 355 723 355 723 352 723 352 723 349 723 240 720"/></Shape>
+	    <String CONTENT="vaux"
+                    HPOS="240"
+                    VPOS="570"
+                    WIDTH="181"
+                    HEIGHT="153"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
       </PrintSpace>
     </Page>

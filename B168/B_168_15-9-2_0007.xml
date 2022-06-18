@@ -20,33 +20,6 @@
                   WIDTH="2754"
                   HEIGHT="3743">
         
-        <TextBlock HPOS="270"
-                   VPOS="572"
-                   WIDTH="66"
-                   HEIGHT="150"
-                   ID="r2"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="270 572 270 722 336 722 336 572"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_a63ef594"
-                    
-                    BASELINE="277 668 309 677 331 675" 
-                    HPOS="268"
-                    VPOS="580"
-                    WIDTH="66"
-                    HEIGHT="115">
-            <Shape><Polygon POINTS="274 667 287 580 334 586 330 673 324 695 268 692"/></Shape>
-	    <String CONTENT="7"
-                    HPOS="268"
-                    VPOS="580"
-                    WIDTH="66"
-                    HEIGHT="115"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="722"
                    VPOS="179"
                    WIDTH="1774"
@@ -584,17 +557,28 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="48"
-                   VPOS="3515"
-                   WIDTH="30"
-                   HEIGHT="153"
-                   ID="r1"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="48 3515 48 3668 78 3668 78 3515"/></Shape>
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_a63ef594"
+                    
+                    BASELINE="277 668 309 677 331 675" 
+                    HPOS="268"
+                    VPOS="580"
+                    WIDTH="66"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="274 667 287 580 334 586 330 673 324 695 268 692"/></Shape>
+	    <String CONTENT="7"
+                    HPOS="268"
+                    VPOS="580"
+                    WIDTH="66"
+                    HEIGHT="115"></String>
+          </TextLine>
+
           
         </TextBlock>
-        
-
         
       </PrintSpace>
     </Page>

@@ -26,7 +26,7 @@
                    HEIGHT="3428"
                    ID="r2"
                    TAGREFS="BT">
-          <Shape><Polygon POINTS="495 189 495 3617 2556 3617 2556 189"/></Shape>
+          <Shape><Polygon POINTS="497 189 495 3617 2556 3617 2556 189"/></Shape>
           
           
           <TextLine ID="eSc_line_12b049f1"
@@ -673,16 +673,6 @@
                     HEIGHT="125"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="519"
-                   VPOS="1025"
-                   WIDTH="63"
-                   HEIGHT="153"
-                   ID="r1"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="519 1025 519 1178 582 1178 582 1025"/></Shape>
           
         </TextBlock>
         

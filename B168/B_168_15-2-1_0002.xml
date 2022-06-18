@@ -372,27 +372,6 @@
         
 
         
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_b91b6397"
-                    
-                    BASELINE="2423 3843 2443 3839" 
-                    HPOS="2399"
-                    VPOS="3743"
-                    WIDTH="47"
-                    HEIGHT="120">
-            <Shape><Polygon POINTS="2423 3843 2399 3753 2419 3743 2443 3839 2446 3856 2426 3863"/></Shape>
-	    <String CONTENT=""
-                    HPOS="2399"
-                    VPOS="3743"
-                    WIDTH="47"
-                    HEIGHT="120"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
       </PrintSpace>
     </Page>
   </Layout>
