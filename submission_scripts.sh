@@ -11,5 +11,6 @@ source ~/kraken-env/bin/activate
 OUTPUT_NAME="output_name"
 XML_FOLDER="/home/users/g/paupeel1/corpus_prevot_farine_fr/B168"
 
+echo $SLURM_NODELIST
 echo "KETOS training"
 srun ketos train -o $OUTPUT_NAME -f alto -t train.txt -e eval.txt -d cuda "${XML_FOLDER}/*.xml"
