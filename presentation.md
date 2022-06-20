@@ -1,3 +1,11 @@
+---
+marp: true
+theme: default
+paginate: true
+_paginate: false
+header: '![width:300px](images/logo_aaeb.jpg)'
+footer: '![width:10px](images/Jurafondblanc.png) 23 juin 2022 '
+---
 # Htériser une cursive du 17e siècle
 
 Élodie Paupe, Université de Neuchâtel – elodie.paupe@unine.ch
@@ -88,7 +96,7 @@ AAEB B 168/15-23.3 p. 2           |AAEB B 168/15-23.3 p. 1
 
 ---
 ## iv. Intérêt du corpus
-* Histoire, sociohistoire, _gender studies_: grand intérêt pour la question de la chasse au sorcière
+* Histoire, sociohistoire, _gender studies_: grand intérêt pour la question de la chasse aux sorcières
 * Histoire du droit: procédures criminelles
 * Philologie: documents en langue d'oïl dans une région frontière (au sud, le franco-provençal; à l'est, les langues germaniques)
 ---
@@ -122,7 +130,7 @@ AAEB_v4    |8'800 mots        |Charter Scripts XIII-XV_M1   |100      |5.69%
 ---
 ### Résultat avec le modèle AAEB_v4
 
-![bg left:45% w:500](B_168_15-10_2_03_bis.jpeg)
+![bg left:45% w:500](images/B_168_15-10_2_03_bis.jpeg)
 
 de mesme quicelui lui donnat **ung** du 
 poulsat quest dedans du pappier aupres 
@@ -144,7 +152,7 @@ AAEB_ab_v1    |8'800 mots        |Charter Scripts XIII-XV_M1   |100      |4,68%
 ---
 ### Résultat avec le modèle AAEB_ab_v1
 
-![bg left:45% w:500](B_168_15-10_2_03_bis.jpeg)
+![bg left:45% w:500](images/B_168_15-10_2_03_bis.jpeg)
 
 de mesme quicelui lui donnat **ung** du 
 poulsat quest dedans du pappier aupres 
