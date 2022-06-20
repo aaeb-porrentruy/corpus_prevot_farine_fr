@@ -1,17 +1,7 @@
----
-marp: true
-theme: default
-paginate: true
-_paginate: false
-header: '![width:300px](images/logo_aaeb.jpg)'
-footer: '![width:10px](images/Jurafondblanc.png) 23 juin 2022 '
----
 # Htériser une cursive du 17e siècle
 
 Élodie Paupe, Université de Neuchâtel – elodie.paupe@unine.ch
 Chargée de projet auprès des AAEB (Jura, Suisse)
-![width:100px](images/unine_logo_couleur.png)
-
 
 ---
 ### Plan de la présentation
@@ -98,8 +88,9 @@ AAEB B 168/15-23.3 p. 2           |AAEB B 168/15-23.3 p. 1
 
 ---
 ## iv. Intérêt du corpus
-* 
-
+* Histoire, sociohistoire, _gender studies_: grand intérêt pour la question de la chasse au sorcière
+* Histoire du droit: procédures criminelles
+* Philologie: documents en langue d'oïl dans une région frontière (au sud, le franco-provençal; à l'est, les langues germaniques)
 ---
 # Retour d'expérience sur l'entraînement de modèles HTR
 
@@ -166,7 +157,7 @@ fait a mourir les bestes suigvantes
 B168/15-10.2, p. 3.
 
 ---
-![bg w:900](../../../kDrive/AAEB_Proc%C3%A9duresCriminelles/Colloque%3Aarticle/Zurich/images/B_168_15-10_2_01.jpg)
+![bg w:900](images/B_168_15-10_2_01_découpe.jpg)
 
 ---
 AAEB_ab_v1                                          |AAEB_v4
@@ -181,6 +172,23 @@ A estee tiree en prison Sur precedentes             |A estee tiree en prison. Su
 **ce jourdhi** matin. Laquelle na                   |**ceourdhoi** matin. Laquelle na
 rien volsus cougnoistre                             |rien volsus congnoistre.
 
+---
+### Modèle testé sur des mains proches
+
+![bg right:40% w:450](images/B_168-17-1-2_0001.jpg)
+* Main de Nicolas Farine (1612)
+
+WER     |CER    |Word Acc   |Char Acc
+---     |---    |---        |---
+68.02%  |29.81% |20.87%     |60.31%
+
+---
+![bg right:40% w:450](images/B_168-17-1-2_0002.jpg)
+* Main du Dr Faibvre (1612)
+
+WER     |CER    |Word Acc   |Char Acc
+---     |---    |---        |---
+85.92%  |44.29% |8.15%      |42.87%
 
 ---
 ## FoNDUE 
@@ -206,15 +214,33 @@ AAEB_bin_v1    |8'800 mots        |75,1%
 
 ---
 ### ii. Modification de l'architecture d'apprentissage
+Un second modèle a été entraîné avec une architecture transformée: 
 
+```
+-r 0.0001 -s '[1,0,0,3 Cr3,3,16 Mp3,3 Lfys64 Lbx128 Lbx256 Do]'
+```
+`-r` modifie le taux d'apprentissage (valeur par défaut: 0.001)
+`-s` modifie l'architecture des réseaux de neurones (par défaut:  [1,48,0,1 Cr3,3,32 Do0.1,2 Mp2,2 Cr3,3,64 Do0.1,2 Mp2,2 S1(1x12)1,3 Lbx100 Do])
 
 
 ---
 # Conclusions
 
 ---
-* FoNDUE : 
-* Transkribus : 
+* Transkribus
+    * Modèle développé sur la main du prévôt Farine satisfaisant
+    * Résultats sur d'autres mains, même proches, insatisfaisants
+* FoNDUE
+    * ??
+    * ??
+
+---
+Prochaines étapes: 
+* créer de la vérité de terrain pour quelques mains bien représentées dans les fonds ⇨ créer des modèles spécifiques
+* à partir de ces données ⇨ créer un modèle générique 
+* tester d'autres architectures pour améliorer le score
+* publier les transcriptions et les numérisations 
+
 
 ---
 ## Merci de votre attention !
