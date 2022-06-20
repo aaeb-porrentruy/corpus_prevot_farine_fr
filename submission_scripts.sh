@@ -1,4 +1,4 @@
-!/bin/env bash
+#!/bin/env bash
 #SBATCH --partition=public-gpu
 #SBATCH --time=2-00:00:00
 #SBATCH --gpus=1
