@@ -2,6 +2,7 @@
 *.ipynb
 *.rtf
 *.zip
+*.pdf
 _alto/
 _page/
 _page_abrev/
