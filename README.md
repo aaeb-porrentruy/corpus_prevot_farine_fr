@@ -38,7 +38,7 @@ Il s'agit de procès de sorcellerie écrit en français (lange d'oïl) dans une 
 * quelques traits sont communs avec la _Kurrentschift_ germanique (<r> minuscule ou diacritique occasionnel sur le <u/v>)
 
 ![w:1000](images/B_168_15-10-3_0001_perpetrez.jpg)
-En rouge, <r> minuscule ("perpetrez"; "Par"); en vert, signe diacritique sur <u/v> (nom de famille "fouvent") ; en jaune, différents \<s>; en violet, abréviations "par" et "present". AAEB B 168/15-10.3 p. 1
+En rouge, \<r> minuscule ("perpetrez"; "Par"); en vert, signe diacritique sur <u/v> (nom de famille "fouvent") ; en jaune, différents \<s>; en violet, abréviations "par" et "present". AAEB B 168/15-10.3 p. 1
 
 ## Modalités de transcription
 Compte tenu des objectifs du projet, la transcription n’est pas allographétique : 
@@ -46,7 +46,7 @@ Compte tenu des objectifs du projet, la transcription n’est pas allographétiq
 * les majuscules se divisent en deux groupes:
     * celles qui ont une morphologie distincte de la lettre minuscule ne posent pas de problème (B, E, P, Q, R, S, T...).
     * celles qui ne se distinguent des minuscules que par la taille (A, C, D, G, V...) et sont donc difficiles à différencier. 
-* Les <i/j> sont identiques et systématiquement sous forme majuscule au début d’un mot. 
+* Les <i/j> sont identiques et rendus systématiquement sous forme majuscule au début d’un mot. 
 * On peut également noter qu’il manque souvent un jambage au groupe "mm", comme dans le nom de famille Hämmerlin.
 
 "Hämmerlin" avec six jambages     |"Hämmerlin" avec cinq jambages
@@ -55,7 +55,7 @@ Compte tenu des objectifs du projet, la transcription n’est pas allographétiq
 AAEB B 168/15-23.3 p. 2           |AAEB B 168/15-23.3 p. 1
 
 * Les abréviations sont toutes développées. 
-* Les césures et apostrophes sont rendus d'après l'original.
+* Les césures et apostrophes sont rendues d'après l'original.
 
 ## Citer le dépôt
 

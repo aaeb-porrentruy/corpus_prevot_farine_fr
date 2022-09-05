@@ -7,9 +7,13 @@ header: '![width:300px](images/logo_aaeb.jpg)'
 footer: '23 juin 2022 '
 ---
 # Htériser une cursive du 17e siècle
+> _Documents anciens et reconnaissance automatique des écritures manuscrites_
+_23 juin 2022_
 
 Élodie Paupe, Université de Neuchâtel – elodie.paupe@unine.ch
 Chargée de projet auprès des AAEB (Jura, Suisse)
+
+
 
 ---
 ### Plan de la présentation
@@ -130,8 +134,9 @@ AAEB_v2    |8'800 mots        |11%
 
 Modèle     |Nombre de mots    |Modèle de base               |Epochs   |CER (set de validation)
 ---        |---               |---                          |---      |---
-AAEB_v4    |8'800 mots        |Charter Scripts XIII-XV_M1   |100      |5.69%
+AAEB_v4    |8'800 mots        |Charter Scripts XIII-XV_M1*   |100      |5.69%
 
+*Modèle public développé par Tobias Hodel
 
 ---
 ### Résultat avec le modèle AAEB_v4
@@ -290,6 +295,7 @@ Avec les documents en allemand:
 
 ---
 ![w:1000](images/B_168-15-8-4_0013_comparaison.png)
+Modèle public développé par Tobias Hodel German Kurrent XVIth-XVIIIth
 
 ---
 ## Merci de votre attention !
